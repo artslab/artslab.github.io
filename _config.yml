@@ -18,8 +18,11 @@ comments: true
 
 name: 'serEga'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  Блог для тех, кто интересуется разработкой сайтов, 
+  веб-дизайном и новыми событиями в интернете. В моем блоге Вы найдете 
+  записи на различные околокомпьютерные темы, обзоры сервисов и 
+  новинок, статьи по кодингу, советы, скрипты, темы и хаки 
+  для wordpress, уроки phostohop и многое другое.
 author_image: "/assets/images/author.jpg"
 twitter_username: artslab
 github_username:  4gray
