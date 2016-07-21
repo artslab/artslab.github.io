@@ -1,0 +1,227 @@
+<p>Сегодня небольшой пост с примером, в котором мы создадим фиксированное навигационное меню, которое будет появляться в шапке сайта при прокрутке страницы вниз. Демо доступно для просмотра в песочнице на <a href="http://codepen.io/4gray/full/hrIan" target="_blank">Codepen</a>, там же можно и поэкспериментировать с кодом.</p>
+
+<center>
+  <a href="http://img.artslab.info/fiksirovanoe_menu.jpg"><img src="http://img.artslab.info/fiksirovanoe_menu-300x269.jpg" alt="fiksirovanoe_menu" class="aligncenter size-medium wp-image-7376" srcset="http://img.artslab.info/fiksirovanoe_menu-300x269.jpg 300w, http://img.artslab.info/fiksirovanoe_menu.jpg 833w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<!--more-->
+
+<ol>
+  <li>Для начала создадим простенькую структуру странички. Разместим здесь наше меню, заголовок/название сайта и добавим немного контента в виде Lorem ipsum’а для возможности прокрутки.</li>
+</ol>
+
+<p><strong>Код:</strong></p>
+
+<p>[html]</p>
+
+<ul id="menu">
+    
+<li><a href="#">HOME</a></li>
+	  
+<li><a href="#">FAQ</a></li>
+	  
+<li><a href="#">ABOUT</a></li>
+	  
+<li><a href="#">CONTACT</a></li>
+	  
+<li><a href="#">RSS</a></li>
+  
+</ul>
+
+<h2>Заголовок сайта</h2>
+
+<div id="content">
+	  
+<h3>Прокрути страницу вниз</h3>
+	  
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	  
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	  
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	  
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	  
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	  
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	  
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	  
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	  
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	  
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	  
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	  
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<img src="http://placeimg.com/500/500/tech" />
+
+&#8230;
+  
+</div>
+
+<p>[/html]</p>
+
+<ol>
+  <li>Создадим несколько CSS-классов для чтобы приукрасить страницу и выделить наше меню.</li>
+</ol>
+
+<p><strong>Код:</strong></p>
+
+<p>[css]</p>
+
+<p>body {</p>
+
+<p>padding:0;</p>
+
+<p>margin:0;</p>
+
+<p>font: 14px Helvetica;</p>
+
+<p>}</p>
+
+<p>#content {</p>
+
+<p>width:500px;</p>
+
+<p>margin: 0 auto;</p>
+
+<p>}</p>
+
+<p>a {</p>
+
+<p>color: #5366e1;</p>
+
+<p>text-decoration: none;</p>
+
+<p>}</p>
+
+<p>a:hover {</p>
+
+<p>color: #6189e1;</p>
+
+<p>}</p>
+
+<p>#menu {</p>
+
+<p>padding: 20px 0;</p>
+
+<p>text-align: center;</p>
+
+<p>margin: 0;</p>
+
+<p>width: 100%;</p>
+
+<p>}</p>
+
+<p>#menu ul {</p>
+
+<p>padding: 0;</p>
+
+<p>margin:0;</p>
+
+<p>}</p>
+
+<p>#menu li {</p>
+
+<p>display: inline;</p>
+
+<p>list-style: none;</p>
+
+<p>padding: 10px;</p>
+
+<p>}</p>
+
+<p>h2 {</p>
+
+<p>font-size: 24px;</p>
+
+<p>color: #333;</p>
+
+<p>text-align: center;</p>
+
+<p>margin: 0;</p>
+
+<p>padding: 25px;</p>
+
+<p>background: #ccc;</p>
+
+<p>}</p>
+
+<p>.fixed a {</p>
+
+<p>color: #fff;</p>
+
+<p>text-decoration: none;</p>
+
+<p>}</p>
+
+<p>.fixed li:hover {</p>
+
+<p>background: #666;</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<p>И самое главном добавим класс fixed, который будет добавлять к нашему меню в js-файле при прокрутке страницы вниз и, соответственно, удаляться при обратной прокрутке в самый верх.</p>
+
+<p><strong>Код:</strong></p>
+
+<p>[css]</p>
+
+<p>.fixed {</p>
+
+<p>position: fixed;</p>
+
+<p>z-index: 10;</p>
+
+<p>background: #444;</p>
+
+<p>top: 0;</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<ol>
+  <li>Теперь займемся частью с javascript кодом, в которой мы будем показывать и скрывать наше меню, используя для этого созданный нами класс fixed.</li>
+</ol>
+
+<p><strong>Код:</strong></p>
+
+<p>[js]</p>
+
+<p>$(function () {</p>
+
+<p>$(window).scroll(function(event) {</p>
+
+<p>if($(this).scrollTop() &gt; 150) {</p>
+
+<p>$(“#menu”).fadeIn();</p>
+
+<p>$(“#menu”).addClass(‘fixed’)</p>
+
+<p>}</p>
+
+<p>else {</p>
+
+<p>$(“#menu”).removeClass(‘fixed’)</p>
+
+<p>}</p>
+
+<p>});</p>
+
+<p>});</p>
+
+<p>[/js]</p>
+
+<p><strong>$(this).scrollTop() &gt; 150</strong> – обозначает, что наше меню будет появляться после того, как пользователь прокрутит страницу на более чем 150 пикселей вниз.</p>
+
+<p>С помощью jQuery-функций addClass() мы добавляем необходимый класс к элементу с меню и removeClass(), соответственно, удаляет класс.</p>
+
+<p>Пример можно посмотреть на <a href="http://codepen.io/4gray/full/hrIan" target="_blank">Codepen</a>, там же можно и поэкспериментировать с кодом.</p>

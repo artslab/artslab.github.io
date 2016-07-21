@@ -1,0 +1,57 @@
+<p>Продолжу делиться полезными сниппетами для WordPress. Данный код позволит Вам добавить любую ссылку в верхнюю навигационную панель WP, видимую только для администратора блога. Код необходимо добавить в файл темы functions.php.</p>
+
+<p>Например, я добавил на панель ссылку для быстрой очистки кэша, которая была запрятано далеко в настройках плагина.</p>
+
+<center>
+  <a href="http://img.artslab.info/dabavit_ssilku_v_navbar.png"><img src="http://img.artslab.info/dabavit_ssilku_v_navbar-300x47.png" alt="добавить ссылку в NavBar WP" class="aligncenter size-medium wp-image-7509" srcset="http://img.artslab.info/dabavit_ssilku_v_navbar-300x47.png 300w, http://img.artslab.info/dabavit_ssilku_v_navbar.png 789w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<!--more-->
+
+<h3 id="section">Код функций:</h3>
+
+<p>[php]</p>
+
+<p>function add_blog_menu()</p>
+
+<p>{</p>
+
+<p>global $wp_admin_bar;</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>if (!is_super_admin()</td>
+      <td> </td>
+      <td>!is_admin_bar_showing())</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>return;</p>
+
+<p>if (is_admin())</p>
+
+<p>{</p>
+
+<p>$wp_admin_bar-&gt;add_menu(array(</p>
+
+<p>‘id’ =&gt; ‘blog’,</p>
+
+<p>‘title’ =&gt; ‘Заголовок ссылки’, //текст ссылки</p>
+
+<p>‘href’ =&gt; site_url() . ‘/url’ //ссылка</p>
+
+<p>)</p>
+
+<p>);</p>
+
+<p>}</p>
+
+<p>}</p>
+
+<p>add_action(‘wp_before_admin_bar_render’, ‘add_blog_menu’);</p>
+
+<p>[/php]</p>
+
+<p>(<a href="http://validwebs.com/423/add-blog-link-to-admin-nav/" target="_blank">via</a>)</p>

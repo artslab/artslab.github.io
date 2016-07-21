@@ -1,0 +1,15 @@
+<center>
+  <a href="http://artslab.info/wp-content/uploads/png_fix_for_internet_explorer.jpg"><img src="http://artslab.info/wp-content/uploads/png_fix_for_internet_explorer.jpg" alt="" title="png_fix_for_internet_explorer" width="292" height="273" class="alignnone size-full wp-image-832" /></a>
+</center>
+
+<p>Всем нам известно что наш <em>“любимый”</em> Internet Explorer 5 и 6 (до 7 версий) не поддерживает прозрачность формата PNG и что с этим как-то нужно бороться. Так как бывают случаи, когда gif со своими 256 цветами просто не подходит. Ранее я уже публиковал на сайте <a href="http://artslab.info/?p=58#comments" target="_blank">один фикс</a>, который решает эту проблему, но он был не совсем идеален. Например, не отображалась прозрачность со свойством background-image.</p>
+
+<p>Поэтому я предлагаю воспользоваться другим, новым фиксом от <a href="http://labs.unitinteractive.com/index.php">Unit Interactive Labs</a>, размер которого занимает менее 2 kb.</p>
+
+<p>Установка данного решения довольно таки проста, нужно всего лишь <a href="http://labs.unitinteractive.com/unitpngfix.php" target="_blank">скачать</a> сам js-фикс, загрузить его к себе на сервер и прописать его в header на нужных страничках:</p>
+
+<pre lang="html">&lt;!--[if lt IE 7]&gt;
+&lt;script type="text/javascript" src="unitpngfix.js"&gt;&lt;/script&gt;
+&lt;![endif]--&gt;</pre>
+
+<p>Источник: <a href="http://stylizedweb.com/2008/07/27/a-brand-new-png-fix-for-ie6/" target="_blank">StylizedWeb.com</a></p>

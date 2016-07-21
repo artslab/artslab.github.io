@@ -1,0 +1,189 @@
+<p>В добавку к <a href="http://artslab.info/snippety/sozdaem-fiksirovannoe-navigacionnoe-menyu-otobrazhaemoe-pri-prokrutke-stranicy/" title="Создаем фиксированное навигационное меню, отображаемое при прокрутке страницы">прошлой записи</a>, еще один небольшой пример с простой адаптивной менюшкой. Будем использовать CSS Media Query + jQuery. Демо с кодом, как всегда на <a href="http://codepen.io/4gray/pen/FEujv" target="_blank">Codepen</a>, в продолжений поста более подробное, пошаговое описание.</p>
+
+<center>
+  <a href="http://img.artslab.info/adaptivnoe_menu_css.jpg"><img src="http://img.artslab.info/adaptivnoe_menu_css-300x195.jpg" alt="адаптивное меню" class="aligncenter size-medium wp-image-7400" srcset="http://img.artslab.info/adaptivnoe_menu_css-300x195.jpg 300w, http://img.artslab.info/adaptivnoe_menu_css-1024x668.jpg 1024w, http://img.artslab.info/adaptivnoe_menu_css.jpg 1199w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<!--more-->
+
+<ol>
+  <li>Создадим обычный Unordered List и для начала разместим в нем два div-контейнера. Первый для значка меню (три горизонтальные полоски, возьмем для этого символ Unicode – ☰). Иконка будет видна только на маленьких экранах.</li>
+</ol>
+
+<p>Во второй контейнер поместим все элементы/ссылки меню. У меня получился такой HTML-код:</p>
+
+<p>[html]</p>
+
+<ul id="menu">
+    
+<div class="icon">&#9776;</div>
+    
+<div class="items">
+      
+<li><a href="#">Главная</a></li>
+      
+<li><a href="#">Категорий</a></li>
+      
+<li><a href="#">О сайте</a></li>
+      
+<li><a href="#">Контакт</a></li>
+    
+</div>
+  
+</ul>
+
+<p>[/html]</p>
+
+<ol>
+  <li>Теперь займемся CSS. Для больших экранов скроем иконку меню (display:none в классе icon) и оставим только список с ссылками. В Media Query для класса icon, соответственно, пропишем display:block, для отображения иконки на маленьком экране.</li>
+</ol>
+
+<p>[css]</p>
+
+<ul>
+  <li>{</li>
+</ul>
+
+<p>padding:0;</p>
+
+<p>margin:0;</p>
+
+<p>font: 14px Helvetica, Arial;</p>
+
+<p>}</p>
+
+<p>#menu {</p>
+
+<p>background: #c0392b;</p>
+
+<p>width: 100%;</p>
+
+<p>padding: 20px 0;</p>
+
+<p>text-align: center;</p>
+
+<p>}</p>
+
+<p>#menu a {</p>
+
+<p>color: #fff;</p>
+
+<p>text-decoration: none;</p>
+
+<p>}</p>
+
+<p>#menu a:hover {</p>
+
+<p>color: #ccc;</p>
+
+<p>}</p>
+
+<p>#menu ul {</p>
+
+<p>padding:0;</p>
+
+<p>margin:0;</p>
+
+<p>}</p>
+
+<p>.items li {</p>
+
+<p>list-style: none;</p>
+
+<p>display:inline;</p>
+
+<p>padding-right: 15px;</p>
+
+<p>width:100%;</p>
+
+<p>margin: 0 auto;</p>
+
+<p>}</p>
+
+<p>.icon {</p>
+
+<p>color: #fff;</p>
+
+<p>cursor: pointer;</p>
+
+<p>display: none;</p>
+
+<p>font-size:24px;</p>
+
+<p>}</p>
+
+<p>.showitems {</p>
+
+<p>display:block !important;</p>
+
+<p>}</p>
+
+<p>@media screen and (max-width: 800px) {</p>
+
+<p>.icon {</p>
+
+<p>display:block;</p>
+
+<p>}</p>
+
+<p>.items {</p>
+
+<p>display:none;</p>
+
+<p>}</p>
+
+<p>.items li {</p>
+
+<p>display:table;</p>
+
+<p>padding:10px 0;</p>
+
+<p>}</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<center>
+  <a href="http://img.artslab.info/css_jquery_menu.jpg"><img src="http://img.artslab.info/css_jquery_menu-300x231.jpg" alt="создаем меню на css и jquery" class="aligncenter size-medium wp-image-7410" srcset="http://img.artslab.info/css_jquery_menu-300x231.jpg 300w, http://img.artslab.info/css_jquery_menu.jpg 660w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<ol>
+  <li>JS-часть будет отвечать за раскрытие списка меню при клике на иконку в уменьшенной/мобильной версий сайта. Для отображения/скрытия списка меню, мы будем использовать две функций addClass() и removeClass(), которые будут добавлять/удалять класс showitems в зависимости от значения селектора-псевдокласса is(‘:visible’).</li>
+</ol>
+
+<p>Код:</p>
+
+<p>[js]</p>
+
+<p>$(function() {</p>
+
+<p>$(‘.icon’).click(function() {</p>
+
+<p>if($(‘.items’).is(‘:visible’)) {</p>
+
+<p>$(‘.items’).removeClass(‘showitems’);</p>
+
+<p>}</p>
+
+<p>else {</p>
+
+<p>$(‘.items’).addClass(‘showitems’);</p>
+
+<p>}</p>
+
+<p>});</p>
+
+<p>});</p>
+
+<p>[/js]</p>
+
+<center>
+  <a href="http://img.artslab.info/CodePen_-_A_Pen_by_4gray-3.png"><img src="http://img.artslab.info/CodePen_-_A_Pen_by_4gray-3-300x300.png" alt="раскрытое меню" class="aligncenter size-medium wp-image-7403" srcset="http://img.artslab.info/CodePen_-_A_Pen_by_4gray-3-300x300.png 300w, http://img.artslab.info/CodePen_-_A_Pen_by_4gray-3-100x100.png 100w, http://img.artslab.info/CodePen_-_A_Pen_by_4gray-3.png 507w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<center>
+  <i>Раскрытое меню</i>
+</center>
+
+<p><a href="http://codepen.io/4gray/pen/FEujv" target="_blank">Демо с кодом</a></p>

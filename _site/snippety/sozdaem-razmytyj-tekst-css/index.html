@@ -1,0 +1,57 @@
+<p>Очередной CSS сниппет позволяющий создать размытый текст (blurry text). Добавим немного анимаций при наведении на текст для того чтобы размытый текст плавно переходил в четкую типографию.</p>
+
+<center>
+  <a href="http://img.artslab.info/razmitii_tekst.png"><img src="http://img.artslab.info/razmitii_tekst-300x64.png" alt="размытие текста на css" class="aligncenter size-medium wp-image-7860" srcset="http://img.artslab.info/razmitii_tekst-300x64.png 300w, http://img.artslab.info/razmitii_tekst.png 580w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<!--more-->
+
+<p>Код:</p>
+
+<p>[css title=”style.css”]</p>
+
+<p>h2 {</p>
+
+<p>color: transparent;</p>
+
+<p>text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);</p>
+
+<p>font-size: 62px;</p>
+
+<p>-webkit-transition: text-shadow 2.0 ease-out;</p>
+
+<p>-moz-transition: text-shadow 2.0 ease-out;</p>
+
+<p>-ms-transition: text-shadow 2.0 ease-out;</p>
+
+<p>-o-transition: text-shadow 2.0 ease-out;</p>
+
+<p>transition: text-shadow 2.0 ease-out;</p>
+
+<p>}</p>
+
+<p>h2:hover {</p>
+
+<p>text-shadow: 0 0 0 rgba(0, 0, 0, 1);</p>
+
+<p>-webkit-transition: text-shadow 0.5s;</p>
+
+<p>-moz-transition: text-shadow 0.5s;</p>
+
+<p>-ms-transition: text-shadow 0.5s;</p>
+
+<p>-o-transition: text-shadow 0.5s;</p>
+
+<p>transition: text-shadow 0.5s;</p>
+
+<p>cursor: default;</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<p>Демо:</p>
+
+<p data-height="268" data-theme-id="414" data-slug-hash="gBAsk" data-user="4gray" data-default-tab="result" class="codepen">
+  See the Pen <a href="http://codepen.io/4gray/pen/gBAsk">Blurry Text</a> by 4gray (<a href="http://codepen.io/4gray">@4gray</a>) on <a href="http://codepen.io">CodePen</a>
+</p>

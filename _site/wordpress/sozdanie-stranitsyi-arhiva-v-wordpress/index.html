@@ -1,0 +1,56 @@
+<p style="text-align: center;">
+  <a href="http://img.artslab.info/archiv.png"><img src="http://img.artslab.info/archiv-300x300.png" alt="архив новостей блога" title="archiv" width="300" height="300" class="aligncenter size-medium wp-image-4990" srcset="http://img.artslab.info/archiv-300x300.png 300w, http://img.artslab.info/archiv-100x100.png 100w, http://img.artslab.info/archiv-150x150.png 150w, http://img.artslab.info/archiv.png 713w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</p>
+
+<p>Небольшой мануал, подглянутый у <a href="http://stylizedweb.com/2008/03/08/wp-archive-page/" target="_blank">stylizedweb</a>, по тому, как создать страничку архива сайта в WordPress. С содержанием всех новостей и датой их публикаций, <a href="http://artslab.info/?page_id=350">пример</a>.<!--more--></p>
+
+<ol>
+  <li>
+    <p>Для начала нужно сделать копию файла <em>index.php</em> и переименовать её в <em>archives.php</em></p>
+  </li>
+  <li>
+    <p>Затем открываем <em>archives.php</em> и меняем главную часть кода (начинается так же) на это:</p>
+  </li>
+</ol>
+
+<p>`&lt;p style="text-align: center;"&gt;
+  <a href="http://img.artslab.info/archiv.png"><img src="http://img.artslab.info/archiv-300x300.png" alt="архив новостей блога" title="archiv" width="300" height="300" class="aligncenter size-medium wp-image-4990" srcset="http://img.artslab.info/archiv-300x300.png 300w, http://img.artslab.info/archiv-100x100.png 100w, http://img.artslab.info/archiv-150x150.png 150w, http://img.artslab.info/archiv.png 713w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+&lt;/p&gt;</p>
+
+<p>Небольшой мануал, подглянутый у <a href="http://stylizedweb.com/2008/03/08/wp-archive-page/" target="_blank">stylizedweb</a>, по тому, как создать страничку архива сайта в WordPress. С содержанием всех новостей и датой их публикаций, <a href="http://artslab.info/?page_id=350">пример</a>.<!--more--></p>
+
+<ol>
+  <li>
+    <p>Для начала нужно сделать копию файла <em>index.php</em> и переименовать её в <em>archives.php</em></p>
+  </li>
+  <li>
+    <p>Затем открываем <em>archives.php</em> и меняем главную часть кода (начинается так же) на это:</p>
+  </li>
+</ol>
+
+<p>`</p>
+
+<ol>
+  <li>Для того чтобы wordpress распознавал файл <em>archives.php</em> как шаблон, для создания страниц, добавляем в самый верх следующие строчки:</li>
+</ol>
+
+<p><code class="highlighter-rouge">&lt;br /&gt;
+&lt;?php&lt;br /&gt;
+/*&lt;br /&gt;
+Template Name: Archives page&lt;br /&gt;
+*/&lt;br /&gt;
+?&gt;</code></p>
+
+<ol>
+  <li>Создаем новую страницу “Архив” и в низу, в разделе “Шаблон страницы”, выбираем шаблон “Archives page”:</li>
+</ol>
+
+<p style="text-align: center;">
+  <img class="aligncenter" style="border: 0pt none ;" src="http://clip2net.com/clip/m6048/1214597801-clip-10kb.jpg" alt="создание страницы архива wordpress" width="299" height="134" />
+</p>
+
+<ol>
+  <li>Кликаем по <em>“Опубликовать”</em> и готово =)</li>
+</ol>
+
+<p>Источник: <a href="http://stylizedweb.com/2008/03/08/wp-archive-page/" target="_blank">stylizedweb</a></p>

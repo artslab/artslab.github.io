@@ -1,0 +1,47 @@
+<center>
+  <a href="http://artslab.info/wp-content/uploads/iphone_Desk_icon21.jpg"><img src="http://artslab.info/wp-content/uploads/iphone_Desk_icon21-200x300.jpg" alt="иконка сайта для iphone" title="iphone_Desk_icon2" width="200" height="300" class="alignnone size-medium wp-image-1823" srcset="http://img.artslab.info/iphone_Desk_icon21-200x300.jpg 200w, http://img.artslab.info/iphone_Desk_icon21.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" /></a> <a href="http://artslab.info/wp-content/uploads/iphone_Desk_icon1.jpg"><img src="http://artslab.info/wp-content/uploads/iphone_Desk_icon1-200x300.jpg" alt="как установить иконку на сайт для iphone" title="iphone_Desk_icon" width="200" height="300" class="alignnone size-medium wp-image-1822" /></a>
+</center>
+
+<p>Хоть в заголовке и присутствуют “яблочные” слова, но содержание поста будет наиболее <strong>важным</strong> не для владельцев данных девайсов, а <strong>для нас, вебмастеров</strong>. Сегодня мы займемся <strong>улучшением совместимости</strong> нашего сайта с iPhone/iPad и iPod.</p>
+
+<p>Дело в том что в браузере iPhone, присутствует функция “+ -&gt; Добавить “домой” “, которая добавляет иконку (с ссылкой на сайт) на домашний экран устройства. Эта самая иконка должна иметь название <strong>apple-touch-icon.png</strong> и путь к ней должен быть прописан, примерно так же, как и к favicon. Размер не имеет значения, я создал 60x60px. <em>Некоторые рекомендуют 120x120px, но главное чтобы выглядело красиво.</em></p>
+
+<center>
+  <a href="http://artslab.info/wp-content/uploads/apple-touch-icon.png"><img src="http://artslab.info/wp-content/uploads/apple-touch-icon.png" alt="иконка сайта для айфона" title="apple-touch-icon" width="60" height="60" class="alignnone size-full wp-image-1836" /></a>
+</center>
+
+<p>Прописывается иконка таким образом:</p>
+
+<p>[sourcecode language=”html”]</p>
+
+<link rel="apple-touch-icon" href="путь_к_иконке/apple-touch-icon.png" />
+
+<p>[/sourcecode]</p>
+
+<p><small>Если же иконка отсутствует, то на её месте будет отображаться стандартный пустой вариант.</small></p>
+
+<blockquote>
+  <p>Для тех кто пользуется WordPress рекомендую воспользоватся плагином <a href="http://artslab.info/2010/09/wptouch-mobilnaya-versiya-sayta/">WpTouch</a>, о нем я уже <a href="http://artslab.info/2010/09/wptouch-mobilnaya-versiya-sayta/">писал более подробно</a>. В настройках WpTouch есть отдельная возможность добавить иконку прямо <a href="http://artslab.info/wp-content/uploads/wptouch_add_icon.jpg">через админ-интерфейс движка</a>.</p>
+</blockquote>
+
+<p>И напоследок еще одна приятная мелочь, те кто заходил с айфона например на мобильную версию сайта vkontakte, наверняка видели такое <strong>всплывающее сообщение</strong>:</p>
+
+<center>
+  <a href="http://artslab.info/wp-content/uploads/vkontakte_add2home.jpg"><img src="http://artslab.info/wp-content/uploads/vkontakte_add2home-300x182.jpg" alt="мобильная версия сайта вконтакте" title="vkontakte_add2home" width="300" height="182" class="alignnone size-medium wp-image-1835" srcset="http://img.artslab.info/vkontakte_add2home-300x182.jpg 300w, http://img.artslab.info/vkontakte_add2home.jpg 430w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<p>Добавить к себе на сайт такое pop-up окно, можно с помощью скрипта <a href="http://cubiq.org/add-to-home-screen">Add To Home Screen</a>.</p>
+
+<p>Устанавливается очень просто, <a href="https://github.com/cubiq/add-to-homescreen/tarball/master">скачиваем файлы</a> и загружаем их к себе на сайт. Затем прописываем настройки скрипта и путь к файлам, на главной странице сайта, а именно перед тегом &lt;head/&gt;:</p>
+
+<p>[sourcecode language=”html”]</p>
+
+<link rel="stylesheet" href="path/to/add2home.css" />
+
+<p>[/sourcecode]</p>
+
+<center>
+  <a href="http://artslab.info/wp-content/uploads/add2home-screen2.jpg"><img src="http://artslab.info/wp-content/uploads/add2home-screen2-300x167.jpg" alt="add to home iphone popup window" title="add2home-screen2" width="300" height="167" class="alignnone size-medium wp-image-1840" srcset="http://img.artslab.info/add2home-screen2-300x167.jpg 300w, http://img.artslab.info/add2home-screen2.jpg 324w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<p>В строке “message:” содержится текст всплывающего окна, его можно заменить на свои, либо удалить эту строка, тогда там будет отбражатся стандартное сообщение.</p>

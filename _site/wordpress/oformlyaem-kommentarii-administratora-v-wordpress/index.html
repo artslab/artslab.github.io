@@ -1,0 +1,34 @@
+<p><img class="alignright size-thumbnail wp-image-339" style="float: right;" title="wordpress" src="http://artslab.info/wp-content/uploads/wordpress-100x100.png" alt="wordpress" width="100" height="100" />Навеяно постом из блога <a href="http://nettuts.com/news/unraveling-the-secrets-of-wordpress-commentsphp-file/" target="_blank">Nettuts</a>, где подробно описана каждая строчка файла comments.php. Собственно Вы наверное не раз видели что во многих блогах комментарий владельца оформлены подругому и отличаются от комментариев всех других участников.</p>
+
+<!--more-->
+
+<p>Погуглив я нашел несколько вариантов для реализаций, но больше всего мне понравился вариант от <a href="http://5thirtyone.com/archives/774" target="_blank">5thirtyone.</a></p>
+
+<p><a href="http://5thirtyone.com/archives/774" target="_blank"></a>Чтож начнем:</p>
+
+<ol>
+  <li>
+    <p>В первую очередь заходим в папку с шаблоном и открываем comments.php</p>
+  </li>
+  <li>
+    <p>Находим в нем строчку:</p>
+  </li>
+</ol>
+
+<blockquote>
+  <p><code class="highlighter-rouge">&lt;li class="&lt;?php echo $oddcomment; ?&gt;" id="comment-&lt;?php comment_ID() ?&gt;"&gt;</code></p>
+</blockquote>
+
+<p>И заменяем её этой строкой:</p>
+
+<blockquote>
+  <p><code class="highlighter-rouge">&lt;li class="&lt;?php if ($comment-&gt;comment_author_email == "вашemail@domain.com") echo 'admin'; else echo $oddcomment; ?&gt; item" id="comment-&lt;?php comment_ID() ?&gt;"&gt;</code></p>
+</blockquote>
+
+<p>Здесь нужно будет изменить email адрес “вашemail@domain.com” на почту администратора(тот адрес что стоит в профиле админа в wordpress). Так же можно изменить класс admin и тег &lt;li&gt; (например на &lt;div&gt;), но это уже зависит от оформления.</p>
+
+<ol>
+  <li>Ну и наконец открываем style.css создаем там наш класс .admin { } и прописываем в нем все нужные параметры.</li>
+</ol>
+
+<p><em>+ Для вдохновения: <a href="http://www.blogdesignblog.com/blog-design/30-comment-designs-for-webdesigners/" target="blank">30 Must See Comment Designs for Web Designers</a></em></p>

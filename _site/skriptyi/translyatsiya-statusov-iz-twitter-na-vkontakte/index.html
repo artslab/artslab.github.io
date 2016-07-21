@@ -1,0 +1,41 @@
+<p style="text-align: left;">
+  <center>
+    <img class="aligncenter" title="vtweet" src="http://artslab.info/wp-content/uploads/vtweet.jpg" alt="из твиттера вконтакт" width="430" height="121" />
+  </center>
+</p>
+
+<p>Вконтакте есть функция экспорта статусов в twitter, но отсутствует обратное, т.е. функция импорта. Существует приложение, которое импортирует обновления из твиттера, но минус в том, что его необходимо постоянно запускать вручную. То есть никакого официального решения нету, поэтому придется воспользоваться сторонней разработкой.</p>
+
+<p>Скрипт называется <a href="http://kichrum.org.ua/combine-vkontakte-twitter-php-17-07-2009.html">tvkontakte 0.1i</a>, а скачать его можно с <a href="http://kichrum.org.ua/combine-vkontakte-twitter-php-17-07-2009.html/vtweet-2">блога автора</a>. Для правильной работы скрипта необходимо иметь хостинг с поддержкой cronjob и php.</p>
+
+<p>Установка:</p>
+
+<blockquote>
+  <ol>
+    <li>Загружаем скрипт на хостинг</li>
+  </ol>
+</blockquote>
+
+<blockquote>
+  <ol>
+    <li>Ставим права 777 на текстовый файл vtweet.txt</li>
+  </ol>
+</blockquote>
+
+<blockquote>
+  <ol>
+    <li>Открываем конфигурационный файл vtweet.php и вписываем туда свои логин и пароль от профиля vkontakte, а так же логин twitter-аккаунта</li>
+  </ol>
+</blockquote>
+
+<blockquote>
+  <ol>
+    <li>Заходим в панель управления хостингом, обычно это cPanel, либо Direct Admin и настраиваем там cronjob для скрипта, то есть указываем как часто/когда, скрипт будет выполнять обновление статуса</li>
+  </ol>
+</blockquote>
+
+<blockquote>
+  <ol>
+    <li>Проверяем работу скрипта =)</li>
+  </ol>
+</blockquote>

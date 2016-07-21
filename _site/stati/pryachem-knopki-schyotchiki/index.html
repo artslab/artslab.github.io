@@ -1,0 +1,124 @@
+<center>
+  <a href="http://artslab.info/wp-content/uploads/hide_counters.png"><img src="http://artslab.info/wp-content/uploads/hide_counters.png" alt="как спрятать кнопки счетчиков" title="hide_counters" width="250" height="181" class="alignnone size-full wp-image-1831" /></a>
+</center>
+
+<p>По тем или иным причинам, <strong>код счётчиков</strong> систем интернет-статистики зачастую приходится <strong>скрывать</strong> на странице. Оставим в стороне правомерность этого действия (читайте внимательно правила конкретного счётчика) и рассмотрим способы сокрытия.</p>
+
+<p>Самый тривиальный способ, который я, должен признать, долгое время использовал, не ведая о его недостатках:</p>
+
+<!--more-->
+
+<blockquote>
+  <p>&lt;div style=”display:none”&gt;</p>
+</blockquote>
+
+<blockquote>
+  <p>&lt;!– SuperLog –&gt;</p>
+</blockquote>
+
+<blockquote>
+  <p>код счётчика</p>
+</blockquote>
+
+<blockquote>
+  <p>&lt;!– /SuperLog –&gt;</p>
+</blockquote>
+
+<blockquote>
+  <p>&lt;/div&gt;</p>
+</blockquote>
+
+<p>Всё очень просто — с помощью свойства <a href="http://www.w3.org/TR/CSS21/visuren.html#propdef-display" title="display" target="_blank">display</a> мы убираем из layout’а страницы код счётчика, при этом Internet Explorer и Mozilla всё равно обрабатывают этот код и загружают спрятанную картинку-счётчик.</p>
+
+<p>Как оказалось <a href="http://imfo.ru/archive/2004/01/29/display_none_invisible_counter" title="Обсуждение">из небольшой, но ценной дисскусии</a>, Opera и Safari не загружают картинку-счётчик. Это плохо, т. к. в таком случае мы теряем некоторых посетителей.</p>
+
+<p>В итоге родился такой вот CSS класс (несколько избыточный, но да будет так), который устраивает все современные браузеры:</p>
+
+<blockquote>
+  <p>div.stats{</p>
+</blockquote>
+
+<blockquote>
+  <p>display:inline;</p>
+</blockquote>
+
+<blockquote>
+  <p>height:0px;</p>
+</blockquote>
+
+<blockquote>
+  <p>left:-1000px;</p>
+</blockquote>
+
+<blockquote>
+  <p>margin:0px;</p>
+</blockquote>
+
+<blockquote>
+  <p>padding:0px;</p>
+</blockquote>
+
+<blockquote>
+  <p>position:absolute;</p>
+</blockquote>
+
+<blockquote>
+  <p>top:-1000px;</p>
+</blockquote>
+
+<blockquote>
+  <p>visibility:hidden;</p>
+</blockquote>
+
+<blockquote>
+  <p>width:0px</p>
+</blockquote>
+
+<blockquote>
+  <p>}</p>
+</blockquote>
+
+<p>В HTML (желательно, сразу после <em>body</em>) пишем таким образом:</p>
+
+<blockquote>
+  <p>&lt;div class=”stats”&gt;</p>
+</blockquote>
+
+<blockquote>
+  <p>&lt;!– SuperLog –&gt;</p>
+</blockquote>
+
+<blockquote>
+  <p>код счётчика</p>
+</blockquote>
+
+<blockquote>
+  <p>&lt;!– /SuperLog –&gt;</p>
+</blockquote>
+
+<blockquote>
+  <p>&lt;/div&gt;</p>
+</blockquote>
+
+<p>P. S. Дмитрий Полубояринов предлагает ещё один вариант прятания счетчиков: вместо вписывания посредством <em>document.write</em> рисунка в документ, можно создать объект <em>Image</em> и подгрузить в него рисунок.</p>
+
+<p>Было:</p>
+
+<blockquote>
+  <p>document.write(‘&lt;a href=”http://click.superlog.ru/”&gt;&lt;img ‘+’src=”http://hit.superlog.ru/cgi-bin/superlog/count?’+superlog_r+’” border=”0″ width=”88″ height=”31″ alt=”SuperLog”&gt;&lt;/a&gt;’);</p>
+</blockquote>
+
+<p>Стало:</p>
+
+<blockquote>
+  <p>cntHL_Img=new Image;</p>
+</blockquote>
+
+<blockquote>
+  <p>cntHL_Img.src=’http://hit.superlog.ru/cgi-bin/superlog/count?’+superlog_r;</p>
+</blockquote>
+
+<blockquote>
+
+  <p><strong>Автор: <a href="http://htmlcoder.visions.ru/About/#author" tooltip="Информация об авторе">Александр Шуркаев</a>, “<a href="http://htmlcoder.visions.ru/">Заметки HTML кодера</a>“</strong></p>
+</blockquote>

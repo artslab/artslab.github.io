@@ -1,0 +1,65 @@
+<p>3D-эффект для создания объемного текста можно легко создать с помощью Photoshop, Gimp или любого другого графического редактора, но а так же и с помощью CSS3, без использования дополнительной графики. Преимуществом любого эффекта с применением CSS3 является быстрая скорость загрузки, а главным недостатком, конечно же, кроссбраузерность.</p>
+
+<center>
+  <a href="http://img.artslab.info/sozdat_3dtext_s_css.png"><img src="http://img.artslab.info/sozdat_3dtext_s_css.png" alt="эффект 3d текста на css" class="aligncenter size-medium wp-image-7329" srcset="http://img.artslab.info/sozdat_3dtext_s_css.png 653w, http://img.artslab.info/sozdat_3dtext_s_css-300x74.png 300w" sizes="(max-width: 653px) 100vw, 653px" /></a>
+</center>
+
+<p>Далее сниппет с небольшим примером.</p>
+
+<!--more-->
+
+<p>Для начала создадим обычный div-контейнер с классом “effect” и поместим в него наш текст:</p>
+
+<p>[html]</p>
+
+<div class="effect">3D-текст с помощью CSS3</div>
+
+<p>[/html]</p>
+
+<p>Добавим CSS-стиль к нашему классу:</p>
+
+<p>[css]</p>
+
+<p>.effect {</p>
+
+<p>font:normal 60px Arial;</p>
+
+<p>color:#FFFFFF;</p>
+
+<p>text-shadow: 0 1px 0 #ccc,</p>
+
+<p>0 2px 0 #c9c9c9,</p>
+
+<p>0 3px 0 #bbb,</p>
+
+<p>0 4px 0 #b9b9b9,</p>
+
+<p>0 5px 0 #aaa,</p>
+
+<p>0 6px 1px rgba(0,0,0,.1),</p>
+
+<p>0 0 5px rgba(0,0,0,.1),</p>
+
+<p>0 1px 3px rgba(0,0,0,.3),</p>
+
+<p>0 3px 5px rgba(0,0,0,.2),</p>
+
+<p>0 5px 10px rgba(0,0,0,.25),</p>
+
+<p>0 10px 10px rgba(0,0,0,.2),</p>
+
+<p>0 20px 20px rgba(0,0,0,.15);</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<p>Пример:</p>
+
+<div class="effect-text">
+  3D-Текст с помощью CSS
+</div>
+
+<p>Поиграть с примером кода можно на <a href="http://codepen.io/4gray/pen/Iotuf">Codepen</a></p>
+
+<p><a href="http://www.cssrex.com/tips-tricks/how-to-create-3d-text-using-css3/">via</a></p>

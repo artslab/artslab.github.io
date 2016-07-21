@@ -1,0 +1,42 @@
+<p>При необходимости размещения текста на сайте в несколько колонок, можно воспользоваться следующим CSS-кодом.</p>
+
+<div style="padding: 1em;-moz-column-count: 3;-moz-column-gap: 1em;-webkit-column-count: 3;-webkit-column-gap: 1em;column-count: 3;column-gap: 1em; width: 90%; border:1px solid #ccc; background:#eee;">
+  Ut varius volutpat facilisis. Integer magna ligula, malesuada vel commodo eu, tincidunt sed odio. Curabitur ut purus et arcu vestibulum adipiscing quis non quam. Nam velit purus, dapibus ut rhoncus nec, bibendum sed risus. Donec egestas, enim eget venenatis dictum, dolor quam scelerisque ipsum, et vulputate est mi dictum nisi.
+</div>
+
+<!--more-->
+
+<p>[css]</p>
+
+<p>.three-column {</p>
+
+<p>padding: 1em;</p>
+
+<p>-moz-column-count: 3;</p>
+
+<p>-moz-column-gap: 1em;</p>
+
+<p>-webkit-column-count: 3;</p>
+
+<p>-webkit-column-gap: 1em;</p>
+
+<p>column-count: 3;</p>
+
+<p>column-gap: 1em;</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<p>Несколько слов о двух главных свойстах:</p>
+
+<ul>
+  <li>
+    <p>column-count – отвечает за количество столбцов.</p>
+  </li>
+  <li>
+    <p>column-gap – отвечает за размер отступа между отдельными столбцами.</p>
+  </li>
+</ul>
+
+<p>Добавки -moz и -webkit у свойств необходимы для обеспечения кроссбраузерности. -moz, соответственно, для Firefox, а -webkit для браузеров на основе движка WebKit, например Google Chrome.</p>

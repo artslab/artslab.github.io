@@ -1,0 +1,48 @@
+<center>
+  <a href="http://img.artslab.info/tilt_shift_with_css3.png"><img class="aligncenter size-medium wp-image-5133" title="tilt_shift_with_css3" src="http://img.artslab.info/tilt_shift_with_css3-300x147.png" alt="эффект tilt-shift" width="300" height="147" srcset="http://img.artslab.info/tilt_shift_with_css3-300x147.png 300w, http://img.artslab.info/tilt_shift_with_css3.png 889w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+<p>Если Вы время от времени читаете мой блог, то должны быть знакомы с</p>
+
+<p><a href="http://artslab.info/kreativnyie-rabotyi/timelapse-tilt-shift-dva-effekta-v-odnom-video/" title="Timelapse + Tilt-Shift — два эффекта в одном видео">эффектом Tilt-Shift</a>, про который я уже неоднократно писал. Если же нет, тогда рекомендую заглянуть в пост с <a href="http://artslab.info/uroki-photoshop/effekt-tilt-shift-v-photoshop-urok/" title="Эффект Tilt-Shift в Photoshop (урок)">уроком Photoshop (текст и видео)</a> или посмотреть <a href="http://artslab.info/kreativnyie-rabotyi/timelapse-tilt-shift-dva-effekta-v-odnom-video/">красивый видеоролик</a> на эту тему .</p>
+
+<p>Сегодня я хотел бы рассказать о возможности использования этого эффекта на сайте без графического редактора, а только с помощью кода. Для этого нам понадобиться библиотека jQuery, браузер с поддержкой CSS3 и скрипт <a href="https://github.com/noeltock/tiltShift.js">tiltShift.js</a>. Пример и использование в продолжений записи.</p>
+
+<!--more-->
+
+<h3 id="section">Пример</h3>
+
+<p><a href="http://img.artslab.info/tilt_shift_s_css3.png"><img class="aligncenter size-medium wp-image-5136" title="tilt_shift_s_css3" src="http://img.artslab.info/tilt_shift_s_css3-300x199.png" alt="эффект тайл шифт без фотошопа" width="300" height="199" srcset="http://img.artslab.info/tilt_shift_s_css3-300x199.png 300w, http://img.artslab.info/tilt_shift_s_css3.png 614w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+
+<p>Живой пример работы скрипта можно увидеть на <a href="http://www.noeltock.com/tilt-shift-css3-jquery-plugin/">этой страничке</a>.</p>
+
+<h3 id="section-1">Использование</h3>
+
+<p>Прикручиваем css и js в шапке страницы:</p>
+
+<p>[sourcecode language=”html”]</p>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="jquery.tiltShift.js"></script>
+
+<script type="text/javascript"> <![CDATA[
+         
+jQuery(document).ready(function() {
+              
+$(&#8216;.tiltshift&#8217;).tiltShift();
+          
+});
+   
+]]></script>
+
+<p>[/sourcecode]</p>
+
+<p>Вставляем саму картинку и прописываем к ней специальные атрибуты и параметрами, с которыми можно смело экспериментировать (радиус размытия, позиция, размытие по вертикали/горизонтали)</p>
+
+<p>[sourcecode language=”html”]</p>
+
+<p><img class="tiltshift" src="url" alt="" data-position="50" data-blur="2" data-focus="10" data-falloff="10" data-direction="y" /></p>
+
+<p>[/sourcecode]</p>
+
+<p>На этом и все, пробуйте, экспериментируйте. Приятного Вам дня 🙂</p>

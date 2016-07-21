@@ -1,0 +1,205 @@
+<center>
+  <img src="http://img.artslab.info/rounded_css_avatar.jpg" alt="border-radius круглые картинки" class="aligncenter size-medium wp-image-6742" srcset="http://img.artslab.info/rounded_css_avatar.jpg 542w, http://img.artslab.info/rounded_css_avatar-300x71.jpg 300w" sizes="(max-width: 542px) 100vw, 542px" />
+</center>
+
+<p>Если Вам надоело стандартное, квадратное оформление аватаров или миниатюр новостей в Вашем блоге, то можно легко “закруглить” картинки и придать им другой вид, используя для этого только средства CSS.</p>
+
+<!--more-->
+
+<center>
+  <a href="http://img.artslab.info/kruglie_avatari.jpg"><img src="http://img.artslab.info/kruglie_avatari-300x135.jpg" alt="круглые аватары в комментариях" class="aligncenter size-medium wp-image-6721" srcset="http://img.artslab.info/kruglie_avatari-300x135.jpg 300w, http://img.artslab.info/kruglie_avatari.jpg 655w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<p>Если внимательно приглядеться к картинке выше, то можно разглядеть не только круглый аватар, но и несколько других элементов и эффектов. Во-первых, это рамка в которой находится аватар, во-вторых внутреннюю тень, а так же выпуклость и эффект стекла, в виде светлого отблеска на аватаре. Код такого оформления мы рассмотрим чуть ниже, а для начала ознакомимся с простым примером.</p>
+
+<center>
+  <img src="http://img.artslab.info/zakruglenie_kartinke.jpg" alt="сделать картинку круглой css" class="aligncenter size-medium wp-image-6723" srcset="http://img.artslab.info/zakruglenie_kartinke.jpg 418w, http://img.artslab.info/zakruglenie_kartinke-300x72.jpg 300w" sizes="(max-width: 418px) 100vw, 418px" />
+</center>
+
+<p>Допустим мы хотим закруглить края изображения. Для этого достаточно будет добавить всего лишь одно CSS-свойство – border-radius.</p>
+
+<p>HTML-код:</p>
+
+<p>[html]<img class="avatar" src="http://placeimg.com/80/80/people" />[/html]</p>
+
+<p>Стиль CSS:</p>
+
+<p>[css].avatar {</p>
+
+<p>width: 80px;</p>
+
+<p>height: 80px;</p>
+
+<p>border-radius: 40px; /* половина ширины и высоты */</p>
+
+<p>}[/css]</p>
+
+<p><a href="http://codepen.io/4gray/pen/rgEmj" target="_blank">Демо на Codepen</a></p>
+
+<h3 id="section">Стильное оформление аватара</h3>
+
+<p>Теперь рассмотрим полный пример.</p>
+
+<p><a href="http://img.artslab.info/kruglie_avatari.jpg"><img src="http://img.artslab.info/kruglie_avatari-300x135.jpg" alt="круглые аватары в комментариях" class="aligncenter size-medium wp-image-6721" srcset="http://img.artslab.info/kruglie_avatari-300x135.jpg 300w, http://img.artslab.info/kruglie_avatari.jpg 655w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+
+<p>Для начала подготовим часть HTML-кода:</p>
+
+<p>[html]</p>
+
+<div id="avatarbg">
+      
+<img class="avatar" src="http://placeimg.com/90/90/animals" />
+    
+</div>
+
+<p>[/html]</p>
+
+<p>Перейдем к CSS-стилям:</p>
+
+<p>[css]</p>
+
+<p>/* Тень */</p>
+
+<p>#avatarbg img.avatar {</p>
+
+<p>margin: 0;</p>
+
+<p>-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.3);</p>
+
+<p>-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.3);</p>
+
+<p>box-shadow: 0 1px 2px rgba(0,0,0,0.3);</p>
+
+<p>width: 68px;</p>
+
+<p>height: 68px;</p>
+
+<p>}</p>
+
+<p>/* Фон, рамка для аватара */</p>
+
+<p>#avatarbg {</p>
+
+<p>width: 67px;</p>
+
+<p>height: 67px;</p>
+
+<p>display: block;</p>
+
+<p>background-color: #eee;</p>
+
+<p>background-image: -moz-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));</p>
+
+<p>background-image: -webkit-gradient(linear,0 0,0 100%,from(rgba(0,0,0,0)),to(rgba(0,0,0,0.05)));</p>
+
+<p>background-image: -webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));</p>
+
+<p>background-image: -o-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));</p>
+
+<p>background-image: linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));</p>
+
+<p>background-repeat: repeat-x;</p>
+
+<p>filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=’#00000000′,endColorstr=’#0d000000′,GradientType=0);</p>
+
+<p>padding: 6px;</p>
+
+<p>padding-top: 5px;</p>
+
+<p>-webkit-box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);</p>
+
+<p>-moz-box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);</p>
+
+<p>box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);</p>
+
+<p>border: 1px solid #c0d6e0;</p>
+
+<p>position: relative;</p>
+
+<p>-webkit-transition: all .2s ease-in-out 0s;</p>
+
+<p>-moz-transition: all .2s ease-in-out 0s;</p>
+
+<p>-o-transition: all .2s ease-in-out 0s;</p>
+
+<p>transition: all .2s ease-in-out 0s;</p>
+
+<p>float:left;</p>
+
+<p>}</p>
+
+<p>/* Выпуклость */</p>
+
+<p>#avatarbg:before {</p>
+
+<p>background-image: -moz-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));</p>
+
+<p>background-image: -webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,0.4)),to(rgba(255,255,255,0)));</p>
+
+<p>background-image: -webkit-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));</p>
+
+<p>background-image: -o-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));</p>
+
+<p>background-image: linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));</p>
+
+<p>background-repeat: repeat-x;</p>
+
+<p>filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=’#66ffffff’,endColorstr=’#00ffffff’,GradientType=0);</p>
+
+<p>-webkit-box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);</p>
+
+<p>-moz-box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);</p>
+
+<p>box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);</p>
+
+<p>border: 1px solid #afc3cb;</p>
+
+<p>}</p>
+
+<p>/* Блеск, эффект стекла */</p>
+
+<p>#avatarbg:after {</p>
+
+<p>background: -webkit-gradient(linear,left top,right bottom,color-stop(0%,rgba(255,255,255,0.1)),color-stop(44%,rgba(255,255,255,0.2)),color-stop(45%,rgba(255,255,255,0)),color-stop(100%,rgba(255,255,255,0)));</p>
+
+<p>}</p>
+
+<p>#avatarbg:before, #avatarbg:after {</p>
+
+<p>content: “”;</p>
+
+<p>width: 68px;</p>
+
+<p>height: 68px;</p>
+
+<p>position: absolute;</p>
+
+<p>left: 4px;</p>
+
+<p>top: 4px;</p>
+
+<p>}</p>
+
+<p>/* Закругление */</p>
+
+<p>#avatarbg, #avatarbg:before, #avatarbg:after, #avatarbg img.avatar {</p>
+
+<p>-webkit-border-radius: 81px;</p>
+
+<p>-moz-border-radius: 81px;</p>
+
+<p>border-radius: 81px;</p>
+
+<p>-moz-background-clip: padding;</p>
+
+<p>-webkit-background-clip: padding-box;</p>
+
+<p>background-clip: padding-box;</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<p>Результат и код можно также посмотреть на моей страничке на &lt;a href=”http://codepen.io/4gray/pen/iBpLm” target=”_blank”сервисе codepen&lt;/a&gt;.</p>
+
+<p>Если вы ищете другие полезные сниппеты, то загляните в рубрику на нашем сайте.</p>

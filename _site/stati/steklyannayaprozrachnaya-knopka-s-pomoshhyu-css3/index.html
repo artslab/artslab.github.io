@@ -1,0 +1,115 @@
+<p>Возможности CSS3 открывают огромный ряд новых возможностей перед веб-дизайнерами. Сегодня я хотел бы поделиться с вами один из примеров, где используются несколько интересных свойств для создания прозрачной (стеклянной) кнопки с различными тенями. Результат выглядит примерно так:</p>
+
+<center>
+  <img src="http://img.artslab.info/css3_prozrachnaya_knopka.jpg" alt="стеклянная кнопка на css3" title="css3_prozrachnaya_knopka" width="497" height="232" class="aligncenter size-full wp-image-6349" srcset="http://img.artslab.info/css3_prozrachnaya_knopka.jpg 497w, http://img.artslab.info/css3_prozrachnaya_knopka-300x140.jpg 300w" sizes="(max-width: 497px) 100vw, 497px" />
+</center>
+
+<!--more-->
+
+<p>Создадим контейнер с ссылкой в html-файле, которая и станет нашей кнопкой и присвоим ей какой-нибудь класс, например, button:</p>
+
+<p>[html]</p>
+
+<div id="container">
+	  
+<a href="#" class="button">Click Me</a>
+  
+</div>
+
+<p>[/html]</p>
+
+<p>Теперь перейдем к стилю CSS. Самое интересное и главное свойство для создания всех теней на кнопке, это – <strong>box-shadow</strong>. Лучше всего, попробуйте сами поэкспериментировать с параметрами этого свойства, изменяя цвета и значения. Условные добавки “-moz” (Firefox) и “-webkit” (Chrome) в двух других классах, служат для точного указания движков разных браузеров.</p>
+
+<p><strong>border-radius</strong> – служит для указания радиуса закругления углов на кнопке.</p>
+
+<p>И наконец <strong>opacity</strong>, свойство которое позволит установить значение для прозрачности всего блока (кнопки). Я добавил его к селектору :hover, т.е. при наведении курсора кнопка будет становиться тусклее.</p>
+
+<p>Вот и весь код стиля с нашей кнопкой:</p>
+
+<p>[css]</p>
+
+<p>a.button {</p>
+
+<p>font-family: Helvetica, arial, serif;</p>
+
+<p>color:#fff;</p>
+
+<p>text-align:center;</p>
+
+<p>font-size:30px;</p>
+
+<p>cursor: pointer;</p>
+
+<p>text-decoration: none;</p>
+
+<p>padding:10px;</p>
+
+<p>border: 1px solid rgba(0,0,0,0.5);</p>
+
+<p>border-bottom: 3px solid rgba(0,0,0,0.5);</p>
+
+<p>border-radius: 3px;</p>
+
+<p>-moz-border-radius: 3px;</p>
+
+<p>-webkit-border-radius: 3px;</p>
+
+<p>box-shadow:</p>
+
+<p>0 2px 8px rgba(0,0,0,0.5), /* Exterior Shadow */</p>
+
+<p>inset 0 1px rgba(255,255,255,0.3), /* Top light Line */</p>
+
+<p>inset 0 10px rgba(255,255,255,0.2), /* Top Light Shadow */</p>
+
+<p>inset 0 10px 20px rgba(255,255,255,0.25), /* Sides Light Shadow */</p>
+
+<p>inset 0 -15px 30px rgba(0,0,0,0.3); /* Dark Background */</p>
+
+<p>-webkit-box-shadow:</p>
+
+<p>0 2px 8px rgba(0,0,0,0.5),</p>
+
+<p>inset 0 1px rgba(255,255,255,0.3),</p>
+
+<p>inset 0 10px rgba(255,255,255,0.2),</p>
+
+<p>inset 0 10px 20px rgba(255,255,255,0.25),</p>
+
+<p>inset 0 -15px 30px rgba(0,0,0,0.3);</p>
+
+<p>-moz-box-shadow:</p>
+
+<p>0 2px 8px rgba(0,0,0,0.5),</p>
+
+<p>inset 0 1px rgba(255,255,255,0.3),</p>
+
+<p>inset 0 10px rgba(255,255,255,0.2),</p>
+
+<p>inset 0 10px 20px rgba(255,255,255,0.25),</p>
+
+<p>inset 0 -15px 30px rgba(0,0,0,0.3);</p>
+
+<p>}</p>
+
+<p>a.button:hover {</p>
+
+<p>opacity: 0.7;</p>
+
+<p>filter: alpha(opacity=70);</p>
+
+<p>-moz-opacity:0.7;</p>
+
+<p>-khtml-opacity: 0.7;</p>
+
+<p>}</p>
+
+<p>[/css]</p>
+
+<center>
+  <a href="http://img.artslab.info/transparent_btn_css3.jpg"><img src="http://img.artslab.info/transparent_btn_css3-300x216.jpg" alt="стеклянная кнопка с помощью css3" title="transparent_btn_css3" width="300" height="216" class="aligncenter size-medium wp-image-6355" srcset="http://img.artslab.info/transparent_btn_css3-300x216.jpg 300w, http://img.artslab.info/transparent_btn_css3.jpg 761w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</center>
+
+<p><a href="http://artslab.info/demo/glass_btn/index.html">Демо</a> / <a href="http://artslab.info/demo/glass_btn/glass_btn.zip">Скачать пример</a></p>
+
+<p><a href="http://forrst.com/posts/CSS3_Glass_Button-tiO">Оригинал с кодом кнопки</a> (модифицирован artslab.info)</p>
