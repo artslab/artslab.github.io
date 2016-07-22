@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1578135308
 categories:
-  - Иконки
+  - ikonki
 tags:
-  - Иконки
+  - ikonki
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/handdrawn_icons_set.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/handdrawn_icons_set-300x198.jpg" alt="Hand-drawn Icons Set" title="handdrawn_icons_set" width="300" height="198" class="alignnone size-medium wp-image-3035" /></a>

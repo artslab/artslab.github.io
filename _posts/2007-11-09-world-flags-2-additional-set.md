@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563818169
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
   - флаги
 ---
 <center>

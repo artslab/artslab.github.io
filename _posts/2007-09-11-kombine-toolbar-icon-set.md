@@ -15,12 +15,12 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021349
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - toolbar
   - web design
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center">
   <img src="http://artslab.info/wp-content/uploads/iconsfreehs1.png" title="icon set" alt="icon set" border="0" height="205" width="360" />

@@ -14,7 +14,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565610592
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
 ---

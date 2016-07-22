@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1735054365
 categories:
-  - Иконки
+  - ikonki
 tags:
   - apple
   - icons

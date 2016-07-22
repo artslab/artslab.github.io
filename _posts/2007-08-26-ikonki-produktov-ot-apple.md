@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1618355586
 categories:
-  - Иконки
+  - ikonki
 tags:
   - apple
   - hardware
@@ -23,7 +23,7 @@ tags:
   - imac
   - iphone
   - ipod
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center">
   <img src="http://artslab.info/wp-content/uploads/apple_products_icons.jpg" title="apple hardware icons" alt="apple hardware icons" border="0" />

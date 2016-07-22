@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015176
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center;">
   <img class="aligncenter" style="border: 0pt none;" src="http://artslab.info/wp-content/uploads/functioniconsnz8.jpg" alt="function icons" width="490" height="200" />

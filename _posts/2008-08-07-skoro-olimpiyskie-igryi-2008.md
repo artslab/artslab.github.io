@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019487
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
   - олимпиада
 ---
 В предверии открытия летних Олимпийских Игр в Пекине, встретил на просторах сети, один очень красивый набор иконок от <a href="http://www.kidcomic.net/pjblog/article.asp?id=51" target="_blank">kidaubis</a>.

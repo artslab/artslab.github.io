@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565024957
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center;">
   <img class="aligncenter" style="border: 0pt none;" src="http://img131.imageshack.us/img131/2903/weloveicons.jpg" alt="Качественные иконки бесплатно" width="250" height="449" />

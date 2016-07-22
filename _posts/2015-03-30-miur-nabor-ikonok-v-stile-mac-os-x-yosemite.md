@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 3642335034
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - mac os

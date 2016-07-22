@@ -18,7 +18,7 @@ categories:
   - Онлайн сервисы
 tags:
   - icons
-  - Иконки
+  - ikonki
   - поисковик
 ---
 <p STYLE="text-align: center">

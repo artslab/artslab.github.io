@@ -25,11 +25,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023220
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - png
-  - Иконки
+  - ikonki
 ---
 <p STYLE="text-align: center">
   <img STYLE="width: 468px; height: 279px" HEIGHT="279" WIDTH="468" BORDER="0" TITLE="набор иконок" ALT="набор иконок" SRC="http://devilcry.org/shotspic/neon_sm.jpg" />

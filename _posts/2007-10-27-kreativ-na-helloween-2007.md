@@ -15,14 +15,14 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1586204298
 categories:
-  - Иконки
+  - ikonki
   - Обои для рабочего стола
 tags:
   - helloween
   - how-to
   - icons
   - wallpapers
-  - Иконки
+  - ikonki
   - Обои для рабочего стола
 ---
 <p style="text-align: center">

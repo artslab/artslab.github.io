@@ -19,7 +19,7 @@ categories:
 tags:
   - photoshop
   - tutorial
-  - Иконки
+  - ikonki
   - урок
 ---
 <p style="text-align: center">
@@ -27,11 +27,11 @@ tags:
 </p>
 
 В этом уроке мы узнаем как создать в Adobe Photoshop, красивую иконку папки для рабочего стола или сайта.
-  
+
 <!--more-->
 
 
-  
+
 1. Для начала создадим новый документ размером в 128&#215;128 пикселей с прозрачным фоном.
 
 <p style="text-align: center">
@@ -47,25 +47,25 @@ tags:
 3. Нажмем правой кнопкой по нашему слою с папкой, выберем в раскрывшемся меню Blending Options и сделаем там следующие настройки:
 
 Gradient Overlay
-  
+
 #FFd27A -> #FFB912
 
 Stroke
-  
+
 Size: 1px
-  
+
 Position: Outside
-  
+
 Color: #C07C33
 
 Inner Glow
-  
+
 Blend Mode: Normal
-  
+
 Color: #FFFFFF
-  
+
 Choke: 100%
-  
+
 Size: 1px
 
 Должно получиться примерно так:
@@ -85,25 +85,25 @@ Size: 1px
 <img src="http://img248.imageshack.us/img248/4294/step4qi5.gif" title="Урок photoshop" alt="Урок photoshop" border="0" height="128" width="128" />
 
 5. Добавим листок в нашу папку, создадим новый слой и нарисуем в нем белый прямоугольник. После этого кликаем по слою правой кнопкой мыши и снова идем в Blending options.
-  
+
 <img src="http://img248.imageshack.us/img248/7861/step5nm5.gif" title="Урок photoshop" alt="Урок photoshop" border="0" height="128" width="128" />
 
 Делаем там следующие изменения:
 
 Gradient Overlay:
-  
+
 Opacity: 10%
-  
+
 #000000 -> #FFFFFF
-  
+
 Angle: 50°
 
 Stroke
-  
+
 Size: 1px
-  
+
 Position: Outside
-  
+
 Color: #D6D6D6
 
 Должно получиться что то вроде этого:
@@ -125,5 +125,5 @@ Color: #D6D6D6
  <img src="http://img248.imageshack.us/img248/9429/finalxn8.gif" title="photoshop tutorial" alt="photoshop tutorial" border="0" height="128" width="128" /> <img src="http://img248.imageshack.us/img248/5382/foldersheetxge7.gif" title="Урок photoshop" alt="Урок photoshop" border="0" height="128" width="128" /><img src="http://img248.imageshack.us/img248/9684/folderworldlx9.gif" title="Урок photoshop" alt="Урок photoshop" border="0" height="128" width="128" />
 
 Перевод: [artslab.info](http://artslab.info// "artslab.info"){#xdl1}
-  
+
 Оригинал: [Nico Harather](http://www.webdesign.org/web/photoshop/web-layout/how-to-make-a-folder-icon.6433.html "Nico Harather"){#drdb}

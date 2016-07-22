@@ -17,12 +17,12 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015796
 categories:
-  - Иконки
+  - ikonki
 tags:
   - how-to
   - icons
   - video
-  - Иконки
+  - ikonki
 ---
 <center>
   <br /> <br />

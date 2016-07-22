@@ -15,16 +15,16 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023361
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - rss
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center;">
   <img src="http://clip2net.com/clip/m6048/1210409224-clip-20kb.jpg" alt="RSS иконки" />
 </p>
 
 17 разноцветных иконок на белом фоне, обозначающих RSS-ленту
-  
+
 Архив с ними качаем <a href="http://coroud.deviantart.com/art/RSS-feed-17-icons-sign-v1-0-84684288" target="_blank">отсюда</a>. Ну и <a href="http://coroud.deviantart.com/" target="_blank">страничка автора</a> стандартно =)

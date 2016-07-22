@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565022817
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center;">
   <img class="aligncenter" style="border: 0pt none ;" src="http://tn3-1.deviantart.com/fs32/300W/i/2008/219/4/e/Battlefield2_Web_2_0_Icons_by_f0xEL.png" alt="batlefield 2 icons" width="300" height="240" />

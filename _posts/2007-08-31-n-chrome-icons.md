@@ -15,11 +15,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1634828988
 categories:
-  - Иконки
+  - ikonki
 tags:
   - free
   - icons
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center">
   <img src="http://img266.imageshack.us/img266/8229/12613223gu1.jpg" title="n-chrome icons" alt="n-chrome icons" border="0" />

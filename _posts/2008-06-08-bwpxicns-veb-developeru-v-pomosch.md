@@ -19,10 +19,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016185
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <p align="center">
   <img class="aligncenter size-full wp-image-343" title="bwpx-promo" src="http://artslab.info/wp-content/uploads/bwpx-promo.gif" alt="" width="495" height="324" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bwpx-promo.gif 495w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bwpx-promo-300x196.gif 300w" sizes="(max-width: 495px) 100vw, 495px" />

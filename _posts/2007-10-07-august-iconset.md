@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2005337524
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <p STYLE="text-align: center">
   <img SRC="http://quickimg.com/uploads/9bf7512a5066c3ee3ebd69be7ab58070.jpg" ALT="august iconset" TITLE="august iconset" BORDER="0" WIDTH="500" HEIGHT="300" STYLE="width: 500px; height: 300px" />

@@ -21,11 +21,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563374076
 categories:
-  - Иконки
+  - ikonki
 tags:
   - apple
   - mac
-  - Иконки
+  - ikonki
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/icons_mac_os_x_lion.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/icons_mac_os_x_lion-300x217.png" alt="иконки mac os x lion" title="icons_mac_os_x_lion" width="300" height="217" class="alignnone size-medium wp-image-3326" /></a>

@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1579353828
 categories:
-  - Иконки
+  - ikonki
 tags:
   - twitter
-  - Иконки
+  - ikonki
 ---
 <center>
   <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twibies_gallery.jpg" alt="иконки для твиттера" title="twibies_gallery" width="181" height="65" class="alignnone size-full wp-image-3050" />

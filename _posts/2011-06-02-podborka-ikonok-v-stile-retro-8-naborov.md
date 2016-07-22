@@ -19,10 +19,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564958223
 categories:
-  - Иконки
+  - ikonki
 tags:
   - retro
-  - Иконки
+  - ikonki
 format: aside
 ---
 Ретро-стиль сегодня популярен как никогда, подтверждают это многие вещи, например известность и активность фото-сети [Instagram](http://artslab.info/prilozheniya-dlya-ipod-touchiphone/instagram-fotoset-dlya-vladeltsev-iphone-pereklichka/) или даже появление таких сервисов как [Pixlr-o-matic](http://artslab.info/onlayn-servisyi/pixlr-o-matic-dobavlyaem-retro-effekty-k-fotografiyam/).

@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1623768097
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets-300x99.jpg" alt="Набор иконок для web-приложений" title="iconsweets" width="300" height="99" class="alignnone size-medium wp-image-2911" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets-300x99.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets.jpg 424w" sizes="(max-width: 300px) 100vw, 300px" /></a>

@@ -25,7 +25,7 @@ categories:
 tags:
   - google chrome
   - google plus
-  - Иконки
+  - ikonki
   - логотип
   - тема
 ---

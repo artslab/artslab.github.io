@@ -21,7 +21,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1571735037
 categories:
-  - Иконки
+  - ikonki
 tags:
   - apple
   - icloud

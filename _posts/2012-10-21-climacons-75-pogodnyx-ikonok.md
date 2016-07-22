@@ -13,9 +13,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1573915335
 categories:
-  - Иконки
+  - ikonki
 tags:
-  - Иконки
+  - ikonki
   - погода
 ---
 <center>

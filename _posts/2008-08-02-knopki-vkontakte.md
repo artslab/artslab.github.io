@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021239
 categories:
-  - Иконки
+  - ikonki
 tags:
   - vkontakte
-  - Иконки
+  - ikonki
 ---
 <center>
   <a href="http://artslab.info/wp-content/uploads/vkontakte_buttons.png"><img src="http://artslab.info/wp-content/uploads/vkontakte_buttons.png" alt="кнопки vkontakte для сайта" title="vkontakte_buttons" width="379" height="356" class="alignnone size-full wp-image-857" /></a>

@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020407
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 Просто не смог пройти мимо этих наборов иконок, матрешки понравились =)
 

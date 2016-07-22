@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565024892
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center;">
   <img style="border: 0pt none;" src="http://artslab.info/wp-content/uploads/pool.png" alt="Весенние иконки" width="453" height="312" />

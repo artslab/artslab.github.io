@@ -21,11 +21,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1628818791
 categories:
-  - Иконки
+  - ikonki
 tags:
   - adobe
   - icons
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center">
   <img src="http://artslab.info/wp-content/uploads/fresh_pr2.jpg" title="fresh icons" alt="fresh icons" border="0" height="178" width="413" />

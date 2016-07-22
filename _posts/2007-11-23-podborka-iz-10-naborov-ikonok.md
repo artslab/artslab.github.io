@@ -15,11 +15,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020334
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - list
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center">
   <a href="http://sljodal.deviantart.com/art/Boxes-56824670"><img src="http://tn3-2.deviantart.com/fs18/300W/i/2007/155/1/e/Boxes_by_SLjodal.jpg" title="Иконки коробок с вещами" alt="Иконки коробок с вещами" border="0" height="300" width="300" /></a>

@@ -13,11 +13,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1673786420
 categories:
-  - Иконки
+  - ikonki
 tags:
   - flat
   - дизайн
-  - Иконки
+  - ikonki
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat-300x147.jpg" alt="минимализм" class="aligncenter size-medium wp-image-7796" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat-300x147.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat.jpg 782w" sizes="(max-width: 300px) 100vw, 300px" /></a>

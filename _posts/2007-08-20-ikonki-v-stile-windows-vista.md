@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1568246109
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - vista

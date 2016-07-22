@@ -15,13 +15,13 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565014617
 categories:
-  - Иконки
+  - ikonki
 tags:
   - free
   - icons
   - vector
   - Вектор
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center">
   <img src="http://www.monofactor.com/files/mf_icons1.jpg" title="Векторный иконки скачать" alt="Векторный иконки скачать" border="0" height="162" width="525" />

@@ -15,11 +15,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023637
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - аватар
-  - Иконки
+  - ikonki
 ---
 <p align="center">
   &nbsp;

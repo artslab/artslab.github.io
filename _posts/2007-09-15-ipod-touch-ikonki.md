@@ -15,12 +15,12 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020639
 categories:
-  - Иконки
+  - ikonki
 tags:
   - apple
   - icons
   - ipod
-  - Иконки
+  - ikonki
 ---
 <center>
   <a href="http://artslab.info/wp-content/uploads/ipod_touch_icon.jpg"><img src="http://artslab.info/wp-content/uploads/ipod_touch_icon-300x176.jpg" alt="скачать иконки ipod touch" title="ipod_touch_icon" width="300" height="176" class="alignnone size-medium wp-image-826" /></a>

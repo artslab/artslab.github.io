@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1569243854
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
   - psd

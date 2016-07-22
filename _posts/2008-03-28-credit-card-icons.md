@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023511
 categories:
-  - Иконки
+  - ikonki
 tags:
   - icons
-  - Иконки
+  - ikonki
 ---
 <p style="text-align: center">
   <img src="http://www.zeusboxstudio.com/images/027_cc_icon_preview.png" title="credit card free icons + psd" alt="credit card free icons + psd" border="0" height="128" width="501" />

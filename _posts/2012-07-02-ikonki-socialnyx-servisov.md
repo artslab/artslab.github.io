@@ -19,9 +19,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1597791247
 categories:
-  - Иконки
+  - ikonki
 tags:
-  - Иконки
+  - ikonki
 ---
 Три симпатичных набора иконок различных социальных сервисов.
 
