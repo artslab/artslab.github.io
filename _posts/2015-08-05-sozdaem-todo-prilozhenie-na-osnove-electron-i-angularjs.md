@@ -36,7 +36,7 @@ tags:
 
 Начнем с первого файла app.js. В нем мы инициализируем наше electron-приложение, укажем опций для окна, название, иконки и прочее. Здесь можно взять за основу код с <a href="https://github.com/atom/electron/blob/master/docs/tutorial/quick-start.md" target="_blank">странички документации</a> и дополнять его по необходимости:
 
-[js]
+{% highlight javascript %}
 
 var app = require(&#8216;app&#8217;); // Module to control application life.
 
@@ -82,7 +82,7 @@ mainWindow = null;
 
 });
 
-[/js]
+{% endhighlight %}
 
 Теперь создадим index.html в котором будет находиться внешний вид нашего приложения. Для начала просто поместим в него строку текста &#8220;Hello world&#8221; и для проверки запустим наше приложение с помощью команды:
 
@@ -101,7 +101,7 @@ npm install angular-material</pre>
 
 Сразу же займемся и интерфейсом нашего приложения: добавим тулбар в шапку, боковое меню, а так же список с чекбоксами, которые и будут отображать наши будущие задачи в центральной части приложения. Воспользовавшись заготовками и инструкциями с документации Angular Material, у меня получился такой код:
 
-[html]
+{% highlight html %}
 
 <!DOCTYPE html>
 
@@ -225,11 +225,11 @@ npm install angular-material</pre>
 
 </html>
 
-[/html]
+{% endhighlight %}
 
 Теперь перейдем к основной части нашего списка дел к javascript-логике и для этого откроем третий файл main.js. Здесь мы для начала инициализируем angular-приложение todoApp с модулем ngMaterial, создадим контроллер AppCtrl и инициализируем несколько массивов с объектами. В первый из них поместим три объекта для навигаций с двумя полями: название пункта меню и текстовое название иконки (<a href="https://www.google.com/design/icons/" target="_blank">список всех иконок Material Icons</a>). Во втором массиве мы будем хранить наши задачи и для этого нам так же потребуется два поля: название задачи и статус (сделано или нет). В итоге у меня получилось так:
 
-[js]
+{% highlight javascript %}
 
 var app = angular.module(&#8216;todoApp&#8217;, [&#8216;ngMaterial&#8217;]);
 
@@ -269,7 +269,7 @@ $scope.options.show = content;
 
 }]);
 
-[/js]
+{% endhighlight %}
 
 Запустим наше приложением и посмотрим, как оно выглядит и что оно уже умеет.
 
@@ -285,7 +285,7 @@ $scope.options.show = content;
 
 Для этого добавим код Fab-кнопки в index.html:
 
-[html]
+{% highlight javascript %}
 
 <md-button class="md-fab md-fab-bottom-right" aria-label="Add" ng-click="showAdd($event)">
 
@@ -293,19 +293,19 @@ $scope.options.show = content;
 
 </md-button>
 
-[/html]
+{% endhighlight %}
 
 Вернемся к файлу main.js и первым делом пропишем две необходимые нам зависимости $mdDialog и $mdToast для всплывающих оповещений:
 
-[js]
+{% highlight javascript %}
 
 app.controller(&#8216;AppCtrl&#8217;, [&#8216;$scope&#8217;, &#8216;$mdDialog&#8217;, &#8216;$mdToast&#8217;, function($scope, $mdDialog, $mdToast) {&#8230;}
 
-[/js]
+{% endhighlight %}
 
 Теперь создадим новую функцию, которая будет открывать новый диалог по нажатию на fab-кнопку:
 
-[js]
+{% highlight javascript %}
 
 $scope.showAdd = function(ev) {
 
@@ -329,11 +329,11 @@ $mdToast.showSimple(&#8216;Task "&#8217; + task + &#8216;" was added!&#8217;);
 
 };
 
-[/js]
+{% endhighlight %}
 
 Как видите, функция show от $mdDialog принимает html-шаблон с диалогом, а так же новый контроллер, который мы сейчас и создадим:
 
-[js]
+{% highlight javascript %}
 
 function AddDialogCtrl($scope, $mdDialog) {
 
@@ -357,11 +357,11 @@ $mdDialog.hide(task);
 
 };
 
-[/js]
+{% endhighlight %}
 
 И конечно же, не забываем добавить функцию addTask(), которая будет добавлять нашу новую задачу в общий массив на первую позицию:
 
-[js]
+{% highlight javascript %}
 
 $scope.addTask = function (task) {
 
@@ -375,7 +375,7 @@ $scope.myTasks.unshift({
 
 };
 
-[/js]
+{% endhighlight %}
 
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg" alt="todo-app - добавить новую задачу" class="aligncenter size-medium wp-image-8340" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -383,7 +383,7 @@ $scope.myTasks.unshift({
 
 В итоге, у меня main.js выглядит следующим образом:
 
-[js]
+{% highlight javascript %}
 
 var app = angular.module(&#8216;todoApp&#8217;, [&#8216;ngMaterial&#8217;]);
 
@@ -479,7 +479,7 @@ $mdDialog.hide(task);
 
 };
 
-[/js]
+{% endhighlight %}
 
 [<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg" alt="создание приложения на основе electron" class="aligncenter size-medium wp-image-8341" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg)
 
