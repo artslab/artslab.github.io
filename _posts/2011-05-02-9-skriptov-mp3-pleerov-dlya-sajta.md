@@ -41,7 +41,7 @@ tags:
 
 Для того чтобы встроить плеер на нужную страницу, необходимо воспользоваться этим кодом:
 
-[html]
+{% highlight html %}
 
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="38" id="niftyPlayer1" align="">
 
@@ -57,7 +57,7 @@ tags:
 
 </object>
 
-[/html]
+{% endhighlight %}
 
 _file=betty.mp3 &#8211; это, соответственно, путь и название проигрываемого файла._
 
@@ -67,11 +67,11 @@ _Кроме того, можно легко настроить внешний в
 
 И конечно нужно не забыть подключить js-файл с плеером.
 
-[html]
+{% highlight html %}
 
 <script type="text/javascript" language="javascript" src="niftyplayer.js"></script>
 
-[/html]
+{% endhighlight %}
 
 Более подробную инструкцию и документаций можно найти на официальном сайте NiftyPlayer.
 

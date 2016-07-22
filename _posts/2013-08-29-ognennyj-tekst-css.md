@@ -36,7 +36,7 @@ tags:
 
 Код класса:
 
-[css]
+{% highlight css %}
 
 .fire-text {
 
@@ -52,7 +52,7 @@ text-shadow: 0 0 20px #fefcc9, 10px -10px 30px #feec85, -20px -20px 40px #ffae34
 
 }
 
-[/css]
+{% endhighlight %}
 
 За эффект огня отвечает аттрибут text-shadow. Смело поэкспериментируйте с цветами, чтобы понять, за что отвечает конкретный параметр.
 

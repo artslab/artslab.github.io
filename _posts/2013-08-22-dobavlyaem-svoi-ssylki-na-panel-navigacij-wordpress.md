@@ -32,7 +32,7 @@ tags:
 
 ### Код функций:
 
-[php]
+{% highlight php %}
 
 function add\_blog\_menu()
 
@@ -66,6 +66,6 @@ $wp\_admin\_bar->add_menu(array(
 
 add\_action(&#8216;wp\_before\_admin\_bar\_render&#8217;, &#8216;add\_blog_menu&#8217;);
 
-[/php]
+{% endhighlight %}
 
 (<a href="http://validwebs.com/423/add-blog-link-to-admin-nav/" target="_blank">via</a>)

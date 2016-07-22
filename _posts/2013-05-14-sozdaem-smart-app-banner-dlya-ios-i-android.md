@@ -36,7 +36,7 @@ tags:
 
 Начнем с iOS, так как создать Smart Banner App для пользователей мобильных на этой системы, очень-очень просто. Для этого нам понадобиться узнать только id необходимого приложения в AppStore и добавить всего одну мета-строку в header сайта:
 
-[html]<meta name="apple-itunes-app" content="app-id=%айди_приложения%">[/html]
+{% highlight html %}<meta name="apple-itunes-app" content="app-id=%айди_приложения%">{% endhighlight %}
 
 <small>%айди_приложения% &#8211; заменить на настоящий</small>
 

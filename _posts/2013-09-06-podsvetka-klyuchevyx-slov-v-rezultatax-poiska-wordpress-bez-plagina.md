@@ -30,46 +30,34 @@ tags:
 
 Нижепреведенный код с 2 функциями необходимо добавить в файл functions.php:
 
-[php title=&#8221;functions.php&#8221;]
+{% highlight php %}
 
 function search\_excerpt\_highlight() {
-
-$excerpt = get\_the\_excerpt();
-
-$keys = implode(&#8216;|&#8217;, explode(&#8216; &#8216;, get\_search\_query()));
-
-$excerpt = preg_replace(&#8216;/(&#8216; . $keys .&#8217;)/iu&#8217;, &#8216;<strong class="search-highlight">&#92;&#48;</strong>&#8217;, $excerpt);
-
-echo &#8216;<p>&#8217; . $excerpt . &#8216;</p>&#8217;;
-
+	$excerpt = get\_the\_excerpt();
+	$keys = implode(&#8216;|&#8217;, explode(&#8216; &#8216;, get\_search\_query()));
+	$excerpt = preg_replace(&#8216;/(&#8216; . $keys .&#8217;)/iu&#8217;, &#8216;<strong class="search-highlight">&#92;&#48;</strong>&#8217;, $excerpt);
+	echo &#8216;<p>&#8217; . $excerpt . &#8216;</p>&#8217;;
 }
 
 function search\_title\_highlight() {
-
-$title = get\_the\_title();
-
-$keys = implode(&#8216;|&#8217;, explode(&#8216; &#8216;, get\_search\_query()));
-
-$title = preg_replace(&#8216;/(&#8216; . $keys .&#8217;)/iu&#8217;, &#8216;<strong class="search-highlight">&#92;&#48;</strong>&#8217;, $title);
-
-echo $title;
-
+	$title = get\_the\_title();
+	$keys = implode(&#8216;|&#8217;, explode(&#8216; &#8216;, get\_search\_query()));
+	$title = preg_replace(&#8216;/(&#8216; . $keys .&#8217;)/iu&#8217;, &#8216;<strong class="search-highlight">&#92;&#48;</strong>&#8217;, $title);
+	echo $title;
 }
 
-[/php]
+{% endhighlight %}
 
 Теперь перейдем в файл search.php отвечающий за отображение результатов поиска. В нем необходимо заменить 2 стандартные функций на наши новые функций, которые мы только что переписали. the\_title() на search\_title\_highlight() и the\_excerpt(), соответственно на search\_excerpt\_highlight().
 
 В style.css можно добавить класс для того чтобы выделить найденную фразу с помощью фона:
 
-[css title=&#8221;style.css&#8221;]
+{% highlight css %}
 
 .search-highlight {
-
-background:#FFFFB6;
-
+	background:#FFFFB6;
 }
 
-[/css]
+{% endhighlight %}
 
 <a href="http://wordpress.stackexchange.com/questions/16070/how-to-highlight-search-terms-without-plugin" target="_blank">Источник</a>

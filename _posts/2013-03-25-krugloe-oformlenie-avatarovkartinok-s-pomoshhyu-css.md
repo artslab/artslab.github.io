@@ -45,19 +45,17 @@ tags:
 
 HTML-код:
 
-[html]<img class="avatar" src="http://placeimg.com/80/80/people" />[/html]
+{% highlight html %}<img class="avatar" src="http://placeimg.com/80/80/people" />{% endhighlight %}
 
 Стиль CSS:
 
-[css].avatar {
-
-width: 80px;
-
-height: 80px;
-
-border-radius: 40px; /\* половина ширины и высоты \*/
-
-}[/css]
+{% highlight css %}
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px; /\* половина ширины и высоты \*/
+}
+{% endhighlight %}
 
 <a href="http://codepen.io/4gray/pen/rgEmj" target="_blank">Демо на Codepen</a>
 
@@ -69,7 +67,7 @@ border-radius: 40px; /\* половина ширины и высоты \*/
 
 Для начала подготовим часть HTML-кода:
 
-[html]
+{% highlight html %}
 
 <div id="avatarbg">
 
@@ -77,153 +75,94 @@ border-radius: 40px; /\* половина ширины и высоты \*/
 
 </div>
 
-[/html]
+{% endhighlight %}
 
 Перейдем к CSS-стилям:
 
-[css]
+{% highlight css %}
 
 /\* Тень \*/
 
 #avatarbg img.avatar {
-
-margin: 0;
-
--webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.3);
-
--moz-box-shadow: 0 1px 2px rgba(0,0,0,0.3);
-
-box-shadow: 0 1px 2px rgba(0,0,0,0.3);
-
-width: 68px;
-
-height: 68px;
-
+  margin: 0;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  width: 68px;
+  height: 68px;
 }
 
 /\* Фон, рамка для аватара \*/
 
 #avatarbg {
-
-width: 67px;
-
-height: 67px;
-
-display: block;
-
-background-color: #eee;
-
-background-image: -moz-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
-
-background-image: -webkit-gradient(linear,0 0,0 100%,from(rgba(0,0,0,0)),to(rgba(0,0,0,0.05)));
-
-background-image: -webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
-
-background-image: -o-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
-
-background-image: linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
-
-background-repeat: repeat-x;
-
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&#8217;#00000000&#8242;,endColorstr=&#8217;#0d000000&#8242;,GradientType=0);
-
-padding: 6px;
-
-padding-top: 5px;
-
--webkit-box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);
-
--moz-box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);
-
-box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);
-
-border: 1px solid #c0d6e0;
-
-position: relative;
-
--webkit-transition: all .2s ease-in-out 0s;
-
--moz-transition: all .2s ease-in-out 0s;
-
--o-transition: all .2s ease-in-out 0s;
-
-transition: all .2s ease-in-out 0s;
-
-float:left;
-
+  width: 67px;
+  height: 67px;
+  display: block;
+  background-color: #eee;
+  background-image: -moz-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(rgba(0,0,0,0)),to(rgba(0,0,0,0.05)));
+  background-image: -webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
+  background-image: -o-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
+  background-image: linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0.05));
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&#8217;#00000000&#8242;,endColorstr=&#8217;#0d000000&#8242;,GradientType=0);
+  padding: 6px;
+  padding-top: 5px;
+  -webkit-box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);
+  -moz-box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);
+  box-shadow: 0 1px 0 #fff,0 -1px 0 rgba(0,0,0,0.4);
+  border: 1px solid #c0d6e0;
+  position: relative;
+  -webkit-transition: all .2s ease-in-out 0s;
+  -moz-transition: all .2s ease-in-out 0s;
+  -o-transition: all .2s ease-in-out 0s;
+  transition: all .2s ease-in-out 0s;
+  float:left;
 }
 
 /\* Выпуклость \*/
 
 #avatarbg:before {
-
-background-image: -moz-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
-
-background-image: -webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,0.4)),to(rgba(255,255,255,0)));
-
-background-image: -webkit-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
-
-background-image: -o-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
-
-background-image: linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
-
-background-repeat: repeat-x;
-
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&#8217;#66ffffff&#8217;,endColorstr=&#8217;#00ffffff&#8217;,GradientType=0);
-
--webkit-box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);
-
--moz-box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);
-
-box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);
-
-border: 1px solid #afc3cb;
-
+  background-image: -moz-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,0.4)),to(rgba(255,255,255,0)));
+  background-image: -webkit-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
+  background-image: -o-linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
+  background-image: linear-gradient(top,rgba(255,255,255,0.4),rgba(255,255,255,0));
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=&#8217;#66ffffff&#8217;,endColorstr=&#8217;#00ffffff&#8217;,GradientType=0);
+  -webkit-box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);
+  -moz-box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);
+  box-shadow: inset 0 1px 0 #fff,inset 0 -1px 7px rgba(0,0,0,.2);
+  border: 1px solid #afc3cb;
 }
 
 /\* Блеск, эффект стекла \*/
 
 #avatarbg:after {
-
-background: -webkit-gradient(linear,left top,right bottom,color-stop(0%,rgba(255,255,255,0.1)),color-stop(44%,rgba(255,255,255,0.2)),color-stop(45%,rgba(255,255,255,0)),color-stop(100%,rgba(255,255,255,0)));
-
+  background: -webkit-gradient(linear,left top,right bottom,color-stop(0%,rgba(255,255,255,0.1)),color-stop(44%,rgba(255,255,255,0.2)),color-stop(45%,rgba(255,255,255,0)),color-stop(100%,rgba(255,255,255,0)));
 }
 
 #avatarbg:before, #avatarbg:after {
-
-content: "";
-
-width: 68px;
-
-height: 68px;
-
-position: absolute;
-
-left: 4px;
-
-top: 4px;
-
+  content: "";
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
 }
 
 /\* Закругление \*/
 
 #avatarbg, #avatarbg:before, #avatarbg:after, #avatarbg img.avatar {
-
--webkit-border-radius: 81px;
-
--moz-border-radius: 81px;
-
-border-radius: 81px;
-
--moz-background-clip: padding;
-
--webkit-background-clip: padding-box;
-
-background-clip: padding-box;
-
+  -webkit-border-radius: 81px;
+  -moz-border-radius: 81px;
+  border-radius: 81px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
 }
 
-[/css]
+{% endhighlight %}
 
 Результат и код можно также посмотреть на моей страничке на <a href="http://codepen.io/4gray/pen/iBpLm" target="_blank"сервисе codepen</a>.
 

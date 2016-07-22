@@ -30,47 +30,30 @@ tags:
 
 Код:
 
-[css title=&#8221;style.css&#8221;]
+{% highlight css %}
 
 h2 {
-
-color: transparent;
-
-text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-
-font-size: 62px;
-
--webkit-transition: text-shadow 2.0 ease-out;
-
--moz-transition: text-shadow 2.0 ease-out;
-
--ms-transition: text-shadow 2.0 ease-out;
-
--o-transition: text-shadow 2.0 ease-out;
-
-transition: text-shadow 2.0 ease-out;
-
+	color: transparent;
+	text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	font-size: 62px;
+	-webkit-transition: text-shadow 2.0 ease-out;
+	-moz-transition: text-shadow 2.0 ease-out;
+	-ms-transition: text-shadow 2.0 ease-out;
+	-o-transition: text-shadow 2.0 ease-out;
+	transition: text-shadow 2.0 ease-out;
 }
 
 h2:hover {
-
-text-shadow: 0 0 0 rgba(0, 0, 0, 1);
-
--webkit-transition: text-shadow 0.5s;
-
--moz-transition: text-shadow 0.5s;
-
--ms-transition: text-shadow 0.5s;
-
--o-transition: text-shadow 0.5s;
-
-transition: text-shadow 0.5s;
-
-cursor: default;
-
+	text-shadow: 0 0 0 rgba(0, 0, 0, 1);
+	-webkit-transition: text-shadow 0.5s;
+	-moz-transition: text-shadow 0.5s;
+	-ms-transition: text-shadow 0.5s;
+	-o-transition: text-shadow 0.5s;
+	transition: text-shadow 0.5s;
+	cursor: default;
 }
 
-[/css]
+{% endhighlight %}
 
 Демо:
 

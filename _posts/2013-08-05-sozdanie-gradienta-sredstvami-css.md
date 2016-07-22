@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=7307
 permalink: /snippety/sozdanie-gradienta-sredstvami-css/
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 783
 dsq_thread_id:
@@ -24,39 +24,31 @@ tags:
 
 Создадим небольшой div-контейнер с фиксированным размером.
 
-[html]
-  
+{% highlight html %}
+
 <div class="gradient"></div>
-  
-[/html]
+
+{% endhighlight %}
 
 Теперь создадим класс «gradient» для заполнения нашего контейнера градиентом. Свойство box-shadow предназначено для создания тени блока, но мы воспользуемся им немного иначе.
-  
+
 При указаний параметра inset у нас получится внутренняя тень. Зальем весь контейнер одним цветом, а в качестве второго цвета градиента используем нашу &#8220;тень&#8221;.
 
 Получается такой класс:
 
-[css]
-  
+{% highlight css %}
+
 .gradient {
-  
-background: #57e15f;
-  
-box-shadow: inset 0 200px 200px -100px #255f29;
-  
--webkit-box-shadow: inset 0 200px 200px -100px #255f29;
-  
--moz-box-shadow: inset 0 200px 200px -100px #255f29;
-  
-display:block;
-  
-width: 100%;
-  
-height: 200px;
-  
+  background: #57e15f;
+  box-shadow: inset 0 200px 200px -100px #255f29;
+  -webkit-box-shadow: inset 0 200px 200px -100px #255f29;
+  -moz-box-shadow: inset 0 200px 200px -100px #255f29;
+  display:block;
+  width: 100%;
+  height: 200px;
 }
-  
-[/css]
+
+{% endhighlight %}
 
 Результат:
 
@@ -64,7 +56,7 @@ height: 200px;
   <h2>
     ArtsLab
   </h2>
-  
+
   <p>
     Создание градиента с помощью CSS
   </p>

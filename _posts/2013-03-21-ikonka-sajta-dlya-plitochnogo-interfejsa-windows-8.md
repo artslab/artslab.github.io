@@ -36,15 +36,13 @@ tags:
 
 Всего нам понадобиться добавить три строки в шапку сайта, т.е. между тегами <head> и </head>. За фоновый цвет плитки отвечает первый метатег, второй содержит путь к необходимой иконке, а в третьем указан заголовок страницы, который будет отображаться на плитке под иконкой.
 
-[html]
+{% highlight html %}
 
 <meta name="msapplication-TileColor" content="#302f30"/>
-
 <meta name="msapplication-TileImage" content="http://artslab.info/tile_icon.png"/>
-
 <meta name="application-name" content="ArtsLab"/>
 
-[/html]
+{% endhighlight %}
 
 Напоследок, поделюсь сервисом <a href="http://www.buildmypinnedsite.com/" target="_blank">BuildMyPinnedSite</a>, он поможет с предпросмотром при оформлений, а так же умеет генерировать вышеуказанный код.
 

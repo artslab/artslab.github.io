@@ -31,37 +31,31 @@ tags:
 
 ### HTML:
 
-[html title=&#8221;index.html&#8221;]
+{% highlight html %}
 
 <div id="clock"></div>
 
-[/html]
+{% endhighlight %}
 
 Подготовим контейнер в котором будут отображаться чаи и присвоим ему id.
 
 ### JS:
 
-[js title=&#8221;script.js&#8221;]
+{% highlight javascript %}
 
 setInterval(function(){
+	var date = new Date();
 
-var date = new Date();
+	var format = [
+		(date.getHours()),
+		(date.getMinutes()),
+		(date.getSeconds())
+	].join(":");
 
-var format = [
-
-(date.getHours()),
-
-(date.getMinutes()),
-
-(date.getSeconds())
-
-].join(":");
-
-document.getElementById("clock").innerHTML = format;
-
+	document.getElementById("clock").innerHTML = format;
 }, 900);
 
-[/js]
+{% endhighlight %}
 
 Код довольно-таки прост. Главное это создание класса Date и получение текущего времени с помощью трех функций getHours(), getMinutes и getSeconds(). И в конце вывод времени в зависимости от установленного интервала (900) в элемент с соответствующим id (#clock).
 

@@ -30,19 +30,15 @@ tags:
 
 Думаю код не нуждается ни в каких дополнительных комментариях. Вот и сам класс:
 
-[css]
+{% highlight css %}
 
 .text {
-
-background: -webkit-linear-gradient(#f1c40f, #c0392b);
-
--webkit-background-clip: text;
-
--webkit-text-fill-color: transparent;
-
+	background: -webkit-linear-gradient(#f1c40f, #c0392b);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
-[/css]
+{% endhighlight %}
 
 Пример, как всегда, доступен на <a href="http://codepen.io/4gray/pen/sxGka" target="_blank">Codepen</a>.
 

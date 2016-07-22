@@ -40,143 +40,91 @@ tags:
 
 ### 1. HTML код
 
-[html]
+{% highlight html %}
 
 <ul id="menu">
-
-<li><a href="#">Главная</a></li>
-
-<li><a href="#">Категории</a>
-
-<ul>
-
-<li><a href="#">Ссылка 1</a></li>
-
-<li><a href="#">Ссылка 2</a></li>
-
-<li><a href="#">Ссылка 3</a></li>
-
+  <li><a href="#">Главная</a></li>
+  <li><a href="#">Категории</a>
+  <ul>
+    <li><a href="#">Ссылка 1</a></li>
+    <li><a href="#">Ссылка 2</a></li>
+    <li><a href="#">Ссылка 3</a></li>
+  </ul>
+  </li>
+  <li><a href="#">О сайте</a>
+    <ul>
+      <li><a href="#">Ссылка 1</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Контакт</a></li>
 </ul>
 
-</li>
-
-<li><a href="#">О сайте</a>
-
-<ul>
-
-<li><a href="#">Ссылка 1</a></li>
-
-</ul>
-
-</li>
-
-<li><a href="#">Контакт</a></li>
-
-</ul>
-
-[/html]
+{% endhighlight %}
 
 Создадим обычный список (Unordered List) и добавим к двум пунктам &#8211; субменю в виде еще двух вложенных списков.
 
 ### 2. CSS
 
-[css]
+{% highlight css %}
 
 #menu {
-
-background: #c0392b;
-
-width: 100%;
-
-padding:0;
-
-text-align: center;
-
-float:left;
-
-border-bottom: 6px solid #e74c3c;
-
+  background: #c0392b;
+  width: 100%;
+  padding:0;
+  text-align: center;
+  float:left;
+  border-bottom: 6px solid #e74c3c;
 }
 
 #menu a {
-
-color: #fff;
-
-text-decoration: none;
-
+  color: #fff;
+  text-decoration: none;
 }
 
 #menu a:hover {
-
-color: #ccc;
-
+  color: #ccc;
 }
 
 #menu ul {
-
-padding:0;
-
-margin:0;
-
+  padding:0;
+  margin:0;
 }
 
 #menu li {
-
-list-style: none;
-
-padding: 0 15px 0 0;
-
-width:100px;
-
-margin: 0 auto;
-
-float:left;
-
-line-height: 50px;
-
+  list-style: none;
+  padding: 0 15px 0 0;
+  width:100px;
+  margin: 0 auto;
+  float:left;
+  line-height: 50px;
 }
 
 #menu li ul {
-
-position:absolute;
-
-display: none;
-
+  position:absolute;
+  display: none;
 }
 
 #menu li ul li {
-
-float: none;
-
-display: inline;
-
-width:100px;
-
-line-height:35px;
-
+  float: none;
+  display: inline;
+  width:100px;
+  line-height:35px;
 }
 
 #menu li ul li:hover {
-
-background: #c0392b;
-
+  background: #c0392b;
 }
 
 #menu li:hover ul {
-
-display:block;
-
+  display:block;
 }
 
 #menu li ul li {
-
-display: block;
-
-background:#e74c3c;
-
+  display: block;
+  background:#e74c3c;
 }
 
-[/css]
+{% endhighlight %}
 
 Главное, на что стоит обратить внимание в CSS части, то что выпадающее меню изначально скрыто (display:none) и появляется только при наведения курсора (li:hover ul).
 

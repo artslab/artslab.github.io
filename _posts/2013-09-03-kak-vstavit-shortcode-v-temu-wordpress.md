@@ -30,4 +30,4 @@ tags:
 
 ### Код:
 
-[php]<?php echo do\_shortcode("[your\_shortcode]"); ?>[/php]
+{% highlight php %}<?php echo do\_shortcode("[your\_shortcode]"); ?>{% endhighlight %}

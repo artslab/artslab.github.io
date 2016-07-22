@@ -11,7 +11,7 @@ ljID:
 prosmotr:
   - 124
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 1388
 dsq_thread_id:
@@ -30,47 +30,47 @@ tags:
 </p>
 
 В одном из <a href="http://artslab.info/?p=100#comments" title="комментарий" target="_blank">комментариев</a> на сайте спрашивали о там как создать **эффект**_ вроде того что на картинке выше. То есть чтобы при наведении на картинку, ее **прозрачность** становилась 100%-ной, а на неактивной картинке поменьше (50%), чтобы она выглядела потусклее. Далее следует небольшое описание, как это сделать.
-  
+
 <!--more-->
 
 
-  
+
 1. Добавляем в <span style="font-weight: bold">style.css</span> следующий код:
-  
-[css]a.opacity img {
-  
+
+{% highlight css %}a.opacity img {
+
 filter:alpha(opacity=50);
-  
+
 -moz-opacity: 0.5;
-  
+
 opacity: 0.5;}
 
 a.opacity:hover img {
-  
+
 filter:alpha(opacity=100);
-  
+
 -moz-opacity: 1.0;
-  
+
 opacity: 1.0;
-  
+
 }
-  
-[/css]
-  
+
+{% endhighlight %}
+
 2. Подключаем style.css к главной странице **index.html**/php. Добавляем между <head> и </head>
-  
-[html] <link rel="stylesheet" href="style.css" type="text/css" media="screen" />[/html]
-  
+
+{% highlight html %} <link rel="stylesheet" href="style.css" type="text/css" media="screen" />{% endhighlight %}
+
 3. Вставляем на главной(index.hml):
-  
-[html]
-  
+
+{% highlight html %}
+
 <a href="#" class="opacity">
-  
+
 <img src="logo.jpg" alt="Image" />
-  
+
 </a>
-  
-[/html]
-  
+
+{% endhighlight %}
+
 На этом и все, **пример** можно скачать <a href="http://www.box.net/shared/atqkpz8rrg" title="download example" target="_blank">отсюда</a>.

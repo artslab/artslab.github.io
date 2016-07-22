@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565022393
 cover:
-  - 
+  -
 categories:
   - Советы
 tags:
@@ -30,17 +30,17 @@ tags:
 
 Итак, все что нужно сделать, это зайти в редактирование профиля -> About me (_куда можно добавлять html и css_) и вписать туда несколько строчек:
 
-[css]
-  
+{% highlight css %}
+
 .clearfix {
-  
+
 display:none !important;
-  
+
 position:absolute!important;
-  
+
 }
-  
-[/css]
+
+{% endhighlight %}
 
 Источник: <a href="http://jericosystems.com/2008/07/02/hide-ads-on-myspace/" target="_blank">Jerico Systems</a>
 

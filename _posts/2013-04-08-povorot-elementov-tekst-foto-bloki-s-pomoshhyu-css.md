@@ -44,27 +44,22 @@ tags:
 
 
 
-[html]<div class="rotate">Повернутый текст</div>[/html]
+{% highlight html %}<div class="rotate">Повернутый текст</div>{% endhighlight %}
 
 **Стиль CSS:**
 
-[css].rotate {
-
--webkit-transform: rotate(-10deg);
-
--moz-transform: rotate(-10deg);
-
--ms-transform: rotate(-10deg);
-
+{% highlight css %}
+.rotate {
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
 }
 
-[/css]
+{% endhighlight %}
 
 **Другие примеры:**
 
 **Фотография:**
-
-
 
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutoe_foto.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutoe_foto.jpg" alt="повернуть фото CSS" class="aligncenter size-full wp-image-6932" /></a>
@@ -72,7 +67,7 @@ tags:
 
 
 
-[html]<img src="http://placeimg.com/200/200/tech" class="rotate" />[/html]
+{% highlight html %}<img src="http://placeimg.com/200/200/tech" class="rotate" />{% endhighlight %}
 
 **Небольшая форма:**
 
@@ -84,7 +79,7 @@ tags:
 
 
 
-[html]<div class="rotate">
+{% highlight html %}<div class="rotate">
 
 <input type="text" size="20" placeholder="Логин" /><br />
 
@@ -92,6 +87,6 @@ tags:
 
 <input type="submit" size="10" />
 
-</div>[/html]
+</div>{% endhighlight %}
 
 Добавки -moz, -webkit, -ms перед свойством transform необходимы для обеспечения кроссбраузерности. -moz отвечает за корректное отображение в Mozilla Firefox, -ms для Internet Explorer, а -webkit в Google Chrome, Safari и других браузерах работающих на движке Webkit.

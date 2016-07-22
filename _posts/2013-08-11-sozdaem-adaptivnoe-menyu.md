@@ -41,133 +41,88 @@ tags:
 
 Во второй контейнер поместим все элементы/ссылки меню. У меня получился такой HTML-код:
 
-[html]
+{% highlight html %}
 
 <ul id="menu">
-
-<div class="icon">&#9776;</div>
-
-<div class="items">
-
-<li><a href="#">Главная</a></li>
-
-<li><a href="#">Категорий</a></li>
-
-<li><a href="#">О сайте</a></li>
-
-<li><a href="#">Контакт</a></li>
-
-</div>
-
+  <div class="icon">&#9776;</div>
+  <div class="items">
+    <li><a href="#">Главная</a></li>
+    <li><a href="#">Категорий</a></li>
+    <li><a href="#">О сайте</a></li>
+    <li><a href="#">Контакт</a></li>
+  </div>
 </ul>
 
-[/html]
+{% endhighlight %}
 
 2. Теперь займемся CSS. Для больших экранов скроем иконку меню (display:none в классе icon) и оставим только список с ссылками. В Media Query для класса icon, соответственно, пропишем display:block, для отображения иконки на маленьком экране.
 
-[css]
+{% highlight css %}
 
 * {
-
-padding:0;
-
-margin:0;
-
-font: 14px Helvetica, Arial;
-
+  padding:0;
+  margin:0;
+  font: 14px Helvetica, Arial;
 }
 
 #menu {
-
-background: #c0392b;
-
-width: 100%;
-
-padding: 20px 0;
-
-text-align: center;
-
+  background: #c0392b;
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
 }
 
 #menu a {
-
-color: #fff;
-
-text-decoration: none;
-
+  color: #fff;
+  text-decoration: none;
 }
 
 #menu a:hover {
-
-color: #ccc;
-
+  color: #ccc;
 }
 
 #menu ul {
-
-padding:0;
-
-margin:0;
-
+  padding:0;
+  margin:0;
 }
 
 .items li {
-
-list-style: none;
-
-display:inline;
-
-padding-right: 15px;
-
-width:100%;
-
-margin: 0 auto;
-
+  list-style: none;
+  display:inline;
+  padding-right: 15px;
+  width:100%;
+  margin: 0 auto;
 }
 
 .icon {
-
-color: #fff;
-
-cursor: pointer;
-
-display: none;
-
-font-size:24px;
-
+  color: #fff;
+  cursor: pointer;
+  display: none;
+  font-size:24px;
 }
 
 .showitems {
-
-display:block !important;
-
+  display:block !important;
 }
 
 @media screen and (max-width: 800px) {
 
-.icon {
+  .icon {
+    display:block;
+  }
 
-display:block;
+  .items {
+    display:none;
+  }
 
-}
-
-.items {
-
-display:none;
-
-}
-
-.items li {
-
-display:table;
-
-padding:10px 0;
+  .items li {
+    display:table;
+    padding:10px 0;
+  }
 
 }
 
-}
-
-[/css]
+{% endhighlight %}
 
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu-300x231.jpg" alt="создаем меню на css и jquery" class="aligncenter size-medium wp-image-7410" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu-300x231.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu.jpg 660w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -177,35 +132,28 @@ padding:10px 0;
 
 Код:
 
-[js]
+{% highlight javascript %}
 
 $(function() {
 
-$(&#8216;.icon&#8217;).click(function() {
+  $(".icon").click(function() {
 
-if($(&#8216;.items&#8217;).is(&#8216;:visible&#8217;)) {
+    if($(".items").is(":visible")) {
+       $(".items").removeClass("showitems");
+    }
 
-$(&#8216;.items&#8217;).removeClass(&#8216;showitems&#8217;);
+    else {
+        $(".items").addClass("showitems");
+    }
 
-}
-
-else {
-
-$(&#8216;.items&#8217;).addClass(&#8216;showitems&#8217;);
-
-}
-
+  });
 });
 
-});
-
-[/js]
+{% endhighlight %}
 
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3-300x300.png" alt="раскрытое меню" class="aligncenter size-medium wp-image-7403" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3-300x300.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3.png 507w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
-
-
 
 
 

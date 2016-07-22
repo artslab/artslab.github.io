@@ -31,7 +31,7 @@ tags:
 
 1. Во-первых, нужно найти js-скрипт и мелодию. Воспользуемся скриптом с сайта [HSKmaker](http://hsmaker.com/), который за нас уже [успели вытащить](http://time2hack.com/2013/02/create-your-own-websites-harlem-shake-meme.html) из кода страницы.
 
-[html]<script src="http://files.time2hack.com/time2hack.harlem.shake.min.js" type="text/javascript"></script>
+{% highlight html %}<script src="http://files.time2hack.com/time2hack.harlem.shake.min.js" type="text/javascript"></script>
 
 <div style=" height:0px; width:0px; overflow:hidden;">
 
@@ -51,17 +51,17 @@ harlemShake();
 
 </script>
 
-</div>[/html]
+</div>{% endhighlight %}
 
 2. Теперь нам нужно чтобы WordPress реагировал на фразу &#8220;do the harlem shake&#8221; или какое-либо другое слово, это уж на ваше усмотрение.
 
 Для этого откроем файл темы с отображением результатов поиска, обычно это search.php. Находим в коде:
 
-[php]<?php if (have_posts()) : ?>[/php]
+{% highlight php %}<?php if (have_posts()) : ?>{% endhighlight %}
 
 И перед этим фрагментом вставляем код с Harlem Shake:
 
-[php]
+{% highlight php %}
 
 <?php if($_GET[&#8216;s&#8217;] == &#8216;do the harlem shake&#8217;) { ?>
 
@@ -89,7 +89,7 @@ harlemShake();
 
 <?php } ?>
 
-[/php]
+{% endhighlight %}
 
 3. При необходимости очищаем кэш и проверяем 🙂
 

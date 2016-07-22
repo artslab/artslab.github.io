@@ -34,11 +34,11 @@ tags:
 
 2. Копируем код букмарклета с Firebug:
 
-[js]
+{% highlight javascript %}
 
 javascript:(function(F,i,r,e,b,u,g,L,I,T,E){if(F.getElementById(b))return;E=F\[i+&#8217;NS&#8217;]&&F.documentElement.namespaceURI;E=E?F[i+&#8217;NS&#8217;\](E,&#8217;script&#8217;):F\[i\](&#8216;script&#8217;);E\[r\](&#8216;id&#8217;,b);E\[r\](&#8216;src&#8217;,I+g+T);E\[r\](b,u);(F\[e\](&#8216;head&#8217;)\[0]||F[e\](&#8216;body&#8217;)\[0]).appendChild(E);E=new%20Image;E[r\](&#8216;src&#8217;,I+L);})(document,&#8217;createElement&#8217;,&#8217;setAttribute&#8217;,&#8217;getElementsByTagName&#8217;,&#8217;FirebugLite&#8217;,&#8217;4&#8242;,&#8217;firebug-lite.js&#8217;,&#8217;releases/lite/latest/skin/xp/sprite.png&#8217;,&#8217;https://getfirebug.com/&#8217;,&#8217;#startOpened&#8217;);
 
-[/js]
+{% endhighlight %}
 
 3. Редактируем добавленную закладку и место старого URL вставляем скопированный код.
 

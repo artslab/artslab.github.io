@@ -27,12 +27,11 @@ tags:
 </center>
 
 
-
 <!--more-->
 
 Начнем с HTML-части. Здесь все просто, для примера я поместил содержание в блок с классом .content, а за нашу кнопку отвечает класс .go-top.
 
-[html title=&#8221;index.html&#8221;]
+{% highlight html %}
 
 <div id="content">
 
@@ -46,103 +45,71 @@ tags:
 
 <div class="go-top"></div>
 
-[/html]
+{% endhighlight %}
 
 В данном примере я создал не кнопку, а целый область занимающий левую часть экрана (как ВКонтакте). Как только пользователь прокрутит страницу на X пикселей вниз, он увидит нашу панельку с иконкой стрелочки, которая при клике прокрутит страницу наверх и снова исчезнет.
 
-[css title=&#8221;style.css&#8221;]
+{% highlight css %}
 
 #content{
-
-width:300px;
-
-display:block;
-
-margin: 0 auto;
-
-background: #fff;
-
-padding: 5px 20px;
-
+  width:300px;
+  display:block;
+  margin: 0 auto;
+  background: #fff;
+  padding: 5px 20px;
 }
 
 .go-top {
-
-position:fixed;
-
-bottom: 2px;
-
-left:0px;
-
-background: #333;
-
-padding:20px;
-
-display:none;
-
-color: #fff;
-
-cursor: pointer;
-
-height: 100%;
-
-opacity: 0.4;
-
--webkit-opacity: 0.4;
-
--moz-opacity: 0.4;
-
-width:100px;
-
+  position:fixed;
+  bottom: 2px;
+  left:0px;
+  background: #333;
+  padding:20px;
+  display:none;
+  color: #fff;
+  cursor: pointer;
+  height: 100%;
+  opacity: 0.4;
+  -webkit-opacity: 0.4;
+  -moz-opacity: 0.4;
+  width:100px;
 }
 
 .go-top:after {
-
-content: &#8216;\25B2&#8217;;
-
-position: absolute;
-
-bottom:10px;
-
-left: 50px;
-
-font-size: 32px;
-
-font-weight:100;
-
+  content: &#8216;\25B2&#8217;;
+  position: absolute;
+  bottom:10px;
+  left: 50px;
+  font-size: 32px;
+  font-weight:100;
 }
 
-[/css]
+{% endhighlight %}
 
 И последняя часть кода это jQuery. Здесь стоит отметить два главных события это scroll() &#8211; то, что должно происходить при прокрутке страницы и click() &#8211; действие по клике на нашу кнопку. Функция scrollTop() возвращает позицию, насколько страницы прокручена вниз.
 
-[js title=&#8221;script.js&#8221;]
+{% highlight javascript %}
 
 $(function(){
 
-$(window).scroll(function(){
+  $(window).scroll(function(){
+      var scrolled = $(window).scrollTop();
 
-var scrolled = $(window).scrollTop();
+      if (scrolled > 200) $(&#8216;.go-top&#8217;).fadeIn(&#8216;slow&#8217;);
+      if (scrolled < 200) $(&#8216;.go-top&#8217;).fadeOut(&#8216;slow&#8217;);
+    });
 
-if (scrolled > 200) $(&#8216;.go-top&#8217;).fadeIn(&#8216;slow&#8217;);
-
-if (scrolled < 200) $(&#8216;.go-top&#8217;).fadeOut(&#8216;slow&#8217;);
-
-});
-
-$(&#8216;.go-top&#8217;).click(function () {
-
-$("html, body").animate({ scrollTop: "0" },200);
+    $(".go-top").click(function () {
+    $("html, body").animate({ scrollTop: "0" },200);
+  });
 
 });
 
-});
-
-[/js]
+{% endhighlight %}
 
 (scrolled > 200) &#8211; обозначает, что наша панелька будет появляться только после того, как пользователи прокрутит страницу ровно на более чем 200 пикселей вниз. Конечно же, эту цифру можно смело изменить, в зависимости от ваших потребностей.
 
-Демо:
+  <h4>Демо:</h4>
 
 <p data-height="268" data-theme-id="414" data-slug-hash="Legov" data-user="4gray" data-default-tab="result" class='codepen'>
   See the Pen <a href='http://codepen.io/4gray/pen/Legov'>Back to Top Button (CSS & jQuery)</a> by 4gray (<a href='http://codepen.io/4gray'>@4gray</a>) on <a href='http://codepen.io'>CodePen</a>

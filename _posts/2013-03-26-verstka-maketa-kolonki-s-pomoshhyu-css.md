@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=6763
 permalink: /snippety/verstka-maketa-kolonki-s-pomoshhyu-css/
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 787
 dsq_thread_id:
@@ -26,33 +26,25 @@ tags:
 <!--more-->
 
 
-  
-[css]
-  
+
+{% highlight css %}
+
 .three-column {
-    
-padding: 1em;
-    
--moz-column-count: 3;
-    
--moz-column-gap: 1em;
-    
--webkit-column-count: 3;
-    
--webkit-column-gap: 1em;
-    
-column-count: 3;
-    
-column-gap: 1em;
-  
+	padding: 1em;
+	-moz-column-count: 3;
+	-moz-column-gap: 1em;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 1em;
+	column-count: 3;
+	column-gap: 1em;
 }
-  
-[/css]
+
+{% endhighlight %}
 
 Несколько слов о двух главных свойстах:
-  
+
 * column-count &#8211; отвечает за количество столбцов.
-  
-* column-gap &#8211; отвечает за размер отступа между отдельными столбцами. 
+
+* column-gap &#8211; отвечает за размер отступа между отдельными столбцами.
 
 Добавки -moz и -webkit у свойств необходимы для обеспечения кроссбраузерности. -moz, соответственно, для Firefox, а -webkit для браузеров на основе движка WebKit, например Google Chrome.
