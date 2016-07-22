@@ -21,10 +21,10 @@ tags:
   - скриншот
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/sozdat_screenshot.png"><img src="http://artslab.info/wp-content/uploads/sozdat_screenshot-300x170.png" alt="быстрое создание скриншота" title="sozdat_screenshot" width="300" height="170" class="alignnone size-medium wp-image-1378" srcset="http://img.artslab.info/sozdat_screenshot-300x170.png 300w, http://img.artslab.info/sozdat_screenshot.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/sozdat_screenshot.png"><img src="http://artslab.info/wp-content/uploads/sozdat_screenshot-300x170.png" alt="быстрое создание скриншота" title="sozdat_screenshot" width="300" height="170" class="alignnone size-medium wp-image-1378" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_screenshot-300x170.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_screenshot.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-На сегодняшний день существует большое количество инструментов для создания скриншотов. Доступны они как в виде дополнений(например, для браузеров), либо в виде отдельных программ. Речь пойдет о второй категорий. Хотел бы вам представить программку [Shotty](http://shotty.devs-on.net/en/Overview.aspx). 
+На сегодняшний день существует большое количество инструментов для создания скриншотов. Доступны они как в виде дополнений(например, для браузеров), либо в виде отдельных программ. Речь пойдет о второй категорий. Хотел бы вам представить программку [Shotty](http://shotty.devs-on.net/en/Overview.aspx).
 
 <center>
   <a href="http://artslab.info/wp-content/uploads/shotty.jpg"><img src="http://artslab.info/wp-content/uploads/shotty-300x228.jpg" alt="программа для создания скриншотов" title="shotty" width="300" height="228" class="alignnone size-medium wp-image-1376" /></a>

@@ -25,7 +25,7 @@ tags:
 Недавно на странице [w3](http://www.w3.org) был опубликован новый логотип HTML5, для тех кто еще не видел, вот он:
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/html5_logo.jpg"><img src="http://artslab.info/wp-content/uploads/html5_logo-246x300.jpg" alt="" title="html5_logo" width="146" class="wp-image-1193" srcset="http://img.artslab.info/html5_logo-246x300.jpg 246w, http://img.artslab.info/html5_logo.jpg 330w" sizes="(max-width: 246px) 100vw, 246px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/html5_logo.jpg"><img src="http://artslab.info/wp-content/uploads/html5_logo-246x300.jpg" alt="" title="html5_logo" width="146" class="wp-image-1193" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_logo-246x300.jpg 246w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_logo.jpg 330w" sizes="(max-width: 246px) 100vw, 246px" /></a>
 </center>
 
 Не то что бы он мне не нравится, но просто напоминает знак какого-то супермэна на груди его костюма или [суперкомпьютер из South Park&#8217;a](http://www.youtube.com/watch?v=sSwG6MfiSqw)

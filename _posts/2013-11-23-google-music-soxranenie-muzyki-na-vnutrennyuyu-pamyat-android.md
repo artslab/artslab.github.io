@@ -20,7 +20,7 @@ tags:
 С недавних пор мой iPhone 3GS отправился на заслуженную пенсию, а на замену ему пришел андроидфон Xiaomi MI2S. Переход на новую для меня платформу, в принципе, прошел безболезненно и я уже привык к системе.
 
 <center>
-  <a href="http://img.artslab.info/xiaomi-mi2s-google-music.jpg"><img src="http://img.artslab.info/xiaomi-mi2s-google-music-300x200.jpg" alt="xiaomi mi2s" class="aligncenter size-medium wp-image-7952" srcset="http://img.artslab.info/xiaomi-mi2s-google-music-300x200.jpg 300w, http://img.artslab.info/xiaomi-mi2s-google-music-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/xiaomi-mi2s-google-music.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/xiaomi-mi2s-google-music-300x200.jpg" alt="xiaomi mi2s" class="aligncenter size-medium wp-image-7952" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/xiaomi-mi2s-google-music-300x200.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/xiaomi-mi2s-google-music-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Первым делом я решил разобраться с синхронизаций музыки. Так как вся моя коллекция аудиофайлов находиться в iTunes, а оттуда загружается на Google Music, я решил использовать облачный сервис для этих целей. Приложение <a href="https://play.google.com/store/apps/details?id=com.google.android.music&#038;hl=ru" target="_blank">Google Play Music</a> имеет очень даже симпатичный интерфейс и легко позволяет сохранять музыку на телефон для оффлайн прослушивания.
@@ -32,21 +32,21 @@ tags:
 В целом, идея заключается в созданий новой папки во внешней памяти и размещений ярлыка на нее во внутренней памяти, соответственно, в том месте куда сохраняются треки. Для этого нам понадобятся права суперпользователя (root) и программа ROM Toolbox (бесплатной lite версий будет достаточно).
 
 <center>
-  <a href="http://img.artslab.info/rom-toolbox-android.png"><img src="http://img.artslab.info/rom-toolbox-android-168x300.png" alt="приложение rom toolbox" class="aligncenter size-medium wp-image-7954" srcset="http://img.artslab.info/rom-toolbox-android-168x300.png 168w, http://img.artslab.info/rom-toolbox-android.png 516w" sizes="(max-width: 168px) 100vw, 168px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rom-toolbox-android.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rom-toolbox-android-168x300.png" alt="приложение rom toolbox" class="aligncenter size-medium wp-image-7954" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rom-toolbox-android-168x300.png 168w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rom-toolbox-android.png 516w" sizes="(max-width: 168px) 100vw, 168px" /></a>
 </center>
 
 
-  
+
 **Теперь пошагово:**
 
 1. Ставим приложение <a href="https://play.google.com/store/apps/details?id=com.jrummy.liberty.toolbox&#038;hl=ru" target="_blank">ROM Toolbox</a>
-  
+
 2. Перейдем на внешнюю память (external storage / sdcard) и создадим там папку «GoogleMusic», а в ней еще одну папку «files»
-  
+
 3. Нажимаем и держим на папке files. Из появившегося меню, выбираем последний пункт «Create Shortcut»
-  
+
 4. Переходим во внешнюю память в директорию «/data/data/com.google.android.music/» и удаляем папку files, вместе с ней исчезнут все скачанные аудиозаписи. (если не хотите потерять все сохраненные аудиофайлы, то заранее перенесите их)
-  
+
 5. Нажмите кнопочку Create для создания ярлыка.
-  
+
 6. Готово!

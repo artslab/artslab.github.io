@@ -9,7 +9,7 @@ permalink: /wordpress/uskoryaem-zagruzku-stranicy-bloga-s-pomoshhyu-plagina-lazy
 prosmotr:
   - 123
 onswipe_thumb:
-  - http://img.artslab.info/lazy_load_for_wp.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lazy_load_for_wp.jpg
 wpb_post_views_count:
   - 1773
 dsq_thread_id:
@@ -22,8 +22,8 @@ tags:
   - плагин
 ---
 <center>
-  <a href="http://img.artslab.info/lazy_load_for_wp.jpg"><img src="http://img.artslab.info/lazy_load_for_wp-300x70.jpg" alt="плагин Lazy load Для wordpress" title="lazy_load_for_wp" width="300" height="70" class="aligncenter size-medium wp-image-4721" srcset="http://img.artslab.info/lazy_load_for_wp-300x70.jpg 300w, http://img.artslab.info/lazy_load_for_wp.jpg 790w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lazy_load_for_wp.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lazy_load_for_wp-300x70.jpg" alt="плагин Lazy load Для wordpress" title="lazy_load_for_wp" width="300" height="70" class="aligncenter size-medium wp-image-4721" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lazy_load_for_wp-300x70.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lazy_load_for_wp.jpg 790w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-Сегодня кое-что для владельцев блогов на WordPress. Хочу рассказать о плагине под названием Lazy Load. Его главная цель, это ускорение загрузки страниц блога на WordPress. [Lazy Load](http://wordpress.org/extend/plugins/lazy-load/) экономит на том, что загружает только те картинки на странице блога, которые отображаются в видимой области браузера. Тем самым все остальные изображения будут подгружаться только в том случае если это необходимо. То есть только тогда, когда они появятся в видимой области.    
+Сегодня кое-что для владельцев блогов на WordPress. Хочу рассказать о плагине под названием Lazy Load. Его главная цель, это ускорение загрузки страниц блога на WordPress. [Lazy Load](http://wordpress.org/extend/plugins/lazy-load/) экономит на том, что загружает только те картинки на странице блога, которые отображаются в видимой области браузера. Тем самым все остальные изображения будут подгружаться только в том случае если это необходимо. То есть только тогда, когда они появятся в видимой области.
 Плагин активирован и в моем блоге, начните прокручивать страницу вниз и вы увидите как он работает.

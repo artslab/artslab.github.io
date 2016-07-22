@@ -26,11 +26,11 @@ tags:
   - фото
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/custom_wordpress_login.jpg"><img src="http://artslab.info/wp-content/uploads/custom_wordpress_login-300x100.jpg" alt="" title="custom_wordpress_login" width="300" height="100" class="alignnone size-medium wp-image-958" srcset="http://img.artslab.info/custom_wordpress_login-300x100.jpg 300w, http://img.artslab.info/custom_wordpress_login.jpg 527w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/custom_wordpress_login.jpg"><img src="http://artslab.info/wp-content/uploads/custom_wordpress_login-300x100.jpg" alt="" title="custom_wordpress_login" width="300" height="100" class="alignnone size-medium wp-image-958" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/custom_wordpress_login-300x100.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/custom_wordpress_login.jpg 527w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 <a href="http://www.styleshout.com/free-templates.php" title="xthml/css шаблоны" target="_blank">StyleShout</a> &#8211; бесплатные XHTML/CSS шаблоны
 
 <a href="http://www.stripemania.com/" title="stripe patterns" target="_blank">Stripemania</a> &#8211; еще один генератор диагональных полосок

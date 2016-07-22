@@ -9,7 +9,7 @@ permalink: /prilozheniya-dlya-ipod-touchiphone/instagram-fotoset-dlya-vladeltsev
 ljID:
   - 271
 onswipe_thumb:
-  - http://img.artslab.info/Foto.png
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Foto.png
 prosmotr:
   - 2301
 wpb_post_views_count:

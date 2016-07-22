@@ -20,7 +20,7 @@ tags:
   - windows 8
 ---
 <center>
-  <a href="http://img.artslab.info/oblozhki_v_stile_windows8.png"><img src="http://img.artslab.info/oblozhki_v_stile_windows8-300x192.png" alt="обложка для facebook в стиле windows 8" title="oblozhki_v_stile_windows8" width="300" height="192" class="aligncenter size-medium wp-image-5728" srcset="http://img.artslab.info/oblozhki_v_stile_windows8-300x192.png 300w, http://img.artslab.info/oblozhki_v_stile_windows8.png 907w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/oblozhki_v_stile_windows8.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/oblozhki_v_stile_windows8-300x192.png" alt="обложка для facebook в стиле windows 8" title="oblozhki_v_stile_windows8" width="300" height="192" class="aligncenter size-medium wp-image-5728" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/oblozhki_v_stile_windows8-300x192.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/oblozhki_v_stile_windows8.png 907w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Команда Microsoft создала приложение [Windows 8 Profile Cover Creator для Facebook](https://apps.facebook.com/mscoverphoto/), которое позволит создать уникальную обложку в стиле плиточного интерфейса Windows 8 для вашего профиля.

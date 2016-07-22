@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4331
 permalink: /windows-8-2/novyj-logotip-windows-8/
 onswipe_thumb:
-  - http://img.artslab.info/windows8_logo.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows8_logo.jpg
 prosmotr:
   - 97
 wpb_post_views_count:
@@ -21,17 +21,17 @@ tags:
   - логотип
 ---
 <center>
-  <a href="http://img.artslab.info/windows8_logo.jpg"><img src="http://img.artslab.info/windows8_logo-300x63.jpg" alt="логотип Windows 8" title="windows8_logo" width="300" height="63" class="aligncenter size-medium wp-image-4333" srcset="http://img.artslab.info/windows8_logo-300x63.jpg 300w, http://img.artslab.info/windows8_logo-1024x215.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows8_logo.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows8_logo-300x63.jpg" alt="логотип Windows 8" title="windows8_logo" width="300" height="63" class="aligncenter size-medium wp-image-4333" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows8_logo-300x63.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows8_logo-1024x215.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-В Microsoft решили изменить дизайн логотипа Windows 8 и отказаться от привычного 4-цветного флажка. Прямоугольники по прежнему остались, только в более плоском виде, который должен напоминать нам о плитках в интерфейсе Metro UI. 
-  
+В Microsoft решили изменить дизайн логотипа Windows 8 и отказаться от привычного 4-цветного флажка. Прямоугольники по прежнему остались, только в более плоском виде, который должен напоминать нам о плитках в интерфейсе Metro UI.
+
 На мой взгляд, не самый лучший вариант, но и наверняка он еще не финальный&#8230;
-  
+
 А как вам, что скажете?
 
 <center>
-  <a href="http://img.artslab.info/widnows_logotypes.png"><img src="http://img.artslab.info/widnows_logotypes-300x52.png" alt="все логотипы ос windows" title="widnows_logotypes" width="300" height="52" class="aligncenter size-medium wp-image-4332" srcset="http://img.artslab.info/widnows_logotypes-300x52.png 300w, http://img.artslab.info/widnows_logotypes.png 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/widnows_logotypes.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/widnows_logotypes-300x52.png" alt="все логотипы ос windows" title="widnows_logotypes" width="300" height="52" class="aligncenter size-medium wp-image-4332" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/widnows_logotypes-300x52.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/widnows_logotypes.png 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Так же была представлена анимированная версия логотипа:

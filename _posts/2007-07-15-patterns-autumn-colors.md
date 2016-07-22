@@ -13,7 +13,7 @@ prosmotr:
 wpb_post_views_count:
   - 1124
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1572587633
 categories:
@@ -24,9 +24,9 @@ tags:
   - фон
 ---
 <center>
-  <a href="http://img.artslab.info/osennie_patterni.gif"><img class="aligncenter size-medium wp-image-6469" alt="мозайки для сайта" src="http://img.artslab.info/osennie_patterni-300x257.gif" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/osennie_patterni.gif"><img class="aligncenter size-medium wp-image-6469" alt="мозайки для сайта" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/osennie_patterni-300x257.gif" /></a>
 </center>
 
 
-  
+
 Patterns for Adobe Photoshop &#8211; Autumn Colors. Красочные пэттернсы могут быть использованы, например, для фона вашего сайта. 36 разных мозайк с красивыми, повторяющимися узорами. Автор: [zinzibar](http://zinzibar.deviantart.com/ "authors homepage"). Скачать их можно с сайта автора <a title="download from authors da page" href="http://www.deviantart.com/deviation/38703893/" target="_blank">dA</a>

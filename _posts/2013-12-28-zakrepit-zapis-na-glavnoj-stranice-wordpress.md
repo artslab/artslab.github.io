@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=7997
 permalink: /wordpress/zakrepit-zapis-na-glavnoj-stranice-wordpress/
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 1090
 dsq_thread_id:
@@ -18,11 +18,11 @@ tags:
   - Для Wordpress
 ---
 Иногда бывает необходимо выделить какую-то определенную новость на сайте и закрепить ее на самом верху, перед другими записями.
-  
-В последних версиях WordPress сделать это можно легко, так как данная возможность присутствует в стандартном наборе функций, т.е. вам не понадобиться устанавливать никаких других плагинов. 
+
+В последних версиях WordPress сделать это можно легко, так как данная возможность присутствует в стандартном наборе функций, т.е. вам не понадобиться устанавливать никаких других плагинов.
 
 <center>
-  <a href="http://img.artslab.info/zakrepit_post_wordpress.png"><img src="http://img.artslab.info/zakrepit_post_wordpress-235x300.png" alt="прикрепить запись в wordpress" class="size-medium wp-image-7998" srcset="http://img.artslab.info/zakrepit_post_wordpress-235x300.png 235w, http://img.artslab.info/zakrepit_post_wordpress.png 305w" sizes="(max-width: 235px) 100vw, 235px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zakrepit_post_wordpress.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zakrepit_post_wordpress-235x300.png" alt="прикрепить запись в wordpress" class="size-medium wp-image-7998" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zakrepit_post_wordpress-235x300.png 235w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zakrepit_post_wordpress.png 305w" sizes="(max-width: 235px) 100vw, 235px" /></a>
 </center>
 
 Допустим мы хотим прикрепить уже созданную запись. Для этого переходим на страничку редактирования поста и в блоке «Опубликовать», кликаем по ссылке **«Изменить» напротив заголовка «Видимость»**. Откроется меню с различными опциями для настройки видимости, там же находиться необходимый нам пункт «Прилепить на главную страницу». Отметив этот пункт и сохранив изменения записи, пост поднимется на самый верх на главной странице сайта.

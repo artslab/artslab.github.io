@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565022278
 cover:
-  - 
+  -
 categories:
   - Для Wordpress
 tags:
@@ -25,11 +25,11 @@ tags:
 Маленький хак, который позволяет убрать все ненужное (rss ленту и прочее&#8230;) из доски объявлений(Dashboard) в WordPress.
 
 <center>
-  <img src="http://img.artslab.info/wordpress_dashboard.jpg" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_dashboard.jpg" />
 </center>
 
 **Установка:**
-  
+
 Просто скопируйте содержимое архива в корневую папку 🙂
 
 PS: открывать либо WinRaR&#8217;ом, либо 7-zip&#8217;ом.

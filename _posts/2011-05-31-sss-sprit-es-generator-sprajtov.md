@@ -26,7 +26,7 @@ tags:
 format: aside
 ---
 <center>
-  <img src="http://img.artslab.info/css-sprites-300x68.jpg" alt="Как создавать css-спрайты" title="css-sprites" width="300" height="68" class="alignnone size-medium wp-image-3222" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css-sprites-300x68.jpg" alt="Как создавать css-спрайты" title="css-sprites" width="300" height="68" class="alignnone size-medium wp-image-3222" />
 </center>
 
 Для тех кто не в курсе, css-спрайты &#8211; это одна комбинированная картинка, из которой потом выбираются нужные изображения с помощью CSS.
@@ -34,13 +34,13 @@ format: aside
 Использовать спрайты нам рекомендует Google Page Speed, так как это должно ускорять скорость загрузки сайта. Вот пример спрайта с главной страницы гугла:
 
 <center>
-  <img src="http://img.artslab.info/nav_logo72.png" alt="Пример CSS-Sprites" title="nav_logo72" width="178" height="289" class="alignnone size-full wp-image-3221" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nav_logo72.png" alt="Пример CSS-Sprites" title="nav_logo72" width="178" height="289" class="alignnone size-full wp-image-3221" />
 </center>
 
 Теперь перейдем к тому, как создавать такие спрайты самому.
-  
+
 Первая возможность это Photoshop, этот вариант работает практически в любом случае. Необходимо создать новый документ, вставить в него все картинки и сохранить. Затем придется с помощью разметки или линейки замерить размеры отдельных картинок и составить html/css-код.
-  
+
 Второй вариант &#8211; использовать онлайн генератор, например <a href="http://css-sprit.es/" rel="nofollow">СSS-Sprit.es</a>. Необходимо выбрать нужные картинки и нажать на кнопку upload. В итоге, сайт выдаст нам готовый спрайт в форматах jpg, png и gif, а так же готовый html и css код. Удобно.
 
 <!--more-->

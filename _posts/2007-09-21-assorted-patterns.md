@@ -13,7 +13,7 @@ prosmotr:
 wpb_post_views_count:
   - 946
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1565014604
 categories:
@@ -23,7 +23,7 @@ tags:
   - photoshop
 ---
 <center>
-  <a href="http://img.artslab.info/spring_patterns.jpg"><img src="http://img.artslab.info/spring_patterns-300x297.jpg" alt="pattern скачать" class="aligncenter size-medium wp-image-6528" srcset="http://img.artslab.info/spring_patterns-300x297.jpg 300w, http://img.artslab.info/spring_patterns-100x100.jpg 100w, http://img.artslab.info/spring_patterns-150x150.jpg 150w, http://img.artslab.info/spring_patterns.jpg 364w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spring_patterns.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spring_patterns-300x297.jpg" alt="pattern скачать" class="aligncenter size-medium wp-image-6528" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spring_patterns-300x297.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spring_patterns-100x100.jpg 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spring_patterns-150x150.jpg 150w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spring_patterns.jpg 364w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Красивая мозайка для использования самых различных местах.

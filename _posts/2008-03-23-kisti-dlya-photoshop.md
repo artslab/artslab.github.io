@@ -24,7 +24,7 @@ tags:
 Подборка кистей для фотошопа на разные темы. Набор гранжевых кистей, набор с красивыми и интересными татуировками, кисти звездочек и другие, скриншоты говорят сами за себя.
 
 <p style="text-align: center">
-  <a href="http://img.artslab.info/Decimation_Brushes_by_Axeraider701.jpg"><img src="http://img.artslab.info/Decimation_Brushes_by_Axeraider701-300x243.jpg" alt="кисти для photoshop" title="Decimation_Brushes_by_Axeraider70" width="300" height="243" class="alignnone size-medium wp-image-4041" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Decimation_Brushes_by_Axeraider701.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Decimation_Brushes_by_Axeraider701-300x243.jpg" alt="кисти для photoshop" title="Decimation_Brushes_by_Axeraider70" width="300" height="243" class="alignnone size-medium wp-image-4041" /></a>
 </p>
 
 <p style="text-align: center">
@@ -32,7 +32,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a href="http://img.artslab.info/Star_Brushes_by_kuschelirmel_stock.jpg"><img src="http://img.artslab.info/Star_Brushes_by_kuschelirmel_stock-300x300.jpg" alt="Кисти звезд для Photoshop" title="Star_Brushes_by_kuschelirmel_stock" width="300" height="300" class="alignnone size-medium wp-image-4042" srcset="http://img.artslab.info/Star_Brushes_by_kuschelirmel_stock-300x300.jpg 300w, http://img.artslab.info/Star_Brushes_by_kuschelirmel_stock-100x100.jpg 100w, http://img.artslab.info/Star_Brushes_by_kuschelirmel_stock.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Star_Brushes_by_kuschelirmel_stock.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Star_Brushes_by_kuschelirmel_stock-300x300.jpg" alt="Кисти звезд для Photoshop" title="Star_Brushes_by_kuschelirmel_stock" width="300" height="300" class="alignnone size-medium wp-image-4042" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Star_Brushes_by_kuschelirmel_stock-300x300.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Star_Brushes_by_kuschelirmel_stock-100x100.jpg 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Star_Brushes_by_kuschelirmel_stock.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center">
@@ -40,7 +40,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a href="http://img.artslab.info/Tribal_Tattoos_by_ro_stock.jpg"><img src="http://img.artslab.info/Tribal_Tattoos_by_ro_stock-300x300.jpg" alt="tatoo brushes для фотошоп" title="Tribal_Tattoos_by_ro_stock" width="300" height="300" class="alignnone size-medium wp-image-4043" srcset="http://img.artslab.info/Tribal_Tattoos_by_ro_stock-300x300.jpg 300w, http://img.artslab.info/Tribal_Tattoos_by_ro_stock-100x100.jpg 100w, http://img.artslab.info/Tribal_Tattoos_by_ro_stock.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Tribal_Tattoos_by_ro_stock.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Tribal_Tattoos_by_ro_stock-300x300.jpg" alt="tatoo brushes для фотошоп" title="Tribal_Tattoos_by_ro_stock" width="300" height="300" class="alignnone size-medium wp-image-4043" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Tribal_Tattoos_by_ro_stock-300x300.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Tribal_Tattoos_by_ro_stock-100x100.jpg 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Tribal_Tattoos_by_ro_stock.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center">
@@ -48,7 +48,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a href="http://img.artslab.info/Zone_Brushes_by_Axeraider70.jpg"><img src="http://img.artslab.info/Zone_Brushes_by_Axeraider70-300x208.jpg" alt="Скачать кисти для Photoshop" title="Zone_Brushes_by_Axeraider70" width="300" height="208" class="alignnone size-medium wp-image-4044" srcset="http://img.artslab.info/Zone_Brushes_by_Axeraider70-300x208.jpg 300w, http://img.artslab.info/Zone_Brushes_by_Axeraider70.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Zone_Brushes_by_Axeraider70.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Zone_Brushes_by_Axeraider70-300x208.jpg" alt="Скачать кисти для Photoshop" title="Zone_Brushes_by_Axeraider70" width="300" height="208" class="alignnone size-medium wp-image-4044" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Zone_Brushes_by_Axeraider70-300x208.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Zone_Brushes_by_Axeraider70.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center">

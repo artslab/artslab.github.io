@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=7815
 permalink: /snippety/kak-vstavit-shortcode-v-temu-wordpress/
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 1066
 dsq_thread_id:
@@ -25,7 +25,7 @@ tags:
 Для того чтобы добиться нужного эффекта и правильно встроить плагин на ваш сайт, нам на помощь придет PHP-функцией do_shortcode(). Именно, благодаря ей WordPress интерпретирует короткий код.
 
 <center>
-  <a href="http://img.artslab.info/shortcode_v_wp.png"><img src="http://img.artslab.info/shortcode_v_wp-300x86.png" alt="короткий код" class="aligncenter size-medium wp-image-7816" srcset="http://img.artslab.info/shortcode_v_wp-300x86.png 300w, http://img.artslab.info/shortcode_v_wp.png 622w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp-300x86.png" alt="короткий код" class="aligncenter size-medium wp-image-7816" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp-300x86.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp.png 622w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### Код:

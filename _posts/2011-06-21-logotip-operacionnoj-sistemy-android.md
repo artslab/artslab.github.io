@@ -28,7 +28,7 @@ tags:
 Раз уж начали с мобильных брендов, то после Apple следует конечно же, Android. Логотип в высоком качестве, в большом размере и формате PSD.
 
 <center>
-  <a href="http://img.artslab.info/logotip_android_psd.jpg"><img src="http://img.artslab.info/logotip_android_psd-300x300.jpg" alt="Логотип Android" title="logotip_android_psd" width="300" height="300" class="alignnone size-medium wp-image-3414" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/logotip_android_psd.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/logotip_android_psd-300x300.jpg" alt="Логотип Android" title="logotip_android_psd" width="300" height="300" class="alignnone size-medium wp-image-3414" /></a>
 </center>
 
 [Скачать лого в PSD](http://zandog.deviantart.com/art/Android-Logo-HD-PSD-177433866)

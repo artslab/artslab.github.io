@@ -19,7 +19,7 @@ tags:
   - программа
 ---
 <center>
-  <a href="http://img.artslab.info/sopcast_mac_osx.png"><img src="http://img.artslab.info/sopcast_mac_osx-300x161.png" alt="скачать sopcast для mac" title="sopcast_mac_osx" width="300" height="161" class="aligncenter size-medium wp-image-5063" srcset="http://img.artslab.info/sopcast_mac_osx-300x161.png 300w, http://img.artslab.info/sopcast_mac_osx.png 937w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sopcast_mac_osx.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sopcast_mac_osx-300x161.png" alt="скачать sopcast для mac" title="sopcast_mac_osx" width="300" height="161" class="aligncenter size-medium wp-image-5063" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sopcast_mac_osx-300x161.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sopcast_mac_osx.png 937w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Тот, кто регулярно смотрит спортивные трансляций через интернет, должен быть знаком с программой [SopCast](http://www.sopcast.com/download/). Так называемая &#8220;сопка&#8221;, предназначена для просмотра телепередач использую при этом технологию P2P.

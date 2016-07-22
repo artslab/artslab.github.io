@@ -21,7 +21,7 @@ tags:
 ---
 После того как я опубликовал подробную статью с видеороликом на тему [создания и оформления меню](http://artslab.info/stati/kak-oformit-gruppu-vkontakte/ "Как оформить группу Вконтакте?") для групп ВКонтакте, мне регулярно пишут люди и задают вопросы по этой теме. Это дает понять, что материал действительно актуален и востребован. В связи с этим, я решил в свободное время, подготавливать различные меню для групп и делиться их кодом на сайте.
 
-[<img src="http://img.artslab.info/menu_iz_dereva_vk-300x243.jpg" alt="бесплатное меню для VK" class="aligncenter size-medium wp-image-6627" srcset="http://img.artslab.info/menu_iz_dereva_vk-300x243.jpg 300w, http://img.artslab.info/menu_iz_dereva_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" />](http://img.artslab.info/menu_iz_dereva_vk.jpg)
+[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_iz_dereva_vk-300x243.jpg" alt="бесплатное меню для VK" class="aligncenter size-medium wp-image-6627" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_iz_dereva_vk-300x243.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_iz_dereva_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_iz_dereva_vk.jpg)
 
 Встречайте первое меню, в стиле деревянного шкафчика с полочками. В принципе подойдет для многих групп, а особенно для сообществ с книжной тематикой. Место текста на полочках, можно расположить иконки с книгами или что-либо другое, это уже на ваше усмотрение.
 
@@ -32,15 +32,15 @@ tags:
 Теперь самое главное, код меню:
 
 > [[photo-35539675_299595752|370x40px;noborder;nopadding;nolink|Описание группы]]
-  
+
 > \[[photo-35539675\_299595753|35x37px;noborder;nopadding;nolink|Описание группы]\]\[[photo-35539675\_299595754|57x37px;noborder;nopadding|http://artslab.info\]][[photo-35539675_299595755|278x37px;noborder;nopadding;nolink|Описание группы]]
-  
+
 > [[photo-35539675_299595756|370x74px;noborder;nopadding|http://artslab.info]]
-  
+
 > [[photo-35539675_299595757|370x71px;noborder;nopadding|http://artslab.info]]
-  
+
 > \[[photo-35539675\_299595759|136x47px;noborder;nopadding|http://artslab.info]\]\[[photo-35539675\_299595760|96x47px;noborder;nopadding|http://artslab.info\]][[photo-35539675_299595762|138x47px;;nopadding|http://artslab.info]]
-  
+
 > [[photo-35539675_299595763|370x31px;noborder;nopadding;nolink|Описание группы]]
 
 [Посмотреть демо](http://vk.com/pages?oid=-880171&p=woodsy)

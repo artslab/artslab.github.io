@@ -25,7 +25,7 @@ tags:
   - логотип
 ---
 <center>
-  <a href="http://img.artslab.info/logo_google_chrome.png"><img src="http://img.artslab.info/logo_google_chrome-300x300.png" alt="логотип хрома" title="logo_google_chrome" width="300" height="300" class="alignnone size-medium wp-image-3450" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/logo_google_chrome.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/logo_google_chrome-300x300.png" alt="логотип хрома" title="logo_google_chrome" width="300" height="300" class="alignnone size-medium wp-image-3450" /></a>
 </center>
 
 Перейдем к главным браузерам и их логотипам, начну с моего любимца. [Логотип Google Chrome](http://ockre.deviantart.com/art/Google-Chrome-Logo-PNG-PSD-205463626) в PSD и большом размере.

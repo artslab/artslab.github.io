@@ -25,7 +25,7 @@ tags:
 format: aside
 ---
 <center>
-  <a href="http://img.artslab.info/angry_birds_theme_for_widnows7.jpg"><img src="http://img.artslab.info/angry_birds_theme_for_widnows7-300x207.jpg" alt="Тема Angry Birds для Windows 7" title="angry_birds_theme_for_widnows7" width="300" height="207" class="alignnone size-medium wp-image-3531" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/angry_birds_theme_for_widnows7.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/angry_birds_theme_for_widnows7-300x207.jpg" alt="Тема Angry Birds для Windows 7" title="angry_birds_theme_for_widnows7" width="300" height="207" class="alignnone size-medium wp-image-3531" /></a>
 </center>
 
 <a href="http://windows.microsoft.com/en-US/windows/downloads/angry-birds-theme" rel="nofollow">Официальная</a> темка в стиле [Angry Birds](http://artslab.info/tag/angry-birds/), включает в себя пачку обоин для рабочего стола, звуковое оформление и конечно же цветовой стиль.
@@ -35,9 +35,9 @@ format: aside
 <!--more-->
 
 
-  
 
 
-* * *Ad: Кстати, если Вы ищете качественный и русифицированный софт, то рекомендую заглянуть &#8211; 
+
+* * *Ad: Кстати, если Вы ищете качественный и русифицированный софт, то рекомендую заглянуть &#8211;
 
 [бесплатные программы русские](http://proglot.info/)

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020595
 cover:
-  - 
+  -
 categories:
   - Шрифты
 tags:
@@ -24,7 +24,7 @@ tags:
   - pixel font
 ---
 <center>
-  <img src="http://img.artslab.info/pikselni_shrift.jpg" alt="бесплатный пиксельный шрифт" class="aligncenter" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pikselni_shrift.jpg" alt="бесплатный пиксельный шрифт" class="aligncenter" />
 </center>
 
 <p ALIGN="center">

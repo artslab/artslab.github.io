@@ -21,7 +21,7 @@ tags:
   - футбол
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/englandjpg.jpg"><img class="aligncenter size-medium wp-image-538" title="englandjpg" src="http://artslab.info/wp-content/uploads/englandjpg-225x300.jpg" alt="" width="225" height="300" srcset="http://img.artslab.info/englandjpg-225x300.jpg 225w, http://img.artslab.info/englandjpg.jpg 542w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/englandjpg.jpg"><img class="aligncenter size-medium wp-image-538" title="englandjpg" src="http://artslab.info/wp-content/uploads/englandjpg-225x300.jpg" alt="" width="225" height="300" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg-225x300.jpg 225w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg.jpg 542w" sizes="(max-width: 225px) 100vw, 225px" /></a>
 </center>
 
 Буквально через час начнется Чемпионат Мира по футболу в ЮАР. Турнир стартует с матча хозяев ЮАР против сборной Мексики. В связи с этим событием хотел бы поделиться креативными карикатурками.
@@ -31,182 +31,182 @@ tags:
 <div id='gallery-2' class='gallery galleryid-533 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/argentina.jpg'><img width="75" height="100" src="http://img.artslab.info/argentina.jpg" class="attachment-thumbnail size-thumbnail" alt="футбол месси аргентина" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/argentina.jpg'><img width="75" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/argentina.jpg" class="attachment-thumbnail size-thumbnail" alt="футбол месси аргентина" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/autralia.jpg'><img width="100" height="100" src="http://img.artslab.info/autralia-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="autralia" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/autralia.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/autralia-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="autralia" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/brazil.jpg'><img width="100" height="100" src="http://img.artslab.info/brazil-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="brazil" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/brazil.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/brazil-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="brazil" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/denmark.jpg'><img width="100" height="100" src="http://img.artslab.info/denmark-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="denmark" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/denmark.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/denmark-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="denmark" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/englandjpg.jpg'><img width="100" height="100" src="http://img.artslab.info/englandjpg-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="englandjpg" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="englandjpg" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/france.jpg'><img width="100" height="100" src="http://img.artslab.info/france-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="france" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/france.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/france-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="france" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/germany.jpg'><img width="100" height="100" src="http://img.artslab.info/germany-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="germany" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/germany.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/germany-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="germany" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/ghana.jpg'><img width="100" height="100" src="http://img.artslab.info/ghana-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="ghana" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ghana.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ghana-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="ghana" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/holland.jpg'><img width="100" height="100" src="http://img.artslab.info/holland-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="holland" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/holland.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/holland-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="holland" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/italy.jpg'><img width="100" height="100" src="http://img.artslab.info/italy-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="italy" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/italy.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/italy-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="italy" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/portugal.jpg'><img width="100" height="100" src="http://img.artslab.info/portugal-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="portugal" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/portugal.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/portugal-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="portugal" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/serbia.jpg'><img width="100" height="100" src="http://img.artslab.info/serbia-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="serbia" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/serbia.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/serbia-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="serbia" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/spain.jpg'><img width="100" height="100" src="http://img.artslab.info/spain-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="spain" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spain.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/spain-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="spain" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/switzerland.jpg'><img width="100" height="100" src="http://img.artslab.info/switzerland-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="switzerland" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/switzerland.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/switzerland-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="switzerland" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/usa.jpg'><img width="100" height="100" src="http://img.artslab.info/usa-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="usa" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/usa.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/usa-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="usa" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/cameroon.jpg'><img width="100" height="100" src="http://img.artslab.info/cameroon-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="cameroon" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cameroon.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cameroon-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="cameroon" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/chile.jpg'><img width="100" height="100" src="http://img.artslab.info/chile-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="chile" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chile.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chile-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="chile" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/poster.jpg'><img width="100" height="100" src="http://img.artslab.info/poster-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="poster" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/poster.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/poster-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="poster" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/greece.jpg'><img width="100" height="100" src="http://img.artslab.info/greece-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="greece" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/greece.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/greece-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="greece" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/honduras.jpg'><img width="100" height="100" src="http://img.artslab.info/honduras-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="honduras" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/honduras.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/honduras-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="honduras" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/ivorycoast.jpg'><img width="100" height="100" src="http://img.artslab.info/ivorycoast-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="ivorycoast" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ivorycoast.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ivorycoast-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="ivorycoast" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/japan.jpg'><img width="100" height="100" src="http://img.artslab.info/japan-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="japan" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/japan.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/japan-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="japan" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/mexico.jpg'><img width="100" height="100" src="http://img.artslab.info/mexico-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="mexico" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mexico.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mexico-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="mexico" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/newzealand.jpg'><img width="100" height="100" src="http://img.artslab.info/newzealand-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="newzealand" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/newzealand.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/newzealand-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="newzealand" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/nigeria.jpg'><img width="100" height="100" src="http://img.artslab.info/nigeria-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="nigeria" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nigeria.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nigeria-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="nigeria" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/northkorea.jpg'><img width="100" height="100" src="http://img.artslab.info/northkorea-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="northkorea" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/northkorea.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/northkorea-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="northkorea" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://img.artslab.info/paraguay.jpg'><img width="100" height="100" src="http://img.artslab.info/paraguay-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="paraguay" /></a>
+      <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/paraguay.jpg'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/paraguay-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="paraguay" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
 </div>
 

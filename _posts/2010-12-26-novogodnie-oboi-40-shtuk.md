@@ -21,13 +21,13 @@ tags:
   - Обои для рабочего стола
 ---
 Заглянул в поисковые запросы и понял, что обои нужны =)
-  
+
 Итак, 40 обоин на новогоднюю тему.
-  
+
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/new_year_wallpapers.jpg" rel="lightbox[new year wallpapers]"><img class="aligncenter size-full wp-image-646" title="new_year_wallpapers" src="http://artslab.info/wp-content/uploads/new_year_wallpapers.jpg" alt="" width="362" height="383" srcset="http://img.artslab.info/new_year_wallpapers.jpg 362w, http://img.artslab.info/new_year_wallpapers-283x300.jpg 283w" sizes="(max-width: 362px) 100vw, 362px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/new_year_wallpapers.jpg" rel="lightbox[new year wallpapers]"><img class="aligncenter size-full wp-image-646" title="new_year_wallpapers" src="http://artslab.info/wp-content/uploads/new_year_wallpapers.jpg" alt="" width="362" height="383" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_year_wallpapers.jpg 362w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_year_wallpapers-283x300.jpg 283w" sizes="(max-width: 362px) 100vw, 362px" /></a>
 </center>
 
 [Скачать весь архив (11,9 MB)](http://www.box.net/shared/th2a9trip0)

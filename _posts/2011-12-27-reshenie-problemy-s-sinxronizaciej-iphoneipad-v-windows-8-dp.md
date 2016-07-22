@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4170
 permalink: /windows-8-2/reshenie-problemy-s-sinxronizaciej-iphoneipad-v-windows-8-dp/
 onswipe_thumb:
-  - http://img.artslab.info/windows8_iphone_sync_itunes_problem.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows8_iphone_sync_itunes_problem.jpg
 prosmotr:
   - 127
 wpb_post_views_count:
@@ -22,7 +22,7 @@ tags:
   - iphone
   - windows 8
 ---
-<img src="http://img.artslab.info/windows8_iphone_sync_itunes_problem.jpg" alt="синхронизация iphone в windows 8" title="windows8_iphone_sync_itunes_problem" width="290" height="150" class="aligncenter size-full wp-image-4171" />
+<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows8_iphone_sync_itunes_problem.jpg" alt="синхронизация iphone в windows 8" title="windows8_iphone_sync_itunes_problem" width="290" height="150" class="aligncenter size-full wp-image-4171" />
 
 При синхронизаций iPhone через iTunes в Windows 8 Developer Preview у меня появилась проблема. Программа просто-напросто отказывается находить подключенный девайс. Погуглив, я нашел решение на одном [англоязычном форуме](http://www.eightforums.com/hardware-drivers/2375-trouble-iphone-4-driver-windows-8-a-2.html), которое помогло мне синхронизировать телефон. Перед каждой синхронизацией приходиться проделывать несколько простых действий.
 

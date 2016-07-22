@@ -15,7 +15,7 @@ ljxp_comments:
 ljxp_privacy:
   - friends
 onswipe_thumb:
-  - http://img.artslab.info/flash_igri_na_ipad.png
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flash_igri_na_ipad.png
 wpb_post_views_count:
   - 4700
 cover:
@@ -31,11 +31,11 @@ tags:
   - приложение
 ---
 <center>
-  <img src="http://img.artslab.info/iswifter_ipad_flash.jpg" alt="iswifter - браузер для iPad с поддержкой flash" title="iswifter_ipad_flash" width="186" height="184" class="aligncenter size-full wp-image-4790" srcset="http://img.artslab.info/iswifter_ipad_flash.jpg 186w, http://img.artslab.info/iswifter_ipad_flash-100x100.jpg 100w" sizes="(max-width: 186px) 100vw, 186px" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iswifter_ipad_flash.jpg" alt="iswifter - браузер для iPad с поддержкой flash" title="iswifter_ipad_flash" width="186" height="184" class="aligncenter size-full wp-image-4790" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iswifter_ipad_flash.jpg 186w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iswifter_ipad_flash-100x100.jpg 100w" sizes="(max-width: 186px) 100vw, 186px" />
 </center>
 
 Ни для кого не секрет, что стандартный браузер Safari на планшетах iPad, не имеет поддержку технологий Flash. А это значит что запустить какую-либо игру, Flash-приложение, либо фильм который встроен во Flash-проигрыватель на сайте, у нас не получиться. Выход есть, и называется он [iSwifter](http://itunes.apple.com/us/app/iswifter-flash-web-browser/id388857173?mt=8).
 
-[<img src="http://img.artslab.info/flash_igri_na_ipad-300x225.png" alt="играем в flash игры на ipad" title="flash_igri_na_ipad" width="300" height="225" class="aligncenter size-medium wp-image-4791" srcset="http://img.artslab.info/flash_igri_na_ipad-300x225.png 300w, http://img.artslab.info/flash_igri_na_ipad.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://img.artslab.info/flash_igri_na_ipad.png)
+[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flash_igri_na_ipad-300x225.png" alt="играем в flash игры на ipad" title="flash_igri_na_ipad" width="300" height="225" class="aligncenter size-medium wp-image-4791" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flash_igri_na_ipad-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flash_igri_na_ipad.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flash_igri_na_ipad.png)
 
 iSwifter &#8211; это бесплатный веб-браузер из AppStore. Его главное преимущество над Safari, это как-раз возможность воспроизводить Flash-ролики. Если хотите поиграть в какую-то игрушку, может быть на Facebook, Vkontakte, Google+, посмотреть какой-то ролик, который не воспроизводиться в Safari, то iSwifter вам в этом непременно поможет.

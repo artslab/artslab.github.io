@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4250
 permalink: /news/igraem-v-cut-the-rope-pryamo-iz-brauzera-onlajn/
 onswipe_thumb:
-  - http://img.artslab.info/cuttherope_igrat_online.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cuttherope_igrat_online.jpg
 prosmotr:
   - 2597
 wpb_post_views_count:
@@ -20,7 +20,7 @@ tags:
   - игра
 ---
 <center>
-  <a href="http://img.artslab.info/cuttherope_igrat_online.jpg"><img src="http://img.artslab.info/cuttherope_igrat_online-300x197.jpg" alt="cut the rope играть онлайн" title="cuttherope_igrat_online" width="300" height="197" class="aligncenter size-medium wp-image-4251" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cuttherope_igrat_online.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cuttherope_igrat_online-300x197.jpg" alt="cut the rope играть онлайн" title="cuttherope_igrat_online" width="300" height="197" class="aligncenter size-medium wp-image-4251" /></a>
 </center>
 
 Продолжим тему игр. Вчера мы разобрались с тем как заполучить [Angry Birds Rio бесплатно](http://artslab.info/news/angry-birds-rio-dlya-pc-besplatno-i-legalno/), а сегодня речь о не менее популярной игрушке [Cut the Rope](http://artslab.info/prilozheniya-dlya-android/cut-the-rope-dlya-android-dostupna-dlya-besplatnogo-skachivaniya/ "Cut the Rope для Android доступна для бесплатного скачивания").

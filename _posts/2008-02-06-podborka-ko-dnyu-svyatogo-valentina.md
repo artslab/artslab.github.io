@@ -83,7 +83,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="http://evilgeniuspirate.deviantart.com/art/Amore-28900213" title="скачать"><img src="http://artslab.info/wp-content/uploads/Amore_by_evilgeniuspirate-300x240.jpg" alt="День святого Валентина заставки" title="Amore_by_evilgeniuspirate" width="300" height="240" class="alignnone size-medium wp-image-1576" srcset="http://img.artslab.info/Amore_by_evilgeniuspirate-300x240.jpg 300w, http://img.artslab.info/Amore_by_evilgeniuspirate.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://evilgeniuspirate.deviantart.com/art/Amore-28900213" title="скачать"><img src="http://artslab.info/wp-content/uploads/Amore_by_evilgeniuspirate-300x240.jpg" alt="День святого Валентина заставки" title="Amore_by_evilgeniuspirate" width="300" height="240" class="alignnone size-medium wp-image-1576" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Amore_by_evilgeniuspirate-300x240.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Amore_by_evilgeniuspirate.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p align="center">
@@ -91,11 +91,11 @@ tags:
 </p>
 
 <p align="center">
-  <a href="http://pincel3d.deviantart.com/art/Valentine-s-Day-48515137" target="_blank"><img src="http://artslab.info/wp-content/uploads/Valentine__s_Day_by_pincel3d-300x225.jpg" alt="Обои для рабочего стола ко дню Святого Валентина" title="Valentine__s_Day_by_pincel3d" width="300" height="225" class="alignnone size-medium wp-image-1575" srcset="http://img.artslab.info/Valentine__s_Day_by_pincel3d-300x225.jpg 300w, http://img.artslab.info/Valentine__s_Day_by_pincel3d-1024x768.jpg 1024w, http://img.artslab.info/Valentine__s_Day_by_pincel3d.jpg 1032w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://pincel3d.deviantart.com/art/Valentine-s-Day-48515137" target="_blank"><img src="http://artslab.info/wp-content/uploads/Valentine__s_Day_by_pincel3d-300x225.jpg" alt="Обои для рабочего стола ко дню Святого Валентина" title="Valentine__s_Day_by_pincel3d" width="300" height="225" class="alignnone size-medium wp-image-1575" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d-1024x768.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d.jpg 1032w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p align="center">
-  <a href="http://-kol.deviantart.com/art/That-Day-At-The-Beach-48589027" target="_blank"><img src="http://artslab.info/wp-content/uploads/That_Day_At_The_Beach_by__kol-300x112.jpg" alt="Valentine&#039;s day wallpapers" title="That_Day_At_The_Beach_by__kol" width="300" height="112" class="alignnone size-medium wp-image-1574" srcset="http://img.artslab.info/That_Day_At_The_Beach_by__kol-300x112.jpg 300w, http://img.artslab.info/That_Day_At_The_Beach_by__kol.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://-kol.deviantart.com/art/That-Day-At-The-Beach-48589027" target="_blank"><img src="http://artslab.info/wp-content/uploads/That_Day_At_The_Beach_by__kol-300x112.jpg" alt="Valentine&#039;s day wallpapers" title="That_Day_At_The_Beach_by__kol" width="300" height="112" class="alignnone size-medium wp-image-1574" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/That_Day_At_The_Beach_by__kol-300x112.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/That_Day_At_The_Beach_by__kol.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p align="center">

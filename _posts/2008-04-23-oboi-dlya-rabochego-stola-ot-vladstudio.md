@@ -21,7 +21,7 @@ tags:
   - Обои для рабочего стола
 ---
 <p style="text-align: center;">
-  <a href="http://artslab.info/wp-content/uploads/vladstudio.jpg" class="lightview"><img class="alignnone size-full wp-image-303" title="vladstudio" src="http://artslab.info/wp-content/uploads/vladstudio.jpg" alt="Бесплатные обои для рабочего стола" width="415" height="217" srcset="http://img.artslab.info/vladstudio.jpg 415w, http://img.artslab.info/vladstudio-300x156.jpg 300w" sizes="(max-width: 415px) 100vw, 415px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/vladstudio.jpg" class="lightview"><img class="alignnone size-full wp-image-303" title="vladstudio" src="http://artslab.info/wp-content/uploads/vladstudio.jpg" alt="Бесплатные обои для рабочего стола" width="415" height="217" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vladstudio.jpg 415w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vladstudio-300x156.jpg 300w" sizes="(max-width: 415px) 100vw, 415px" /></a>
 </p>
 
 Замечательная <a href="http://www.vladstudio.com/ru/wallpapers/" target="_blank">галерея обои для рабочего стола</a> от <a href="http://www.vladstudio.com/ru/home/" target="_blank">Влада Герасимова</a>. В данный момент в коллекции находятся 482 обоины на разные темы. Все заставки, в разных форматах, конечно же можно скачать к себе и установить на рабочий стол. __

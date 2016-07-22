@@ -17,7 +17,7 @@ tags:
   - обзор
 ---
 <center>
-  <a href="http://img.artslab.info/twittrcovers.jpeg"><img src="http://img.artslab.info/twittrcovers-300x221.jpg" alt="обложки для twitter" title="twittrcovers" width="300" height="221" class="aligncenter size-medium wp-image-5817" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twittrcovers.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twittrcovers-300x221.jpg" alt="обложки для twitter" title="twittrcovers" width="300" height="221" class="aligncenter size-medium wp-image-5817" /></a>
 </center>
 
 Как вы знаете, в новых профилях микроблога Twitter, появилась возможность размещения обложек в профиле. Сегодня хотел бы поделиться с вами сайтом-галереей, где собрано большое количество красивых обложек для ваших профилей на самые разные темы &#8211; [TwitrCovers](http://www.twitrcovers.com/).

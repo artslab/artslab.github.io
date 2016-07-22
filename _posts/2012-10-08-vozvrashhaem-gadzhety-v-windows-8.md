@@ -19,7 +19,7 @@ tags:
   - гаджеты
 ---
 <center>
-  <a href="http://img.artslab.info/gadgets_in_windows_8.jpeg"><img src="http://img.artslab.info/gadgets_in_windows_8-300x225.jpg" alt="гаджеты в windows 8" title="gadgets_in_windows_8" width="300" height="225" class="aligncenter size-medium wp-image-5326" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gadgets_in_windows_8.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gadgets_in_windows_8-300x225.jpg" alt="гаджеты в windows 8" title="gadgets_in_windows_8" width="300" height="225" class="aligncenter size-medium wp-image-5326" /></a>
 </center>
 
 Те, кто уже успел попробовать Windows 8, наверняка заметили, что из Windows 8 убрали гаджеты. Да-да, исчезло стартовое меню, отключили Aero и удалили гаджеты.

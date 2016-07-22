@@ -20,7 +20,7 @@ tags:
   - исходники
 ---
 <center>
-  <a href="http://img.artslab.info/facebook_psd_aket.png"><img src="http://img.artslab.info/facebook_psd_aket-300x200.png" alt="исходный файл" class="aligncenter size-medium wp-image-7862" srcset="http://img.artslab.info/facebook_psd_aket-300x200.png 300w, http://img.artslab.info/facebook_psd_aket-1024x685.png 1024w, http://img.artslab.info/facebook_psd_aket.png 1133w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_psd_aket.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_psd_aket-300x200.png" alt="исходный файл" class="aligncenter size-medium wp-image-7862" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_psd_aket-300x200.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_psd_aket-1024x685.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_psd_aket.png 1133w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Хочу поделиться PSD-файлом с дизайном страницы профиля пользователя/группы социальной сети Facebook. С помощью данного исходника можно создать макет с обложкой и аватаром. PSD разбит на множество слое, которые хорошо упорядочены и подписаны.
@@ -28,17 +28,17 @@ tags:
 <!--more-->
 
 
-  
+
 
 
 <center>
-  <a href="http://img.artslab.info/psd_sloi_fb.png"><img src="http://img.artslab.info/psd_sloi_fb-240x300.png" alt="слои psd" class="aligncenter size-medium wp-image-7864" srcset="http://img.artslab.info/psd_sloi_fb-240x300.png 240w, http://img.artslab.info/psd_sloi_fb.png 313w" sizes="(max-width: 240px) 100vw, 240px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd_sloi_fb.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd_sloi_fb-240x300.png" alt="слои psd" class="aligncenter size-medium wp-image-7864" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd_sloi_fb-240x300.png 240w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd_sloi_fb.png 313w" sizes="(max-width: 240px) 100vw, 240px" /></a>
 </center>
 
 Полноценное превью:
 
 <center>
-  <a href="http://img.artslab.info/facebook_page.png"><img src="http://img.artslab.info/facebook_page-199x300.png" alt="файл страницы фэйсбук" class="aligncenter size-medium wp-image-7863" srcset="http://img.artslab.info/facebook_page-199x300.png 199w, http://img.artslab.info/facebook_page-680x1024.png 680w, http://img.artslab.info/facebook_page.png 970w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_page.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_page-199x300.png" alt="файл страницы фэйсбук" class="aligncenter size-medium wp-image-7863" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_page-199x300.png 199w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_page-680x1024.png 680w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_page.png 970w" sizes="(max-width: 199px) 100vw, 199px" /></a>
 </center>
 
 <a href="http://drewmatthews.ca/projects/facebookPSD/" target="_blank" class="download">Скачать исходник</a>

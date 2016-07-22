@@ -20,7 +20,7 @@ tags:
   - плагин
 ---
 <center>
-  <a href="http://img.artslab.info/css3_plugin_photoshop.jpg"><img src="http://img.artslab.info/css3_plugin_photoshop-300x159.jpg" alt="плагин для фотошопа" class="aligncenter size-medium wp-image-6457" srcset="http://img.artslab.info/css3_plugin_photoshop-300x159.jpg 300w, http://img.artslab.info/css3_plugin_photoshop.jpg 663w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_plugin_photoshop.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_plugin_photoshop-300x159.jpg" alt="плагин для фотошопа" class="aligncenter size-medium wp-image-6457" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_plugin_photoshop-300x159.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_plugin_photoshop.jpg 663w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Материал уже был упомянут в [нашей группе](http://vk.com/wall-880171_637), а вот на сайте я о нем еще не писал.

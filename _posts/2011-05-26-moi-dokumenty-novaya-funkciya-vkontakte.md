@@ -26,33 +26,33 @@ tags:
   - vkontakte
 ---
 Для первого миллиона пользователей Vkontakte стала доступна новая функция &#8220;Мои документы&#8221;, интересный шаг со стороны социальной сети&#8230;
-  
+
 Давайте по-подробнее рассмотрим, что же такого нового для нас подготовил Дуров.
 
 Включаются документы на странице настроек:
-  
+
 
 
 <center>
-  <a href="http://img.artslab.info/dokumenti_vkonakte.jpg"><img src="http://img.artslab.info/dokumenti_vkonakte-300x280.jpg" alt="Мои документы Вконтакте" title="dokumenti_vkonakte" width="300" height="280" class="alignnone size-medium wp-image-3128" srcset="http://img.artslab.info/dokumenti_vkonakte-300x280.jpg 300w, http://img.artslab.info/dokumenti_vkonakte.jpg 470w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte-300x280.jpg" alt="Мои документы Вконтакте" title="dokumenti_vkonakte" width="300" height="280" class="alignnone size-medium wp-image-3128" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte-300x280.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte.jpg 470w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <!--more-->
 
 Сразу после активаций в меню появится пункт &#8220;Мои документы&#8221;.
-  
+
 Переходим, пробуем добавить документ и видим такой бокс:
 
 <center>
-  <a href="http://img.artslab.info/dokumenti_vkonakte2.jpg"><img src="http://img.artslab.info/dokumenti_vkonakte2-300x203.jpg" alt="Загрузить документы Вконтакте" title="dokumenti_vkonakte2" width="300" height="203" class="alignnone size-medium wp-image-3129" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte2-300x203.jpg" alt="Загрузить документы Вконтакте" title="dokumenti_vkonakte2" width="300" height="203" class="alignnone size-medium wp-image-3129" /></a>
 </center>
 
 Файлы размером до 200 мб &#8211; отлично, да и форматы самые популярные поддерживаются &#8211; неплохо.
-  
+
 Загрузил несколько файлов, отображаются в виде простого списка со значком формата. При клике на файл, сразу начинается загрузка.
 
 <center>
-  <a href="http://img.artslab.info/dokumenti_vkonakte3.jpg"><img src="http://img.artslab.info/dokumenti_vkonakte3-300x115.jpg" alt="Список документов Вконтакте" title="dokumenti_vkonakte3" width="300" height="115" class="alignnone size-medium wp-image-3130" srcset="http://img.artslab.info/dokumenti_vkonakte3-300x115.jpg 300w, http://img.artslab.info/dokumenti_vkonakte3.jpg 635w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte3.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte3-300x115.jpg" alt="Список документов Вконтакте" title="dokumenti_vkonakte3" width="300" height="115" class="alignnone size-medium wp-image-3130" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte3-300x115.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dokumenti_vkonakte3.jpg 635w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Вот на этом и все.

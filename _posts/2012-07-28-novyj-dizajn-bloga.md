@@ -9,7 +9,7 @@ permalink: /novosti-sayta/novyj-dizajn-bloga/
 prosmotr:
   - 394
 onswipe_thumb:
-  - http://img.artslab.info/alab2012.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/alab2012.jpg
 wpb_post_views_count:
   - 1074
 dsq_thread_id:
@@ -20,7 +20,7 @@ tags:
   - новости
 ---
 <center>
-  <img src="http://img.artslab.info/alab2012.jpg" alt="дизайн блога" title="alab2012"class="aligncenter size-medium wp-image-4844" srcset="http://img.artslab.info/alab2012.jpg 500w, http://img.artslab.info/alab2012-300x135.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/alab2012.jpg" alt="дизайн блога" title="alab2012"class="aligncenter size-medium wp-image-4844" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/alab2012.jpg 500w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/alab2012-300x135.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 </center>
 
 Да-да, готовлю новое оформление =) После нескольких лет простоя в плане дизайна, думаю пора обновить лицо сайта. Макет практический готов, осталось только сверстать. Если ничто не помешает, то на предстоящей недельке вид сайта полностью измениться и я надеюсь, что в лучшую сторону =)

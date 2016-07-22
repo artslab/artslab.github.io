@@ -18,7 +18,7 @@ tags:
   - фото
 ---
 <center>
-  <a href="http://img.artslab.info/konverter_kartinok_onlain.png"><img src="http://img.artslab.info/konverter_kartinok_onlain-300x246.png" alt="онлайн конвертер фотографий" title="konverter_kartinok_onlain" width="300" height="246" class="aligncenter size-medium wp-image-5749" srcset="http://img.artslab.info/konverter_kartinok_onlain-300x246.png 300w, http://img.artslab.info/konverter_kartinok_onlain.png 556w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/konverter_kartinok_onlain.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/konverter_kartinok_onlain-300x246.png" alt="онлайн конвертер фотографий" title="konverter_kartinok_onlain" width="300" height="246" class="aligncenter size-medium wp-image-5749" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/konverter_kartinok_onlain-300x246.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/konverter_kartinok_onlain.png 556w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Сервис [Imverter](http://www.imverter.com/) поможет вам быстро переконвертировать картинку из одного формата в другой, без использования какого-либо графического редактора или дополнительной программы конвертера. Imverter представляет из себя онлайн-сервис, который работют в любом веб-браузере. Не смотря на то, что сервис пока еще находится в бета-стадий, на данный момент он уже поддерживает многие форматы: JPG, PNG, TIFF, PDF, GIF, EPS, PSD, BMPFAX, PCX,PGM, PICT, PPM, TGA. При этом фотографий могут быть весом до 20 МБ.

@@ -13,7 +13,7 @@ ljxp_comments:
 ljxp_privacy:
   - public
 onswipe_thumb:
-  - http://img.artslab.info/lucidchart.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucidchart.jpg
 wpb_post_views_count:
   - 3037
 dsq_thread_id:
@@ -24,10 +24,10 @@ tags:
   - uml
   - онлайн сервис
 ---
-В последнее время частенько приходиться строить различные UML-диаграммы. Для этого существует много разных программ, например Microsoft Visio или MagicDraw. Но можно обойтись и без крупной &#8220;артиллерии&#8221; и воспользоваться веб-сервисом [LucidChart](https://www.lucidchart.com/). 
+В последнее время частенько приходиться строить различные UML-диаграммы. Для этого существует много разных программ, например Microsoft Visio или MagicDraw. Но можно обойтись и без крупной &#8220;артиллерии&#8221; и воспользоваться веб-сервисом [LucidChart](https://www.lucidchart.com/).
 
 <center>
-  <a href="http://img.artslab.info/lucidchart.jpg"><img src="http://img.artslab.info/lucidchart-300x172.jpg" alt="онлайн сервис для составления uml-диаграмм" title="lucidchart" width="300" height="172" class="aligncenter size-medium wp-image-4763" srcset="http://img.artslab.info/lucidchart-300x172.jpg 300w, http://img.artslab.info/lucidchart.jpg 1011w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucidchart.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucidchart-300x172.jpg" alt="онлайн сервис для составления uml-диаграмм" title="lucidchart" width="300" height="172" class="aligncenter size-medium wp-image-4763" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucidchart-300x172.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucidchart.jpg 1011w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 На LucidChart есть несколько разных тарифов, в том числе и бесплатный с 25 мб дискового пространства для хранения своих диаграмм.

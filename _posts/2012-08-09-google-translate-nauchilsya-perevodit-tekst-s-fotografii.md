@@ -20,8 +20,8 @@ tags:
   - приложение
 ---
 <center>
-  <a href="http://img.artslab.info/google_translate.jpeg"><img src="http://img.artslab.info/google_translate-168x300.jpg" alt="перевод текста с фотографий" title="google_translate" width="168" height="300" class="aligncenter size-medium wp-image-4894" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_translate.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_translate-168x300.jpg" alt="перевод текста с фотографий" title="google_translate" width="168" height="300" class="aligncenter size-medium wp-image-4894" /></a>
 </center>
 
-Гугловский переводчик в последнее время частенько радует нас своими обновлениями и расширением функционала. Сегодня вышла новая версия Google Translate, пока что только для [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRyYW5zbGF0ZSJd), которая умеет распознавать текст с фотографий и переводить его. На мой взгляд, нужная функция для быстрого перевода.   
+Гугловский переводчик в последнее время частенько радует нас своими обновлениями и расширением функционала. Сегодня вышла новая версия Google Translate, пока что только для [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRyYW5zbGF0ZSJd), которая умеет распознавать текст с фотографий и переводить его. На мой взгляд, нужная функция для быстрого перевода.
 Ждем обновление веб-интерфейса и конечно же iOS-версию переводчика.

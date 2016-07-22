@@ -26,7 +26,7 @@ tags:
   - psd
 ---
 <center>
-  <a href="http://img.artslab.info/imac_psd_file.jpeg"><img src="http://img.artslab.info/imac_psd_file-300x187.jpg" alt="psd исходник компьютера iMac" title="imac_psd_file" width="300" height="187" class="aligncenter size-medium wp-image-5006" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/imac_psd_file.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/imac_psd_file-300x187.jpg" alt="psd исходник компьютера iMac" title="imac_psd_file" width="300" height="187" class="aligncenter size-medium wp-image-5006" /></a>
 </center>
 
 Как ни странно, но до этого в блоге до сих пор не было исходников &#8220;яблочных&#8221; девайсов, которые вообщем-то регулярно используются в веб-дизайне. Многие дизайнеры используют макбуки для превью какого-либо веб-сервиса, интерфейс [бразуера Safari](http://artslab.info/ishodniki-psd/safari-psd-isxodnik-interfejsa-brauzera/ "Safari PSD — исходник интерфейса браузера") часто используется для демонстраций сайтов/макетов и т.д.
@@ -38,11 +38,11 @@ tags:
 ### PSD-исходник компьютера iMac
 
 <center>
-  <a href="http://img.artslab.info/imac_psd_file.jpeg"><img src="http://img.artslab.info/imac_psd_file-300x187.jpg" alt="psd исходник компьютера iMac" title="imac_psd_file" width="300" height="187" class="aligncenter size-medium wp-image-5006" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/imac_psd_file.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/imac_psd_file-300x187.jpg" alt="psd исходник компьютера iMac" title="imac_psd_file" width="300" height="187" class="aligncenter size-medium wp-image-5006" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -52,11 +52,11 @@ tags:
 ### MacBook PSD &#8211; исходник популярного ноутбука
 
 <center>
-  <a href="http://img.artslab.info/Macbook_PSD_ishodnik.png"><img src="http://img.artslab.info/Macbook_PSD_ishodnik-300x300.png" alt="psd ноутбука macbook" title="Macbook_PSD_ishodnik" width="300" height="300" class="aligncenter size-medium wp-image-5007" srcset="http://img.artslab.info/Macbook_PSD_ishodnik-300x300.png 300w, http://img.artslab.info/Macbook_PSD_ishodnik-100x100.png 100w, http://img.artslab.info/Macbook_PSD_ishodnik.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Macbook_PSD_ishodnik.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Macbook_PSD_ishodnik-300x300.png" alt="psd ноутбука macbook" title="Macbook_PSD_ishodnik" width="300" height="300" class="aligncenter size-medium wp-image-5007" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Macbook_PSD_ishodnik-300x300.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Macbook_PSD_ishodnik-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Macbook_PSD_ishodnik.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -66,11 +66,11 @@ tags:
 ### Apple MacBook Pro в формате PSD
 
 <center>
-  <a href="http://img.artslab.info/apple_macbook_pro_v_psd.jpg"><img src="http://img.artslab.info/apple_macbook_pro_v_psd-300x187.jpg" alt="macbook pro скачать в формате psd" title="apple_macbook_pro_v_psd" width="300" height="187" class="aligncenter size-medium wp-image-5012" srcset="http://img.artslab.info/apple_macbook_pro_v_psd-300x187.jpg 300w, http://img.artslab.info/apple_macbook_pro_v_psd-1024x640.jpg 1024w, http://img.artslab.info/apple_macbook_pro_v_psd.jpg 1131w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_macbook_pro_v_psd.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_macbook_pro_v_psd-300x187.jpg" alt="macbook pro скачать в формате psd" title="apple_macbook_pro_v_psd" width="300" height="187" class="aligncenter size-medium wp-image-5012" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_macbook_pro_v_psd-300x187.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_macbook_pro_v_psd-1024x640.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_macbook_pro_v_psd.jpg 1131w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -80,11 +80,11 @@ tags:
 ### MacBook Air PSD
 
 <center>
-  <a href="http://img.artslab.info/MacBook_Air_skachat_v_psd.png"><img src="http://img.artslab.info/MacBook_Air_skachat_v_psd-300x256.png" alt="скачать psd macbook air" title="MacBook_Air_skachat_v_psd" width="300" height="256" class="aligncenter size-medium wp-image-5019" srcset="http://img.artslab.info/MacBook_Air_skachat_v_psd-300x256.png 300w, http://img.artslab.info/MacBook_Air_skachat_v_psd.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/MacBook_Air_skachat_v_psd.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/MacBook_Air_skachat_v_psd-300x256.png" alt="скачать psd macbook air" title="MacBook_Air_skachat_v_psd" width="300" height="256" class="aligncenter size-medium wp-image-5019" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/MacBook_Air_skachat_v_psd-300x256.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/MacBook_Air_skachat_v_psd.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -94,11 +94,11 @@ tags:
 ### Исходник планшета iPad (белый и черный вариант)
 
 <center>
-  <a href="http://img.artslab.info/apple_ipad_psd_skachat.jpg"><img src="http://img.artslab.info/apple_ipad_psd_skachat-300x240.jpg" alt="psd планшета apple ipad" title="apple_ipad_psd_skachat" width="300" height="240" class="aligncenter size-medium wp-image-5009" srcset="http://img.artslab.info/apple_ipad_psd_skachat-300x240.jpg 300w, http://img.artslab.info/apple_ipad_psd_skachat.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_ipad_psd_skachat.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_ipad_psd_skachat-300x240.jpg" alt="psd планшета apple ipad" title="apple_ipad_psd_skachat" width="300" height="240" class="aligncenter size-medium wp-image-5009" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_ipad_psd_skachat-300x240.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_ipad_psd_skachat.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -108,11 +108,11 @@ tags:
 ### PSD-файл с iPhone 4, в белом и черном исполнений
 
 <center>
-  <a href="http://img.artslab.info/apple_iphone_4s_belii_chernii_psd.jpg"><img src="http://img.artslab.info/apple_iphone_4s_belii_chernii_psd-300x300.jpg" alt="psd исходник apple iphone" title="apple_iphone_4s_belii_chernii_psd" width="300" height="300" class="aligncenter size-medium wp-image-5008" srcset="http://img.artslab.info/apple_iphone_4s_belii_chernii_psd-300x300.jpg 300w, http://img.artslab.info/apple_iphone_4s_belii_chernii_psd-100x100.jpg 100w, http://img.artslab.info/apple_iphone_4s_belii_chernii_psd.jpg 894w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_4s_belii_chernii_psd.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_4s_belii_chernii_psd-300x300.jpg" alt="psd исходник apple iphone" title="apple_iphone_4s_belii_chernii_psd" width="300" height="300" class="aligncenter size-medium wp-image-5008" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_4s_belii_chernii_psd-300x300.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_4s_belii_chernii_psd-100x100.jpg 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_4s_belii_chernii_psd.jpg 894w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -122,11 +122,11 @@ tags:
 ### iPhone 3 &#8211; PSD с айфоном третей генераций
 
 <center>
-  <a href="http://img.artslab.info/iphone_3g_psd_file.png"><img src="http://img.artslab.info/iphone_3g_psd_file-300x190.png" alt="psd файл третьего iphone" title="iphone_3g_psd_file" width="300" height="190" class="aligncenter size-medium wp-image-5010" srcset="http://img.artslab.info/iphone_3g_psd_file-300x190.png 300w, http://img.artslab.info/iphone_3g_psd_file-1024x651.png 1024w, http://img.artslab.info/iphone_3g_psd_file.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_3g_psd_file.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_3g_psd_file-300x190.png" alt="psd файл третьего iphone" title="iphone_3g_psd_file" width="300" height="190" class="aligncenter size-medium wp-image-5010" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_3g_psd_file-300x190.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_3g_psd_file-1024x651.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_3g_psd_file.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -136,11 +136,11 @@ tags:
 ### PSD-файл приставки Apple TV
 
 <center>
-  <a href="http://img.artslab.info/apple_tv__psd_pristavki.jpeg"><img src="http://img.artslab.info/apple_tv__psd_pristavki-300x300.jpg" alt="приставка apple tv в psd формате" title="apple_tv__psd_pristavki" width="300" height="300" class="aligncenter size-medium wp-image-5011" srcset="http://img.artslab.info/apple_tv__psd_pristavki-300x300.jpg 300w, http://img.artslab.info/apple_tv__psd_pristavki-100x100.jpg 100w, http://img.artslab.info/apple_tv__psd_pristavki.jpeg 894w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_tv__psd_pristavki.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_tv__psd_pristavki-300x300.jpg" alt="приставка apple tv в psd формате" title="apple_tv__psd_pristavki" width="300" height="300" class="aligncenter size-medium wp-image-5011" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_tv__psd_pristavki-300x300.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_tv__psd_pristavki-100x100.jpg 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_tv__psd_pristavki.jpeg 894w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -150,11 +150,11 @@ tags:
 ### Плеер iPod Nano в формате PSD
 
 <center>
-  <a href="http://img.artslab.info/ipod_nano_psd_ishodnik.jpeg"><img src="http://img.artslab.info/ipod_nano_psd_ishodnik-300x175.jpg" alt="плеер ipod nano psd" title="ipod_nano_psd_ishodnik" width="300" height="175" class="aligncenter size-medium wp-image-5020" srcset="http://img.artslab.info/ipod_nano_psd_ishodnik-300x175.jpg 300w, http://img.artslab.info/ipod_nano_psd_ishodnik-1024x597.jpg 1024w, http://img.artslab.info/ipod_nano_psd_ishodnik.jpeg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_nano_psd_ishodnik.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_nano_psd_ishodnik-300x175.jpg" alt="плеер ipod nano psd" title="ipod_nano_psd_ishodnik" width="300" height="175" class="aligncenter size-medium wp-image-5020" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_nano_psd_ishodnik-300x175.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_nano_psd_ishodnik-1024x597.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_nano_psd_ishodnik.jpeg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -164,11 +164,11 @@ tags:
 ### PSD плеера iPod Classic
 
 <center>
-  <a href="http://img.artslab.info/ipod_classic_psd.jpeg"><img src="http://img.artslab.info/ipod_classic_psd-300x286.jpg" alt="айпод в psd" title="ipod_classic_psd" width="300" height="286" class="aligncenter size-medium wp-image-5021" srcset="http://img.artslab.info/ipod_classic_psd-300x286.jpg 300w, http://img.artslab.info/ipod_classic_psd.jpeg 915w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_classic_psd.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_classic_psd-300x286.jpg" alt="айпод в psd" title="ipod_classic_psd" width="300" height="286" class="aligncenter size-medium wp-image-5021" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_classic_psd-300x286.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_classic_psd.jpeg 915w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 
 
 <center>
@@ -178,11 +178,11 @@ tags:
 ### Напоследок, логотоип компаний Apple в формате PSD
 
 <center>
-  <a href="http://img.artslab.info/apple_logo_hd__psd_by_zandog-d2zx86e.jpg"><img src="http://img.artslab.info/apple_logo_hd__psd_by_zandog-d2zx86e-300x266.jpg" alt="логотип компаний apple в psd" title="logotip_apple" width="300" height="266" class="aligncenter size-medium wp-image-3406" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_logo_hd__psd_by_zandog-d2zx86e.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_logo_hd__psd_by_zandog-d2zx86e-300x266.jpg" alt="логотип компаний apple в psd" title="logotip_apple" width="300" height="266" class="aligncenter size-medium wp-image-3406" /></a>
 </center>
 
 
-  
+
 
 
 <center>

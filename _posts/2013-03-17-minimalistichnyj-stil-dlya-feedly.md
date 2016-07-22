@@ -21,19 +21,19 @@ tags:
 Если вы тоже решили попробовать Feedly в качестве альтернативы Google Reader, то хочу поделиться userscript&#8217;ом для Feedly, который придаст сервису более минималистичный вид и приблизит его к стилю Google Reader. За основу я взял юзерскрипт [Feedly Super Condensed Edition](http://userstyles.org/styles/84497) и дописал к нему несколько стилей. Вот что получилось:
 
 <center>
-  <a href="http://img.artslab.info/feedly_userscript.jpg"><img src="http://img.artslab.info/feedly_userscript-300x175.jpg" alt="стиль для feedly" class="aligncenter size-medium wp-image-6500" srcset="http://img.artslab.info/feedly_userscript-300x175.jpg 300w, http://img.artslab.info/feedly_userscript-1024x600.jpg 1024w, http://img.artslab.info/feedly_userscript.jpg 1477w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-300x175.jpg" alt="стиль для feedly" class="aligncenter size-medium wp-image-6500" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-300x175.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-1024x600.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript.jpg 1477w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Скрипт растягивает ленту Feedly на всю ширину экрана, удаляет рекламу, рекомендаций и другие блоки. Выделил заголовки прочитанных новостей более четко, сделал их более компактными, вернул фавиконки к фидам, а так же h2-заголовки страниц и поиск в правой части, немного изменил оформление просмотра новости.
 
 <center>
-  <a href="http://img.artslab.info/feedly_fullstory.jpg"><img src="http://img.artslab.info/feedly_fullstory-300x180.jpg" alt="просмотр полной новости" class="aligncenter size-medium wp-image-6501" srcset="http://img.artslab.info/feedly_fullstory-300x180.jpg 300w, http://img.artslab.info/feedly_fullstory-1024x615.jpg 1024w, http://img.artslab.info/feedly_fullstory.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_fullstory.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_fullstory-300x180.jpg" alt="просмотр полной новости" class="aligncenter size-medium wp-image-6501" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_fullstory-300x180.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_fullstory-1024x615.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_fullstory.jpg 1427w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 И вот еще что, для того чтобы страница со всеми записями открывалась по умолчанию, необходимо зайти в настройки и указать страницу &#8220;All&#8221; в качестве стартовой.
 
 <center>
-  <a href="http://img.artslab.info/settings.jpg"><img src="http://img.artslab.info/settings-300x89.jpg" alt="стартовая страница feedly" class="aligncenter size-medium wp-image-6502" srcset="http://img.artslab.info/settings-300x89.jpg 300w, http://img.artslab.info/settings.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/settings.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/settings-300x89.jpg" alt="стартовая страница feedly" class="aligncenter size-medium wp-image-6502" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/settings-300x89.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/settings.jpg 873w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 [Скачать Feedly Minimal](http://artslab.info/files/Feedly_minimal.user.js)

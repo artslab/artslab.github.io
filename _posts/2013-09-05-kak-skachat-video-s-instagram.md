@@ -19,10 +19,10 @@ tags:
   - video
   - онлайн сервис
 ---
-Одним из последних нововведений на популярном фото-сервисе [Instagram](http://artslab.info/tag/instagram/) стала возможность снятия и добавления видео с фильтрами. В связи с этим, у многих пользователей появился вопрос, как скачать свой или чужой ролик с инстаграм. 
+Одним из последних нововведений на популярном фото-сервисе [Instagram](http://artslab.info/tag/instagram/) стала возможность снятия и добавления видео с фильтрами. В связи с этим, у многих пользователей появился вопрос, как скачать свой или чужой ролик с инстаграм.
 
 <center>
-  <a href="http://img.artslab.info/instadown_skachat_video.png"><img src="http://img.artslab.info/instadown_skachat_video-300x198.png" alt="скачать видео с instagram" class="aligncenter size-medium wp-image-7826" srcset="http://img.artslab.info/instadown_skachat_video-300x198.png 300w, http://img.artslab.info/instadown_skachat_video.png 791w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instadown_skachat_video.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instadown_skachat_video-300x198.png" alt="скачать видео с instagram" class="aligncenter size-medium wp-image-7826" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instadown_skachat_video-300x198.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instadown_skachat_video.png 791w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Самое просто решение &#8211; это воспользоваться онлайн-сервисом <a href="http://www.instadown.com/" target="_blank">InstaDown</a>, который позволит скачать любое видео и сохранить его в формате mp4.

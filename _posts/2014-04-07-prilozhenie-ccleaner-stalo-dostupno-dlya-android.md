@@ -7,8 +7,8 @@ layout: post
 guid: http://artslab.info/?p=8125
 permalink: /prilozheniya-dlya-android/prilozhenie-ccleaner-stalo-dostupno-dlya-android/
 cover:
-  - 
-  - 
+  -
+  -
 wpb_post_views_count:
   - 1035
 dsq_thread_id:
@@ -20,7 +20,7 @@ tags:
   - приложение
 ---
 <center>
-  <a href="http://img.artslab.info/ccleaner-dlya-android.jpg"><img src="http://img.artslab.info/ccleaner-dlya-android-300x152.jpg" alt="ccleaner-dlya-android" class="aligncenter size-medium wp-image-8126" srcset="http://img.artslab.info/ccleaner-dlya-android-300x152.jpg 300w, http://img.artslab.info/ccleaner-dlya-android-900x456.jpg 900w, http://img.artslab.info/ccleaner-dlya-android.jpg 918w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ccleaner-dlya-android.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ccleaner-dlya-android-300x152.jpg" alt="ccleaner-dlya-android" class="aligncenter size-medium wp-image-8126" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ccleaner-dlya-android-300x152.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ccleaner-dlya-android-900x456.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ccleaner-dlya-android.jpg 918w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Популярная программа CCleaner для оптимизаций системы на компьютере, появилась и для мобильной платформы Android. В приложений доступны следующие функций:
@@ -35,5 +35,5 @@ tags:
 В данный момент приложение находиться в статусе бета, поэтому для того чтобы получить к нему доступ, необходимо присоединиться к [сообществу на Google+](https://plus.google.com/communities/110652555815519063408).
 
 <center>
-  <a href="http://img.artslab.info/test-android-app.jpg"><img src="http://img.artslab.info/test-android-app-300x236.jpg" alt="доступ к бета тесту приложения" class="aligncenter size-medium wp-image-8133" srcset="http://img.artslab.info/test-android-app-300x236.jpg 300w, http://img.artslab.info/test-android-app.jpg 835w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/test-android-app.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/test-android-app-300x236.jpg" alt="доступ к бета тесту приложения" class="aligncenter size-medium wp-image-8133" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/test-android-app-300x236.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/test-android-app.jpg 835w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

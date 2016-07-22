@@ -28,7 +28,7 @@ tags:
 Все страницы, которые были Вами &#8220;заплюсены&#8221;, так же отображаются в профиле:
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/plus1_profile.jpg"><img src="http://artslab.info/wp-content/uploads/plus1_profile-300x134.jpg" alt="плюс 1 отображение в профиле" title="plus1_profile" width="300" height="134" class="alignnone size-medium wp-image-1918" srcset="http://img.artslab.info/plus1_profile-300x134.jpg 300w, http://img.artslab.info/plus1_profile.jpg 705w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/plus1_profile.jpg"><img src="http://artslab.info/wp-content/uploads/plus1_profile-300x134.jpg" alt="плюс 1 отображение в профиле" title="plus1_profile" width="300" height="134" class="alignnone size-medium wp-image-1918" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/plus1_profile-300x134.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/plus1_profile.jpg 705w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 И напоследок ролик от Google &#8211; Introducing the +1 Button:
@@ -37,7 +37,7 @@ tags:
 </center>
 
 
-  
+
 <small>У гугла всегда получаются классные видеоролики и этот не является исключением =)</small>
 
 Теперь становится интересно, как эти рекомендаций повлияют на выдачу результатов и сортировку&#8230;. возможно новая тема для сеошников&#8230;

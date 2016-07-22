@@ -13,7 +13,7 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
 onswipe_thumb:
-  - http://img.artslab.info/social_metrics.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_metrics.jpg
 prosmotr:
   - 156
 wpb_post_views_count:
@@ -28,11 +28,11 @@ tags:
 format: aside
 ---
 <center>
-  <a href="http://img.artslab.info/social_metrics.jpg"><img src="http://img.artslab.info/social_metrics-300x126.jpg" alt="Популярность записей блога в социальных сетях" title="social_metrics" width="300" height="126" class="alignnone size-medium wp-image-3346" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_metrics.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_metrics-300x126.jpg" alt="Популярность записей блога в социальных сетях" title="social_metrics" width="300" height="126" class="alignnone size-medium wp-image-3346" /></a>
 </center>
 
 Плагином для отслеживания обычной статистики сайта уже не удивишь, но есть еще социальные сети, гугл +1 и твиттер. Плагин [Social Metrics](http://wordpress.org/extend/plugins/social-metrics/) &#8211; позволит вам следить за количеством твитов, лайков, +1, баззов и др. Статистика отображается в админке в виде отдельной таблицы.
-  
+
 В связи с популярностью твиттера, facebook&#8217;a и конечно же google +1, думаю плагин будет интересен многим, а особенно тем, кто занимается раскруткой своего проекта с помощью соц.сетей.
 
 <!--more-->

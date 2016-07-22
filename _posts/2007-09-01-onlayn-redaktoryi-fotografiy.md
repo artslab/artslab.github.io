@@ -13,7 +13,7 @@ prosmotr:
 wpb_post_views_count:
   - 17135
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1563448386
 categories:
@@ -28,17 +28,17 @@ tags:
   - фото
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/wp-content/uploads/photoshop_picnic_online.jpg"><img src="http://artslab.info/wp-content/uploads/photoshop_picnic_online.jpg" alt="" title="photoshop_picnic_online" width="324" height="130" class="alignnone size-full wp-image-791" srcset="http://img.artslab.info/photoshop_picnic_online.jpg 324w, http://img.artslab.info/photoshop_picnic_online-300x120.jpg 300w" sizes="(max-width: 324px) 100vw, 324px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/photoshop_picnic_online.jpg"><img src="http://artslab.info/wp-content/uploads/photoshop_picnic_online.jpg" alt="" title="photoshop_picnic_online" width="324" height="130" class="alignnone size-full wp-image-791" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online.jpg 324w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online-300x120.jpg 300w" sizes="(max-width: 324px) 100vw, 324px" /></a>
 </p>
 
 Думаю не для кого не секрет что существуют такие сервисы как &#8220;**онлайн редакторы фотографий**&#8220;. Они отлично подойдут для быстрого редактирования изображений(увеличить, уменьшить, повернуть и т.п.), в том случае если у Вас не установлен Adobe Photoshop&#8217;a или просто нету возможности им воспользоваться (и в то же время неохота мучаться в paint&#8217;e).
 
 Прошелся по сайтам и подобрал самые интересные сервисы. Для работы с некоторыми из редакторов понадобиться регистрация (бесплатная) для доступа к дополнительным возможностям:
-  
+
 <!--more-->
 
 
-  
+
 
 
 <center>
@@ -48,12 +48,12 @@ tags:
 ### <del datetime="2015-08-11T13:50:12+00:00">1. Picnik</del>
 
 <p align="center">
-  <a title="picnic" href="http://www.picnik.com/" target="_blank">Picnik</a> &#8211; один из самых популярных сервисов для редактирования изображений. Сервис пользуется огромной популярностью, пожтому в 2010 году и был выкуплен интернет-гигантом Google.<br /> 
-  
+  <a title="picnic" href="http://www.picnik.com/" target="_blank">Picnik</a> &#8211; один из самых популярных сервисов для редактирования изображений. Сервис пользуется огромной популярностью, пожтому в 2010 году и был выкуплен интернет-гигантом Google.<br />
+
   <center>
     <br />
   </center>
-  
+
   <br /> Сервис позволяет импортировать изображения с таких сервов как: Picasa, Flickr, Facebook, Photobucket, MySpace, Webshots и Webs. Ну и конечно же можно загружать фотографий с Вашего компьютера и редактировать их в нем.<br /> Для тех кто пользуется браузером Google Chrome, недавно для него появилось приложение Picnik. Доступно по <a href="https://chrome.google.com/webstore/detail/inmnggcpelemfookhlhkdfbechcdadfp#" target="_blank">этому адресу</a>.
 </p>
 
@@ -62,13 +62,13 @@ tags:
 ### 2. Pixlr (TOP!)
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/pixlr.jpg"><img src="http://artslab.info/wp-content/uploads/pixlr-300x135.jpg" alt="" title="pixlr" width="300" height="135" class="alignnone size-medium wp-image-695" srcset="http://img.artslab.info/pixlr-300x135.jpg 300w, http://img.artslab.info/pixlr-1024x461.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/pixlr.jpg"><img src="http://artslab.info/wp-content/uploads/pixlr-300x135.jpg" alt="" title="pixlr" width="300" height="135" class="alignnone size-medium wp-image-695" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr-300x135.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr-1024x461.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 [Pixlr](http://pixlr.com/editor/?loc=ru) &#8211; Мой личный фаворит из всех сервисов. Во первых pixlr больше всего по интерфейсу напоминает фотошоп, поэтому не придется переучиваться и искать нужные кнопочки, все они находятся там, где они и должны быть. Второе не менее важное преимущество сервиса так это его русскоязычность. Полностью [руссифицированный](http://pixlr.com/editor/?loc=ru) интерфейс. Так же здесь есть импорт изображений с Facebook, Picasa, Flickr, загрузка изображения с интернета по ссылке и конечно же, с компьютера.
 
 <center>
-  <a href="http://img.artslab.info/snipshot_fotoredaktor.jpg"><img src="http://img.artslab.info/snipshot_fotoredaktor-300x153.jpg" alt="snipshot платный онлайн редактор" class="aligncenter size-medium wp-image-6980" srcset="http://img.artslab.info/snipshot_fotoredaktor-300x153.jpg 300w, http://img.artslab.info/snipshot_fotoredaktor-1024x524.jpg 1024w, http://img.artslab.info/snipshot_fotoredaktor.jpg 1349w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snipshot_fotoredaktor.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snipshot_fotoredaktor-300x153.jpg" alt="snipshot платный онлайн редактор" class="aligncenter size-medium wp-image-6980" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snipshot_fotoredaktor-300x153.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snipshot_fotoredaktor-1024x524.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snipshot_fotoredaktor.jpg 1349w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 3. Snipshot
@@ -100,17 +100,17 @@ tags:
 </p>
 
 <center>
-  <a href="http://img.artslab.info/pixenate_online_editor.png"><img src="http://img.artslab.info/pixenate_online_editor-300x188.png" alt="pixenate простой фото редактор" title="pixenate_online_editor" width="300" height="188" class="aligncenter size-medium wp-image-5697" srcset="http://img.artslab.info/pixenate_online_editor-300x188.png 300w, http://img.artslab.info/pixenate_online_editor.png 915w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixenate_online_editor.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixenate_online_editor-300x188.png" alt="pixenate простой фото редактор" title="pixenate_online_editor" width="300" height="188" class="aligncenter size-medium wp-image-5697" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixenate_online_editor-300x188.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixenate_online_editor.png 915w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 6. Adobe Photoshop Express
 
 <a href="http://photoshop.com" target="_blank">Adobe Photoshop Express</a> &#8211; Упрощеная онлайн версия фотошопа. Для работы с сервисом требуется <a href="https://www.photoshop.com/account/join?bypass&#038;wf=register" target="_blank">регистрация</a>.
-  
+
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/photoshop_online.jpg"><img src="http://artslab.info/wp-content/uploads/photoshop_online-300x163.jpg" alt="онлайн версия фотошопа" title="photoshop_online" width="300" height="163" class="aligncenter size-medium wp-image-664" srcset="http://img.artslab.info/photoshop_online-300x163.jpg 300w, http://img.artslab.info/photoshop_online-1024x557.jpg 1024w, http://img.artslab.info/photoshop_online.jpg 1590w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/photoshop_online.jpg"><img src="http://artslab.info/wp-content/uploads/photoshop_online-300x163.jpg" alt="онлайн версия фотошопа" title="photoshop_online" width="300" height="163" class="aligncenter size-medium wp-image-664" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online-300x163.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online-1024x557.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online.jpg 1590w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 7. iPiccy
@@ -118,7 +118,7 @@ tags:
 Веб-редактор <a href="http://ipiccy.com" target="_blank">iPiccy</a> интерфейсом сильно напоминает закрывшийся Picnik. Множество настроек, различных эффектов, так же имеется поддержка слоев, но работать с ними не совсем удобно, так как для этого интерфейс не совсем удобен. Отлично подойдет для быстрой и четкой обработки фото, подойдет тем, кто не хочет экспериментировать с фото, а конкретно знает как оно должно будет выглядеть после обработки.
 
 <center>
-  <a href="http://img.artslab.info/ipiccy_redaktor_foto.png"><img src="http://img.artslab.info/ipiccy_redaktor_foto-300x190.png" alt="многофункциональный онлайн редактор фотографий" title="ipiccy_redaktor_foto" width="300" height="190" class="aligncenter size-medium wp-image-5695" srcset="http://img.artslab.info/ipiccy_redaktor_foto-300x190.png 300w, http://img.artslab.info/ipiccy_redaktor_foto-1024x649.png 1024w, http://img.artslab.info/ipiccy_redaktor_foto.png 1285w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipiccy_redaktor_foto.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipiccy_redaktor_foto-300x190.png" alt="многофункциональный онлайн редактор фотографий" title="ipiccy_redaktor_foto" width="300" height="190" class="aligncenter size-medium wp-image-5695" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipiccy_redaktor_foto-300x190.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipiccy_redaktor_foto-1024x649.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipiccy_redaktor_foto.png 1285w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 8. Flavion
@@ -126,15 +126,15 @@ tags:
 <a href="http://flavion.com/app/index.php" target="_blank">Flavion</a> представляет из себя многофунциональный онлайн инструмент для редактирования фотографий не выходя из браузера. Интерфейс веб-приложения исполнен в лучших традициях Adobe Photoshop. Слева находится панель инструментов, а справа блоки со слоями, навигацией и прочими функциями. Интерфейс приложение доступен, в том числе, и на русском языке. Достойный сервис и на мой взгляд, один из лучших, наравне с Pixlr.
 
 <center>
-  <a href="http://img.artslab.info/flavion_redaktor.png"><img src="http://img.artslab.info/flavion_redaktor-300x191.png" alt="фото редактор  flavion" title="flavion_redaktor" width="300" height="191" class="aligncenter size-medium wp-image-5696" srcset="http://img.artslab.info/flavion_redaktor-300x191.png 300w, http://img.artslab.info/flavion_redaktor-1024x654.png 1024w, http://img.artslab.info/flavion_redaktor.png 1216w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flavion_redaktor.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flavion_redaktor-300x191.png" alt="фото редактор  flavion" title="flavion_redaktor" width="300" height="191" class="aligncenter size-medium wp-image-5696" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flavion_redaktor-300x191.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flavion_redaktor-1024x654.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flavion_redaktor.png 1216w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 9. Ribbet
 
-Фоторедактор <a href="http://www.ribbet.com/" target="_blank">Ribbet</a> не только визуально, но и функционально очень напоминает закрывшийся сервис Picnik. 
+Фоторедактор <a href="http://www.ribbet.com/" target="_blank">Ribbet</a> не только визуально, но и функционально очень напоминает закрывшийся сервис Picnik.
 
 <center>
-  <a href="http://img.artslab.info/redaktor_ribbet.jpg"><img src="http://img.artslab.info/redaktor_ribbet-300x162.jpg" alt="онлайн редактор в стилей picnik" class="aligncenter size-medium wp-image-6975" srcset="http://img.artslab.info/redaktor_ribbet-300x162.jpg 300w, http://img.artslab.info/redaktor_ribbet-1024x553.jpg 1024w, http://img.artslab.info/redaktor_ribbet.jpg 1181w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_ribbet.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_ribbet-300x162.jpg" alt="онлайн редактор в стилей picnik" class="aligncenter size-medium wp-image-6975" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_ribbet-300x162.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_ribbet-1024x553.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_ribbet.jpg 1181w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Главные возможности:
@@ -151,13 +151,13 @@ tags:
 Не смотря на что <a href="http://www.picmonkey.com/" target="_blank">PicMonkey</a> занял 10 строку (из-за обновлении этой записи), этот редактор заслуживает особого внимания, так как является очень качественным и красивым. Веб-редактор имеет многофункциональный пользовательский интерфейс и позволяет не только редактировать фотографий, а так же составлять коллажи из нескольких снимков. Для этого в PicMonkey встроен отдельный редактор, который содержит готовые шаблоны с окошками для изображений.
 
 <center>
-  <a href="http://img.artslab.info/redaktor_picmonkey.png"><img src="http://img.artslab.info/redaktor_picmonkey-300x203.png" alt="веб-редактор picmonkey" class="aligncenter size-medium wp-image-6974" srcset="http://img.artslab.info/redaktor_picmonkey-300x203.png 300w, http://img.artslab.info/redaktor_picmonkey-1024x694.png 1024w, http://img.artslab.info/redaktor_picmonkey.png 1058w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_picmonkey.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_picmonkey-300x203.png" alt="веб-редактор picmonkey" class="aligncenter size-medium wp-image-6974" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_picmonkey-300x203.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_picmonkey-1024x694.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/redaktor_picmonkey.png 1058w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 PicMonkey обладает набором стандартных инструментов для обработки Ваших снимков, а так же большим количеством красивых фотофильтров в стиле Instagram. Кроме того, доступны отдельные инструменты для удаления красных глаз, ретуширования прыщей и морщин на лице, изменения цвета волос, глаз и другие полезные функций.
 
 <center>
-  <a href="http://img.artslab.info/collage_picmonkey.jpg"><img src="http://img.artslab.info/collage_picmonkey-300x196.jpg" alt="коллаж онлайн" class="aligncenter size-medium wp-image-6977" srcset="http://img.artslab.info/collage_picmonkey-300x196.jpg 300w, http://img.artslab.info/collage_picmonkey.jpg 934w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/collage_picmonkey.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/collage_picmonkey-300x196.jpg" alt="коллаж онлайн" class="aligncenter size-medium wp-image-6977" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/collage_picmonkey-300x196.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/collage_picmonkey.jpg 934w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Готовую фотографию можно легко сохранить, либо поделиться результатом с друзьями в социальных сетях.
@@ -167,5 +167,5 @@ PicMonkey обладает набором стандартных инструм�
 [Picozu](http://www.picozu.com/editor/) &#8211; это мощный онлайн редактор фотографий, который может послужить отличной альтернативой Adobe Photoshop. Удобный и хорошо продуманный интерфейс и большое количество различных инструментов. Подробный обзор этого сервиса можете прочитать [на нашем сайте](http://artslab.info/onlayn-servisyi/picozu-onlajn-alternativa-fotoshopu/ "Picozu — онлайн альтернатива фотошопу").
 
 <center>
-  <a href="http://img.artslab.info/online_foro_redatkor.jpg"><img src="http://img.artslab.info/online_foro_redatkor-300x199.jpg" alt="отредактировать фото в браузере" class="aligncenter size-medium wp-image-6981" srcset="http://img.artslab.info/online_foro_redatkor-300x199.jpg 300w, http://img.artslab.info/online_foro_redatkor-1024x681.jpg 1024w, http://img.artslab.info/online_foro_redatkor.jpg 1248w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/online_foro_redatkor.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/online_foro_redatkor-300x199.jpg" alt="отредактировать фото в браузере" class="aligncenter size-medium wp-image-6981" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/online_foro_redatkor-300x199.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/online_foro_redatkor-1024x681.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/online_foro_redatkor.jpg 1248w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=6619
 permalink: /ishodniki-psd/derevyannye-i-metallicheskie-polki-v-psd/
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 2130
 dsq_thread_id:
@@ -20,7 +20,7 @@ tags:
   - исходники
 ---
 <center>
-  <a href="http://img.artslab.info/polki_psd.jpg"><img src="http://img.artslab.info/polki_psd-300x138.jpg" alt="полочки в psd" class="aligncenter size-medium wp-image-6621" srcset="http://img.artslab.info/polki_psd-300x138.jpg 300w, http://img.artslab.info/polki_psd.jpg 594w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/polki_psd.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/polki_psd-300x138.jpg" alt="полочки в psd" class="aligncenter size-medium wp-image-6621" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/polki_psd-300x138.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/polki_psd.jpg 594w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Полочки в последнее время регулярно используются в веб-дизайне, а особенно в дизайне мобильных приложений. Один из лучших пример использования деревянной полки, это книжное iOS-приложение iBooks.

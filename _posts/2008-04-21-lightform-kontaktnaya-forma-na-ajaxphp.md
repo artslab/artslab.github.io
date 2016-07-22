@@ -23,7 +23,7 @@ tags:
   - скрипт
 ---
 <p style="text-align: center;">
-  <a class="lightview" href="http://artslab.info/wp-content/uploads/lightformpreview.jpg"><img class="alignnone size-medium wp-image-300" title="lightformpreview" src="http://artslab.info/wp-content/uploads/lightformpreview-300x145.jpg" alt="lightform - бесплатный скрип контактной формы на php/ajax" width="300" height="145" srcset="http://img.artslab.info/lightformpreview-300x145.jpg 300w, http://img.artslab.info/lightformpreview.jpg 505w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a class="lightview" href="http://artslab.info/wp-content/uploads/lightformpreview.jpg"><img class="alignnone size-medium wp-image-300" title="lightformpreview" src="http://artslab.info/wp-content/uploads/lightformpreview-300x145.jpg" alt="lightform - бесплатный скрип контактной формы на php/ajax" width="300" height="145" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lightformpreview-300x145.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lightformpreview.jpg 505w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 Бесплатный скрипт контактной формы, написанный на php и ajax. Из особенностей отмечу: всплывающие подсказки к полям, captcha, закругленные поля, проверка корректного заполнения полей.

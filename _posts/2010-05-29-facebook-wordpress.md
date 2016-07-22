@@ -24,7 +24,7 @@ tags:
 [Facebook](http://facebook.com) последнее время становится все популярнее и популярнее в рунете, в связи с этим хотел бы представить парочку самых нужных плагинов для связки известнейшей социальной сети с WordPress&#8217;ом.
 
 1. <a href="http://wordpress.org/extend/plugins/wordbook/" target="_blank">Wordbook</a>
-  
+
 Данный плагин дает возможность для кросс-поста записей из блога на страничку пользователя в Facebook.
 
 <center>
@@ -32,7 +32,7 @@ tags:
 </center>
 
 2. <a href="http://wordpress.org/extend/plugins/facebook-like/" target="_blank">Facebook Like</a>
-  
+
 Кнопочка &#8220;Like&#8221; думаю всем знакома и не нуждается в особом представлений. Данный плагин добавляет эту самую кнопочку в блог.
 
 <center>
@@ -44,11 +44,11 @@ tags:
 Это даже не совсем плагин, а скорей просто виджет. Понадобится он тем, у кого есть своя группа на facebook&#8217;e. В виджете отображается количество участников, их аватарки, а также присутствует кнопка, нажав на которую посетитель сможет вступить в группу. Выглядит это так:
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/facebook.png"><img src="http://artslab.info/wp-content/uploads/facebook-156x300.png" alt="like box для facebook" title="facebook" width="156" height="300" class="aligncenter size-medium wp-image-577" srcset="http://img.artslab.info/facebook-156x300.png 156w, http://img.artslab.info/facebook.png 312w" sizes="(max-width: 156px) 100vw, 156px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/facebook.png"><img src="http://artslab.info/wp-content/uploads/facebook-156x300.png" alt="like box для facebook" title="facebook" width="156" height="300" class="aligncenter size-medium wp-image-577" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook-156x300.png 156w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook.png 312w" sizes="(max-width: 156px) 100vw, 156px" /></a>
 </center>
 
 Другие &#8220;вкусности&#8221;(например, лента активности&#8230;) от Facebook&#8217;a можно так же найти на страничке с дополнениями <a href="http://developers.facebook.com/plugins" target="_blank">у них на сайте</a>. Для авторизации через фэйсбук можно воспользоватся плагином [Loginza](http://artslab.info/2010/05/avtorizatsiya-cherez-vkontakte-openapi-dlya-wordpress/), который поддерживает и многие другие сервисы.
-  
 
-  
+
+
 PS: Тем временем нашему любимому [WordPress&#8217;у](http://wordpress.org) недавно исполнилось 7 лет, а так же стала доступна для скачивания новая версия [WP 3.0 Release Candidate 1](http://wordpress.org/wordpress-3.0-RC1.zip)

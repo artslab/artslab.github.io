@@ -25,7 +25,7 @@ tags:
   - кнопка
 ---
 Ну вот и еще одно пополнение в ряду кнопок. Facebook сделали [Send-button](http://artslab.info/news/facebook-knopka-send/), Google во всю тестирует [+1](http://artslab.info/news/u-google-poyavilas-svoya-knopka-like-it-1/), пришла очередь Твиттера. Поэтому надавно была представлена новая [кнопка Follow](http://dev.twitter.com/pages/follow_button), для мгновенной подписки на пользователя. Есть разные варианты оформления, можно взять button в темных тонах, с счетчиком или без.
-  
+
 Вот один из примеров, кстати, можете даже подписаться на меня, вроде не бот =)
 
 <center>
@@ -36,5 +36,5 @@ tags:
 Нажав по баттону сразу же происходит подписка на микроблог, а если нажать на ссылку рядом, то всплывает окно такого вида:
 
 <center>
-  <a href="http://img.artslab.info/twiplee.jpg"><img src="http://img.artslab.info/twiplee-300x255.jpg" alt="Кнопка подписки от твиттер" title="twiplee" width="300" height="255" class="alignnone size-medium wp-image-3241" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twiplee.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twiplee-300x255.jpg" alt="Кнопка подписки от твиттер" title="twiplee" width="300" height="255" class="alignnone size-medium wp-image-3241" /></a>
 </center>

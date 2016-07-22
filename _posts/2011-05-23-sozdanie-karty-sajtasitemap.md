@@ -25,7 +25,7 @@ tags:
   - плагин
 ---
 <center>
-  <a href="http://img.artslab.info/sitemap_wordpress_xml.gif"><img src="http://img.artslab.info/sitemap_wordpress_xml-300x203.gif" alt="Создание карты сайта" title="sitemap_wordpress_xml" width="300" height="203" class="alignnone size-medium wp-image-3019" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sitemap_wordpress_xml.gif"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sitemap_wordpress_xml-300x203.gif" alt="Создание карты сайта" title="sitemap_wordpress_xml" width="300" height="203" class="alignnone size-medium wp-image-3019" /></a>
 </center>
 
 Одно из главных заданий, которое нужно сделать сразу после создание нового блога &#8211; это создание карты сайта и ее добавление на [Google](http://www.google.com/webmasters/) и [Яндекс](http://webmaster.yandex.ru). Для пользователей WordPress, создать sitemap не проблема. Для этого есть специальный плагин &#8211; [Google (XML) Sitemaps Generator for WordPress](http://wordpress.org/extend/plugins/google-sitemap-generator/), который все сделает за Вас, 5-минутное, но крайне необходимое дело.

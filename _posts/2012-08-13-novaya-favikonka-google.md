@@ -18,11 +18,11 @@ tags:
   - google
 ---
 <center>
-  <img src="http://img.artslab.info/new_favicon-48.png" alt="новая фавиконка google" title="new_favicon-48" width="48" height="48" class="aligncenter size-full wp-image-4917" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_favicon-48.png" alt="новая фавиконка google" title="new_favicon-48" width="48" height="48" class="aligncenter size-full wp-image-4917" />
 </center>
 
 Спустя два с половиной года, главный поисковик интернет снова обновил favicon. Новый вариант стал еще минимальнее и проще, теперь адресная строка браузера выглядит вот так:
 
 <center>
-  <img src="http://img.artslab.info/google_new_favicon.png" alt="google обновил фавиконку" title="google_new_favicon" class="aligncenter size-medium wp-image-4916" srcset="http://img.artslab.info/google_new_favicon.png 350w, http://img.artslab.info/google_new_favicon-300x74.png 300w" sizes="(max-width: 350px) 100vw, 350px" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_new_favicon.png" alt="google обновил фавиконку" title="google_new_favicon" class="aligncenter size-medium wp-image-4916" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_new_favicon.png 350w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_new_favicon-300x74.png 300w" sizes="(max-width: 350px) 100vw, 350px" />
 </center>

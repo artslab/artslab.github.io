@@ -21,7 +21,7 @@ tags:
   - сервис
 ---
 <center>
-  <a href="http://img.artslab.info/browsercover.png"><img src="http://img.artslab.info/browsercover.png" alt="сервис browsercover" title="browsercover" width="240" height="43" class="aligncenter size-full wp-image-5527" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browsercover.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browsercover.png" alt="сервис browsercover" title="browsercover" width="240" height="43" class="aligncenter size-full wp-image-5527" /></a>
 </center>
 
 Хочу представить вам простенький сервис [BrowserCover](http://www.browsercover.com/). Он подставляет любое ваше изображение в окно выбранного браузера. Картинки в таком виде, можно использовать как превью или предоставлять при показе макетов и т.д. В данный момент на сервисе доступен выбор из 14 разных версий браузеров &#8211; Safari, Chrome, Firefox, Safari iPhone. Так же можно выбрать размер картинки, добавить ссылку в адресную строку и указать заголовок.
@@ -29,5 +29,5 @@ tags:
 Пример:
 
 <center>
-  <img src="http://img.artslab.info/browsercover_s_brauzerom.png" alt="сервис browsercover" title="browsercover_s_brauzerom" width="500" height="293" class="aligncenter size-full wp-image-5526" srcset="http://img.artslab.info/browsercover_s_brauzerom.png 500w, http://img.artslab.info/browsercover_s_brauzerom-300x175.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browsercover_s_brauzerom.png" alt="сервис browsercover" title="browsercover_s_brauzerom" width="500" height="293" class="aligncenter size-full wp-image-5526" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browsercover_s_brauzerom.png 500w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browsercover_s_brauzerom-300x175.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
 </center>

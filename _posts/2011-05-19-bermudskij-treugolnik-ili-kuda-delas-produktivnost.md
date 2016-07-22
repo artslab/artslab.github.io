@@ -25,5 +25,5 @@ tags:
 Думаю всем знакомо =)
 
 <center>
-  <a href="http://img.artslab.info/triangle-of-productivity.jpg"><img src="http://img.artslab.info/triangle-of-productivity-300x225.jpg" alt="Бермудский треугольник продуктивности в интернете" title="triangle-of-productivity" width="300" height="225" class="alignnone size-medium wp-image-2867" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/triangle-of-productivity.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/triangle-of-productivity-300x225.jpg" alt="Бермудский треугольник продуктивности в интернете" title="triangle-of-productivity" width="300" height="225" class="alignnone size-medium wp-image-2867" /></a>
 </center>

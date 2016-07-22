@@ -21,7 +21,7 @@ tags:
   - photoshop
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/wp-content/uploads/Abstract_Shapes__by_redcarbon.jpg"><img src="http://artslab.info/wp-content/uploads/Abstract_Shapes__by_redcarbon.jpg" alt="" title="Abstract_Shapes__by_redcarbon" width="380" height="500" class="alignnone size-full wp-image-806" srcset="http://img.artslab.info/Abstract_Shapes__by_redcarbon.jpg 380w, http://img.artslab.info/Abstract_Shapes__by_redcarbon-228x300.jpg 228w" sizes="(max-width: 380px) 100vw, 380px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/Abstract_Shapes__by_redcarbon.jpg"><img src="http://artslab.info/wp-content/uploads/Abstract_Shapes__by_redcarbon.jpg" alt="" title="Abstract_Shapes__by_redcarbon" width="380" height="500" class="alignnone size-full wp-image-806" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Abstract_Shapes__by_redcarbon.jpg 380w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Abstract_Shapes__by_redcarbon-228x300.jpg 228w" sizes="(max-width: 380px) 100vw, 380px" /></a>
 </p>
 
 <p style="text-align: center" align="center">

@@ -19,10 +19,10 @@ tags:
   - иконка
 ---
 <center>
-  <img src="http://img.artslab.info/ikonka_saita_dlya_windows8.png" alt="иконка сайта в modern ui" class="aligncenter size-medium wp-image-6667" srcset="http://img.artslab.info/ikonka_saita_dlya_windows8.png 450w, http://img.artslab.info/ikonka_saita_dlya_windows8-300x166.png 300w" sizes="(max-width: 450px) 100vw, 450px" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ikonka_saita_dlya_windows8.png" alt="иконка сайта в modern ui" class="aligncenter size-medium wp-image-6667" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ikonka_saita_dlya_windows8.png 450w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ikonka_saita_dlya_windows8-300x166.png 300w" sizes="(max-width: 450px) 100vw, 450px" />
 </center>
 
-Новое плиточное меню (Modern UI) в Windows 8 позволяет прикреплять ссылки на сайты в виде отдельных плиток. Если прикрепить сайт, то по умолчанию отобразиться растянутая фавиконка с стандартным серым фоном. Выглядит не очень красиво (пример на скриншоте), но это легко можно исправить. Нужно добавить специальный мета-код на ваш сайт и указать в нем иконку, заголовок и цвет самой плитки. 
+Новое плиточное меню (Modern UI) в Windows 8 позволяет прикреплять ссылки на сайты в виде отдельных плиток. Если прикрепить сайт, то по умолчанию отобразиться растянутая фавиконка с стандартным серым фоном. Выглядит не очень красиво (пример на скриншоте), но это легко можно исправить. Нужно добавить специальный мета-код на ваш сайт и указать в нем иконку, заголовок и цвет самой плитки.
 
 <!--more-->
 
@@ -31,23 +31,23 @@ tags:
 На мой взгляд, в случае с Modern UI лучше всего смотрятся монохромные иконки, поэтому я бы не стал делать что-то слишком красочное.
 
 <center>
-  <a href="http://img.artslab.info/11.jpg"><img src="http://img.artslab.info/11-300x168.jpg" alt="интерфейс metro в windows 8" class="aligncenter size-medium wp-image-3920" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/11.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/11-300x168.jpg" alt="интерфейс metro в windows 8" class="aligncenter size-medium wp-image-3920" /></a>
 </center>
 
 Всего нам понадобиться добавить три строки в шапку сайта, т.е. между тегами <head> и </head>. За фоновый цвет плитки отвечает первый метатег, второй содержит путь к необходимой иконке, а в третьем указан заголовок страницы, который будет отображаться на плитке под иконкой.
 
 [html]
-  
+
 <meta name="msapplication-TileColor" content="#302f30"/>
-  
+
 <meta name="msapplication-TileImage" content="http://artslab.info/tile_icon.png"/>
-  
+
 <meta name="application-name" content="ArtsLab"/>
-  
+
 [/html]
 
 Напоследок, поделюсь сервисом <a href="http://www.buildmypinnedsite.com/" target="_blank">BuildMyPinnedSite</a>, он поможет с предпросмотром при оформлений, а так же умеет генерировать вышеуказанный код.
 
 <center>
-  <a href="http://img.artslab.info/windows_8_ikonka.jpg"><img src="http://img.artslab.info/windows_8_ikonka-300x215.jpg" alt="сервис buildmypinnedsite" class="aligncenter size-medium wp-image-6671" srcset="http://img.artslab.info/windows_8_ikonka-300x215.jpg 300w, http://img.artslab.info/windows_8_ikonka.jpg 996w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows_8_ikonka.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows_8_ikonka-300x215.jpg" alt="сервис buildmypinnedsite" class="aligncenter size-medium wp-image-6671" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows_8_ikonka-300x215.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows_8_ikonka.jpg 996w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

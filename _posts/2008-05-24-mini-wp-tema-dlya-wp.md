@@ -13,7 +13,7 @@ prosmotr:
 wpb_post_views_count:
   - 970
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1565022778
 categories:
@@ -25,7 +25,7 @@ tags:
   - шаблон
 ---
 <p style="text-align: center;">
-  <a class="lightview" href="http://artslab.info/wp-content/uploads/mini-wp.jpg"><img class="alignnone size-medium wp-image-330" title="mini-wp" src="http://artslab.info/wp-content/uploads/mini-wp-248x300.jpg" alt="Mini-wp шаблон для wordpress" width="248" height="300" srcset="http://img.artslab.info/mini-wp-248x300.jpg 248w, http://img.artslab.info/mini-wp.jpg 400w" sizes="(max-width: 248px) 100vw, 248px" /></a>
+  <a class="lightview" href="http://artslab.info/wp-content/uploads/mini-wp.jpg"><img class="alignnone size-medium wp-image-330" title="mini-wp" src="http://artslab.info/wp-content/uploads/mini-wp-248x300.jpg" alt="Mini-wp шаблон для wordpress" width="248" height="300" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mini-wp-248x300.jpg 248w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mini-wp.jpg 400w" sizes="(max-width: 248px) 100vw, 248px" /></a>
 </p>
 
 Минимальная тема оформления для WordPress.

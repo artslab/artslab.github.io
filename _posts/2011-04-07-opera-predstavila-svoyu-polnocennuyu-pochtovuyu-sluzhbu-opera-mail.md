@@ -21,10 +21,10 @@ tags:
   - почта
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/opera_mail01.jpg"><img src="http://artslab.info/wp-content/uploads/opera_mail01-300x144.jpg" alt="почтовик от opera - opera mail" title="opera_mail0" width="300" height="144" class="alignnone size-medium wp-image-2088" srcset="http://img.artslab.info/opera_mail01-300x144.jpg 300w, http://img.artslab.info/opera_mail01.jpg 764w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/opera_mail01.jpg"><img src="http://artslab.info/wp-content/uploads/opera_mail01-300x144.jpg" alt="почтовик от opera - opera mail" title="opera_mail0" width="300" height="144" class="alignnone size-medium wp-image-2088" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail01-300x144.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail01.jpg 764w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-Да-да, разработчики браузера создали свою почтовую службу [**Opera Mail**](https://mail.opera.com/) с полноценным **веб-интерфейсом**. Каждый зарегистрированный пользователь получает адрес вида **mail@myopera.com**. Сервис был представлен [только сегодня](http://my.opera.com/mailteam/blog/welcome-to-my-opera-mail) и пока что работает в режиме бета. 
+Да-да, разработчики браузера создали свою почтовую службу [**Opera Mail**](https://mail.opera.com/) с полноценным **веб-интерфейсом**. Каждый зарегистрированный пользователь получает адрес вида **mail@myopera.com**. Сервис был представлен [только сегодня](http://my.opera.com/mailteam/blog/welcome-to-my-opera-mail) и пока что работает в режиме бета.
 
 Мне лично очень даже понравился дизайн пользовательского интерфейса, конечно не гуглмэйл, но все таки интересно что из этого получится&#8230;
 

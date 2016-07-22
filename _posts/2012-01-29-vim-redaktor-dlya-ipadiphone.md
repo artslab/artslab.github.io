@@ -21,22 +21,22 @@ tags:
   - редактор
 ---
 <center>
-  <img src="http://img.artslab.info/vim_editor_icon.jpg" alt="" title="vim_editor_icon" width="189" height="188" class="aligncenter size-full wp-image-4291" srcset="http://img.artslab.info/vim_editor_icon.jpg 189w, http://img.artslab.info/vim_editor_icon-100x100.jpg 100w" sizes="(max-width: 189px) 100vw, 189px" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_editor_icon.jpg" alt="" title="vim_editor_icon" width="189" height="188" class="aligncenter size-full wp-image-4291" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_editor_icon.jpg 189w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_editor_icon-100x100.jpg 100w" sizes="(max-width: 189px) 100vw, 189px" />
 </center>
 
 Я редко пишу про приложения для мобильных устроиств, а если и писал, то это были либо игры, либо клиенты для популярных сервисов.
 
 <center>
-  <a href="http://img.artslab.info/vim_iphone.jpg"><img src="http://img.artslab.info/vim_iphone-200x300.jpg" alt="" title="vim_iphone" width="200" height="300" class="aligncenter size-medium wp-image-4292" srcset="http://img.artslab.info/vim_iphone-200x300.jpg 200w, http://img.artslab.info/vim_iphone.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone-200x300.jpg" alt="" title="vim_iphone" width="200" height="300" class="aligncenter size-medium wp-image-4292" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone-200x300.jpg 200w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 </center>
 
 
-  
+
 Сегодня хотел упомянуть о популярном и хорошо известном в кодерских кругах редакторе Vim, который теперь стал доступен и для iOS девайсов, для iPhone и iPad.
-  
+
 Соглашусь, что пользоваться редактором используя встроенную сенсорную клавиатуру телефона/планшета не очень удобный и эффективный вариант, но не стоит забывать что к i-устройствам можно легко подключить дополнительную, внешнюю и беспроводную клавиатуру через Bluetooth.
-  
+
 [Скачать Vim с AppStore](http://itunes.apple.com/us/app/vim/id492668168?mt=8)
 
 <center>
-  <a href="http://img.artslab.info/vim_ipad.jpg"><img src="http://img.artslab.info/vim_ipad-225x300.jpg" alt="" title="vim_ipad" width="225" height="300" class="aligncenter size-medium wp-image-4293" /></a>>/center></p>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_ipad.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_ipad-225x300.jpg" alt="" title="vim_ipad" width="225" height="300" class="aligncenter size-medium wp-image-4293" /></a>>/center></p>

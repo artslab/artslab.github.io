@@ -32,6 +32,6 @@ tags:
 
 Остается спорным серьезное применение этого плагина, но иногда просто бывает интересно узнать на чем работает определенный сайт.
 
-[<img src="http://img.artslab.info/uznat_cms_satity_wappalyzer-204x300.png" alt="дополнения для определения cms" class="aligncenter size-medium wp-image-7344" srcset="http://img.artslab.info/uznat_cms_satity_wappalyzer-204x300.png 204w, http://img.artslab.info/uznat_cms_satity_wappalyzer.png 287w" sizes="(max-width: 204px) 100vw, 204px" />](http://img.artslab.info/uznat_cms_satity_wappalyzer.png)
+[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/uznat_cms_satity_wappalyzer-204x300.png" alt="дополнения для определения cms" class="aligncenter size-medium wp-image-7344" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/uznat_cms_satity_wappalyzer-204x300.png 204w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/uznat_cms_satity_wappalyzer.png 287w" sizes="(max-width: 204px) 100vw, 204px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/uznat_cms_satity_wappalyzer.png)
 
 Ознакомиться с дополнением можно <a href="https://addons.mozilla.org/ru/firefox/addon/10229" target="_blank">на сайте Firefox</a> и в магазине приложений <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/details" target="_blank">Google Chrome</a>. Код дополнения доступен на <a href="https://github.com/ElbertF/Wappalyzer" target="_blank">github</a>, там же можно узнать, с какими скриптами и библиотеками знаком Wappalyzer.

@@ -13,7 +13,7 @@ prosmotr:
 wpb_post_views_count:
   - 12575
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1563413848
 categories:
@@ -23,7 +23,7 @@ tags:
   - Шрифты
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-306" title="pix_fonts" src="http://artslab.info/wp-content/uploads/pix_fonts.gif" alt="скачать пиксельные шрифты" width="370" height="442" srcset="http://img.artslab.info/pix_fonts.gif 370w, http://img.artslab.info/pix_fonts-251x300.gif 251w" sizes="(max-width: 370px) 100vw, 370px" />
+  <img class="aligncenter size-full wp-image-306" title="pix_fonts" src="http://artslab.info/wp-content/uploads/pix_fonts.gif" alt="скачать пиксельные шрифты" width="370" height="442" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pix_fonts.gif 370w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pix_fonts-251x300.gif 251w" sizes="(max-width: 370px) 100vw, 370px" />
 </p>
 
 Собрал несколько пиксельных шрифтов, которые поддерживают кириллицу. Запаковал их в один <a href="http://www.box.net/shared/i26kfrls00" target="_blank">небольшой архив</a>(~90 kb).

@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4274
 permalink: /vse-dlya-google-chrome/youturn-stavim-video-s-youtube-na-avtopovtor-dopolnenie-dlya-google-chrome/
 onswipe_thumb:
-  - http://img.artslab.info/youturn_chrome.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youturn_chrome.jpg
 prosmotr:
   - 312
 wpb_post_views_count:
@@ -22,7 +22,7 @@ tags:
   - youtube
 ---
 <center>
-  <a href="http://img.artslab.info/youturn_chrome.jpg"><img src="http://img.artslab.info/youturn_chrome-300x187.jpg" alt="дополнение youturn для google chrome" title="youturn_chrome" width="300" height="187" class="aligncenter size-medium wp-image-4275" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youturn_chrome.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youturn_chrome-300x187.jpg" alt="дополнение youturn для google chrome" title="youturn_chrome" width="300" height="187" class="aligncenter size-medium wp-image-4275" /></a>
 </center>
 
 Не знаю как вам, но мне иногда не хватает на YouTube функций автоповтора видео. Особенно когда прослушиваешь какую-то музыку без видео, хочется просто поставить трек на &#8220;репит&#8221;, но увы.

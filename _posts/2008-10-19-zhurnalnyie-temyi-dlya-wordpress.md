@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019540
 cover:
-  - 
+  -
 categories:
   - Для Wordpress
   - Шаблоны
@@ -39,7 +39,7 @@ tags:
 **Guzel Magazine**
 
 <p style="text-align: center;">
-  <a href="http://artslab.info/wp-content/uploads/guzel.jpg" rel="lightbox"><img class="alignnone size-medium wp-image-389 aligncenter" title="guzel magazine style" src="http://artslab.info/wp-content/uploads/guzel-300x191.jpg" alt="бесплатные шаблоны для wordpress" width="300" height="191" srcset="http://img.artslab.info/guzel-300x191.jpg 300w, http://img.artslab.info/guzel.jpg 1185w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/guzel.jpg" rel="lightbox"><img class="alignnone size-medium wp-image-389 aligncenter" title="guzel magazine style" src="http://artslab.info/wp-content/uploads/guzel-300x191.jpg" alt="бесплатные шаблоны для wordpress" width="300" height="191" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guzel-300x191.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guzel.jpg 1185w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">

@@ -19,10 +19,10 @@ tags:
   - vkontakte
 ---
 <center>
-  <a href="http://img.artslab.info/import_iz_vk_na_itunes.jpg"><img src="http://img.artslab.info/import_iz_vk_na_itunes-300x175.jpg" alt="импорт треков из vk в itunes" title="import_iz_vk_na_itunes" width="300" height="175" class="aligncenter size-medium wp-image-6023" srcset="http://img.artslab.info/import_iz_vk_na_itunes-300x175.jpg 300w, http://img.artslab.info/import_iz_vk_na_itunes.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/import_iz_vk_na_itunes.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/import_iz_vk_na_itunes-300x175.jpg" alt="импорт треков из vk в itunes" title="import_iz_vk_na_itunes" width="300" height="175" class="aligncenter size-medium wp-image-6023" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/import_iz_vk_na_itunes-300x175.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/import_iz_vk_na_itunes.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-Наткнулся на одну маленькую утилиту от автора приложения [VKmessages](https://itunes.apple.com/ru/app/vkmessages/id593018185?mt=12). Программка [VKTunesSync](https://www.dropbox.com/s/u12ajphb8fkjknk/VKTunesSync.zip?m) позволит вам легко, в один клик, добавить все треки (или по одному) из вашего профиля ВК, в библиотеку iTunes.   
+Наткнулся на одну маленькую утилиту от автора приложения [VKmessages](https://itunes.apple.com/ru/app/vkmessages/id593018185?mt=12). Программка [VKTunesSync](https://www.dropbox.com/s/u12ajphb8fkjknk/VKTunesSync.zip?m) позволит вам легко, в один клик, добавить все треки (или по одному) из вашего профиля ВК, в библиотеку iTunes.
 Несмотря на то, что программка выглядит очень сыровато, она отлично выполняет свою главную функцию. Хотелось бы, чтобы разработчик не стал останавливаться на достигнутом и развивал приложение. Поправил очевидные ошибки и добавил еще некоторые функций, например, синхронизацию только с выбранными плейлистами.
 
 ([via](http://vk.com/vkmessagesmac?w=wall-43986969_35))

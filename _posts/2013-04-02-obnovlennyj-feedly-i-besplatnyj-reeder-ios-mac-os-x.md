@@ -22,16 +22,16 @@ tags:
   - rss
 ---
 Объявление о закрытий сервиса Google Reader повлекло за собой целую волну и заставило других разработчиков зашевелиться, чтобы успеть первыми забрать пользователей с &#8220;тонущего корабля&#8221;.
-  
+
 **1. Feedly**
-  
+
 
 
 <center>
-  <a href="http://img.artslab.info/feedly_userscript.jpg"><img src="http://img.artslab.info/feedly_userscript-300x175.jpg" alt="стиль для feedly" class="aligncenter size-medium wp-image-6500" srcset="http://img.artslab.info/feedly_userscript-300x175.jpg 300w, http://img.artslab.info/feedly_userscript-1024x600.jpg 1024w, http://img.artslab.info/feedly_userscript.jpg 1477w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-300x175.jpg" alt="стиль для feedly" class="aligncenter size-medium wp-image-6500" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-300x175.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-1024x600.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript.jpg 1477w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-Я уже не раз [писал](http://artslab.info/onlayn-servisyi/zakrytie-google-reader-eksport-dannyx-i-perexod-na-feedly/ "Закрытие Google Reader — экспорт данных и переход на Feedly"), что сделал свой выбор в сторону Feedly. Быстрее всех, на мой взгляд, реагируют именно разработчики этого сервиса. То в какую сторону идет развитие сервиса и какие функций были добавлены в последнее время, подтверждает то, что для себя я сделал правильный выбор. 
+Я уже не раз [писал](http://artslab.info/onlayn-servisyi/zakrytie-google-reader-eksport-dannyx-i-perexod-na-feedly/ "Закрытие Google Reader — экспорт данных и переход на Feedly"), что сделал свой выбор в сторону Feedly. Быстрее всех, на мой взгляд, реагируют именно разработчики этого сервиса. То в какую сторону идет развитие сервиса и какие функций были добавлены в последнее время, подтверждает то, что для себя я сделал правильный выбор.
 
 <!--more-->
 
@@ -40,16 +40,16 @@ tags:
 Будем надеяться что в скором времени разработчики сдержат свое обещание и отвяжут сервис от Google Reader, а так же запустят веб-версию читалки, которая будет работать без браузерного дополнения.
 
 **2. Reeder**
-  
+
 
 
 <center>
-  <a href="http://img.artslab.info/reeder_skachat_besplatno.jpg"><img src="http://img.artslab.info/reeder_skachat_besplatno-300x172.jpg" alt="reeder читалка rss mac os x" class="aligncenter size-medium wp-image-6836" srcset="http://img.artslab.info/reeder_skachat_besplatno-300x172.jpg 300w, http://img.artslab.info/reeder_skachat_besplatno.jpg 741w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno-300x172.jpg" alt="reeder читалка rss mac os x" class="aligncenter size-medium wp-image-6836" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno-300x172.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno.jpg 741w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Одним из самых популярных iOS-приложений для чтения RSS-лент на сегодняшний день является клиент Reeder (iOS, Mac OS X). С 1 апреля приложение стало распространяться бесплатно, точка.
 
-Не совсем понятно как реагировать на такой шаг, стоит ли радоваться? В любом случае, это не апрельская шутка 🙂 
+Не совсем понятно как реагировать на такой шаг, стоит ли радоваться? В любом случае, это не апрельская шутка 🙂
 
 Неужели с закрытием гугл ридера разработчики решили остановиться на достигнутом и забросить столь успешный продукт?
 

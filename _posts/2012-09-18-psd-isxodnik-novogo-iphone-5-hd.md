@@ -23,9 +23,9 @@ tags:
   - psd
 ---
 <center>
-  <a href="http://img.artslab.info/apple_iphone_5_psd_file.jpeg"><img src="http://img.artslab.info/apple_iphone_5_psd_file-300x215.jpg" alt="psd нового айфона 5" title="apple_iphone_5_psd_file" width="300" height="215" class="aligncenter size-medium wp-image-5246" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_5_psd_file.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_5_psd_file-300x215.jpg" alt="psd нового айфона 5" title="apple_iphone_5_psd_file" width="300" height="215" class="aligncenter size-medium wp-image-5246" /></a>
 </center>
 
-На прошлой неделе Apple представила свой новый смартфон iPhone 5. Насколько успешным станет новый продукт яблочной компаний, мы узнаем совсем скоро. 
+На прошлой неделе Apple представила свой новый смартфон iPhone 5. Насколько успешным станет новый продукт яблочной компаний, мы узнаем совсем скоро.
 
 А пока что, я хочу поделиться с Вами его PSD-исходником в высшем качестве. Проработаны все детальки &#8211; 58 слоев, формат *.psd, размер 1000x2000px. Скачать исходник, можно на страничке у [дизайнера](http://reddevilsx.deviantart.com/art/Apple-iPhone-5-PSD-Mockup-179018713).

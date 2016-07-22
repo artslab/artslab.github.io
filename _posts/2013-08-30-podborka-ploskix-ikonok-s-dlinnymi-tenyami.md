@@ -20,7 +20,7 @@ tags:
   - Иконки
 ---
 <center>
-  <a href="http://img.artslab.info/minimalizm_flat.jpg"><img src="http://img.artslab.info/minimalizm_flat-300x147.jpg" alt="минимализм" class="aligncenter size-medium wp-image-7796" srcset="http://img.artslab.info/minimalizm_flat-300x147.jpg 300w, http://img.artslab.info/minimalizm_flat.jpg 782w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat-300x147.jpg" alt="минимализм" class="aligncenter size-medium wp-image-7796" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat-300x147.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minimalizm_flat.jpg 782w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Flat-дизайн продолжает оставаться популярным, многие сайты и приложения устраивают редизайн для того чтобы их проекты соответствовали последним трендам. Особенно это касается мобильных приложений, например, вчера полностью обновился дизайн iOS-версий приложения [Мой Мир@Mail.ru](https://itunes.apple.com/ru/app/moj-mir-mail.ru/id598556821) и угадайте в каком стиле теперь оформлено это приложение.
@@ -34,25 +34,25 @@ Flat-дизайн продолжает оставаться популярным
 Long Shadow Flat Icon Set <a href="http://www.hongkiat.com/blog/long-shadow-flat-icons/" target="_blank">By Simon Rahm</a> в формате AI
 
 <center>
-  <a href="http://img.artslab.info/long-shadow-flat-icons.jpg"><img src="http://img.artslab.info/long-shadow-flat-icons-300x200.jpg" alt="app icons flat" class="aligncenter size-medium wp-image-7790" srcset="http://img.artslab.info/long-shadow-flat-icons-300x200.jpg 300w, http://img.artslab.info/long-shadow-flat-icons.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-flat-icons.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-flat-icons-300x200.jpg" alt="app icons flat" class="aligncenter size-medium wp-image-7790" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-flat-icons-300x200.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-flat-icons.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <a href="http://www.webdesignerdepot.com/2013/08/free-download-modern-long-shadow-icons/" target="_blank">Modern long shadow icons</a>
 
 <center>
-  <a href="http://img.artslab.info/krugliei_ploskie_ikonki.jpg"><img src="http://img.artslab.info/krugliei_ploskie_ikonki-300x243.jpg" alt="круглые иконки с длинными тенями" class="aligncenter size-medium wp-image-7791" srcset="http://img.artslab.info/krugliei_ploskie_ikonki-300x243.jpg 300w, http://img.artslab.info/krugliei_ploskie_ikonki-1024x832.jpg 1024w, http://img.artslab.info/krugliei_ploskie_ikonki.jpg 1564w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/krugliei_ploskie_ikonki.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/krugliei_ploskie_ikonki-300x243.jpg" alt="круглые иконки с длинными тенями" class="aligncenter size-medium wp-image-7791" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/krugliei_ploskie_ikonki-300x243.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/krugliei_ploskie_ikonki-1024x832.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/krugliei_ploskie_ikonki.jpg 1564w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Плоские иконки на тему SEO &#8211; <a href="http://www.webdesignerdepot.com/2013/07/free-download-12-flat-seo-icons/" target="_blank">Flat SEO Icons PSD</a>
 
 <center>
-  <a href="http://img.artslab.info/flat_seo_icons.jpg"><img src="http://img.artslab.info/flat_seo_icons-266x300.jpg" alt="сеошные иконки" class="aligncenter size-medium wp-image-7789" srcset="http://img.artslab.info/flat_seo_icons-266x300.jpg 266w, http://img.artslab.info/flat_seo_icons-909x1024.jpg 909w, http://img.artslab.info/flat_seo_icons.jpg 1564w" sizes="(max-width: 266px) 100vw, 266px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flat_seo_icons.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flat_seo_icons-266x300.jpg" alt="сеошные иконки" class="aligncenter size-medium wp-image-7789" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flat_seo_icons-266x300.jpg 266w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flat_seo_icons-909x1024.jpg 909w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flat_seo_icons.jpg 1564w" sizes="(max-width: 266px) 100vw, 266px" /></a>
 </center>
 
 [Premium Flat icons Freebie PSD](http://dribbble.com/shots/1216255-Premium-Flat-icons-Freebie)
 
 <center>
-  <a href="http://img.artslab.info/prilozheniya_ios_flat.png"><img src="http://img.artslab.info/prilozheniya_ios_flat-300x225.png" alt="иконки приложений" class="aligncenter size-medium wp-image-7801" srcset="http://img.artslab.info/prilozheniya_ios_flat-300x225.png 300w, http://img.artslab.info/prilozheniya_ios_flat.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prilozheniya_ios_flat.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prilozheniya_ios_flat-300x225.png" alt="иконки приложений" class="aligncenter size-medium wp-image-7801" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prilozheniya_ios_flat-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prilozheniya_ios_flat.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### Простые социальные иконки:
@@ -60,29 +60,29 @@ Long Shadow Flat Icon Set <a href="http://www.hongkiat.com/blog/long-shadow-flat
 Social icons &#8211; <a href="http://dribbble.com/shots/1114918-Social-icons-freebie" target="_blank">PSD</a>
 
 <center>
-  <a href="http://img.artslab.info/socialnie_ikonki_flat.png"><img src="http://img.artslab.info/socialnie_ikonki_flat-300x225.png" alt="плоские социальные иконки" class="aligncenter size-medium wp-image-7786" srcset="http://img.artslab.info/socialnie_ikonki_flat-300x225.png 300w, http://img.artslab.info/socialnie_ikonki_flat.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/socialnie_ikonki_flat.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/socialnie_ikonki_flat-300x225.png" alt="плоские социальные иконки" class="aligncenter size-medium wp-image-7786" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/socialnie_ikonki_flat-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/socialnie_ikonki_flat.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <a href="http://www.pixeden.com/social-icons/psd-flat-social-icons" target="_blank">Psd Flat Social Icons</a>
 
 <center>
-  <a href="http://img.artslab.info/social_flat_icons.jpg"><img src="http://img.artslab.info/social_flat_icons-300x159.jpg" alt="иконки с длинными тенями" class="aligncenter size-medium wp-image-7787" srcset="http://img.artslab.info/social_flat_icons-300x159.jpg 300w, http://img.artslab.info/social_flat_icons.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_flat_icons.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_flat_icons-300x159.jpg" alt="иконки с длинными тенями" class="aligncenter size-medium wp-image-7787" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_flat_icons-300x159.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_flat_icons.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <a href="http://dribbble.com/shots/1161858-Long-Shadow-Social-Icons" target="_blank">Long Shadow Social Icons</a>
 
 <center>
-  <a href="http://img.artslab.info/long-shadow-dribbble_1x.png"><img src="http://img.artslab.info/long-shadow-dribbble_1x-300x225.png" alt="бесплатные иконки" class="aligncenter size-medium wp-image-7788" srcset="http://img.artslab.info/long-shadow-dribbble_1x-300x225.png 300w, http://img.artslab.info/long-shadow-dribbble_1x.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-dribbble_1x.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-dribbble_1x-300x225.png" alt="бесплатные иконки" class="aligncenter size-medium wp-image-7788" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-dribbble_1x-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/long-shadow-dribbble_1x.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <a href="http://www.webiconset.com/file-type-icons/" target="_blank">Flat File Type Icons</a>
 
 <center>
-  <a href="http://img.artslab.info/File_Type_Icons___File_Extension_Icons_for_Download.png"><img src="http://img.artslab.info/File_Type_Icons___File_Extension_Icons_for_Download-300x245.png" alt="иконки с типами файлов" class="aligncenter size-medium wp-image-7802" srcset="http://img.artslab.info/File_Type_Icons___File_Extension_Icons_for_Download-300x245.png 300w, http://img.artslab.info/File_Type_Icons___File_Extension_Icons_for_Download.png 565w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/File_Type_Icons___File_Extension_Icons_for_Download.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/File_Type_Icons___File_Extension_Icons_for_Download-300x245.png" alt="иконки с типами файлов" class="aligncenter size-medium wp-image-7802" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/File_Type_Icons___File_Extension_Icons_for_Download-300x245.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/File_Type_Icons___File_Extension_Icons_for_Download.png 565w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### [Инструменты](http://artslab.info/podborki/generatory-dlinnyx-tenej/ "Генераторы длинных теней") веб-мастеру для создания длинных теней
 
 <center>
-  <a href="http://img.artslab.info/Long_Shadows_Generator_-_by_Juani.png"><img src="http://img.artslab.info/Long_Shadows_Generator_-_by_Juani-300x169.png" alt="длинные тени в дизайне" class="aligncenter size-medium wp-image-7258" srcset="http://img.artslab.info/Long_Shadows_Generator_-_by_Juani-300x169.png 300w, http://img.artslab.info/Long_Shadows_Generator_-_by_Juani-1024x577.png 1024w, http://img.artslab.info/Long_Shadows_Generator_-_by_Juani.png 1079w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Long_Shadows_Generator_-_by_Juani.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Long_Shadows_Generator_-_by_Juani-300x169.png" alt="длинные тени в дизайне" class="aligncenter size-medium wp-image-7258" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Long_Shadows_Generator_-_by_Juani-300x169.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Long_Shadows_Generator_-_by_Juani-1024x577.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Long_Shadows_Generator_-_by_Juani.png 1079w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

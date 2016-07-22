@@ -21,7 +21,7 @@ tags:
   - плагин
 ---
 <center>
-  <a href="http://img.artslab.info/dobavit_knopku_v_wordpress_editor.png"><img src="http://img.artslab.info/dobavit_knopku_v_wordpress_editor-300x102.png" alt="как добавить свою кнопку в редактор wordpress" title="dobavit_knopku_v_wordpress_editor" width="300" height="102" class="aligncenter size-medium wp-image-5495" srcset="http://img.artslab.info/dobavit_knopku_v_wordpress_editor-300x102.png 300w, http://img.artslab.info/dobavit_knopku_v_wordpress_editor.png 743w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dobavit_knopku_v_wordpress_editor.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dobavit_knopku_v_wordpress_editor-300x102.png" alt="как добавить свою кнопку в редактор wordpress" title="dobavit_knopku_v_wordpress_editor" width="300" height="102" class="aligncenter size-medium wp-image-5495" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dobavit_knopku_v_wordpress_editor-300x102.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dobavit_knopku_v_wordpress_editor.png 743w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Независимо от того, какой WordPress-редактор вы используете при написаний статьи &#8211; WISIWYG или HTML, возможно Вам не хватало какой-либо кнопки в нем и приходиться в ручную дописывать нужные теги.
@@ -31,5 +31,5 @@ tags:
 После того как плагин будет установлен и активирован в меню настроек появиться новый пункт &#8220;AdduQicktag&#8221;. Именно там, можно будет сконфигурировать плагин и добавить необходимые кнопки в редактор.
 
 <center>
-  <a href="http://img.artslab.info/add_button_to_wordpress_editor.png"><img src="http://img.artslab.info/add_button_to_wordpress_editor-300x209.png" alt="плагин для добавления своих кнопок в редактор wp" title="add_button_to_wordpress_editor" width="300" height="209" class="aligncenter size-medium wp-image-5494" srcset="http://img.artslab.info/add_button_to_wordpress_editor-300x209.png 300w, http://img.artslab.info/add_button_to_wordpress_editor-1024x715.png 1024w, http://img.artslab.info/add_button_to_wordpress_editor.png 1328w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add_button_to_wordpress_editor.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add_button_to_wordpress_editor-300x209.png" alt="плагин для добавления своих кнопок в редактор wp" title="add_button_to_wordpress_editor" width="300" height="209" class="aligncenter size-medium wp-image-5494" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add_button_to_wordpress_editor-300x209.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add_button_to_wordpress_editor-1024x715.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add_button_to_wordpress_editor.png 1328w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

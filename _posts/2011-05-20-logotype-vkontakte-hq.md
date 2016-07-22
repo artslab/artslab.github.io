@@ -25,7 +25,7 @@ tags:
 ## Крупный, полный вариант:
 
 <center>
-  <a href="http://img.artslab.info/vkonakte_logo.jpg"><img src="http://img.artslab.info/vkonakte_logo-300x70.jpg" alt="логотив вконтакте" title="vkonakte_logo" width="300" height="70" class="alignnone size-medium wp-image-2978" srcset="http://img.artslab.info/vkonakte_logo-300x70.jpg 300w, http://img.artslab.info/vkonakte_logo.jpg 604w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkonakte_logo.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkonakte_logo-300x70.jpg" alt="логотив вконтакте" title="vkonakte_logo" width="300" height="70" class="alignnone size-medium wp-image-2978" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkonakte_logo-300x70.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkonakte_logo.jpg 604w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Скачать в формате: [.png](http://vkontakte.ru/images/logos/vk_logo.png), [.ai](http://vkontakte.ru/images/logos/vk_logo.ai), [.cdr](http://vkontakte.ru/images/logos/vk_logo.cdr), [.psd](http://vkontakte.ru/images/logos/vk_logo.psd)
@@ -33,9 +33,9 @@ tags:
 ## Вариант логотипа без текста:
 
 <center>
-  <img src="http://img.artslab.info/vkontakte_logo2.jpg" alt="logo vkonakte" title="vkontakte_logo2" width="75" height="75" class="alignnone size-full wp-image-2979" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkontakte_logo2.jpg" alt="logo vkonakte" title="vkontakte_logo2" width="75" height="75" class="alignnone size-full wp-image-2979" />
 </center>
 
-[png](http://vkontakte.ru/images/logos/vk_logo_small_blue.png), [.psd](http://vkontakte.ru/images/logos/vk_logo_small_blue.psd) 
+[png](http://vkontakte.ru/images/logos/vk_logo_small_blue.png), [.psd](http://vkontakte.ru/images/logos/vk_logo_small_blue.psd)
 
 [Источник](http://vkontakte.ru/help.php?page=about)

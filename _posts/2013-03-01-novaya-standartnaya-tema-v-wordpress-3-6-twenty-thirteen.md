@@ -18,11 +18,11 @@ tags:
   - дизайн
   - Для Wordpress
 ---
-Новая версия WordPress 3.6 еще не вышла, но уже стало известно что в ней пользователей ожидает новая стандартная тема. Более того, на тему можно посмотреть уже сейчас.   
+Новая версия WordPress 3.6 еще не вышла, но уже стало известно что в ней пользователей ожидает новая стандартная тема. Более того, на тему можно посмотреть уже сейчас.
 Встречайте &#8211; [Twenty Thirteen](http://twentythirteendemo.wordpress.com/)
 
 <center>
-  <a href="http://img.artslab.info/novaya_thema_wp36.jpg"><img src="http://img.artslab.info/novaya_thema_wp36-109x300.jpg" alt="новая тема в wordpress 3.6" title="novaya_thema_wp36" width="109" height="300" class="aligncenter size-medium wp-image-6307" srcset="http://img.artslab.info/novaya_thema_wp36-109x300.jpg 109w, http://img.artslab.info/novaya_thema_wp36-373x1024.jpg 373w, http://img.artslab.info/novaya_thema_wp36.jpg 1000w" sizes="(max-width: 109px) 100vw, 109px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novaya_thema_wp36.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novaya_thema_wp36-109x300.jpg" alt="новая тема в wordpress 3.6" title="novaya_thema_wp36" width="109" height="300" class="aligncenter size-medium wp-image-6307" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novaya_thema_wp36-109x300.jpg 109w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novaya_thema_wp36-373x1024.jpg 373w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novaya_thema_wp36.jpg 1000w" sizes="(max-width: 109px) 100vw, 109px" /></a>
 </center>
 
 Сразу можно выделить отсутствие боковой панели, по-моему это первая стандартная тема без сайдбара. Согласно последнему тренду, тема является адаптивной. Верхнее меню зафиксировано и перемещается вниз вместе с прокруткой.

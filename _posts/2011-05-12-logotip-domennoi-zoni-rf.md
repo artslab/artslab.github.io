@@ -22,13 +22,13 @@ tags:
   - логотип
 ---
 Для доменной зоны .рф был разработан свой уникальный стиль с логотипом. Не вижу никакого смысла в этом, но что есть, то есть. Взгляните, оцените. Как по мне так реализация в целом неплохая.
-  
+
 
 
 <center>
-  <a href="http://img.artslab.info/domeni_rf_logo1.png"><img src="http://img.artslab.info/domeni_rf_logo1-300x115.png" alt="Логотип доменной зоны РФ" title="domeni_rf_logo" width="300" height="115" class="alignnone size-medium wp-image-2684" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/domeni_rf_logo1.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/domeni_rf_logo1-300x115.png" alt="Логотип доменной зоны РФ" title="domeni_rf_logo" width="300" height="115" class="alignnone size-medium wp-image-2684" /></a>
 </center>
 
 
-  
+
 Логотипы в png, промо картинки, балалайки, обои для рабочего стола/айфонов/айпадов и прочие <del datetime="2011-05-12T15:15:05+00:00">не нужные</del> прелести на сайте: <http://с-днем-рождения.рф/логотип/>

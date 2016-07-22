@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4308
 permalink: /prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/
 onswipe_thumb:
-  - http://img.artslab.info/fera_for_facebook.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook.jpg
 prosmotr:
   - 89
 wpb_post_views_count:
@@ -27,34 +27,34 @@ tags:
 <div id='gallery-7' class='gallery galleryid-4308 gallery-columns-5 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/360panorama_camera/'><img width="100" height="100" src="http://img.artslab.info/360panorama_camera-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="360panorama_camera" /></a>
+      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/360panorama_camera/'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/360panorama_camera-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="360panorama_camera" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/ios_photo_power/'><img width="100" height="100" src="http://img.artslab.info/ios_photo_power-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="ios_photo_power" /></a>
+      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/ios_photo_power/'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ios_photo_power-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="ios_photo_power" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/snapseed_app/'><img width="100" height="100" src="http://img.artslab.info/snapseed_app-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="snapseed_app" /></a>
+      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/snapseed_app/'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snapseed_app-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="snapseed_app" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/vintage_camera/'><img width="100" height="100" src="http://img.artslab.info/vintage_camera-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="vintage_camera" /></a>
+      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/vintage_camera/'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vintage_camera-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="vintage_camera" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/fera_for_facebook/'><img width="100" height="100" src="http://img.artslab.info/fera_for_facebook-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="клиент социальной сети Facebook" srcset="http://img.artslab.info/fera_for_facebook-100x100.jpg 100w, http://img.artslab.info/fera_for_facebook-150x150.jpg 150w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+      <a href='http://artslab.info/prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/attachment/fera_for_facebook/'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook-100x100.jpg" class="attachment-thumbnail size-thumbnail" alt="клиент социальной сети Facebook" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook-100x100.jpg 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook-150x150.jpg 150w" sizes="(max-width: 100px) 100vw, 100px" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
 </div>
 
@@ -69,7 +69,7 @@ tags:
 5. [Fera for Facebook](http://itunes.apple.com/us/app/fera-for-facebook/id445140686?mt=8) &#8211; альтернативный клиент для социальной сети Facebook. На мой взгляд, по функционалу он во многом превосходит официальное приложение. Отображает профили вида Facebook Timeline. Клиент доступен только для iPad.
 
 <center>
-  <a href="http://img.artslab.info/fera_for_facebook.jpg"><img src="http://img.artslab.info/fera_for_facebook-300x225.jpg" alt="клиент социальной сети Facebook" title="fera_for_facebook" width="300" height="225" class="aligncenter size-medium wp-image-4320" srcset="http://img.artslab.info/fera_for_facebook-300x225.jpg 300w, http://img.artslab.info/fera_for_facebook.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook-300x225.jpg" alt="клиент социальной сети Facebook" title="fera_for_facebook" width="300" height="225" class="aligncenter size-medium wp-image-4320" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fera_for_facebook.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 И еще кое-что для фанатов игры [Angry Birds](http://artslab.info/?s=angry+birds). С сегодняшнего дня эта игра появилась в виде приложения на Facebook. Добавлены новые уровни и другие мелкие нововведения. [Играть в Angry Birds на Facebook](https://apps.facebook.com/178222352279634/).

@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=7526
 permalink: /prilozheniya-dlya-ipod-touchiphone/1gb-dopolnitelnogo-diskovogo-prostranstva-dlya-dropbox-ios/
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 1310
 dsq_thread_id:
@@ -20,11 +20,11 @@ tags:
 Небольшая подсказка для тех, кто владеет девайсом на основе iOS и не против увеличить размер дискового пространства в своем Dropbox-аккаунте.
 
 <center>
-  <a href="http://img.artslab.info/mailbox_1gb_dropbox.png"><img src="http://img.artslab.info/mailbox_1gb_dropbox-300x152.png" alt="дополительный гигабайт dropbox" class="aligncenter size-medium wp-image-7527" srcset="http://img.artslab.info/mailbox_1gb_dropbox-300x152.png 300w, http://img.artslab.info/mailbox_1gb_dropbox-1024x519.png 1024w, http://img.artslab.info/mailbox_1gb_dropbox.png 1056w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox-300x152.png" alt="дополительный гигабайт dropbox" class="aligncenter size-medium wp-image-7527" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox-300x152.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox-1024x519.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox.png 1056w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 <!--more-->
 
 Получить дополнительный гигабайт достаточно просто. Для этого необходимо установить почтовое приложение <a href="https://itunes.apple.com/us/app/mailbox/id576502633?mt=8" target="_blank">Mailbox</a> и связать его со своим Dropbox&#8217;ом. После этого Вам сразу же добавят желаемый гигабайт.

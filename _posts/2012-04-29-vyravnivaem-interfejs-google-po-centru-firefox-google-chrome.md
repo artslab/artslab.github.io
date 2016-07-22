@@ -9,7 +9,7 @@ permalink: /vse-dlya-google-chrome/vyravnivaem-interfejs-google-po-centru-firefo
 prosmotr:
   - 174
 onswipe_thumb:
-  - http://img.artslab.info/whitespace_remover_googleplus.jpg
+  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus.jpg
 wpb_post_views_count:
   - 1144
 dsq_thread_id:
@@ -23,9 +23,9 @@ tags:
   - дополнение
 ---
 <center>
-  <a href="http://img.artslab.info/whitespace_remover_googleplus.jpg"><img src="http://img.artslab.info/whitespace_remover_googleplus-300x187.jpg" alt="убираем пустое место на google plus" title="whitespace_remover_googleplus" width="300" height="187" class="aligncenter size-medium wp-image-4561" srcset="http://img.artslab.info/whitespace_remover_googleplus-300x187.jpg 300w, http://img.artslab.info/whitespace_remover_googleplus.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus-300x187.jpg" alt="убираем пустое место на google plus" title="whitespace_remover_googleplus" width="300" height="187" class="aligncenter size-medium wp-image-4561" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus-300x187.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Для тех, кто до сих пор не может привыкнуть к пустому месту на Google+. В одной из прошлых заметок на [блоге про Google+](http://gplusblog.ru/fiks-shiriny-lenty-novogo-interfejsa-google/), я уже делился небольшим стилем (userstyle), который помогал избавиться от пустого места и растягивал ленту активности в ширину. Скрипт работает, но у него есть минус. Видео и фотографий из ленты отображаются не совсем красиво.
-  
+
 Поэтому предлагаю использовать дополнение **Whitespace Remover for Google Plus** (доступно для [Google Chrome](https://chrome.google.com/webstore/detail/hjhgeibimkoddhdkkgimnipkdodobgpm) и [Firefox](https://addons.mozilla.org/it/firefox/addon/whitespace-remover-for-goog/)), которое выравнивает интерфейс по центру, так как это было в предыдущей версий дизайна. Выглядит очень даже неплохо, да и пустое пространство исчезло.

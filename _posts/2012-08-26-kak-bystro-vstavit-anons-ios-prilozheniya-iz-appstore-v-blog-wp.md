@@ -26,7 +26,7 @@ tags:
   - плагин
 ---
 <center>
-  <a href="http://img.artslab.info/appstore_wordpress.png"><img src="http://img.artslab.info/appstore_wordpress-300x196.png" alt="плагин для вставки информации о приложений из AppStore" title="appstore_wordpress" width="300" height="196" class="aligncenter size-medium wp-image-4981" srcset="http://img.artslab.info/appstore_wordpress-300x196.png 300w, http://img.artslab.info/appstore_wordpress.png 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appstore_wordpress.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appstore_wordpress-300x196.png" alt="плагин для вставки информации о приложений из AppStore" title="appstore_wordpress" width="300" height="196" class="aligncenter size-medium wp-image-4981" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appstore_wordpress-300x196.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appstore_wordpress.png 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Речь идет о плагине для WordPress &#8211; [AppStore Links](http://wordpress.org/extend/plugins/appstore/), который позволит вставит анонс приложения из магазина AppStore в пост. В таком анонсе отображается иконка приложения, разработчик, цена, скриншоты и конечно же ссылка. Думаю, те кто регулярно публикуют обзоры iOS-приложений оценят этот плагин, так как он позволит сэкономить много времени.
@@ -39,7 +39,7 @@ tags:
 
 Для демонстраций плагина возьмем приложение [IncrediBooth](http://itunes.apple.com/us/app/incredibooth/id378754705), которое представляет из себя фотоавтомат для iOS, в рамках акций &#8220;App of the Week&#8221; раздается в данный момент абсолютно бесплатно.
 
-Для короткого анонса, используем тег: 
+Для короткого анонса, используем тег:
 
 > &#091;app 378754705&#093;
 

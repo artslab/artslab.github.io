@@ -21,13 +21,13 @@ tags:
   - Обои для рабочего стола
 ---
 Новая неделя, новые обои. Просто и красиво =)
-  
+
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/Guist-16-10.jpg"><img src="http://artslab.info/wp-content/uploads/guist_by_fatezoom-d3ajrjc-300x225.jpg" alt="обои для рабочего стола" title="guist_by_fatezoom-d3ajrjc" width="300" height="225" class="alignnone size-medium wp-image-1776" srcset="http://img.artslab.info/guist_by_fatezoom-d3ajrjc-300x225.jpg 300w, http://img.artslab.info/guist_by_fatezoom-d3ajrjc.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/Guist-16-10.jpg"><img src="http://artslab.info/wp-content/uploads/guist_by_fatezoom-d3ajrjc-300x225.jpg" alt="обои для рабочего стола" title="guist_by_fatezoom-d3ajrjc" width="300" height="225" class="alignnone size-medium wp-image-1776" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guist_by_fatezoom-d3ajrjc-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guist_by_fatezoom-d3ajrjc.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 Форматы: 16:10, 16:9, 5-4, 4-3, iPad, iPhone, доступны на <a href="http://fatezoom.deviantart.com/art/Guist-199116840" target="_blank">страничке автора</a>

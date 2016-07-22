@@ -21,7 +21,7 @@ tags:
   - jailbreak
 ---
 <center>
-  <a href="http://img.artslab.info/iphone4s_ipad2_jailbreak.png"><img src="http://img.artslab.info/iphone4s_ipad2_jailbreak-300x224.png" alt="джейлбрейк ipad 2 и Iphone 4s" title="iphone4s_ipad2_jailbreak" width="300" height="224" class="aligncenter size-medium wp-image-4261" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone4s_ipad2_jailbreak.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone4s_ipad2_jailbreak-300x224.png" alt="джейлбрейк ipad 2 и Iphone 4s" title="iphone4s_ipad2_jailbreak" width="300" height="224" class="aligncenter size-medium wp-image-4261" /></a>
 </center>
 
 То, чего ожидали многие наконец-таки свершилось. Речь идет о долгожданном непривязанном джейлбрейке для новых яблочных устройств с процессором A5 на борту &#8211; iPhone 4S и iPad 2. Для этого, хакерская команда Chronic Dev Team выпустила утилиту под названием **Absinthe**, которая поможет всем желающим сделать jailbreak любимых девайсов с актуальной версией iOS 5.0/5.0.1.
@@ -31,7 +31,7 @@ tags:
 Версия для Windows появилась в сети, позволяет сделает джейлбрейк всего в несколько кликов.
 
 Скачать [Absinthe](http://cache.greenpois0n.com/dl/absinthe-mac-0.1.2-1.zip) для Mac
-  
+
 Скачать Absinthe [для Windows](http://cache.greenpois0n.com/dl/absinthe-win-0.2.zip)
 
 Напоследок небольшой видео-урок. **Как сделать джейлбрейк iPhone 4s и iPad 2 из Windows**:

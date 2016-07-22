@@ -25,5 +25,5 @@ tags:
 Место того чтобы идти на Google, вбивать ссылку в поле поиска и искать ссылку &#8220;Cached&#8221;, достаточно просто дописать &#8220;cache:&#8221; перед ссылкой в адресной строке и нажать на клавишу Enter.
 
 <center>
-  <a href="http://img.artslab.info/cached_version.jpg"><img src="http://img.artslab.info/cached_version-300x100.jpg" alt="просмотреть кэшированую версию страницу на google" class="aligncenter size-medium wp-image-6426" srcset="http://img.artslab.info/cached_version-300x100.jpg 300w, http://img.artslab.info/cached_version.jpg 610w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cached_version.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cached_version-300x100.jpg" alt="просмотреть кэшированую версию страницу на google" class="aligncenter size-medium wp-image-6426" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cached_version-300x100.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cached_version.jpg 610w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

@@ -19,12 +19,12 @@ categories:
 tags:
   - Для Wordpress
 ---
-Если регулярно вести блог, то рано или поздно в нем появится большое количество записей и чтобы облегчить доступ к ним, лучше всего создать страницу с архивом. Однажды я уже публиковал [код для создания такой страницы](http://artslab.info/wordpress/sozdanie-stranitsyi-arhiva-v-wordpress/), тогда я просто предлагал вывести заголовки всех постов с датой. Но на тот момент постов в моем блоге было не так много как сейчас&#8230; 
+Если регулярно вести блог, то рано или поздно в нем появится большое количество записей и чтобы облегчить доступ к ним, лучше всего создать страницу с архивом. Однажды я уже публиковал [код для создания такой страницы](http://artslab.info/wordpress/sozdanie-stranitsyi-arhiva-v-wordpress/), тогда я просто предлагал вывести заголовки всех постов с датой. Но на тот момент постов в моем блоге было не так много как сейчас&#8230;
 
-Поэтому я решил вывести список месяцев определенного года и список категорий, где в скобках указано количество записей. 
+Поэтому я решил вывести список месяцев определенного года и список категорий, где в скобках указано количество записей.
 
 <center>
-  <a href="http://img.artslab.info/archive_page.jpg"><img src="http://img.artslab.info/archive_page-300x167.jpg" alt="страница архива блога на wordpress" title="archive_page" width="300" height="167" class="alignnone size-medium wp-image-3184" srcset="http://img.artslab.info/archive_page-300x167.jpg 300w, http://img.artslab.info/archive_page.jpg 535w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page-300x167.jpg" alt="страница архива блога на wordpress" title="archive_page" width="300" height="167" class="alignnone size-medium wp-image-3184" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page-300x167.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page.jpg 535w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## Как сделать такую страницу архива?
@@ -32,13 +32,13 @@ tags:
 <!--more-->
 
 Несомненно можно воспользоваться каким-нибудь плагином, но я не стал, сделал в ручную.
-  
+
 Открываем папку с вашей темой и создаем там файл archives.php.
-  
+
 Открываем его и вставляем в него следующий код:
 
 [sourcecode language=&#8221;php&#8221;]
-  
+
 <?php
 /*
 Template Name: Archive
@@ -46,7 +46,7 @@ Template Name: Archive
 ?>
 
 
-  
+
 <?php get_header(); ?>
 
 # Архив
@@ -64,13 +64,13 @@ Template Name: Archive
 <?php get_sidebar(); ?>
 
 
-  
+
 <?php get_footer(); ?>[/sourcecode]
 
 После этого создаем страницу и в виде шаблона выбираем Archives page.
 
 <center>
-  <img src="http://img.artslab.info/archive.jpg" alt="архив сайта" title="archive" width="297" height="246" class="alignnone size-full wp-image-3183" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive.jpg" alt="архив сайта" title="archive" width="297" height="246" class="alignnone size-full wp-image-3183" />
 </center>
 
 Готово!

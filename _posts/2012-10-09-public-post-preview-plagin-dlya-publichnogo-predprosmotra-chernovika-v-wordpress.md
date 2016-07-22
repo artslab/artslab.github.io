@@ -21,7 +21,7 @@ tags:
   - Для Wordpress
 ---
 <center>
-  <a href="http://img.artslab.info/public_post_preview_wordpress.png"><img src="http://img.artslab.info/public_post_preview_wordpress-300x161.png" alt="плагин генерирует ссылку для публичного просмотра не опубликованной записи" title="public_post_preview_wordpress" width="300" height="161" class="aligncenter size-medium wp-image-5446" srcset="http://img.artslab.info/public_post_preview_wordpress-300x161.png 300w, http://img.artslab.info/public_post_preview_wordpress.png 476w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/public_post_preview_wordpress.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/public_post_preview_wordpress-300x161.png" alt="плагин генерирует ссылку для публичного просмотра не опубликованной записи" title="public_post_preview_wordpress" width="300" height="161" class="aligncenter size-medium wp-image-5446" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/public_post_preview_wordpress-300x161.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/public_post_preview_wordpress.png 476w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Плагин [Public Post Preview](http://wordpress.org/extend/plugins/public-post-preview/) для WordPress, генерирует специальную публичную ссылку, по которой любая еще не опубликованная статья может быть видна пользователям, которые владеют ссылкой.

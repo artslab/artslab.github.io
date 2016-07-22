@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563564739
 cover:
-  - 
+  -
 categories:
   - Скрипты / CMS
 tags:
@@ -36,41 +36,41 @@ tags:
 </center>
 
 
-  
+
 **Использование плеера**
 
 Для того чтобы встроить плеер на нужную страницу, необходимо воспользоваться этим кодом:
-  
+
 [html]
-  
+
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="38" id="niftyPlayer1" align="">
-  
+
 <param name=movie value="niftyplayer.swf?file=betty.mp3&as=1">
-  
+
 <param name=quality value=high>
-  
+
 <param name=bgcolor value=#FFFFFF>
-  
+
 <embed src="niftyplayer.swf?file=betty.mp3&as=1" quality=high bgcolor=#FFFFFF width="165" height="38" name="niftyPlayer1" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-  
+
 </embed>
-  
+
 </object>
-  
+
 [/html]
-  
+
 _file=betty.mp3 &#8211; это, соответственно, путь и название проигрываемого файла._
-  
+
 _as=1 &#8211; этот параметр отвечает за autostart_
-  
+
 _Кроме того, можно легко настроить внешний вид плеера, изменив соответствующий цвета в коде._
 
 И конечно нужно не забыть подключить js-файл с плеером.
 
 [html]
-  
+
 <script type="text/javascript" language="javascript" src="niftyplayer.js"></script>
-  
+
 [/html]
 
 Более подробную инструкцию и документаций можно найти на официальном сайте NiftyPlayer.
@@ -88,19 +88,19 @@ _Кроме того, можно легко настроить внешний в
 Доступен в разных вариант, как с плейлистом, так и без.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/jplayer.jpg"><img src="http://artslab.info/wp-content/uploads/jplayer-300x280.jpg" alt="jquery скрипт Mp3 плеера" title="jplayer" width="300" height="280" class="alignnone size-medium wp-image-2486" srcset="http://img.artslab.info/jplayer-300x280.jpg 300w, http://img.artslab.info/jplayer.jpg 429w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://artslab.info/wp-content/uploads/jplayer2.jpg"><img src="http://artslab.info/wp-content/uploads/jplayer2-300x75.jpg" alt="jquery mp3 player для вставки музыки на сайт" title="jplayer2" width="300" height="75" class="alignnone size-medium wp-image-2487" srcset="http://img.artslab.info/jplayer2-300x75.jpg 300w, http://img.artslab.info/jplayer2.jpg 432w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/jplayer.jpg"><img src="http://artslab.info/wp-content/uploads/jplayer-300x280.jpg" alt="jquery скрипт Mp3 плеера" title="jplayer" width="300" height="280" class="alignnone size-medium wp-image-2486" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer-300x280.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer.jpg 429w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://artslab.info/wp-content/uploads/jplayer2.jpg"><img src="http://artslab.info/wp-content/uploads/jplayer2-300x75.jpg" alt="jquery mp3 player для вставки музыки на сайт" title="jplayer2" width="300" height="75" class="alignnone size-medium wp-image-2487" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer2-300x75.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer2.jpg 432w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 4. [Audio.js](http://kolber.github.com/audiojs/)
 
 Главный плюс это легкость интеграция плеера на страницу. В Header страницы прикрепляется js, а сам плеер вставляется с помощью кода, такого вида:
-  
+
 [sourcecode language=&#8221;html&#8221;]<audio src="/mp3/juicy.mp3" preload="auto" />[/sourcecode]
-  
+
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/audiojs.jpg"><img src="http://artslab.info/wp-content/uploads/audiojs-300x73.jpg" alt="jquery html5 mp3 player" title="audiojs" width="300" height="73" class="alignnone size-medium wp-image-2488" srcset="http://img.artslab.info/audiojs-300x73.jpg 300w, http://img.artslab.info/audiojs.jpg 548w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/audiojs.jpg"><img src="http://artslab.info/wp-content/uploads/audiojs-300x73.jpg" alt="jquery html5 mp3 player" title="audiojs" width="300" height="73" class="alignnone size-medium wp-image-2488" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/audiojs-300x73.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/audiojs.jpg 548w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 5. [Yahoo mp3 Playe](http://developer.yahoo.com/mediaplayer/)r
@@ -108,7 +108,7 @@ _Кроме того, можно легко настроить внешний в
 Симпатичный плеер от Yahoo
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/yahoo_player.gif"><img src="http://artslab.info/wp-content/uploads/yahoo_player-300x47.gif" alt="скрипт Mp3 плеера от yahoo" title="yahoo_player" width="300" height="47" class="alignnone size-medium wp-image-2491" srcset="http://img.artslab.info/yahoo_player-300x47.gif 300w, http://img.artslab.info/yahoo_player.gif 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/yahoo_player.gif"><img src="http://artslab.info/wp-content/uploads/yahoo_player-300x47.gif" alt="скрипт Mp3 плеера от yahoo" title="yahoo_player" width="300" height="47" class="alignnone size-medium wp-image-2491" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/yahoo_player-300x47.gif 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/yahoo_player.gif 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 6. [Epplayer](http://www.epplayer.com/)
@@ -116,7 +116,7 @@ _Кроме того, можно легко настроить внешний в
 Плеер с плейлистом и поддержкой разных скинов.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/epplayer.jpg"><img src="http://artslab.info/wp-content/uploads/epplayer-300x183.jpg" alt="mp3 player script" title="epplayer" width="300" height="183" class="alignnone size-medium wp-image-2492" srcset="http://img.artslab.info/epplayer-300x183.jpg 300w, http://img.artslab.info/epplayer.jpg 431w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/epplayer.jpg"><img src="http://artslab.info/wp-content/uploads/epplayer-300x183.jpg" alt="mp3 player script" title="epplayer" width="300" height="183" class="alignnone size-medium wp-image-2492" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/epplayer-300x183.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/epplayer.jpg 431w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 7. [Simple Flash Mp3 Player](http://www.flabell.com/flash/Simple-Flash-Mp3-Player-37)
@@ -124,7 +124,7 @@ _Кроме того, можно легко настроить внешний в
 Легкий и минимально оформленный скрипт Mp3-проигрывателя.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/flabell_simple_player.jpg"><img src="http://artslab.info/wp-content/uploads/flabell_simple_player-300x93.jpg" alt="простой Mp3 плеер для сайта" title="flabell_simple_player" width="300" height="93" class="alignnone size-medium wp-image-2493" srcset="http://img.artslab.info/flabell_simple_player-300x93.jpg 300w, http://img.artslab.info/flabell_simple_player.jpg 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/flabell_simple_player.jpg"><img src="http://artslab.info/wp-content/uploads/flabell_simple_player-300x93.jpg" alt="простой Mp3 плеер для сайта" title="flabell_simple_player" width="300" height="93" class="alignnone size-medium wp-image-2493" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_simple_player-300x93.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_simple_player.jpg 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 8. [Flash Mp3 Player](http://www.flabell.com/flash/Flash-Mp3-Player-29)
@@ -132,15 +132,15 @@ _Кроме того, можно легко настроить внешний в
 Навороченный скрипт от Flabell. Тут и плеилист и выбор артиста, описание альбома и другие фишки.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/flabell_flash_player.jpg"><img src="http://artslab.info/wp-content/uploads/flabell_flash_player-300x162.jpg" alt="многофункциональный скрипт Mp3-плеера для вставки на сайт" title="flabell_flash_player" width="300" height="162" class="alignnone size-medium wp-image-2494" srcset="http://img.artslab.info/flabell_flash_player-300x162.jpg 300w, http://img.artslab.info/flabell_flash_player.jpg 566w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/flabell_flash_player.jpg"><img src="http://artslab.info/wp-content/uploads/flabell_flash_player-300x162.jpg" alt="многофункциональный скрипт Mp3-плеера для вставки на сайт" title="flabell_flash_player" width="300" height="162" class="alignnone size-medium wp-image-2494" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_flash_player-300x162.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_flash_player.jpg 566w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 9. [WordPress Audio Player](http://wpaudioplayer.com/)
 
-Доступен в виде самостоятельного плеера, а так же в виде плагина для WordPress. 
+Доступен в виде самостоятельного плеера, а так же в виде плагина для WordPress.
 
 <center>
-  <img src="http://artslab.info/wp-content/uploads/wp_audio_player.jpg" alt="плагин mp3-плеера для wordpress" title="wp_audio_player" width="311" height="42" class="alignnone size-full wp-image-2495" srcset="http://img.artslab.info/wp_audio_player.jpg 311w, http://img.artslab.info/wp_audio_player-300x40.jpg 300w" sizes="(max-width: 311px) 100vw, 311px" />
+  <img src="http://artslab.info/wp-content/uploads/wp_audio_player.jpg" alt="плагин mp3-плеера для wordpress" title="wp_audio_player" width="311" height="42" class="alignnone size-full wp-image-2495" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wp_audio_player.jpg 311w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wp_audio_player-300x40.jpg 300w" sizes="(max-width: 311px) 100vw, 311px" />
 </center>
 
 **UPDATE: +2 скрипта**
@@ -148,18 +148,18 @@ _Кроме того, можно легко настроить внешний в
 ### 10. <a href="http://scmplayer.net/" target="_blank">SCM Music Player</a>
 
 <center>
-  <a href="http://img.artslab.info/js_player.png"><img src="http://img.artslab.info/js_player-300x124.png" alt="js_player" class="aligncenter size-medium wp-image-7368" srcset="http://img.artslab.info/js_player-300x124.png 300w, http://img.artslab.info/js_player.png 668w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player-300x124.png" alt="js_player" class="aligncenter size-medium wp-image-7368" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player-300x124.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player.png 668w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-SCM Player &#8211; выделяется от других плееров двумя главными функциями. Во-первых плеер предоставляет возможность переходить по страницам сайта и прослушивать при этом музыку, без всяких прерываний и перезагрузок (например, как музыка ВКонтакте). Во-вторых плеер можно прикрепить в самых верх/низ страницы, откуда будут доступны все кнопки для управления музыкой.   
+SCM Player &#8211; выделяется от других плееров двумя главными функциями. Во-первых плеер предоставляет возможность переходить по страницам сайта и прослушивать при этом музыку, без всяких прерываний и перезагрузок (например, как музыка ВКонтакте). Во-вторых плеер можно прикрепить в самых верх/низ страницы, откуда будут доступны все кнопки для управления музыкой.
 Кроме этого, SCM Player имеет множество настроек, несколько готовых скинов и, конечно же, поддерживает крупные плейлисты.
 
 <center>
-  <a href="http://img.artslab.info/pleer_kak_vk.png"><img src="http://img.artslab.info/pleer_kak_vk-300x107.png" alt="scm player js" class="aligncenter size-medium wp-image-7370" srcset="http://img.artslab.info/pleer_kak_vk-300x107.png 300w, http://img.artslab.info/pleer_kak_vk-1024x368.png 1024w, http://img.artslab.info/pleer_kak_vk.png 1059w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk-300x107.png" alt="scm player js" class="aligncenter size-medium wp-image-7370" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk-300x107.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk-1024x368.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk.png 1059w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
-  
+
 **Использование**
 
 На главной странице сайта пллера находиться генератор позволяющий в несколько шагов собрать плеер и выдать код, который нужно будет разместить на сайте. так же, на страничке есть полноценная инструкция для более конкретного знакомства с плеером.
@@ -167,7 +167,7 @@ SCM Player &#8211; выделяется от других плееров дву�
 ### 11. <a href="http://www.codebasehero.com/2011/06/html-music-player/" target="_blank">ttwMusicPlayer</a>
 
 <center>
-  <a href="http://img.artslab.info/player_dlya_saita.png"><img src="http://img.artslab.info/player_dlya_saita-235x300.png" alt="музыкальный плеер js" class="aligncenter size-medium wp-image-7366" srcset="http://img.artslab.info/player_dlya_saita-235x300.png 235w, http://img.artslab.info/player_dlya_saita.png 423w" sizes="(max-width: 235px) 100vw, 235px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita-235x300.png" alt="музыкальный плеер js" class="aligncenter size-medium wp-image-7366" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita-235x300.png 235w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita.png 423w" sizes="(max-width: 235px) 100vw, 235px" /></a>
 </center>
 
 Красивый плеер на основе HTML5 & JavaScript. Пример с использованием, доступен на страничке плеера.

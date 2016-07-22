@@ -38,7 +38,7 @@ tags:
 <!--more-->
 
 
-  
+
 **Как установить тему для Windows 7?**
 
 1. Во-первых необходимо установить этот патч [Universal Theme Patcher](http://deepxw.blogspot.com/2008/11/universal-theme-patcher.html) и после этого перезагрузить систему.
@@ -46,25 +46,25 @@ tags:
 2. Теперь нужно перенести скачанные файлы темы (*.theme) в папку C:\Windows\Resources\Themes
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7.jpg"><img src="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7-300x184.jpg" alt="как установить тему в win 7" title="ustanovka_tem_dlya_win7" width="300" height="184" class="alignnone size-medium wp-image-1227" srcset="http://img.artslab.info/ustanovka_tem_dlya_win7-300x184.jpg 300w, http://img.artslab.info/ustanovka_tem_dlya_win7.jpg 780w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7.jpg"><img src="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7-300x184.jpg" alt="как установить тему в win 7" title="ustanovka_tem_dlya_win7" width="300" height="184" class="alignnone size-medium wp-image-1227" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7-300x184.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7.jpg 780w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 3. Тема установлена, осталось только выбрать её.
-  
-Для этого кликаем правой кнопокой мышки по рабочему столу и выбираем в контекстном меню пункт &#8220;Персонализация&#8221;. 
-  
+
+Для этого кликаем правой кнопокой мышки по рабочему столу и выбираем в контекстном меню пункт &#8220;Персонализация&#8221;.
+
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/ustanovka_tem_win_7.png"><img src="http://artslab.info/wp-content/uploads/ustanovka_tem_win_7-251x300.png" alt="Как установить тему для виндовс" title="ustanovka_tem_win_7" width="251" height="300" class="alignnone size-medium wp-image-1228" srcset="http://img.artslab.info/ustanovka_tem_win_7-251x300.png 251w, http://img.artslab.info/ustanovka_tem_win_7.png 289w" sizes="(max-width: 251px) 100vw, 251px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/ustanovka_tem_win_7.png"><img src="http://artslab.info/wp-content/uploads/ustanovka_tem_win_7-251x300.png" alt="Как установить тему для виндовс" title="ustanovka_tem_win_7" width="251" height="300" class="alignnone size-medium wp-image-1228" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_win_7-251x300.png 251w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_win_7.png 289w" sizes="(max-width: 251px) 100vw, 251px" /></a>
 </center>
 
 
-  
-В открывшемся окне, пролистав чуть ниже, вы уведите список установленных тем. 
+
+В открывшемся окне, пролистав чуть ниже, вы уведите список установленных тем.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7_2.jpg"><img src="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7_2-300x179.jpg" alt="темы для win 7" title="ustanovka_tem_dlya_win7_2" width="300" height="179" class="alignnone size-medium wp-image-1229" srcset="http://img.artslab.info/ustanovka_tem_dlya_win7_2-300x179.jpg 300w, http://img.artslab.info/ustanovka_tem_dlya_win7_2-1024x613.jpg 1024w, http://img.artslab.info/ustanovka_tem_dlya_win7_2.jpg 1044w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7_2.jpg"><img src="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7_2-300x179.jpg" alt="темы для win 7" title="ustanovka_tem_dlya_win7_2" width="300" height="179" class="alignnone size-medium wp-image-1229" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2-300x179.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2-1024x613.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2.jpg 1044w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Выберите из списка новую тему и подтвердите выбор.
