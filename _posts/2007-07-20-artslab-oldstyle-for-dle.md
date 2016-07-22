@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018943
 cover:
-  - 
+  -
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - dle
   - templates

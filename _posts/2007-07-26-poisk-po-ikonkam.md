@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564581047
 categories:
-  - Программы
+  - programmyi
 tags:
   - 3d
   - free

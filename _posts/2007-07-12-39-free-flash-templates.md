@@ -17,9 +17,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565014997
 cover:
-  - 
+  -
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - flash
   - templates

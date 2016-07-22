@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016210
 cover:
-  - 
+  -
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - template
   - Для Wordpress
@@ -36,5 +36,5 @@ _Иконка RSS, которая в шапке шаблона(думаю она
 Итак, залил на _box.net_, если интересует, <a href="http://www.box.net/shared/u7o5ah4n4y" target="_blank">забираем</a>.
 
 _PS: Буду рад, если кто-то захочет конвертнуть шаблон под какую-либо другую платформу (дле, друпал, slaed&#8230;), стучите мне в асю или пишите в комментариях, сделаем красиво =)
-  
+
 Кого не затруднит, прошу поддержать темку на <a href="http://digg.com/design/Orangy_lite_Theme_for_Wordpress" target="_blank">digg</a>&#8216;e, спасибо._

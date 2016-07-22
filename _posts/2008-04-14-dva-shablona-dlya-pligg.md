@@ -18,11 +18,11 @@ cover:
   -
 categories:
   - skriptyi
-  - Шаблоны
+  - shablonyi
 tags:
   - pligg
   - templates
-  - Шаблоны
+  - shablonyi
 ---
 Еще два симпатичных шаблона для движка <a title="о движке Pligg" href="http://www.mircms.ru/2008/02/13/php-dug-sozday-svoy-digg/" target="_blank">Pligg</a>. (<a title="шаблоны для движка pligg" href="http://artslab.info/?p=157" target="_blank">прошлые два</a>)
 

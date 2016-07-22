@@ -11,7 +11,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1567152493
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - twitter
   - обзор

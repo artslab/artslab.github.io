@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1578181059
 categories:
-  - Приложения для iPod Touch/iPhone
+  - prilozheniya-dlya-ipod-touchiphone
 tags:
   - cydia
   - ios

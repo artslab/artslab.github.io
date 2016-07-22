@@ -15,14 +15,14 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015239
 cover:
-  - 
+  -
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - blogger
   - блог
   - оформление
-  - Шаблоны
+  - shablonyi
 ---
 <p style="text-align: center">
   <img src="http://img135.imageshack.us/img135/5650/bloggerhe2.jpg" title="Шаблоны для блога на blogger" alt="Шаблоны для блога на blogger" border="0" height="70" width="243" />

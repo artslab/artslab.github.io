@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1577321446
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - photoshop
   - онлайн сервис

@@ -23,7 +23,7 @@ ratings_average:
 cover:
   -
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - ios
   - iphone

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021720
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - CMS
   - online

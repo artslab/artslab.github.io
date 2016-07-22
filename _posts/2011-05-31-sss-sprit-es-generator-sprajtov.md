@@ -19,7 +19,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564189769
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - css
   - онлайн сервис

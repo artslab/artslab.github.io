@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   - 7350
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - google chrome
   - онлайн сервис

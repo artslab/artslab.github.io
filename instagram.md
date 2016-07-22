@@ -5,6 +5,7 @@ date: 2011-04-20T12:32:28+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=2323
+permalink: /instagram/
 prosmotr:
   - 99
 ---

@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565022176
 cover:
-  - 
+  -
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - css
   - free

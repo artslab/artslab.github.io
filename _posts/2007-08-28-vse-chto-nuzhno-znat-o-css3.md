@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015208
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - css
   - tutorials

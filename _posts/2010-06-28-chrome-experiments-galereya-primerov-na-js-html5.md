@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016425
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - google chrome
   - html5

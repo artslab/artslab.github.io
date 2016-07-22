@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1576242685
 categories:
-  - Программы
+  - programmyi
 tags:
   - video
   - программа

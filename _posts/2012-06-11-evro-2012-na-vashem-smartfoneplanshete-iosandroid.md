@@ -15,8 +15,8 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1655197989
 categories:
-  - Приложения для Android
-  - Приложения для iPod Touch/iPhone
+  - prilozheniya-dlya-android
+  - prilozheniya-dlya-ipod-touchiphone
 tags:
   - android
   - ios

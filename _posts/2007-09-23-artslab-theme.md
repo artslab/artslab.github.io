@@ -17,7 +17,7 @@ cover:
 dsq_thread_id:
   - 1565019901
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - artslab
   - theme

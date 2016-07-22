@@ -17,7 +17,7 @@ cover:
 dsq_thread_id:
   - 1565017880
 categories:
-  - News
+  - news
 tags:
   - google reader
   - дизайн

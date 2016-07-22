@@ -18,7 +18,7 @@ dsq_thread_id:
   - 1565022778
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - theme
   - Для Wordpress

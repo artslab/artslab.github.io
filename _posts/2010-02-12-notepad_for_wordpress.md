@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016531
 cover:
-  - 
+  -
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - Для Wordpress
   - тема

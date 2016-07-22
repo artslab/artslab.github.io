@@ -21,10 +21,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020032
 cover:
-  - 
+  -
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - блог
   - Для Wordpress
@@ -36,7 +36,7 @@ tags:
 </center>
 
 
-  
+
 Очередная симпотичная тема для WordPress 2.x от <a TITLE="dezinerfolio" TARGET="_blank" HREF="http://dezinerfolio.com/">Dezinerfolio</a>, под названием sIMPRESS v2(<a TITLE="Скачать шаблоны для WordPress" TARGET="_blank" HREF="http://artslab.info/?p=131">v1</a>).
 
 Полностью переведена на русский язык.

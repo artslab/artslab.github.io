@@ -13,7 +13,7 @@ prosmotr:
 wpb_post_views_count:
   - 698
 categories:
-  - News
+  - news
 tags:
   - новый год
 ---

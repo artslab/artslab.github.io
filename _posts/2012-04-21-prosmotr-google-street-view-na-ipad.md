@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564218737
 categories:
-  - Приложения для iPod Touch/iPhone
+  - prilozheniya-dlya-ipod-touchiphone
 tags:
   - google maps
   - ipad

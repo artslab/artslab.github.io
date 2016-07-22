@@ -16,7 +16,7 @@ categories:
   - Подборки
 tags:
   - bootstrap
-  - Шаблоны
+  - shablonyi
 ---
 [<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sb-admin-skachat-300x192.jpg" alt="дашбоард на основе бутстрап" class="aligncenter size-medium wp-image-7975" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sb-admin-skachat-300x192.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sb-admin-skachat.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sb-admin-skachat.jpg)
 

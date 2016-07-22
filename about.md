@@ -4,6 +4,7 @@ title: О сайте
 date: 2007-07-01T20:06:45+00:00
 author: serEga
 layout: page
+permalink: /about/
 prosmotr:
   - 12
 ---

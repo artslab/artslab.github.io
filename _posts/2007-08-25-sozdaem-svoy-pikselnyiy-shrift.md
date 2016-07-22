@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1567591909
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - fonts
   - online

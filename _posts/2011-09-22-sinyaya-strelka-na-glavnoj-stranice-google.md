@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1591380247
 categories:
-  - News
+  - news
 tags:
   - google
   - googple plus

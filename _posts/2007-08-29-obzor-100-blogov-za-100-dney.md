@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1917017759
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - блог
   - блогосфера

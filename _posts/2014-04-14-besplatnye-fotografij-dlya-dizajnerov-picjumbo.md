@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2609893410
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - фото
 ---

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016967
 categories:
-  - News
+  - news
 tags:
   - android
   - google

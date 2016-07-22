@@ -19,7 +19,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563728554
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - dropbox
   - облако

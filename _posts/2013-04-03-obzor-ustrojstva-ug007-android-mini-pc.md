@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563347344
 categories:
-  - Приложения для Android
+  - prilozheniya-dlya-android
 tags:
   - android
   - ug007

@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1718256651
 categories:
-  - Приложения для Android
+  - prilozheniya-dlya-android
 tags:
   - android
   - torrent

@@ -5,12 +5,13 @@ date: 2011-05-14T02:48:14+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=2293
+permalink: /freebies/
 prosmotr:
   - 154
 dsq_thread_id:
   - 1691190328
 ---
-За довольно таки большой промежуток времени, накопилось много моих работ, которыми я делился с посетителями. Все это было выложено вразброс, на разных сайтах и в разное время. Захотелось собрать все на одну страничку и назвать ее по западному &mdash; &#8220;Freebies&#8221; =) 
+За довольно таки большой промежуток времени, накопилось много моих работ, которыми я делился с посетителями. Все это было выложено вразброс, на разных сайтах и в разное время. Захотелось собрать все на одну страничку и назвать ее по западному &mdash; &#8220;Freebies&#8221; =)
 
 ## Темы для WordPress
 
@@ -45,31 +46,31 @@ ArtsLab Oldstyle &#8211; старый дизайн артслаба, беспл�
 ## Обои для рабочего стола
 
 [<img src="http://img.artslab.info/osen_wallpaper.jpg" alt="осенние обои" title="osen_wallpaper" width="570" height="270" class="alignnone size-full wp-image-2730" srcset="http://img.artslab.info/osen_wallpaper.jpg 570w, http://img.artslab.info/osen_wallpaper-300x142.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />](http://creative.artslab.info/wp-content/uploads/2011/04/osen_by_serega.png)
-  
+
 [<img src="http://img.artslab.info/Flower_01_prew.jpg" alt="обои для рабочего стола" title="Flower_01_prew" width="570" height="270" class="alignnone size-full wp-image-2731" srcset="http://img.artslab.info/Flower_01_prew.jpg 570w, http://img.artslab.info/Flower_01_prew-300x142.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />](http://serega.deviantart.com/#/d3fp2p7)
-  
+
 [<img src="http://img.artslab.info/valentines_day_wallpaper.jpg" alt="обои к дню святого валентина" title="valentines_day_wallpaper" width="570" height="270" class="alignnone size-full wp-image-2732" srcset="http://img.artslab.info/valentines_day_wallpaper.jpg 570w, http://img.artslab.info/valentines_day_wallpaper-300x142.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />](http://creative.artslab.info/wp-content/uploads/2011/04/happy_valentine__s_day_by_sereg.png)
 
 ## RSS-иконки
 
 <img src="http://img.artslab.info/slide-4.jpg" alt="Иконки RSS" title="slide-4" width="570" height="270" class="alignnone size-full wp-image-2735" srcset="http://img.artslab.info/slide-4.jpg 570w, http://img.artslab.info/slide-4-300x142.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />
-  
+
 [Скачать набор](http://www.deviantart.com/download/60134970/RSS_Icons_by_serega.rar)
 
 ## Email-Иконки
 
 <img src="http://img.artslab.info/mail_icons1.jpg" alt="почтовые иконки" title="mail_icons1" width="570" height="270" class="alignnone size-full wp-image-2736" srcset="http://img.artslab.info/mail_icons1.jpg 570w, http://img.artslab.info/mail_icons1-300x142.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />
-  
+
 [Скачать набор иконок](http://www.deviantart.com/download/80049477/Contact_Icons_by_serega.rar)
 
 ## Кнопки сайта Вконтакте
 
 <img src="http://img.artslab.info/vkontakte_buttons.jpg" alt="кнопки для сайта вконтакте" title="vkontakte_buttons" width="570" height="270" class="alignnone size-full wp-image-2737" srcset="http://img.artslab.info/vkontakte_buttons.jpg 570w, http://img.artslab.info/vkontakte_buttons-300x142.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />
-  
+
 [Скачать иконки](https://app.box.com/shared/98gbj568s4)
-  
+
 <img src="http://img.artslab.info/vkontakte_dock_icon.jpg" alt="vkontakte dock icon" title="vkontakte_dock_icon" width="570" height="270" class="alignnone size-full wp-image-2745" srcset="http://img.artslab.info/vkontakte_dock_icon.jpg 570w, http://img.artslab.info/vkontakte_dock_icon-300x142.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />
-  
+
 [Скачать Dock-иконку в PSD](https://app.box.com/s/k5k7e2v0vh214rt9axki)
 
 ## PSD-исходники

@@ -13,16 +13,16 @@ prosmotr:
 wpb_post_views_count:
   - 867
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1565020074
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - template
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 ---
 <p style="text-align: center;">
   <img style="border: 0pt none;" src="http://www.blogohblog.com/wp-content/pop/2008/04/tutorialtheme.jpg" alt="" width="333" height="274" />

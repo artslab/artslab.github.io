@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023535
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - css3
   - generator

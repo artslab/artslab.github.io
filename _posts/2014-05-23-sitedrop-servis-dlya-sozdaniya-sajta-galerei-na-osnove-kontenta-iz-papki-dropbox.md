@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2706517254
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - dropbox
   - онлайн сервис

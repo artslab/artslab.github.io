@@ -17,7 +17,7 @@ cover:
 dsq_thread_id:
   - 1565016029
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - Для Wordpress
   - оформление

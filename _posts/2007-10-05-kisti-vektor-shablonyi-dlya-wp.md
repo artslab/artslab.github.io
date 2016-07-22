@@ -18,7 +18,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018777
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
   - Подборки
 tags:
   - photoshop

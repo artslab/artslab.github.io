@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1572743712
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - windows 8
   - Обои для рабочего стола

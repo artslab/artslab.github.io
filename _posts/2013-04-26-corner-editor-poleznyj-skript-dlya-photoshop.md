@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1569053260
 categories:
-  - Программы
+  - programmyi
 tags:
   - photoshop
   - дизайн

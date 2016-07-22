@@ -17,7 +17,7 @@ cover:
 dsq_thread_id:
   - 1563448386
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
   - Подборки
 tags:
   - online

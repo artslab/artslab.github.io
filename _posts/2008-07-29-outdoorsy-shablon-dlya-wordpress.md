@@ -13,12 +13,12 @@ prosmotr:
 wpb_post_views_count:
   - 828
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1565019632
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - theme
   - Для Wordpress

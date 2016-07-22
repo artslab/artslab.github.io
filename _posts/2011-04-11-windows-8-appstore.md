@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565014756
 categories:
-  - News
+  - news
 tags:
   - appstore
   - windows 8

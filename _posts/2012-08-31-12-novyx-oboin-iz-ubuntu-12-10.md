@@ -14,7 +14,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1573420974
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - ubuntu
   - Обои для рабочего стола

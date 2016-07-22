@@ -21,8 +21,8 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1716379975
 categories:
-  - News
-  - Онлайн сервисы
+  - news
+  - onlayn-servisyi
 tags:
   - google
 ---

@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - novosti-sayta
 tags:
-  - News
+  - news
 ---
 <center>
   <img src="http://artslab.info/wp-content/uploads/artslab_icon1.png" alt="artslab иконка" title="artslab_icon" width="135" height="133" class="alignnone size-full wp-image-2406" />

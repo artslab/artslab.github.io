@@ -18,7 +18,7 @@ cover:
   -
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - themes
   - Для Wordpress

@@ -16,7 +16,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1571405783
 categories:
-  - News
+  - news
 tags:
   - instagram
 ---

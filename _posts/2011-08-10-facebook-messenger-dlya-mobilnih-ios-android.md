@@ -21,7 +21,7 @@ ratings_average:
 dsq_thread_id:
   - 1575195172
 categories:
-  - Приложения для iPod Touch/iPhone
+  - prilozheniya-dlya-ipod-touchiphone
 tags:
   - android
   - facebook

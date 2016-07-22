@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1600963894
 categories:
-  - News
+  - news
 tags:
   - windows 8
 ---

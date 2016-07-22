@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1573481231
 categories:
-  - Программы
+  - programmyi
 tags:
   - photoshop
   - программа

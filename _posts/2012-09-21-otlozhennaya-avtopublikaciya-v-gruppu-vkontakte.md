@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563534233
 categories:
-  - News
+  - news
 tags:
   - facebook
   - twitter

@@ -11,7 +11,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1567101389
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - конвертер
   - онлайн сервис

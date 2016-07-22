@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1567729373
 categories:
-  - Программы
+  - programmyi
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows-300x156.png" alt="сохранение из буфера обмена в файл" title="pasteasfile_dlya_windows" width="300" height="156" class="aligncenter size-medium wp-image-5225" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows-300x156.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows.png 348w" sizes="(max-width: 300px) 100vw, 300px" /></a>

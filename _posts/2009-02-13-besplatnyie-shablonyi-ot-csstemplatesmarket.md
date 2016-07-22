@@ -15,14 +15,14 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019047
 cover:
-  - 
+  -
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - css
   - template
   - xhtml
-  - Шаблоны
+  - shablonyi
 ---
 <p style="text-align: center;">
   <a href="http://artslab.info"><img class="aligncenter" style="border: 0pt none;" src="http://clip2net.com/clip/m6048/1234551261-a-32kb.jpg" alt="скачать шаблоны xhtml/css" width="303" height="197" /></a>

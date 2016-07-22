@@ -5,6 +5,7 @@ date: 2007-07-24T02:55:34+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=34
+permalink: /contact/
 prosmotr:
   - 335
 dsq_thread_id:
@@ -15,7 +16,3 @@ dsq_thread_id:
 **ArtsLab** &#8211; это блог для тех, кто интересуется разработкой сайтов, веб-дизайном и следит за развитием интернета. В моем блоге Вы найдете публикаций на различные околокомпьютерные темы, обзоры сервисов и новинок, статьи по кодингу, советы, скрипты, темы и хаки для wordpress, уроки phostohop и многое другое&#8230;
 
 Мой профиль на <a href="https://profiles.google.com/112918443114281605164?rel=author" rel="me">Google+</a>
-
-<div class="newslinks">
-  [CONTACT-FORM]
-</div>

@@ -19,7 +19,7 @@ dsq_thread_id:
 categories:
   - novosti-sayta
 tags:
-  - News
+  - news
   - новости
 ---
 Дорогие друзья!

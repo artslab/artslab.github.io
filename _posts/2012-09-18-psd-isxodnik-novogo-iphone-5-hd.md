@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1566615036
 categories:
-  - News
+  - news
 tags:
   - apple
   - iphone

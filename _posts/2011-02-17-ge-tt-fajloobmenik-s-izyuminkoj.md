@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1632592651
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - файлообменик
 ---

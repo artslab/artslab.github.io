@@ -15,22 +15,22 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565030668
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - generator
   - сервис
   - фото
 ---
 При первой демонстраций какого-либо макета и при отсутствии контента, мы часто пользуемся текстом &#8220;Lorem ipsum&#8230;&#8221; и т.д.
-  
-А вот временные картинки(placeholder), иногда приходится искать в том же Google, Яндексе или на других поисковиках. Но теперь и это не проблема, потому что появился сервис [LoremPixum](http://www.lorempixum.com/). 
+
+А вот временные картинки(placeholder), иногда приходится искать в том же Google, Яндексе или на других поисковиках. Но теперь и это не проблема, потому что появился сервис [LoremPixum](http://www.lorempixum.com/).
 
 <center>
   <img src="http://artslab.info/wp-content/uploads/lorempixum.jpg" alt="LoremPixum - сервис для поиска случайных изображений" title="lorempixum" width="260" height="77" class="alignnone size-full wp-image-2531" />
 </center>
 
 Работает просто, нужно выбрать размер картинки, цвет, тематику и после чего мы получим случайно сгенерированное изображение.
-  
+
 Кроме того, вставлять картинки в код макета можно простым способом:
 
 [sourcecode language=&#8221;html&#8221;]![](http://lorempixum.com/400/200/sports)[/sourcecode]

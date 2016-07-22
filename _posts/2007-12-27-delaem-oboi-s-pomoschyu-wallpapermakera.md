@@ -15,8 +15,8 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1658080831
 categories:
-  - Обои для рабочего стола
-  - Онлайн сервисы
+   - oboi
+  - onlayn-servisyi
 tags:
   - services
   - wallpapers

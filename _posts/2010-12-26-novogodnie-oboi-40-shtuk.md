@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1592717811
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - новый год
   - Обои для рабочего стола

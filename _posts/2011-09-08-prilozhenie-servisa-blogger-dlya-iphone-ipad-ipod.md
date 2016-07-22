@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1575356003
 categories:
-  - Приложения для iPod Touch/iPhone
+  - prilozheniya-dlya-ipod-touchiphone
 tags:
   - blogger
   - google

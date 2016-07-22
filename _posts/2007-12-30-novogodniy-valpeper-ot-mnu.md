@@ -13,11 +13,11 @@ prosmotr:
 wpb_post_views_count:
   - 945
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1565022230
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - wallpapers
 ---

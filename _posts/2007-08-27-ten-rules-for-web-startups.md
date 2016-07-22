@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019751
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
   - sovetyi
   - stati
 tags:

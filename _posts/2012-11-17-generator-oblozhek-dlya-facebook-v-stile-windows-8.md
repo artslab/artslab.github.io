@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565775083
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - facebook
   - generator

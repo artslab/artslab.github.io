@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1992112253
 categories:
-  - Приложения для Android
+  - prilozheniya-dlya-android
 tags:
   - android
 ---

@@ -21,7 +21,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018349
 categories:
-  - News
+  - news
 tags:
   - google
   - новости
@@ -31,11 +31,11 @@ tags:
 </center>
 
 
-  
+
 **Гугль научит**
-  
+
 <a HREF="http://code.google.com/edu/">Google code for educators</a> &#8211; проект Гугла, созданный для преподавателей в области компьютерных наук.
-  
+
 На сайте собраны <a HREF="http://code.google.com/edu/tutorials.html">туториалы</a>, <a HREF="http://code.google.com/edu/samplecontent.html">примеры</a>, <a HREF="http://code.google.com/edu/videolectures.html">видео-лекции</a>, <a HREF="http://code.google.com/edu/curriculumsearch/index.html">поиск учебных материалов</a>.
 
 Увидел <a HREF="http://linuxpeople.ru/2007/08/08/google-predlagaet-besplatno-uchebnuyu-programmu-po-kompyuternym-naukam/">тут</a>.

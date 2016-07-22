@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564968595
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - grabber
   - video
@@ -29,6 +29,6 @@ tags:
 
 <a href="http://clipnabber.com/" title="перейти на сайт" target="_blank">Перейти на сайт</a>
 
-**Альтернативные сервисы: ** 
+**Альтернативные сервисы: **
 
 <a href="http://vixy.net/" title="vixy" target="_blank">vixy.net</a> &#8211; позволяет сразу сохранить видео в удобный Вам формат(avi, mp4, mov, 3gp или только звуковую дорожку mp3)

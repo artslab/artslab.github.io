@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1566819769
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - mac
   - Обои для рабочего стола

@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - video
   - youtube

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020215
 categories:
-  - Расширения для Firefox
+   - rasshireniya-dlya-firefox
   - stati
 tags:
   - customize

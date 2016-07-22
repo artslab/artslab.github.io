@@ -19,13 +19,13 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016846
 categories:
-  - News
+  - news
 tags:
   - microsoft
   - windows 8
 ---
 За неделю до конференций Apple, в Microsoft решили показать первое видео с Wndows 8. Как и в новой Mac OS X Lion, в Windows будет два интерфейса, привычный нам рабочий стол с проводником, а так же интерфейс для планшетников &#8211; Tablet-Touch OS.
-  
+
 Все это показано в видео:
 
 <center>

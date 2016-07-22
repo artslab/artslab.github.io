@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565024729
 cover:
-  - 
+  -
 categories:
   - Для Wordpress
-  - Шаблоны
+  - shablonyi
 tags:
   - template
   - Для Wordpress
@@ -29,7 +29,7 @@ tags:
 </center>
 
 
-  
+
 Cимпатичная темка для WordPress, под названием _U-Box_.
 
 <a TARGET="_blank" HREF="http://utombox.com/box/ubox.png">Посмотреть большой скриншот</a> / <a TARGET="_blank" HREF="http://utombox.com/">Оф. сайт(демо)</a> / <a TARGET="_blank" HREF="http://utombox.com/box/ubox-rc3.tar.gz">Скачать шаблон</a> (upd)

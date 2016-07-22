@@ -21,7 +21,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018900
 categories:
-  - News
+  - news
 tags:
   - google
 format: aside

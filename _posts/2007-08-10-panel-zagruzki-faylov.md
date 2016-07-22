@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2011852511
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - files
   - firefox
@@ -27,7 +27,7 @@ tags:
 </center>
 
 
-  
+
 **&#8220;Uploader panel** — это HTML-страничка для закачки файлов через боковую панель браузера (сайдбар). Uploader нормально работает в **Opera** и **Firefox**.&#8221; © <a TITLE="uploader panel" TARGET="_blank" HREF="http://uploader-panel.com/">uploader-panel</a>
 
 <a HREF="http://uploader-panel.com/" TARGET="_blank" TITLE="install">Установить</a>

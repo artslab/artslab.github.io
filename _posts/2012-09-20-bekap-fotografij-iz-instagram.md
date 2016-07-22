@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1657954845
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - instagram
   - онлайн сервис

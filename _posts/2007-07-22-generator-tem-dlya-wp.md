@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1575229208
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - templates
   - Web 2.0

@@ -17,7 +17,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564572597
 categories:
-  - Программы
+  - programmyi
 tags:
   - gadget
   - twitter

@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565948064
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - flash
   - illustrator

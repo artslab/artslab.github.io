@@ -21,7 +21,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1575483497
 categories:
-  - Приложения для Android
+  - prilozheniya-dlya-android
 tags:
   - android
   - instagram

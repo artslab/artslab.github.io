@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1565015482
 categories:
   - Web 2.0
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - services
   - Web 2.0

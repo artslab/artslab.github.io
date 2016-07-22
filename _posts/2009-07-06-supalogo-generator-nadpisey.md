@@ -15,11 +15,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563510727
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - generator
   - logo
-  - Онлайн сервисы
+  - onlayn-servisyi
 ---
 <p style="text-align: center;">
   <img class="aligncenter" src="http://img34.imageshack.us/img34/3427/supalogo.jpg" alt="быстрый генератор надписей/логотипов" />

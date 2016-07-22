@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015888
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - screenshot
   - services

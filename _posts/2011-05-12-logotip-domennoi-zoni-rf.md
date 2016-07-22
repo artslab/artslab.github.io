@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565024177
 categories:
-  - News
+  - news
 tags:
   - logo
   - домены

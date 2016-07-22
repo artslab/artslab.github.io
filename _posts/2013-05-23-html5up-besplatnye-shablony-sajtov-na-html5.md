@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563618173
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - templates
 ---

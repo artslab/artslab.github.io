@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020043
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - mp3
   - services
@@ -27,7 +27,7 @@ tags:
 </center>
 
 
-  
+
 <a TARGET="_blank" HREF="http://www.vidtomp3.com/index.php">Vid2Mp3</a> &#8211; это сервис, который позволит Вам сохранить звуковую дорожку с любого видеоролика, размещенного на одном из видео хостингов (вроде youtube), в формате в mp3.
 
 <a TARGET="_blank" HREF="http://www.vidtomp3.com/index.php">Перейти на сайт</a>

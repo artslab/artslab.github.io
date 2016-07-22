@@ -21,7 +21,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565024388
 categories:
-  - Приложения для Android
+  - prilozheniya-dlya-android
 tags:
   - android
   - игра

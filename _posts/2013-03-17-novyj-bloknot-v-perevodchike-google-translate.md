@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1608822049
 categories:
-  - News
+  - news
 tags:
   - google translate
   - переводчик

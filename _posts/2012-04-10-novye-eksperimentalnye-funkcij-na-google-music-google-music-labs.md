@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1619223223
 categories:
-  - News
+  - news
 tags:
   - google music
   - новости

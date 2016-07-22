@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1938379663
 categories:
-  - News
+  - news
 tags:
   - google
   - video

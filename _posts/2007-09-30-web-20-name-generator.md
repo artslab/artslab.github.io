@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015332
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - domain
   - generator
@@ -27,7 +27,7 @@ tags:
 </center>
 
 
-  
+
 <a href="http://www.lightsphere.com/dev/web20.html" title="name generator" target="_blank"><span style="font-weight: bold">Web 2.0 Company Name Generator</span></a> &#8211; как и понятно из названия, этот сервис поможет придумать <span style="font-weight: bold">название </span>для Вашего нового <span style="font-weight: bold">проекта</span>, а так же сразу и проверит свободен ли такой домен.
 
 <a href="http://www.lightsphere.com/dev/web20.html" title="попробывать" target="_blank">Перейти</a>

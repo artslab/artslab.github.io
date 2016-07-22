@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2602308189
 categories:
-  - Приложения для Android
+  - prilozheniya-dlya-android
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/perekluchenie-pesen-knopkami-gromkosti.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/perekluchenie-pesen-knopkami-gromkosti-300x221.jpg" alt="переключение песен громкостью" class="aligncenter size-medium wp-image-8152" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/perekluchenie-pesen-knopkami-gromkosti-300x221.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/perekluchenie-pesen-knopkami-gromkosti.jpg 793w" sizes="(max-width: 300px) 100vw, 300px" /></a>

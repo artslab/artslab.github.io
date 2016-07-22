@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1575054112
 categories:
-  - News
+  - news
 tags:
   - google chrome
   - дополнение

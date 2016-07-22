@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1708244101
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - css3
   - photoshop

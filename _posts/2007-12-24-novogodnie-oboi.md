@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - wallpapers
   - Обои для рабочего стола

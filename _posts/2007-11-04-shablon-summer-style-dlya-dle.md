@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565024063
 categories:
-  - Шаблоны
+  - shablonyi
 tags:
   - data life engine
   - dle

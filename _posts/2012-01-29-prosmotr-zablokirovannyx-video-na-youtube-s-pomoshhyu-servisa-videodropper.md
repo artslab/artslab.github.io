@@ -15,7 +15,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - dropbox
   - video

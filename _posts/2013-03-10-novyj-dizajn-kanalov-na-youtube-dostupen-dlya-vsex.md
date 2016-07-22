@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1590068267
 categories:
-  - News
+  - news
 tags:
   - youtube
   - дизайн

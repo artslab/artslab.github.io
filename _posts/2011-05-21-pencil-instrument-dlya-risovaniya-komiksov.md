@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563554994
 categories:
-  - Программы
+  - programmyi
 tags:
   - комикс
   - программа

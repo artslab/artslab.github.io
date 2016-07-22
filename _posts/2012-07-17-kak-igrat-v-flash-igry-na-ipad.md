@@ -23,7 +23,7 @@ cover:
 dsq_thread_id:
   - 1563979236
 categories:
-  - Приложения для iPod Touch/iPhone
+  - prilozheniya-dlya-ipod-touchiphone
 tags:
   - flash
   - ipad

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023631
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - css3
   - html5

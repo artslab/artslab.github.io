@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565426396
 categories:
-  - Обои для рабочего стола
+   - oboi
 tags:
   - chrome os
   - Обои для рабочего стола

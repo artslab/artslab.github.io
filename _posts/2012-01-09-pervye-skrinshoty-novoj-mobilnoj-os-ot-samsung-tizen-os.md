@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1588090032
 categories:
-  - News
+  - news
 tags:
   - samsung
 ---

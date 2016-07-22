@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1603711914
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - generator
   - онлайн сервис

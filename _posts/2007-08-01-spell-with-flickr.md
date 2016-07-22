@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020479
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - flickr
   - Web 2.0

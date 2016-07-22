@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563455592
 categories:
-  - Обзоры сайтов
+  - obzoryi-saytov
 tags:
   - flash
 ---

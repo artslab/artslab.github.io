@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015653
 categories:
-  - Расширения для Firefox
+   - rasshireniya-dlya-firefox
 tags:
   - firefox
   - дополнение

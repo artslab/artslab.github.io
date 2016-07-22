@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563553756
 categories:
-  - News
+  - news
 tags:
   - google
   - игра

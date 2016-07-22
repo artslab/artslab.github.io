@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565014342
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - icons
   - ikonki

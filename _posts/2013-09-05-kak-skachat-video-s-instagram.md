@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1717580587
 categories:
-  - Онлайн сервисы
+  - onlayn-servisyi
 tags:
   - instagram
   - video

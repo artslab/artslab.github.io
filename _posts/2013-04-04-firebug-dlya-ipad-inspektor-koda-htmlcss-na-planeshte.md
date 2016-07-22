@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1574126492
 categories:
-  - Приложения для iPod Touch/iPhone
+  - prilozheniya-dlya-ipod-touchiphone
 tags:
   - css
   - html

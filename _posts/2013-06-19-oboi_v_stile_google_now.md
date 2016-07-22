@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563750709
 categories:
-  - Обои для рабочего стола
+   - oboi
 ---
 Сочные, летние обои для рабочих столов из Google Now. Размер: 1680 x 1050. Автор: [Brebenel Silviu](http://brebenel-silviu.deviantart.com/)
 

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563877346
 categories:
-  - Программы
+  - programmyi
 tags:
   - psd
   - windows 7
