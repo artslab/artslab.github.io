@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563423251
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - apple
   - video
@@ -25,5 +25,5 @@ tags:
 </center>
 
 Сделано в студий [My Duck&#8217;s Vision](http://mdvision.ru/).
-  
+
 PS: Слабонервным лучше не смотреть 🙂

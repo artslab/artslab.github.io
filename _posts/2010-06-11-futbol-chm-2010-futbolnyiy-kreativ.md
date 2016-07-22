@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015707
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - кратив
   - футбол

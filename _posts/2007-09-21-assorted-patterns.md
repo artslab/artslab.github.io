@@ -17,7 +17,7 @@ cover:
 dsq_thread_id:
   - 1565014604
 categories:
-  - Patterns
+  - patterns
 tags:
   - Patterns
   - photoshop

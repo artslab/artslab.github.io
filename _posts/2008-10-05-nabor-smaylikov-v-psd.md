@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016308
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - psd
   - смайлы

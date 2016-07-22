@@ -17,7 +17,7 @@ cover:
 dsq_thread_id:
   - 1563521236
 categories:
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
 tags:
   - actions
   - instagram

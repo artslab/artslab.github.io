@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565022873
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - icons
   - layouts

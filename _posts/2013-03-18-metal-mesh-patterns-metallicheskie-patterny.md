@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1590337916
 categories:
-  - Patterns
+  - patterns
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns-300x274.jpg" alt="металлические паттерны" class="aligncenter size-medium wp-image-6531" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns-300x274.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns.jpg 547w" sizes="(max-width: 300px) 100vw, 300px" /></a>

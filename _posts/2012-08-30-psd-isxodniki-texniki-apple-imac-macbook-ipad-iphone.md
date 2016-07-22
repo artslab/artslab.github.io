@@ -15,7 +15,7 @@ cover:
 dsq_thread_id:
   - 1568380747
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - apple
   - apple tv

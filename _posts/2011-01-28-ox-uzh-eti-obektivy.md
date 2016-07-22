@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1654932860
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - постеры
   - реклама

@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Вектор
   - ikonki
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
   - Подборки
 tags:
   - векторы

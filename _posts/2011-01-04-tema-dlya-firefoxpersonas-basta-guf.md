@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1599798153
 categories:
-  - Расширения для Firefox
+  - rasshireniya-dlya-firefox
 tags:
   - firefox
   - personas

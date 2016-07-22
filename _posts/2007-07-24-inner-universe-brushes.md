@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019677
 categories:
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
 tags:
   - brushes
   - photoshop
@@ -30,8 +30,8 @@ tags:
 </center>
 
 <center ALIGN="center">
-  Скачать: <a HREF="http://www.deviantart.com/deviation/56781481/">dA</a></p> 
-  
+  Скачать: <a HREF="http://www.deviantart.com/deviation/56781481/">dA</a></p>
+
   <p>
     </center>
   </p>

@@ -15,16 +15,16 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1596683112
 cover:
-  - 
+  -
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - fallout
   - video
   - игры
 ---
 Кажется я уже говорил что мне нравится игрушка Fallout и особенно векторные карикатурки с рисованными сценами из игры. [Vault Boy в векторе](http://artslab.info/2011/02/vault-boy-iz-fallout-v-vektore/) тоже уже был, но сегодня я хотел бы поделиться короткометражным фильмом [Fallout: Nuka Break](http://www.vtfilms.com/nukabreak/) (идет ~17 минут), который сделали фанаты игры.
-  
+
 Звук английский, но присутствуют русские субтитры. Смотреть приятнее всего в HD-формате 1080p.
 
 

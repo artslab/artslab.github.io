@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1574386569
 cover:
-  - 
+  -
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - tilt-shift
   - time-lapse

@@ -7,13 +7,13 @@ layout: post
 guid: http://artslab.info/?p=6518
 permalink: /kreativnyie-rabotyi/pesnya-iz-harlem-shake-baauer/
 cover:
-  - 
+  -
 wpb_post_views_count:
   - 1158
 dsq_thread_id:
   - 1565016005
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - музыка
 ---

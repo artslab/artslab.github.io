@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015112
 categories:
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
 tags:
   - brushes
   - photoshop
@@ -31,6 +31,6 @@ tags:
 
 На сайты собрана небольшая коллекция из 100 отборных кисточек высокого качества для Adobe Photoshop. Скелеты, орнаменты, пятна, брызги, персонажи, трещины, растения и т.д.
 
-_Для того чтобы скачать одну из кистей, нужно кликнуть по превью-картинке._ 
+_Для того чтобы скачать одну из кистей, нужно кликнуть по превью-картинке._
 
 [Перейти на страничку](http://www.photoshoproadmap.com/Photoshop-blog/2007/10/25/100-awesome-high-resolution-photoshop-brushes/ "скачать кисти для photoshop")

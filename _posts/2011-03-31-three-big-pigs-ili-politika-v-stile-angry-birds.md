@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1577005624
 cover:
-  - 
+  -
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - angry birds
   - video

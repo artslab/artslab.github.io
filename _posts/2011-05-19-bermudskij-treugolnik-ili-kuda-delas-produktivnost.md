@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565025118
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - facebook
   - gmail

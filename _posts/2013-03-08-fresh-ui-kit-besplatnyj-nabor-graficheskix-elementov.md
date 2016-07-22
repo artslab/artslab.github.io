@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1571759163
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - psd
   - дизайн

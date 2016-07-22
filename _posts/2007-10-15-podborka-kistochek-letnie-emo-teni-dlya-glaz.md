@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015609
 categories:
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
 tags:
   - brushes
   - photoshop
@@ -31,7 +31,7 @@ tags:
 </center>
 
 
-  
+
 
 
 <center>
@@ -39,7 +39,7 @@ tags:
 </center>
 
 
-  
+
 
 
 <center>

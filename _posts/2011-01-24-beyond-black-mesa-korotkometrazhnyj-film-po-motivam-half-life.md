@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1570920283
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - half-life
   - video

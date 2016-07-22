@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - креатив
 ---

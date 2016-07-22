@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1569409350
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - photoshop
   - psd

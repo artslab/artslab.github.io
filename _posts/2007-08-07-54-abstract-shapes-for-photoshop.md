@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1576005090
 categories:
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
 tags:
   - Custom Shapes
   - photoshop

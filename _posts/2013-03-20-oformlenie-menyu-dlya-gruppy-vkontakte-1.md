@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564852476
 categories:
-  - Оформление меню ВКонтакте
+  - menu-design-vkontakte
 tags:
   - vkontakte
   - дизайн

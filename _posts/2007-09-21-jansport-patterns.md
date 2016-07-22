@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018157
 categories:
-  - Patterns
+  - patterns
 tags:
   - Patterns
   - photoshop

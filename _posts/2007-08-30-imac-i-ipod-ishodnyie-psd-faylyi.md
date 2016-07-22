@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1575007825
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - apple
   - imac

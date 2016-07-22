@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1569560764
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - psd
   - signatures

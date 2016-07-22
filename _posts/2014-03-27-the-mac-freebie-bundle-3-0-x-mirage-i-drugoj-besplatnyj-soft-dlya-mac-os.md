@@ -14,7 +14,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2527398984
 categories:
-  - Mac OS X
+  - macosx
 tags:
   - mac os x
 ---

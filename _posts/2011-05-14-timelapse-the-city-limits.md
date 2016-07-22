@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564153395
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - video
 ---

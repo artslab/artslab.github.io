@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1582199968
 categories:
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
 tags:
   - photoshop
   - кисти

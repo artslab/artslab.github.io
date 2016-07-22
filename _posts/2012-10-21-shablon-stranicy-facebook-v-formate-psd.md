@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1574325640
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - facebook
   - psd

@@ -15,20 +15,20 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563636218
 categories:
-  - Исходники PSD
+  - ishodniki-psd
 tags:
   - psd
   - safari
 ---
 Так уж вышло, что стало принято демонстрировать скриншоты веб-страниц именно в интерфейсе браузера сафари.
-  
+
 А что делать если его нет?
-  
-Варианта два: 
+
+Варианта два:
 
 > 1. Скачать и установить браузер
-  
-> 2. Найти и скачать psd-файл. 
+
+> 2. Найти и скачать psd-файл.
 
 Скачать браузер можно [у яблочных](http://www.apple.com/safari/download/), а psd-шки предлагаю ниже.
 
@@ -37,5 +37,5 @@ tags:
 </center>
 
 
-  
+
 Скачать: [Первый вариант PSD](http://clicknathan.com/2008/09/03/safari-browser-screenshot-template-psd/) / [Другой вариант PSD](http://renegadesoldier.deviantart.com/art/Safari-Browser-Template-149764645)

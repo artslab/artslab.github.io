@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564091616
 categories:
-  - Mac OS X
+  - macosx
 tags:
   - mac os
   - vkontakte

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1618208635
 categories:
-  - Patterns
+  - patterns
 tags:
   - Patterns
 ---

@@ -14,7 +14,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2747567732
 categories:
-  - Креативные работы
+  - kreativnyie-rabotyi
 tags:
   - постеры
   - футбол

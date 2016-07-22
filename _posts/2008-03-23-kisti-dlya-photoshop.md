@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023173
 categories:
-  - Кисти для Photoshop
+  - kisti-dlya-photoshop
 tags:
   - brushes
   - photoshop
