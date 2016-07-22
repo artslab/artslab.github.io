@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1565015321
 categories:
   - Web 2.0
-  - Статьи
+  - stati
 tags:
   - design
   - Web 2.0

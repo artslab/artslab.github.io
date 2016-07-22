@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565024791
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - js
   - lightbox

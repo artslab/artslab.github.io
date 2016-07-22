@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565017960
 categories:
-  - Статьи
+  - stati
 tags:
   - css3
   - html

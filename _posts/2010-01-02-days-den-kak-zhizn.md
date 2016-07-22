@@ -13,17 +13,17 @@ prosmotr:
 wpb_post_views_count:
   - 1196
 cover:
-  - 
+  -
 dsq_thread_id:
   - 1565022429
 categories:
-  - Шрифты
+  - shriftyi
 tags:
   - fonts
-  - Шрифты
+  - shriftyi
 ---
 В последнее время редко встречаются качественные и красивые шрифты с поддержкой кириллицы. Шрифт &#8220;<a href="http://www.behance.net/Gallery/Days-typeface/190108" target="_blank">Days/Дни</a>&#8221; является одним из немногих.
-  
+
 
 
 <center>
@@ -31,5 +31,5 @@ tags:
 </center>
 
 
-  
+
 _PS: Всех с наступившим Новым 2010 Годом. Пускай все мечты сбудутся и у нас всё будет хорошо =)_

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1568053906
 categories:
-  - Советы
+  - sovetyi
 tags:
   - google maps
   - погода

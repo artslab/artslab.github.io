@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023327
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - CMS
   - блог
@@ -30,7 +30,7 @@ tags:
 Ну что друзья блоггеры, финальная версия WordPress 2.5 наконец-таки вышла. Поздравляю всех с этим событием, дружно идем обновляться =)
 
 <a TITLE="Скачать WordPress 2.5" TARGET="_blank" HREF="http://wordpress.org/latest.zip">Скачать с официального сайта(англ.)</a>
-  
+
 <a TARGET="_blank" HREF="http://lecactus.ru/2008/03/30/1943/">Русская версия Lecactus Edition</a>
 
 PS: Кстати дизайн официального сайта тоже изменился, <a href="http://wordpress.org" target="_blank">загляните</a>.

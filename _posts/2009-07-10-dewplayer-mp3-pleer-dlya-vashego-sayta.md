@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019722
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - flash
   - mp3 плеер

@@ -19,7 +19,7 @@ ratings_score:
 ratings_average:
   - 4
 categories:
-  - Сниппеты
+  - snippety
 tags:
   - css
   - сниппет

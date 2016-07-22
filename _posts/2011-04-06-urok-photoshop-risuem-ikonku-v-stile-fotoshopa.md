@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563377884
 categories:
-  - Уроки Photoshop
+  - uroki-photoshop
 tags:
   - photoshop
   - урок

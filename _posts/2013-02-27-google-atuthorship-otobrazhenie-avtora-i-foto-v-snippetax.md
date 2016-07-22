@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021653
 categories:
-  - Советы
+  - sovetyi
 tags:
   - google
   - поиск

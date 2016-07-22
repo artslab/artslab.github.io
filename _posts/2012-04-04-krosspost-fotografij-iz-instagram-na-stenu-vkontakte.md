@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   - 6892
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - instagram
   - vkontakte

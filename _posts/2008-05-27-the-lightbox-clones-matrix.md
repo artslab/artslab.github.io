@@ -15,11 +15,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023646
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - js
   - lighbox
-  - Скрипты / CMS
+  - skriptyi / CMS
 ---
 <p style="text-align: center;">
   <img style="border: 0pt none;" src="http://img168.imageshack.us/img168/769/thelightboxxy4.jpg" alt="клоны Lightbox " width="486" height="126" />

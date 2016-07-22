@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565014865
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - pinterest
   - приглашения

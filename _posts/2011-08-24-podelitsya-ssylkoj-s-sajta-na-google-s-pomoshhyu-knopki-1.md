@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1596056907
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - google
   - google plus

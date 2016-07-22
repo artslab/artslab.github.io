@@ -14,7 +14,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1571144599
 categories:
-  - Советы
+  - sovetyi
 tags:
   - google
   - google chrome

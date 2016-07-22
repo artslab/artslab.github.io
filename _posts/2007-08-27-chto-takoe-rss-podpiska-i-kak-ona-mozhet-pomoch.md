@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021326
 categories:
-  - Статьи
+  - stati
 tags:
   - rss
   - video

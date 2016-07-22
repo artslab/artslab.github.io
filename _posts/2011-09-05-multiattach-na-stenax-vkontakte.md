@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023635
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - vkontakte
   - социальная сеть

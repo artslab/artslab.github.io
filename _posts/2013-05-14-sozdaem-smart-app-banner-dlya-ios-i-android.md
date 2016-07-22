@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564966332
 categories:
-  - Статьи
+  - stati
 tags:
   - android
   - ios

@@ -15,7 +15,7 @@ dsq_thread_id:
 views:
   - 1
 categories:
-  - Шрифты
+  - shriftyi
 tags:
   - игры
   - шрифт

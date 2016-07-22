@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1644889088
 categories:
   - Подборки
-  - Советы
+  - sovetyi
 tags:
   - cheat sheet
   - google

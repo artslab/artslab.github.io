@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1752525210
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - angry birds
   - facebook

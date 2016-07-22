@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - News
   - Вектор
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - javascript
   - jquery

@@ -17,7 +17,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565025151
 categories:
-  - Статьи
+  - stati
 tags:
   - google
   - поиск

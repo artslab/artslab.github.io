@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018570
 categories:
-  - Уроки Photoshop
+  - uroki-photoshop
 tags:
   - brushes
   - photoshop
@@ -63,7 +63,7 @@ tags:
 <img src="http://img510.imageshack.us/img510/325/68950171rj2.jpg" title="island wallpaper" alt="island wallpaper" border="0" height="425" width="563" />
 
 Создадим еще один новый слой и поместим его ниже под только что созданный слой &#8220;island&#8221;
-  
+
 Затем возьмем Eliptical Marquee Tool <img src="http://img510.imageshack.us/img510/628/elipxi5.jpg" title="eliptical marquee tool" alt="eliptical marquee tool" border="0" height="19" width="23" />и выделим область примерно как на рисунке ниже:
 
 <img src="http://img510.imageshack.us/img510/4985/22021931ch4.jpg" title="selected area" alt="selected area" border="0" height="366" width="567" />
@@ -111,5 +111,5 @@ Cоздадим новый слой и разместим пару деревь�
 <img src="http://img114.imageshack.us/img114/1107/final1is2.jpg" title="rainbow island wallpaper" alt="rainbow island wallpaper" border="0" height="600" width="800" />
 
 Оригинал: [TutorialsValey](http://www.photoshop8x.com/ "TutorialsValey"){#hzb9} &#8211; [Rainbow Island Wallpaper](http://www.photoshop8x.com/view_tut.php?id=4 "Rainbow Island Wallpaper"){#k2lf} (есть .psd)
-  
+
 Перевод: <a href="http://artslab.info" title="ArtsLab" target="_blank">Artslab.info</a>

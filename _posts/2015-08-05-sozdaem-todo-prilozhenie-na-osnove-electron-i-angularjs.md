@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 4005674254
 categories:
-  - Статьи
+  - stati
 tags:
   - angularjs
   - electron

@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Скрипты / CMS
+  - skriptyi
   - Шаблоны
 tags:
   - pligg

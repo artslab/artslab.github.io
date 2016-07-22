@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020885
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - css
   - gallery

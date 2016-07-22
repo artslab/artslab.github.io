@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1601074027
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - facebook
 ---

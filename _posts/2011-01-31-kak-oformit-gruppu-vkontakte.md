@@ -23,7 +23,7 @@ ratings_score:
 ratings_average:
   - 5
 categories:
-  - Статьи
+  - stati
 tags:
   - vkontakte
   - дизайн

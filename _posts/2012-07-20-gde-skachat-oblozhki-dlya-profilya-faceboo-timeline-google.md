@@ -14,7 +14,7 @@ dsq_thread_id:
   - 1563567008
 categories:
   - Подборки
-  - Социальные сети
+  - socialnye-seti
 tags:
   - обложки
   - подборка

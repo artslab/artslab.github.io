@@ -15,12 +15,12 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016280
 cover:
-  - 
+  -
 categories:
-  - Шрифты
+  - shriftyi
 tags:
   - fonts
-  - Шрифты
+  - shriftyi
 ---
 <p style="text-align: center;">
   <img class="aligncenter" style="border: 0pt none;" src="http://img186.imageshack.us/img186/1245/conglomerfont1lc9.jpg" alt="скачть шрифт conglomerfont" width="485" height="365" />

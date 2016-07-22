@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021335
 categories:
-  - Советы
+  - sovetyi
 tags:
   - internet explorer
   - png
@@ -32,13 +32,13 @@ tags:
 1. Качаем этот **<a TARGET="_blank" TITLE="download pngfix for ie" HREF="http://www.box.net/shared/xmbox4g45h" rel="none">файлик</a>** (javascript)
 
 2. Достаем с архива и кладем его в корневую папку вместе с index.html (index.php)
-  
+
 3. В index.html (index.php) добавляем между <head> </head> следующий код:
 
 > <!&#8211;[if lt IE 6.]&#8211;>
-  
+
 > <script defer type=&#8221;text/javascript&#8221; src=&#8221;pngfix.js&#8221; mce_src=&#8221;pngfix.js&#8221;></script>
-  
+
 > <!&#8211;[endif]&#8211;>
 
 Собственно и все! Теперь все картинки **везде** будут отображаться корректно.

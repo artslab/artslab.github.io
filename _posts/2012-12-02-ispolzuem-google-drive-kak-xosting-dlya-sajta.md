@@ -13,7 +13,7 @@ dsq_thread_id:
 cover:
   - 7943
 categories:
-  - Советы
+  - sovetyi
 tags:
   - google drive
   - облако

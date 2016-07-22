@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018603
 categories:
-  - Статьи
+  - stati
 tags:
   - coding
   - css
@@ -32,13 +32,13 @@ tags:
 <!--more-->
 
 > <div style=&#8221;display:none&#8221;>
-  
+
 > <!&#8211; SuperLog &#8211;>
-  
+
 > код счётчика
-  
+
 > <!&#8211; /SuperLog &#8211;>
-  
+
 > </div>
 
 Всё очень просто — с помощью свойства <a href="http://www.w3.org/TR/CSS21/visuren.html#propdef-display" title="display" target="_blank">display</a> мы убираем из layout&#8217;а страницы код счётчика, при этом Internet Explorer и Mozilla всё равно обрабатывают этот код и загружают спрятанную картинку-счётчик.
@@ -48,37 +48,37 @@ tags:
 В итоге родился такой вот CSS класс (несколько избыточный, но да будет так), который устраивает все современные браузеры:
 
 > div.stats{
-  
+
 > display:inline;
-  
+
 > height:0px;
-  
+
 > left:-1000px;
-  
+
 > margin:0px;
-  
+
 > padding:0px;
-  
+
 > position:absolute;
-  
+
 > top:-1000px;
-  
+
 > visibility:hidden;
-  
+
 > width:0px
-  
+
 > }
 
 В HTML (желательно, сразу после _body_) пишем таким образом:
 
 > <div class=&#8221;stats&#8221;>
-  
+
 > <!&#8211; SuperLog &#8211;>
-  
+
 > код счётчика
-  
+
 > <!&#8211; /SuperLog &#8211;>
-  
+
 > </div>
 
 P. S. Дмитрий Полубояринов предлагает ещё один вариант прятания счетчиков: вместо вписывания посредством _document.write_ рисунка в документ, можно создать объект _Image_ и подгрузить в него рисунок.
@@ -90,8 +90,8 @@ P. S. Дмитрий Полубояринов предлагает ещё оди
 Стало:
 
 > cntHL_Img=new Image;
-  
+
 > cntHL\_Img.src=&#8217;http://hit.superlog.ru/cgi-bin/superlog/count?&#8217;+superlog\_r;
 
-> 
+>
 **Автор: <a href="http://htmlcoder.visions.ru/About/#author" tooltip="Информация об авторе">Александр Шуркаев</a>, &#8220;[Заметки HTML кодера](http://htmlcoder.visions.ru/)&#8220;**

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1567076959
 categories:
-  - Скрипты / CMS
+  - skriptyi / CMS
 tags:
   - css3
   - jquery
@@ -29,7 +29,7 @@ tags:
 </center>
 
 Скрипт называется &#8211; [jQuery & CSS3 Photobooth](http://tutorialzine.com/2011/04/jquery-webcam-photobooth/),он позволяет сделать фото с подключенной к компьютеру вебкамеры и сразу загрузить его на сервер. Что-то похожее наверное уже видели вконтакте или на фейсбуке при загрузке профильного фото. Там тоже есть возможность, напрямую с веб-камеры, сделать фотоснимок и загрузить его.
-  
+
 Работает скрипт на PHP, jQuery и CSS3. Присутствует так же встроенная галерея где отображаются недавно сделанные кадры. Все это конечно можно настроить так как Вам нужно.
 
 <center>
@@ -37,5 +37,5 @@ tags:
 </center>
 
 
-  
+
 [Демо](http://demo.tutorialzine.com/2011/04/jquery-webcam-photobooth/) | [Скачать](http://tutorialzine.com/2011/04/jquery-webcam-photobooth/)

@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563695449
 categories:
-  - Статьи
+  - stati
 tags:
   - windows 8
   - иконка

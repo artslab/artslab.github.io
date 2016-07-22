@@ -13,9 +13,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563766248
 categories:
-  - Шрифты
+  - shriftyi
 tags:
-  - Шрифты
+  - shriftyi
 ---
 <center>
   <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lobster_skachat.jpg" alt="скачать шрифт lobster" title="lobster_skachat" class="aligncenter size-medium wp-image-4885" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lobster_skachat.jpg 509w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lobster_skachat-300x81.jpg 300w" sizes="(max-width: 509px) 100vw, 509px" />

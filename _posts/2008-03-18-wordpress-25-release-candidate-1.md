@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018188
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - CMS
   - script

@@ -21,7 +21,7 @@ dsq_thread_id:
 views:
   - 1
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - vkontakte
 ---

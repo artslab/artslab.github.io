@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563660811
 cover:
-  - 
+  -
 categories:
-  - Сниппеты
+  - snippety
 tags:
   - css3
   - html
@@ -31,30 +31,30 @@ tags:
 
 &#8220;Вдавленность&#8221; делается с помощью одного css-свойства: text-shadow. То есть мы просто добавим подходящую по цвету тень и подвинем её так как нам нужно.
 
-Получается вот так: 
+Получается вот так:
 
 [sourcecode language=&#8221;css&#8221;]
-  
+
 .text {
-  
+
 text-shadow: 0px 1px 0px #e5e5ee; /\* цвет должен быть темнее фона, 1px или -1px, в зависимости от цвета фона(светлый или темный) \*/
-  
+
 }
-  
+
 [/sourcecode]
 
 Для того чтобы и в IE7 все отображалось правильно, добавим еще одну строку:
 
 [sourcecode language=&#8221;css&#8221;]
-  
+
 .text {
-  
+
 text-shadow: 0px 1px 0px #e5e5ee;
-  
+
 filter: dropshadow(color=#e5e5ee,offX=0,offY=1);
-  
+
 }[/sourcecode]
-  
+
 
 
 Напоследок живой пример:
@@ -63,7 +63,7 @@ filter: dropshadow(color=#e5e5ee,offX=0,offY=1);
   <div style="padding:20px 0 0 20px; font-size: 24px; ">
     ArtsLab
   </div>
-  
+
   <p style="padding:5px 20px; font-size: 14px; text-align:justify;">
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
   </p>

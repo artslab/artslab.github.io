@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1577123294
 categories:
-  - Советы
+  - sovetyi
 tags:
   - youtube
   - советы

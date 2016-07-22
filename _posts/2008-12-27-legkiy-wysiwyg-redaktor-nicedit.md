@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016446
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - ajax
   - js
@@ -27,7 +27,7 @@ tags:
 </center>
 
 
-  
+
 Существует много разных WYSIWYG редакторов, которые можно легко прикрутить на сайт. Одни очень даже объемные и предлагают много возможностей, а есть и совсем крохотные. К первой категорий можно отнести тяжелые редакторы вроде <a href="http://tinymce.moxiecode.com/" target="_blank">TinyMCE</a> или <a href="http://www.fckeditor.net/" target="_blank">FCKEditor</a>. Но мне по душе как-то больше небольшие и легкие редакторы.
 
 Одним из них является **NicEdit**. Собственно_ главным премуществом этого редактора является его малый размер(~17 kb), скорость загрузки и при этом неплохие возможности, все самое главное есть. Несколько <a href="http://nicedit.com/demos.php" target="_blank">примеров</a> можно посмотреть на <a href="http://nicedit.com/" target="_blank">официальном сайте</a> редактора, там же можно его и <a href="http://nicedit.com/download.php" target="_blank">скачать</a>.

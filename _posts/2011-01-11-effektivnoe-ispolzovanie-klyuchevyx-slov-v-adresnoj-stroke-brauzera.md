@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1586533375
 categories:
-  - Советы
+  - sovetyi
 tags:
   - google chrome
   - lifehack

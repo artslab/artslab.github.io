@@ -15,12 +15,12 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019353
 categories:
-  - Статьи
+  - stati
 tags:
   - firefox
 ---
 Взято [отсюда](http://linuxpeople.ru/2007/08/27/polzovatelyam-firefox-blokiruyut-dostup-na-sajty/).
-  
+
 
 
 <center>

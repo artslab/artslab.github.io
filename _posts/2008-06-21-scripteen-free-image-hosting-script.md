@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015583
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - php
   - скрипт

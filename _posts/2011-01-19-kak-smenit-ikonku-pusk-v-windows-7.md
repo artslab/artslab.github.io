@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   - 7348
 categories:
-  - Статьи
+  - stati
 tags:
   - customize
   - windows

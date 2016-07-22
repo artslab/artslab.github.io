@@ -17,7 +17,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563589215
 categories:
-  - Уроки Photoshop
+  - uroki-photoshop
 tags:
   - photoshop
   - tilt-shift

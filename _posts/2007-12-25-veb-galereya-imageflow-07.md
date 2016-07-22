@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015123
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - gallery
   - mootools

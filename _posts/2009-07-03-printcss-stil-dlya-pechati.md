@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016218
 categories:
-  - Советы
+  - sovetyi
 tags:
   - css
 ---

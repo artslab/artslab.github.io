@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1575227512
 categories:
-  - Советы
+  - sovetyi
 tags:
   - ios
   - jailbreak

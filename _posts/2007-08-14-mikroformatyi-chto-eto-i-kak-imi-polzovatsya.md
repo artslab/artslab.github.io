@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1909631555
 categories:
-  - Статьи
+  - stati
 tags:
   - microformats
   - Web 2.0

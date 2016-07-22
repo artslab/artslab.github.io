@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Шрифты
+  - shriftyi
 tags:
   - cirillic
   - font

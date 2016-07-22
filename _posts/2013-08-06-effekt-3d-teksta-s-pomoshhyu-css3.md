@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1574029045
 categories:
-  - Сниппеты
+  - snippety
 tags:
   - css
   - эффекты

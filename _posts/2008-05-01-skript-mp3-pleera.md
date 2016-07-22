@@ -14,7 +14,7 @@ enclosure:
         http://artslab.info/locdog_vesna.mp3
         3891116
         audio/mpeg
-        
+
 prosmotr:
   - 1959
 wpb_post_views_count:
@@ -22,7 +22,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563403219
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - mp3
   - scripts
@@ -40,39 +40,39 @@ tags:
 ## Демо скрипта:
 
 Вариант MINI:
-  
 
-  
+
+
 Код этого варианта:
-  
-[sourcecode language=&#8221;html&#8221;]
-  
 
-  
+[sourcecode language=&#8221;html&#8221;]
+
+
+
 [/sourcecode]
-  
+
 Вариант MAXI:
-  
 
-  
+
+
 Код:
-  
-[sourcecode language=&#8221;html&#8221;]
-  
 
-  
+[sourcecode language=&#8221;html&#8221;]
+
+
+
 [/sourcecode]
-  
+
 Вариант MULTI:
-  
 
-  
+
+
 Код:
-  
-[sourcecode language=&#8221;html&#8221;]
-  
 
-  
+[sourcecode language=&#8221;html&#8221;]
+
+
+
 [/sourcecode]
 
 Более подробная документация и примеры кода с xml-конфигом доступны [у разработчиков](http://flash-mp3-player.net/players/normal/)

@@ -17,10 +17,10 @@ cover:
 dsq_thread_id:
   - 1565019474
 categories:
-  - Шрифты
+  - shriftyi
 tags:
   - font
-  - Шрифты
+  - shriftyi
 ---
 <p align="center">
   <img src="http://artslab.info/wp-content/uploads/anivers.jpg" alt="Anivers free font" />

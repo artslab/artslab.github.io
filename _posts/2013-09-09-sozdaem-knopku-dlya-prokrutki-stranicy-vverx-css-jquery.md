@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1739682623
 categories:
-  - Сниппеты
+  - snippety
 tags:
   - css
   - jquery

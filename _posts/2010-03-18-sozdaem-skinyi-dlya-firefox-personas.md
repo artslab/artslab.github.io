@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1565020215
 categories:
   - Расширения для Firefox
-  - Статьи
+  - stati
 tags:
   - customize
   - firefox

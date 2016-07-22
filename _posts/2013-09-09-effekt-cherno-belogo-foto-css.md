@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1744091295
 categories:
-  - Сниппеты
+  - snippety
 tags:
   - css
   - сниппет

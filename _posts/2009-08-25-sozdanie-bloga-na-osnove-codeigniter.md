@@ -15,11 +15,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016498
 categories:
-  - Скрипты / CMS
-  - Статьи
+  - skriptyi / CMS
+  - stati
 tags:
   - codeigniter
-  - Статьи
+  - stati
   - уроки
 ---
 <p style="text-align: center;">
@@ -27,5 +27,5 @@ tags:
 </p>
 
 <a href="http://codeigniter.com/" target="_blank">Codeigniter</a> является одним из самых популярных PHP-фреймворков на сегодняшний день. На английском языке существует уже немалое количество хороших туториалов, которые рассказывают о основах фреймворка на примерах. А вот на русском существуют пока только единицы.
-  
+
 Автор блога <a href="http://erum.ru/" target="_blank">erum.ru</a> написал цикл из 7 статей, где он подробно, шаг за шагом, описывает <a href="http://erum.ru/tags/codeigniter-blog/" target="_blank">создание простого блога</a>, с набором основных функций, на основе все того же CodeIgniter.

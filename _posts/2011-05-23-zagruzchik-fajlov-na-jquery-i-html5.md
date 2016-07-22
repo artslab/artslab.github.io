@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1578873818
 categories:
-  - Скрипты / CMS
+  - skriptyi / CMS
 tags:
   - html5
   - jquery

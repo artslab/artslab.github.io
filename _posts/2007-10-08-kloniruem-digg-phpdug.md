@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1565020848
 categories:
   - Web 2.0
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - CMS
   - digg
@@ -33,23 +33,23 @@ tags:
 Возможности:
 
 > &#8211; Easy to edit html template files
-  
+
 > &#8211; Spam fighting captcha security codes
-  
+
 > &#8211; Simple wizard installation
-  
+
 > &#8211; External dig buttons
-  
+
 > &#8211; Easy to edit language files
-  
+
 > &#8211; No need to setup a cronjob
-  
+
 > &#8211; Dig up/down comments
-  
+
 > &#8211; Powerful Admin panel for controlling your site
-  
+
 > &#8211; Automatic thumbnail retrieval for youtube and google videos
-  
+
 > &#8211; Automatically add stories from RSS feeds
 
 [Официальный сайт](http://www.kubelabs.com/phpdug/ "homepage") / <a href="http://demos.kubelabs.com/PHPDug/" title="phpdug demo" target="_blank">Демo</a> (demo;demo)

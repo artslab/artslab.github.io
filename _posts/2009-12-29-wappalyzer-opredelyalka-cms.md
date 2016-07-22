@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   - 7345
 categories:
-  - Скрипты / CMS
+  - skriptyi / CMS
 tags:
   - CMS
   - firefox

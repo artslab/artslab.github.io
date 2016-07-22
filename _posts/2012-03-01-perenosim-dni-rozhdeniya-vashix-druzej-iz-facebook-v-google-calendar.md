@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1576001866
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - facebook
   - google calendar

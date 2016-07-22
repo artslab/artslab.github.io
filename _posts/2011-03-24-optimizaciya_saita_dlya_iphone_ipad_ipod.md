@@ -17,7 +17,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1570588537
 categories:
-  - Статьи
+  - stati
 tags:
   - ipad
   - iphone

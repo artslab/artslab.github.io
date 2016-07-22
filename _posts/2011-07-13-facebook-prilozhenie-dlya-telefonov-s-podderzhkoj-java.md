@@ -17,7 +17,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1567477104
 categories:
-  - Социальные сети
+  - socialnye-seti
 tags:
   - facebook
   - java-приложение

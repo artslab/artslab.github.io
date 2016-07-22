@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018567
 categories:
-  - Шрифты
+  - shriftyi
 tags:
   - fonts
-  - Шрифты
+  - shriftyi
 ---
 <p style="text-align: center">
   <img src="http://artslab.info/wp-content/uploads/logo.gif" alt="архив шрифтов " title="logo" width="242" height="40" class="alignnone size-full wp-image-2109" />

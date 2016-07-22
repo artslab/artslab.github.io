@@ -17,7 +17,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015734
 categories:
-  - Советы
+  - sovetyi
 tags:
   - video
   - youtube

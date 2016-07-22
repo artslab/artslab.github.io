@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1703563053
 categories:
-  - Сниппеты
+  - snippety
 tags:
   - Для Wordpress
   - сниппет

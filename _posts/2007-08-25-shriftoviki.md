@@ -15,20 +15,20 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1579436658
 cover:
-  - 
+  -
 categories:
   - Подборки
-  - Шрифты
+  - shriftyi
 tags:
   - fonts
-  - Шрифты
+  - shriftyi
 ---
 Небольшой список самых &#8220;вкусных&#8221; сайтов со шрифтами. Незнаю нужно ли кому то много ссылок на это тематику (мне например и одного хватает), так как почти все что есть на одном ресурсе, есть и на другом, но все же когда ищешь что то особое, то все пригодиться. Итак приступим:
 
 <!--more-->
 
 
-  
+
 1.
 
 <img src="http://www.dafont.com/img/dafont.gif" title="dafont" alt="dafont" border="0" height="150" width="120" />
@@ -48,7 +48,7 @@ tags:
 <a href="http://www.gmkfreefonts.com/index.php" target="_blank" title="gmkfreefonts">GMKfreefonts</a> &#8211; 6458 шрифтов
 
 4.
-  
+
 <img src="http://www.fontica.com/poze/layout/sigla.gif" alt="fontica" title="fontica" border="0" height="51" width="202" />
 
 <a href="http://www.fontica.com/" target="_blank" title="fontica">Fontica</a> &#8211; 6910 бесплатных шрифтов

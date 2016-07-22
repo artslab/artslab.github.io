@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1567907322
 categories:
-  - Скрипты / CMS
+  - skriptyi
 tags:
   - CMS
   - script
@@ -26,6 +26,6 @@ tags:
   <img src="http://artslab.info/wp-content/uploads/gelato_cms.png" title="gelato cms" alt="gelato cms" border="0" height="83" width="163" />
 </p>
 
-**Gelato CMS** &#8211; это бесплатный и простой в управлений движок для микроблогинга (вроде <a href="http://internetno.net/2007/03/12/tumblr/" title="tumblr.com" target="_blank">tumblr</a> или &#8220;нашего&#8221; [M-m-m&#8230;tasty?](http://mmm-tasty.ru/)). 
+**Gelato CMS** &#8211; это бесплатный и простой в управлений движок для микроблогинга (вроде <a href="http://internetno.net/2007/03/12/tumblr/" title="tumblr.com" target="_blank">tumblr</a> или &#8220;нашего&#8221; [M-m-m&#8230;tasty?](http://mmm-tasty.ru/)).
 
 Скачать движок можно с <a href="http://gelatocms.com/" title="download from homepage" target="_blank">официального сайта разработчиков</a>. Более подробный обзор этой системы можно почитать <a href="http://internetno.net/2007/07/19/gelato/" title="Обзор" target="_blank">здесь</a>
