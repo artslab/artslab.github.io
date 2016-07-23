@@ -1,6 +1,6 @@
 ---
 id: 490
-title: 'Создаем скин(тему) для Firefox &#8211; Personas'
+title: Создаем тему для Firefox (Personas)
 date: 2010-03-18T00:47:07+00:00
 author: serEga
 layout: post
@@ -15,14 +15,13 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020215
 categories:
-   - rasshireniya-dlya-firefox
-  - stati
+  - rasshireniya-dlya-firefox
 tags:
   - customize
   - firefox
   - дополнение
-  - Скины для программ
 ---
+
 <p style="text-align: center;">
   <img title="pers" src="http://artslab.info/wp-content/uploads/pers.jpg" alt="" width="182" height="76" />
 </p>
