@@ -19,46 +19,34 @@ tags:
   - Для Wordpress
   - сниппет
 ---
-Если при разработке своего плагина для WordPress вы хотите использовать базу данных MySQL, то самый правильный момент для создания необходимой таблицы, это момент активаций плагина. Для этого мы воспользуемся методом _register\_activation\_hook()_, который зарегистрирует нашу функцию с запросом к базе данных и выполнит ее во время активаций нашего плагина.
+Если при разработке своего плагина для WordPress вы хотите использовать базу данных MySQL, то самый правильный момент для создания необходимой таблицы, это момент активаций плагина. Для этого мы воспользуемся методом _register_activation_hook()_, который зарегистрирует нашу функцию с запросом к базе данных и выполнит ее во время активаций нашего плагина.
 
 Ниже готовый сниппет, который поможет вам выполнить необходимый запрос и создать таблицу со всеми необходимыми полями.
 
 {% highlight php %}
 
-function create\_db\_table() {
+	function create_db_table() {
+		global $wpdb;
 
-global $wpdb;
+		// указываем название таблицу
+		$table_name = $wpdb->prefix.&#8217;event&#8217;;
 
-// указываем название таблицу
+		// создаем запрос со всеми наобходимыми полями
+		$sql = "CREATE TABLE $table_name (
+			id mediumint(9) unsigned NOT NULL AUTO_INCREMENT,
+			eventId mediumint(9) NOT NULL,
+			authorId mediumint(9) NOT NULL,
+			content longtext NOT NULL,
+			PRIMARY KEY (id)
+		);";
 
-$table_name = $wpdb->prefix.&#8217;event&#8217;;
+		require_once(ABSPATH.&#8217;wp-admin/includes/upgrade.php&#8217;);
 
-// создаем запрос со всеми наобходимыми полями
+		// выполняем запрос и создаем таблицу
+		dbDelta($sql);
+	}
 
-$sql = "CREATE TABLE $table_name (
-
-id mediumint(9) unsigned NOT NULL AUTO_INCREMENT,
-
-eventId mediumint(9) NOT NULL,
-
-authorId mediumint(9) NOT NULL,
-
-content longtext NOT NULL,
-
-PRIMARY KEY (id)
-
-);";
-
-require_once(ABSPATH.&#8217;wp-admin/includes/upgrade.php&#8217;);
-
-// выполняем запрос и создаем таблицу
-
-dbDelta($sql);
-
-}
-
-// метод запускающий функцию create\_db\_table() при активаций плагина
-
-register\_activation\_hook(\_\_FILE\_\_, &#8216;create\_db\_table&#8217;);
+	// метод запускающий функцию create_db_table() при активаций плагина
+	register_activation_hook(\_\_FILE\_\_, &#8216;create_db_table&#8217;);
 
 {% endhighlight %}
