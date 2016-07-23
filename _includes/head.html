@@ -3,20 +3,26 @@
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
   <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
 
+
   <meta charset="utf-8">
+  <meta name="verify-v1" content="66WOTf0iAuuIv4UoJV7N0eMfradtirHNKvluEZrsGMM=">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="description" content="ArtsLab - это блог для тех, кто интересуется разработкой сайтов, веб-дизайном и следит за развитием интернета. В моем блоге Вы найдете публикаций на различные">
+  <meta name="keywords" content="веб-дизайн, web-design, photoshop, android, google chrome, wordpress, веб-разработка, cms, web-dev, javascript, ios, angularjs">
+  <meta name="theme-color" content="#db5945">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link href="/assets/css/lightbox.min.css" rel="stylesheet" />
 
   <script type="application/ld+json">
   {% include metadata.json %}
   </script>
-  
+
   <style amp-custom>
   {% capture include_to_scssify %}
     {% include styles.scss %}

@@ -21,13 +21,13 @@ dsq_thread_id:
 
 
 
-[Подробное описание, с кодом и картинками здесь](http://artslab.info/2011/01/kak-oformit-gruppu-vkontakte/)
+[Подробное описание, с кодом и картинками здесь](http://artslab.info/stati/kak-oformit-gruppu-vkontakte/)
 
 ## Как смотреть заблокированное видео с ютуба?
 
 Самый просто способ для того чтобы просмотреть запрещенное видео с YouTube &#8211; это воспользоваться сервисом [YoutubeUnblocker](http://youtubeunblocker.co.uk)
 
-[Подробнее об использовании этого сервиса](http://artslab.info/2011/01/eto-video-ne-dostupno-dlya-prosmotra-kak-smotret-zablokirovannoe-video-s-youtube/)
+[Подробнее об использовании этого сервиса](http://artslab.info/sovetyi/eto-video-ne-dostupno-dlya-prosmotra-kak-smotret-zablokirovannoe-video-s-youtube/)
 
 ## Как отредактировать фото онлайн?
 

@@ -5,6 +5,7 @@ date: 2008-03-30T22:37:54+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=267
+permalink: /16-saytov-s-shablonami-dlya-wordpress/
 prosmotr:
   - 145
 ---
@@ -37,7 +38,7 @@ prosmotr:
 <!--more-->
 
 
-  
+
 4. <a href="http://wordpress-theme.org/" target="_blank">WordPress-theme.org</a>
 
 <a href="http://wordpress-theme.org/" target="_blank"></a>
@@ -157,5 +158,5 @@ prosmotr:
 </p>
 
 _PS: Со временем пост будет пополняться новыми сайтами._
-  
+
 &#8212;-
