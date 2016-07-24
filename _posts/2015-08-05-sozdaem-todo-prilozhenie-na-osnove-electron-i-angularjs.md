@@ -38,28 +38,28 @@ tags:
 
 {% highlight javascript %}
 
-    var app = require(‘app’); // Module to control application life.
-    var BrowserWindow = require(‘browser-window’); // Module to create native browser window.
+    var app = require('app'); // Module to control application life.
+    var BrowserWindow = require('browser-window'); // Module to create native browser window.
 
-    // Keep a global reference of the window object, if you don’t, the window will
+    // Keep a global reference of the window object, if you don't, the window will
     // be closed automatically when the JavaScript object is GCed.
     var mainWindow = null;
 
     // This method will be called when Electron has finished
     // initialization and is ready to create browser windows.
 
-    app.on(‘ready’, function() {
+    app.on('ready', function() {
       // Create the browser window.
       mainWindow = new BrowserWindow({width: 800, height: 600, resizable: false});
 
       // and load the index.html of the app.
-      mainWindow.loadUrl(‘file://’ + __dirname + ‘/index.html’);
+      mainWindow.loadUrl('file://' + __dirname + '/index.html');
 
       // Open the devtools.
       mainWindow.openDevTools();
 
       // Emitted when the window is closed.
-      mainWindow.on(‘closed’, function() {
+      mainWindow.on('closed', function() {
         // Dereference the window object, usually you would store windows
         // in an array if your app supports multi windows, this is the time
         // when you should delete the corresponding element.
@@ -174,22 +174,22 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-    var app = angular.module(‘todoApp’, [‘ngMaterial’]);
-    app.controller(‘AppCtrl’, [‘$scope’, function($scope){
+    var app = angular.module('todoApp', ['ngMaterial']);
+    app.controller('AppCtrl', ['$scope', function($scope){
       $scope.options = {
-        name: ‘My Todo List’,
-        show: ‘All tasks’
+        name: 'My Todo List',
+        show: 'All tasks'
       };
 
       $scope.navigationBarItems = [
-        {‘title’: ‘All tasks’, ‘icon’: ‘list’},
-        {‘title’: ‘Todo’, ‘icon’: ‘assignment’},
-        {‘title’: ‘Done’, ‘icon’: ‘done’}
+        {'title': 'Al' tasks’, 'icon': 'list'},
+        {'title': 'Todo', 'icon': 'assignment'},
+        {'title': 'Done', 'icon': 'done'}
       ];
 
       $scope.myTasks = [
-        {‘title’: ‘Learn AngularJs’, ‘done’: false},
-        {‘title’: ‘Create first app with Electron’, ‘done’: true}
+        {'title': 'Learn AngularJs', 'done': false},
+        {'title': 'Create first app with Electron', 'done': true}
       ];
 
       $scope.setContent = function (content) {
@@ -225,7 +225,7 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-  app.controller(‘AppCtrl’, [‘$scope’, ‘$mdDialog’, ‘$mdToast’, function($scope, $mdDialog, $mdToast) {…}
+  app.controller('AppCtrl', ['$scope', '$mdDialog', '$mdToast', function($scope, $mdDialog, $mdToast) {…}
 
 {% endhighlight %}
 
@@ -241,7 +241,7 @@ npm install angular-material</pre>
     })
     .then(function(task) {
       $scope.addTask(task);
-      $mdToast.showSimple(‘Task “’ + task + ‘” was added!’);
+      $mdToast.showSimple('Task “' + task + '” was added!');
     });
   };
 
@@ -290,23 +290,23 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-  var app = angular.module(‘todoApp’, [‘ngMaterial’]);
-  app.controller(‘AppCtrl’, [‘$scope’, ‘$mdDialog’, ‘$mdToast’, function($scope, $mdDialog, $mdToast){
+  var app = angular.module('todoApp', ['ngMaterial']);
+  app.controller('AppCtrl', ['$scope', '$mdDialog', '$mdToast', function($scope, $mdDialog, $mdToast){
 
     $scope.options = {
-      name: ‘My Todo List’,
-      show: ‘All tasks’
+      name: 'My Todo List',
+      show: 'All tasks'
     };
 
     $scope.navigationBarItems = [
-      {‘title’: ‘All tasks’, ‘icon’: ‘list’},
-      {‘title’: ‘Todo’, ‘icon’: ‘assignment’},
-      {‘title’: ‘Done’, ‘icon’: ‘done’}
+      {'title’: 'All tasks', 'icon': 'list'},
+      {'title’: 'Todo', 'icon': 'assignment'},
+      {'title': 'Done', 'icon': 'done'}
     ];
 
     $scope.myTasks = [
-      {‘title’: ‘Learn AngularJs’, ‘done’: false},
-      {‘title’: ‘Create first app with Electron’, ‘done’: true}
+      {'title': 'Learn AngularJs', 'done': false},
+      {'title': 'Create first app with Electron', 'done': true}
     ];
 
     $scope.setContent = function (content) {
@@ -328,7 +328,7 @@ npm install angular-material</pre>
       })
       .then(function(task) {
         $scope.addTask(task);
-        $mdToast.showSimple(‘Task “’ + task + ‘” was added!’);
+        $mdToast.showSimple('Task “' + task + '” was added!');
       });
     };
   }]);
