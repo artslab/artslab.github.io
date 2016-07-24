@@ -182,7 +182,7 @@ npm install angular-material</pre>
       };
 
       $scope.navigationBarItems = [
-        {'title': 'Al' tasks’, 'icon': 'list'},
+        {'title': 'All tasks', 'icon': 'list'},
         {'title': 'Todo', 'icon': 'assignment'},
         {'title': 'Done', 'icon': 'done'}
       ];
