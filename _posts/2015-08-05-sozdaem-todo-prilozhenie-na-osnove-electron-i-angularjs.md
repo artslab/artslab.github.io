@@ -21,7 +21,7 @@ tags:
   - material design
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg" alt="todo-приложения на основе electron и angularjs" class="aligncenter size-medium wp-image-8341" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg" data-lightbox="img-1"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg" alt="todo-приложения на основе electron и angularjs" class="aligncenter size-medium wp-image-8341" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Давно хотел познакомиться с <a href="https://github.com/atom/electron/" target="_blank">Electron</a>, платформой для создания десктопных приложений на основе веб-технологий, но до этого момента никак не доходили руки. Сегодня мы создадим небольшое ToDo-приложение и используем для этого JavaScript-фреймворк <a href="https://angularjs.org/" target="_blank">AngularJs</a> в связке с гугловским <a href="https://material.angularjs.org" target="_blank">Material Design’ом</a>. Код готового приложения доступен на <a href="https://github.com/4gray/electronTodoApp" target="_blank">Github</a>.
@@ -38,49 +38,34 @@ tags:
 
 {% highlight javascript %}
 
-var app = require(&#8216;app&#8217;); // Module to control application life.
+    var app = require(‘app’); // Module to control application life.
+    var BrowserWindow = require(‘browser-window’); // Module to create native browser window.
 
-var BrowserWindow = require(&#8216;browser-window&#8217;); // Module to create native browser window.
+    // Keep a global reference of the window object, if you don’t, the window will
+    // be closed automatically when the JavaScript object is GCed.
+    var mainWindow = null;
 
-// Keep a global reference of the window object, if you don&#8217;t, the window will
+    // This method will be called when Electron has finished
+    // initialization and is ready to create browser windows.
 
-// be closed automatically when the JavaScript object is GCed.
+    app.on(‘ready’, function() {
+      // Create the browser window.
+      mainWindow = new BrowserWindow({width: 800, height: 600, resizable: false});
 
-var mainWindow = null;
+      // and load the index.html of the app.
+      mainWindow.loadUrl(‘file://’ + __dirname + ‘/index.html’);
 
-// This method will be called when Electron has finished
+      // Open the devtools.
+      mainWindow.openDevTools();
 
-// initialization and is ready to create browser windows.
-
-app.on(&#8216;ready&#8217;, function() {
-
-// Create the browser window.
-
-mainWindow = new BrowserWindow({width: 800, height: 600, resizable: false});
-
-// and load the index.html of the app.
-
-mainWindow.loadUrl(&#8216;file://&#8217; + __dirname + &#8216;/index.html&#8217;);
-
-// Open the devtools.
-
-mainWindow.openDevTools();
-
-// Emitted when the window is closed.
-
-mainWindow.on(&#8216;closed&#8217;, function() {
-
-// Dereference the window object, usually you would store windows
-
-// in an array if your app supports multi windows, this is the time
-
-// when you should delete the corresponding element.
-
-mainWindow = null;
-
-});
-
-});
+      // Emitted when the window is closed.
+      mainWindow.on(‘closed’, function() {
+        // Dereference the window object, usually you would store windows
+        // in an array if your app supports multi windows, this is the time
+        // when you should delete the corresponding element.
+        mainWindow = null;
+      });
+    });
 
 {% endhighlight %}
 
@@ -89,7 +74,7 @@ mainWindow = null;
 <pre>electron app.js</pre>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-300x234.jpg" alt="первый старт приложения" width="300" height="234" class="aligncenter size-medium wp-image-8339" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start.jpg" data-lightbox="img-2"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-300x234.jpg" alt="первый старт приложения" width="300" height="234" class="aligncenter size-medium wp-image-8339" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Теперь скачаем необходимые нам библиотеки &#8211; AngularJs, Angular Material, а так же веб-шрифт с иконками <a href="https://www.google.com/design/icons/" target="_blank">Material Icons</a>. Для этого можем воспользоваться менеджером пакетов npm:
@@ -103,127 +88,85 @@ npm install angular-material</pre>
 
 {% highlight html %}
 
-<!DOCTYPE html>
+  <!DOCTYPE html>
+  <html ng-app="todoApp">
+  <head>
+  <title>My Todo App</title>
+  <link rel="stylesheet" type="text/css" href="node_modules/angular-material/angular-material.min.css">
 
-<html ng-app="todoApp">
+  <!-- Web Font with Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<head>
+  <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+  <script type="text/javascript" src="node_modules/angular-animate/angular-animate.min.js"></script>
+  <script type="text/javascript" src="node_modules/angular-aria/angular-aria.min.js"></script>
+  <script type="text/javascript" src="node_modules/angular-material/angular-material.min.js"></script>
+  <script type="text/javascript" src="main.js"></script>
 
-<title>My Todo App</title>
+  </head>
 
-<link rel="stylesheet" type="text/css" href="node_modules/angular-material/angular-material.min.css">
+  <body layout="column" ng-controller="AppCtrl" style="background: #eee">
 
-<!&#8211; Web Font with Material Icons &#8211;>
+    <!-- Toolbar with title -->
+    <md-toolbar layout="row">
+      <h1 class="md-toolbar-tools">{{options.name}} &#8211; {{options.show}}</h1>
+    </md-toolbar>
 
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <div layout="row" flex>
 
-<script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+    <!-- Sidebar with navigation -->
+    <md-sidenav layout="column" class="md-sidenav-left md-whiteframe-z2" md-component-id="left" md-is-locked-open="$mdMedia(&#8216;gt-sm&#8217;)">
 
-<script type="text/javascript" src="node_modules/angular-animate/angular-animate.min.js"></script>
+      <md-content>
+        <md-list>
+          <md-list-item ng-repeat="navItem in navigationBarItems" ng-click="setContent(navItem.title)">
+            <md-icon md-font-set="material-icons">{{navItem.icon}}</md-icon>
+            <p>{{navItem.title}}</p>
+            <md-divider></md-divider>
+          </md-list-item>
+        </md-list>
+      </md-content>
 
-<script type="text/javascript" src="node_modules/angular-aria/angular-aria.min.js"></script>
+    </md-sidenav>
 
-<script type="text/javascript" src="node_modules/angular-material/angular-material.min.js"></script>
+      <div layout="column" flex id="content">
 
-<script type="text/javascript" src="main.js"></script>
+        <!-- all tasks -->
 
-</head>
+        <md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | orderBy: &#8216;done&#8217;" ng-if="options.show === &#8216;All tasks&#8217;">
+          <md-card-content>
+            <md-checkbox aria-label="{{task.title}}" ng-model="task.done">
+              <span ng-if="task.done === true" style="text-decoration:line-through; display:block">{{task.title}}</span>
+              <span ng-if="task.done === false">{{task.title}}</span>
+            </md-checkbox>
+          </md-card-content>
+        </md-card>
 
-<body layout="column" ng-controller="AppCtrl" style="background: #eee">
+        <!-- todo -->
 
-<!&#8211; Toolbar with title &#8211;>
+        <md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | filter: { done: false }" ng-if="options.show === &#8216;Todo&#8217;">
+          <md-card-content>
+            <md-checkbox aria-label="{{task.title}}" ng-model="task.done">
+            {{task.title}}
+            </md-checkbox>
+          </md-card-content>
+        </md-card>
 
-<md-toolbar layout="row">
+        <!-- done tasks -->
+        <md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | filter: { done: true }" ng-if="options.show === &#8216;Done&#8217;">
+          <md-card-content>
+            <md-checkbox aria-label="{{task.title}}" ng-model="task.done">
+            <span style="text-decoration:line-through; display:block">{{task.title}}</span>
+            </md-checkbox>
+          </md-card-content>
+        </md-card>
 
-<h1 class="md-toolbar-tools">{{options.name}} &#8211; {{options.show}}</h1>
+      </div>
 
-</md-toolbar>
+    </div>
 
-<div layout="row" flex>
-
-<!&#8211; Sidebar with navigation &#8211;>
-
-<md-sidenav layout="column" class="md-sidenav-left md-whiteframe-z2" md-component-id="left" md-is-locked-open="$mdMedia(&#8216;gt-sm&#8217;)">
-
-<md-content>
-
-<md-list>
-
-<md-list-item ng-repeat="navItem in navigationBarItems" ng-click="setContent(navItem.title)">
-
-<md-icon md-font-set="material-icons">{{navItem.icon}}</md-icon>
-
-<p>{{navItem.title}}</p>
-
-<md-divider></md-divider>
-
-</md-list-item>
-
-</md-list>
-
-</md-content>
-
-</md-sidenav>
-
-<div layout="column" flex id="content">
-
-<!&#8211; all tasks &#8211;>
-
-<md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | orderBy: &#8216;done&#8217;" ng-if="options.show === &#8216;All tasks&#8217;">
-
-<md-card-content>
-
-<md-checkbox aria-label="{{task.title}}" ng-model="task.done">
-
-<span ng-if="task.done === true" style="text-decoration:line-through; display:block">{{task.title}}</span>
-
-<span ng-if="task.done === false">{{task.title}}</span>
-
-</md-checkbox>
-
-</md-card-content>
-
-</md-card>
-
-<!&#8211; todo &#8211;>
-
-<md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | filter: { done: false }" ng-if="options.show === &#8216;Todo&#8217;">
-
-<md-card-content>
-
-<md-checkbox aria-label="{{task.title}}" ng-model="task.done">
-
-{{task.title}}
-
-</md-checkbox>
-
-</md-card-content>
-
-</md-card>
-
-<!&#8211; done tasks &#8211;>
-
-<md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | filter: { done: true }" ng-if="options.show === &#8216;Done&#8217;">
-
-<md-card-content>
-
-<md-checkbox aria-label="{{task.title}}" ng-model="task.done">
-
-<span style="text-decoration:line-through; display:block">{{task.title}}</span>
-
-</md-checkbox>
-
-</md-card-content>
-
-</md-card>
-
-</div>
-
-</div>
-
-</body>
-
-</html>
+  </body>
+  </html>
 
 {% endhighlight %}
 
@@ -231,43 +174,28 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-var app = angular.module(&#8216;todoApp&#8217;, [&#8216;ngMaterial&#8217;]);
+    var app = angular.module(‘todoApp’, [‘ngMaterial’]);
+    app.controller(‘AppCtrl’, [‘$scope’, function($scope){
+      $scope.options = {
+        name: ‘My Todo List’,
+        show: ‘All tasks’
+      };
 
-app.controller(&#8216;AppCtrl&#8217;, [&#8216;$scope&#8217;, function($scope){
+      $scope.navigationBarItems = [
+        {‘title’: ‘All tasks’, ‘icon’: ‘list’},
+        {‘title’: ‘Todo’, ‘icon’: ‘assignment’},
+        {‘title’: ‘Done’, ‘icon’: ‘done’}
+      ];
 
-$scope.options = {
+      $scope.myTasks = [
+        {‘title’: ‘Learn AngularJs’, ‘done’: false},
+        {‘title’: ‘Create first app with Electron’, ‘done’: true}
+      ];
 
-name: &#8216;My Todo List&#8217;,
-
-show: &#8216;All tasks&#8217;
-
-};
-
-$scope.navigationBarItems = [
-
-{&#8216;title&#8217;: &#8216;All tasks&#8217;, &#8216;icon&#8217;: &#8216;list&#8217;},
-
-{&#8216;title&#8217;: &#8216;Todo&#8217;, &#8216;icon&#8217;: &#8216;assignment&#8217;},
-
-{&#8216;title&#8217;: &#8216;Done&#8217;, &#8216;icon&#8217;: &#8216;done&#8217;}
-
-];
-
-$scope.myTasks = [
-
-{&#8216;title&#8217;: &#8216;Learn AngularJs&#8217;, &#8216;done&#8217;: false},
-
-{&#8216;title&#8217;: &#8216;Create first app with Electron&#8217;, &#8216;done&#8217;: true}
-
-];
-
-$scope.setContent = function (content) {
-
-$scope.options.show = content;
-
-};
-
-}]);
+      $scope.setContent = function (content) {
+        $scope.options.show = content;
+      };
+    }]);
 
 {% endhighlight %}
 
@@ -276,7 +204,7 @@ $scope.options.show = content;
 <pre>electron app.js</pre>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-300x234.jpg" alt="создание приложение на основе electron" class="aligncenter size-medium wp-image-8343" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie.jpg" data-lightbox="img-3"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-300x234.jpg" alt="создание приложение на основе electron" class="aligncenter size-medium wp-image-8343" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 На данный момент у нас отображаются все три пункта меню с иконками и две задачи, которые мы поместили в наш массив. Кроме того, мы можем переключаться между тремя созданными списками (все задачи, предстоящий и сделанные).
@@ -287,11 +215,9 @@ $scope.options.show = content;
 
 {% highlight javascript %}
 
-<md-button class="md-fab md-fab-bottom-right" aria-label="Add" ng-click="showAdd($event)">
-
-<md-icon md-font-set="material-icons">add</md-icon>
-
-</md-button>
+  <md-button class="md-fab md-fab-bottom-right" aria-label="Add" ng-click="showAdd($event)">
+    <md-icon md-font-set="material-icons">add</md-icon>
+  </md-button>
 
 {% endhighlight %}
 
@@ -299,7 +225,7 @@ $scope.options.show = content;
 
 {% highlight javascript %}
 
-app.controller(&#8216;AppCtrl&#8217;, [&#8216;$scope&#8217;, &#8216;$mdDialog&#8217;, &#8216;$mdToast&#8217;, function($scope, $mdDialog, $mdToast) {&#8230;}
+  app.controller(‘AppCtrl’, [‘$scope’, ‘$mdDialog’, ‘$mdToast’, function($scope, $mdDialog, $mdToast) {…}
 
 {% endhighlight %}
 
@@ -307,27 +233,17 @@ app.controller(&#8216;AppCtrl&#8217;, [&#8216;$scope&#8217;, &#8216;$mdDialog&#8
 
 {% highlight javascript %}
 
-$scope.showAdd = function(ev) {
-
-$mdDialog.show({
-
-controller: AddDialogCtrl,
-
-template: &#8216;<md-dialog aria-label="User Form"> <md-content class="md-padding"> <form name="userForm"> <md-input-container> <label>New Task</label> <input ng-model="newTask" placeholder="Placeholder text"> </md-input-container> </form> </md-content> <div class="md-actions" layout="row"> <span flex></span> <md-button ng-click="cancel()"> Cancel </md-button> <md-button ng-click="add(newTask)" class="md-primary"> Add task </md-button> </div></md-dialog>&#8217;,
-
-targetEvent: ev,
-
-})
-
-.then(function(task) {
-
-$scope.addTask(task);
-
-$mdToast.showSimple(&#8216;Task "&#8217; + task + &#8216;" was added!&#8217;);
-
-});
-
-};
+  $scope.showAdd = function(ev) {
+    $mdDialog.show({
+      controller: AddDialogCtrl,
+      template: '<md-dialog aria-label="User Form"> <md-content class="md-padding"> <form name="userForm"> <md-input-container> <label>New Task</label> <input ng-model="newTask" placeholder="Placeholder text"> </md-input-container> </form> </md-content> <div class="md-actions" layout="row"> <span flex></span> <md-button ng-click="cancel()"> Cancel </md-button> <md-button ng-click="add(newTask)" class="md-primary"> Add task </md-button> </div></md-dialog>',
+      targetEvent: ev,
+    })
+    .then(function(task) {
+      $scope.addTask(task);
+      $mdToast.showSimple(‘Task “’ + task + ‘” was added!’);
+    });
+  };
 
 {% endhighlight %}
 
@@ -335,27 +251,21 @@ $mdToast.showSimple(&#8216;Task "&#8217; + task + &#8216;" was added!&#8217;);
 
 {% highlight javascript %}
 
-function AddDialogCtrl($scope, $mdDialog) {
+  function AddDialogCtrl($scope, $mdDialog) {
 
-$scope.hide = function() {
+    $scope.hide = function() {
+      $mdDialog.hide();
+    };
 
-$mdDialog.hide();
+    $scope.cancel = function() {
+      $mdDialog.cancel();
+    };
 
-};
+    $scope.add = function(task) {
+      $mdDialog.hide(task);
+    };
 
-$scope.cancel = function() {
-
-$mdDialog.cancel();
-
-};
-
-$scope.add = function(task) {
-
-$mdDialog.hide(task);
-
-};
-
-};
+  }
 
 {% endhighlight %}
 
@@ -363,121 +273,78 @@ $mdDialog.hide(task);
 
 {% highlight javascript %}
 
-$scope.addTask = function (task) {
-
-$scope.myTasks.unshift({
-
-&#8216;title&#8217;: task,
-
-&#8216;done&#8217;: false
-
-});
-
-};
+  $scope.addTask = function (task) {
+    $scope.myTasks.unshift({
+      'title': task,
+      'done': false
+    });
+  };
 
 {% endhighlight %}
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg" alt="todo-app - добавить новую задачу" class="aligncenter size-medium wp-image-8340" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg" data-lightbox="img-4"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg" alt="todo-app - добавить новую задачу" class="aligncenter size-medium wp-image-8340" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 В итоге, у меня main.js выглядит следующим образом:
 
 {% highlight javascript %}
 
-var app = angular.module(&#8216;todoApp&#8217;, [&#8216;ngMaterial&#8217;]);
+  var app = angular.module(‘todoApp’, [‘ngMaterial’]);
+  app.controller(‘AppCtrl’, [‘$scope’, ‘$mdDialog’, ‘$mdToast’, function($scope, $mdDialog, $mdToast){
 
-app.controller(&#8216;AppCtrl&#8217;, [&#8216;$scope&#8217;, &#8216;$mdDialog&#8217;, &#8216;$mdToast&#8217;, function($scope, $mdDialog, $mdToast){
+    $scope.options = {
+      name: ‘My Todo List’,
+      show: ‘All tasks’
+    };
 
-$scope.options = {
+    $scope.navigationBarItems = [
+      {‘title’: ‘All tasks’, ‘icon’: ‘list’},
+      {‘title’: ‘Todo’, ‘icon’: ‘assignment’},
+      {‘title’: ‘Done’, ‘icon’: ‘done’}
+    ];
 
-name: &#8216;My Todo List&#8217;,
+    $scope.myTasks = [
+      {‘title’: ‘Learn AngularJs’, ‘done’: false},
+      {‘title’: ‘Create first app with Electron’, ‘done’: true}
+    ];
 
-show: &#8216;All tasks&#8217;
+    $scope.setContent = function (content) {
+      $scope.options.show = content;
+    };
 
-};
+    $scope.addTask = function (task) {
+      $scope.myTasks.unshift({
+        'title': task,
+        'done': false
+      });
+    };
 
-$scope.navigationBarItems = [
+    $scope.showAdd = function(ev) {
+      $mdDialog.show({
+        controller: AddDialogCtrl,
+        template: '<md-dialog aria-label="User Form"> <md-content class="md-padding"> <form name="userForm"> <md-input-container> <label>New Task</label> <input ng-model="newTask" placeholder="Placeholder text"> </md-input-container> </form> </md-content> <div class="md-actions" layout="row"> <span flex></span> <md-button ng-click="cancel()"> Cancel </md-button> <md-button ng-click="add(newTask)" class="md-primary"> Add task </md-button> </div></md-dialog>',
+        targetEvent: ev,
+      })
+      .then(function(task) {
+        $scope.addTask(task);
+        $mdToast.showSimple(‘Task “’ + task + ‘” was added!’);
+      });
+    };
+  }]);
+  function AddDialogCtrl($scope, $mdDialog) {
+      $scope.hide = function() {
+       $mdDialog.hide();
+      };
 
-{&#8216;title&#8217;: &#8216;All tasks&#8217;, &#8216;icon&#8217;: &#8216;list&#8217;},
+      $scope.cancel = function() {
+        $mdDialog.cancel();
+      };
 
-{&#8216;title&#8217;: &#8216;Todo&#8217;, &#8216;icon&#8217;: &#8216;assignment&#8217;},
-
-{&#8216;title&#8217;: &#8216;Done&#8217;, &#8216;icon&#8217;: &#8216;done&#8217;}
-
-];
-
-$scope.myTasks = [
-
-{&#8216;title&#8217;: &#8216;Learn AngularJs&#8217;, &#8216;done&#8217;: false},
-
-{&#8216;title&#8217;: &#8216;Create first app with Electron&#8217;, &#8216;done&#8217;: true}
-
-];
-
-$scope.setContent = function (content) {
-
-$scope.options.show = content;
-
-};
-
-$scope.addTask = function (task) {
-
-$scope.myTasks.unshift({
-
-&#8216;title&#8217;: task,
-
-&#8216;done&#8217;: false
-
-});
-
-};
-
-$scope.showAdd = function(ev) {
-
-$mdDialog.show({
-
-controller: AddDialogCtrl,
-
-template: &#8216;<md-dialog aria-label="User Form"> <md-content class="md-padding"> <form name="userForm"> <md-input-container> <label>New Task</label> <input ng-model="newTask" placeholder="Placeholder text"> </md-input-container> </form> </md-content> <div class="md-actions" layout="row"> <span flex></span> <md-button ng-click="cancel()"> Cancel </md-button> <md-button ng-click="add(newTask)" class="md-primary"> Add task </md-button> </div></md-dialog>&#8217;,
-
-targetEvent: ev,
-
-})
-
-.then(function(task) {
-
-$scope.addTask(task);
-
-$mdToast.showSimple(&#8216;Task "&#8217; + task + &#8216;" was added!&#8217;);
-
-});
-
-};
-
-}]);
-
-function AddDialogCtrl($scope, $mdDialog) {
-
-$scope.hide = function() {
-
-$mdDialog.hide();
-
-};
-
-$scope.cancel = function() {
-
-$mdDialog.cancel();
-
-};
-
-$scope.add = function(task) {
-
-$mdDialog.hide(task);
-
-};
-
-};
+      $scope.add = function(task) {
+        $mdDialog.hide(task);
+      }
+  }
 
 {% endhighlight %}
 
