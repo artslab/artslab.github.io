@@ -5,6 +5,7 @@ date: 2007-10-04T20:29:13+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=144
+permalink: /artslab-theme-for-wordpress/
 prosmotr:
   - 148
 ---

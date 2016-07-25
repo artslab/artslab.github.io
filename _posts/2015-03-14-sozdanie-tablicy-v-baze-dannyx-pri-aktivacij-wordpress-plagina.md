@@ -29,7 +29,7 @@ tags:
 		global $wpdb;
 
 		// указываем название таблицу
-		$table_name = $wpdb->prefix.&#8217;event&#8217;;
+		$table_name = $wpdb->prefix.'event';
 
 		// создаем запрос со всеми наобходимыми полями
 		$sql = "CREATE TABLE $table_name (
@@ -40,13 +40,13 @@ tags:
 			PRIMARY KEY (id)
 		);";
 
-		require_once(ABSPATH.&#8217;wp-admin/includes/upgrade.php&#8217;);
+		require_once(ABSPATH.'wp-admin/includes/upgrade.php');
 
 		// выполняем запрос и создаем таблицу
 		dbDelta($sql);
 	}
 
 	// метод запускающий функцию create_db_table() при активаций плагина
-	register_activation_hook(\_\_FILE\_\_, &#8216;create_db_table&#8217;);
+	register_activation_hook(__FILE__, 'create_db_table');
 
 {% endhighlight %}

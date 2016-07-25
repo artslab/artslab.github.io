@@ -11,7 +11,7 @@ layout: default
       <a name="topofpage"></a>
       {{content}}
     </section>
-    
+
     <footer class="post-footer">
       <section class="share">
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
@@ -35,9 +35,9 @@ layout: default
           */
           (function() {  // DON'T EDIT BELOW THIS LINE
               var d = document, s = d.createElement('script');
-              
+
               s.src = '//artslab.disqus.com/embed.js';
-              
+
               s.setAttribute('data-timestamp', +new Date());
               (d.head || d.body).appendChild(s);
           })();
@@ -83,3 +83,5 @@ layout: default
     </div>
   </article>
 </main>
+
+<script src="/assets/js/lightbox-plus-jquery.min.js"></script>
