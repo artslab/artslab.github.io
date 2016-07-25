@@ -9,6 +9,13 @@ layout: default
       <h2 class="blog-description">{{ site.description }}</h2>
   </header>
 
+  <div id="search">
+    <form role="search" method="get" action="{{site.baseurl}}/search/">
+      <input id="searchString" name="searchString" placeholder="Поиск по сайту" type="text" />
+      <input id="searchButton" name="googleSearchName" type="submit" value="Search" />
+    </form>
+  </div>
+
   <div class="cf frame">
     {% for post in paginator.posts %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
