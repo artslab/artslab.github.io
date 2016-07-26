@@ -26,6 +26,8 @@ bio: >
 author_image: "/assets/images/author.jpg"
 twitter_username: artslab
 github_username:  4gray
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # Build settings
 markdown: kramdown
