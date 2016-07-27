@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1565022975
 categories:
   - onlayn-servisyi
-  - Подборки
+  - podborki
 tags:
   - email
   - services

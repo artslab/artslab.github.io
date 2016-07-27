@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1566376271
 categories:
-  - Подборки
+  - podborki
 tags:
   - css3
   - generator

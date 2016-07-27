@@ -16,7 +16,7 @@ dsq_thread_id:
 categories:
   - macosx
 tags:
-  - mac os x
+  - mac-os
 ---
 Акция [The Mac Freebie Bundle 3.0](https://stacksocial.com/sales/the-mac-freebie-bundle-3-0) действует еще 12 дней и бандл включает в себя 7 платных программ для Mac OS X доступных в данное время бесплатно. Список программ: X-Mirage, ClipBuddy, Elmedia Player Pro, cf/x Mosaic, Vidiary Video Journal App, Bits и Sweetie.
 

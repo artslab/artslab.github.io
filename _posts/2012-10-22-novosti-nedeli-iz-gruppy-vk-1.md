@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1571411912
 categories:
-  - Подборки
+  - podborki
 tags:
   - psd
   - ikonki

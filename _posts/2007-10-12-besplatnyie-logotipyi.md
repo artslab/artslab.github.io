@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1565023454
 categories:
   - obzoryi-saytov
-  - Подборки
+  - podborki
 tags:
   - logo
   - vector

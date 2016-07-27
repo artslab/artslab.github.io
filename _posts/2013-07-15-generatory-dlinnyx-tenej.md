@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563663800
 categories:
-  - Подборки
+  - podborki
 tags:
   - flat
   - generator

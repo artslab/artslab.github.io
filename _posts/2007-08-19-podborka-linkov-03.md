@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565014582
 categories:
-  - Подборки
+  - podborki
 tags:
   - css
   - flash
@@ -31,7 +31,7 @@ tags:
 </center>
 
 
-  
+
 1. <a TARGET="_blank" TITLE="best of july 2007" HREF="http://www.smashingmagazine.com/2007/08/14/best-of-july-2007/">Smashingmagazine</a> &#8211; Лучшее за июль 2007
 
 2. <a HREF="http://maxsite.org/300-rasshireniy-dlya-rabotyi-s-wordpress">Mashable</a> &#8211; 300 расширений для работы с WordPress

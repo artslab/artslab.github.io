@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1681108509
 categories:
   - Web 2.0
-  - Подборки
+  - podborki
 tags:
   - css
   - flickr

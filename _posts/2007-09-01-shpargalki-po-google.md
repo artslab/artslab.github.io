@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1644889088
 categories:
-  - Подборки
+  - podborki
   - sovetyi
 tags:
   - cheat sheet

@@ -13,10 +13,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1628501958
 categories:
-  - Подборки
+  - podborki
 tags:
-  - sublime text
-  - редактор
+  - sublime-text
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatland_st2.png" data-lightbox="sublime-themes"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatland_st2-300x218.png" alt="минималистичное оформление" class="aligncenter size-medium wp-image-7469" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatland_st2-300x218.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatland_st2.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>

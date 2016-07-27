@@ -19,7 +19,7 @@ dsq_thread_id:
   - 1565018777
 categories:
   - obzoryi-saytov
-  - Подборки
+  - podborki
 tags:
   - photoshop
   - vector

@@ -18,7 +18,7 @@ dsq_thread_id:
   - 1565024685
 categories:
   - ikonki
-  - Подборки
+  - podborki
 tags:
   - icons
   - ikonki

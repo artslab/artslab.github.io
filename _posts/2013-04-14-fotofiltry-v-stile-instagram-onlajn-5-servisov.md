@@ -15,7 +15,7 @@ dsq_thread_id:
 views:
   - 1
 categories:
-  - Подборки
+  - podborki
 tags:
   - instagram
   - онлайн сервис

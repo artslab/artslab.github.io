@@ -18,7 +18,7 @@ dsq_thread_id:
   - 1563448386
 categories:
   - onlayn-servisyi
-  - Подборки
+  - podborki
 tags:
   - online
   - photo

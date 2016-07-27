@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563854780
 categories:
-  - Подборки
+  - podborki
 tags:
   - vkontakte
   - логотип

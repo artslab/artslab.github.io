@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2662136082
 categories:
-  - Подборки
+  - podborki
 tags:
   - css
   - html5

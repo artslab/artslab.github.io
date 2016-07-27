@@ -39,3 +39,4 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-seo-tag
+  - jemoji

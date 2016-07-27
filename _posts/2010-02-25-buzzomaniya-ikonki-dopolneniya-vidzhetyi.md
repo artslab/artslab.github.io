@@ -16,7 +16,7 @@ dsq_thread_id:
   - 1565020755
 categories:
   - ikonki
-  - Подборки
+  - podborki
 tags:
   - firefox
   - google buzz

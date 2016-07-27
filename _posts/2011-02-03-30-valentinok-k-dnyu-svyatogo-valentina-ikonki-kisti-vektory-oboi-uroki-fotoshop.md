@@ -18,7 +18,7 @@ categories:
   - Вектор
   - ikonki
   - kisti-dlya-photoshop
-  - Подборки
+  - podborki
 tags:
   - векторы
   - ikonki

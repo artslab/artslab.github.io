@@ -9,7 +9,7 @@ titlebg:
 categories:
   - macosx
 tags:
-  - mac os x
+  - mac-os
   - обои
   - приложение
 ---

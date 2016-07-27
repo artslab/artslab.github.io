@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Подборки
+  - podborki
   - shriftyi
 tags:
   - fonts

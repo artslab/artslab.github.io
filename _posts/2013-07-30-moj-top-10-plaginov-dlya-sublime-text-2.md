@@ -13,11 +13,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563329459
 categories:
-  - Подборки
+  - podborki
 tags:
-  - software
-  - sublime text
-  - плагины
+  - sublime-text
 ---
 <center>
   <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins-300x193.png" alt="полезные плагины для ST2" class="size-medium wp-image-7280" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins-300x193.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins-1024x659.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins.png 1088w" sizes="(max-width: 300px) 100vw, 300px" /></a>
