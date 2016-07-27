@@ -31,12 +31,12 @@ tags:
 
 Код:
 
-{% highlight css %}
+{% highlight css linenos=table %}
 
 .bw {
 	filter: url(&#8220;data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale&#8221;); /\* Firefox 10+, Firefox on Android \*/
-	filter: gray; /\* IE6-9 \*/
-	-webkit-filter: grayscale(1); /\* Google Chrome, Safari 6+ & Opera 15+ \*/
+	filter: gray; /* IE6-9 */
+	-webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
 	-moz-filter: grayscale(100%);
 	-ms-filter: grayscale(100%);
 	-o-filter: grayscale(100%);
@@ -51,5 +51,5 @@ tags:
 {% endhighlight %}
 
 <h3>Демо:</h3>
-<p data-height="300" data-theme-id="414" data-slug-hash="EidBl" data-default-tab="css,result" data-user="4gray" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/4gray/pen/EidBl/">Grayscale Image with CSS</a> by 4gray (<a href="http://codepen.io/4gray">@4gray</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="414" data-slug-hash="EidBl" data-default-tab="result" data-user="4gray" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/4gray/pen/EidBl/">Grayscale Image with CSS</a> by 4gray (<a href="http://codepen.io/4gray">@4gray</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
