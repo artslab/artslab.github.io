@@ -5,6 +5,7 @@ date: 2011-04-09T12:46:18+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=2177
+permalink: /ustanovka_tem_windows7/
 prosmotr:
   - 210
 dsq_thread_id:
@@ -19,9 +20,9 @@ dsq_thread_id:
 </center>
 
 3. Тема установлена, осталось только выбрать её.
-  
-Для этого кликаем правой кнопокой мышки по рабочему столу и выбираем в контекстном меню пункт &#8220;Персонализация&#8221;. 
-  
+
+Для этого кликаем правой кнопокой мышки по рабочему столу и выбираем в контекстном меню пункт &#8220;Персонализация&#8221;.
+
 
 
 <center>
@@ -29,8 +30,8 @@ dsq_thread_id:
 </center>
 
 
-  
-В открывшемся окне, пролистав чуть ниже, вы уведите список установленных тем. 
+
+В открывшемся окне, пролистав чуть ниже, вы уведите список установленных тем.
 
 <center>
   <a href="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7_2.jpg"><img src="http://artslab.info/wp-content/uploads/ustanovka_tem_dlya_win7_2-300x179.jpg" alt="темы для win 7" title="ustanovka_tem_dlya_win7_2" width="300" height="179" class="alignnone size-medium wp-image-1229" srcset="http://img.artslab.info/ustanovka_tem_dlya_win7_2-300x179.jpg 300w, http://img.artslab.info/ustanovka_tem_dlya_win7_2-1024x613.jpg 1024w, http://img.artslab.info/ustanovka_tem_dlya_win7_2.jpg 1044w" sizes="(max-width: 300px) 100vw, 300px" /></a>

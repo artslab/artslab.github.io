@@ -5,6 +5,7 @@ date: 2007-08-22T16:30:49+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=92
+permalink: /kak-ustanovit-kisti-brushes-v-adobe-photoshop/
 prosmotr:
   - 629
 dsq_thread_id:
@@ -27,7 +28,7 @@ dsq_thread_id:
 3. Запустите Photoshop (если он у Вас был включен, то придется его перезапустить, т.е. закрыть и запустить заново)
 
 4. Выбираем инструмент <u>Brush Tool</u> и вверху в выпадающем меню выбираем установленную кисть.
-  
+
 Скриншот для наглядности:
 
 <center>

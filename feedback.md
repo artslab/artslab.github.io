@@ -5,6 +5,7 @@ date: 2007-10-19T22:12:15+00:00
 author: serEga
 layout: page
 guid: http://artslab.info/?page_id=156
+permalink: /feedback/
 prosmotr:
   - 188
 dsq_thread_id:
