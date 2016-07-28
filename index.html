@@ -40,7 +40,7 @@ layout: default
     {% else %}
       <a class="newer-posts disabled">&larr; Назад</a>
     {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page-number">Страница {{ paginator.page }} из {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
         <a class="older-posts" href="{{ site.baseurl }}/">Вперед &rarr;</a>
