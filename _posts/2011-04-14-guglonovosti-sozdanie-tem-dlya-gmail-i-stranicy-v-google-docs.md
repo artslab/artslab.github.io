@@ -26,13 +26,13 @@ tags:
 ## 1. Создание своих тем оформления для Gmail
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/gmail_theme_editor2.png"><img src="http://artslab.info/wp-content/uploads/gmail_theme_editor2-284x300.png" alt="редактор тем оформления gmail" title="gmail_theme_editor2" width="284" height="300" class="alignnone size-medium wp-image-2273" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gmail_theme_editor2.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gmail_theme_editor2-284x300.png" alt="редактор тем оформления gmail" title="gmail_theme_editor2" width="284" height="300" class="alignnone size-medium wp-image-2273" /></a>
 </center>
 
 Теперь кроме стандартных тем, появился редактор тем оформления почтового интерфейса, с помощью которого каждый желающий сможет создать свою уникальную тему для любимого почтовика. Редактор находится в настройках, на вкладке темы и под ссылкой &#8220;Создать свою тему&#8221;. Можно указать цвета ссылок, фона, отдельных блоков, рамок и самое главное, указать фоновую картинку.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/google_theme_editor.png"><img src="http://artslab.info/wp-content/uploads/google_theme_editor-300x197.png" alt="редактор тем gmail" title="google_theme_editor" width="300" height="197" class="alignnone size-medium wp-image-2271" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_theme_editor.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_theme_editor-300x197.png" alt="редактор тем gmail" title="google_theme_editor" width="300" height="197" class="alignnone size-medium wp-image-2271" /></a>
 </center>
 
 
@@ -46,7 +46,7 @@ tags:
 Включается отображение страниц в меню: Вид -> Просмотр документа -> С разбивкой на страницы.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/google_docs_starnici.png"><img src="http://artslab.info/wp-content/uploads/google_docs_starnici-300x271.png" alt="страницы в google docs" title="google_docs_starnici" width="300" height="271" class="alignnone size-medium wp-image-2272" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_docs_starnici.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_docs_starnici-300x271.png" alt="страницы в google docs" title="google_docs_starnici" width="300" height="271" class="alignnone size-medium wp-image-2272" /></a>
 </center>
 
 

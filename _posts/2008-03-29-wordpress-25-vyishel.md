@@ -24,7 +24,7 @@ tags:
   - Для Wordpress
 ---
 <p STYLE="text-align: center">
-  <img SRC="http://artslab.info/wp-content/uploads/wordpress.jpg" ALT="Wordpress 2.5 stable скачать" />
+  <img SRC="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress.jpg" ALT="Wordpress 2.5 stable скачать" />
 </p>
 
 Ну что друзья блоггеры, финальная версия WordPress 2.5 наконец-таки вышла. Поздравляю всех с этим событием, дружно идем обновляться =)

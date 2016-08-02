@@ -22,7 +22,7 @@ tags:
   - кисти
 ---
 <center ALIGN="center">
-  <a href="http://artslab.info/wp-content/uploads/inner_universe_photoshop_brushes.gif"><img src="http://artslab.info/wp-content/uploads/inner_universe_photoshop_brushes.gif" alt="" title="inner_universe_photoshop_brushes" width="300" height="220" class="alignnone size-full wp-image-793" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/inner_universe_photoshop_brushes.gif"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/inner_universe_photoshop_brushes.gif" alt="" title="inner_universe_photoshop_brushes" width="300" height="220" class="alignnone size-full wp-image-793" /></a>
 </center>
 
 <center ALIGN="center">

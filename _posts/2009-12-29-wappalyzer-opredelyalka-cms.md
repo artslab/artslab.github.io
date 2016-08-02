@@ -25,7 +25,7 @@ tags:
   - дополнение к firefox
 ---
 <p style="text-align: center;">
-  <a href="http://artslab.info"><img class="aligncenter" title="Wappalyzer" src="http://artslab.info/wp-content/uploads/1231115596.png" alt="" width="106" height="51" /></a>
+  <a href="http://artslab.info"><img class="aligncenter" title="Wappalyzer" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/1231115596.png" alt="" width="106" height="51" /></a>
 </p>
 
 Встретил интересное дополнение для Firefox и Google. Называется оно <a href="https://addons.mozilla.org/ru/firefox/addon/10229" target="_blank">Wappalyzer</a> (вкерсия для <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg" target="_blank">хрома</a>), задача дополнения, определить на какой CMS работает сайт, который открыт в активной вкладке браузера в данный момент. В Firefox иконка с информацией отображается в строке состояния браузера, в нижнем правом углу, а в Google Chrome кнопочка дополнения появляется на панели инструментов. Кроме самой системы управления сайтов (CMS), Wappalyzer так же умеет определять какие веб-инструменты, фреймворки, используются на сайте, js-библиотеки(jQuery, MooTools), Google Analytics, системы кэширования и т.д.

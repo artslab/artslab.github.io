@@ -37,7 +37,7 @@ tags:
 > 2. Купить китайский кабель &#8211; _дешево_, но при условий что девайс с jailbreak&#8217;ом.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/iphone_tv_cable.jpg"><img src="http://artslab.info/wp-content/uploads/iphone_tv_cable-300x300.jpg" alt="кабель для соединения телефона с тв" title="iphone_tv_cable" width="300" height="300" class="alignnone size-medium wp-image-2543" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_tv_cable.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_tv_cable-300x300.jpg" alt="кабель для соединения телефона с тв" title="iphone_tv_cable" width="300" height="300" class="alignnone size-medium wp-image-2543" /></a>
 </center>
 
 У меня телефон с джейлом, поэтому хотелось сэкономить. Погуглив, я не нашел конкретной информации. Либо что-то устаревшее, либо отрытые вопросы, у одних получается, у других нет.

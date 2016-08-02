@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018269
 cover:
-  - 
+  -
 categories:
   - Для Wordpress
 tags:
@@ -24,11 +24,11 @@ tags:
   - плагины
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/drevovidnie_comments.jpg"><img src="http://artslab.info/wp-content/uploads/drevovidnie_comments-300x259.jpg" alt="" title="drevovidnie_comments" width="300" height="259" class="alignnone size-medium wp-image-836" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/drevovidnie_comments.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/drevovidnie_comments-300x259.jpg" alt="" title="drevovidnie_comments" width="300" height="259" class="alignnone size-medium wp-image-836" /></a>
 </center>
 
 
-  
+
 Давно уже хотел установить подобный плагин сюда в блог, но то забывал, то еще что-нибудь. Что собственно делает этот плагин, он добавляет ссылку внизу каждого оставленного комментария &#8220;Ответить&#8221;. Что позволяет удобно ответить любому участнику дискуссии на любой из оставленных комментариев, будь он первым, пятым или последним. Наверное большинство знакомо с тем же _ЖЖ_, где комментирование именно так и устроено, удобно.
 
 Итак, **WordPress Thread Comment** &#8211; за перевод на русский язык, спасибо <a href="http://romka.ws/" target="_blank">romka.ws</a>, откуда я собственно и рекомендую <a href="http://romka.ws/drevovidnye-kommentarii-v-wordpress/" target="_blank">скачать плагин</a>.

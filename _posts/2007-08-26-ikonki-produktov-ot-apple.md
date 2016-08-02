@@ -26,7 +26,7 @@ tags:
   - ikonki
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/apple_products_icons.jpg" title="apple hardware icons" alt="apple hardware icons" border="0" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_products_icons.jpg" title="apple hardware icons" alt="apple hardware icons" border="0" />
 </p>
 
 Иконки популярных продуктов от Apple (iPod, iPhone, iMac, MacBook) / iHardware Icons 1.0 / Автор: <a href="http://fixxxxx.deviantart.com/" title="перейти на страничку автора" target="_blank">Fixxxxxx</a>

@@ -26,7 +26,7 @@ tags:
 А вот временные картинки(placeholder), иногда приходится искать в том же Google, Яндексе или на других поисковиках. Но теперь и это не проблема, потому что появился сервис [LoremPixum](http://www.lorempixum.com/).
 
 <center>
-  <img src="http://artslab.info/wp-content/uploads/lorempixum.jpg" alt="LoremPixum - сервис для поиска случайных изображений" title="lorempixum" width="260" height="77" class="alignnone size-full wp-image-2531" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lorempixum.jpg" alt="LoremPixum - сервис для поиска случайных изображений" title="lorempixum" width="260" height="77" class="alignnone size-full wp-image-2531" />
 </center>
 
 Работает просто, нужно выбрать размер картинки, цвет, тематику и после чего мы получим случайно сгенерированное изображение.
@@ -38,7 +38,7 @@ tags:
 Если внимательно взглянуть на ссылку, то в ней мы видим и размер картинки и категорию. Кстати, категорию можно и не указывать, в этом случае будут отображаться случайные изображения из всех доступных категорий.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/lorempixum_generator.jpg"><img src="http://artslab.info/wp-content/uploads/lorempixum_generator-300x85.jpg" alt="генератор случайных изображений" title="lorempixum_generator" width="300" height="85" class="alignnone size-medium wp-image-2530" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lorempixum_generator.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lorempixum_generator-300x85.jpg" alt="генератор случайных изображений" title="lorempixum_generator" width="300" height="85" class="alignnone size-medium wp-image-2530" /></a>
 </center>
 
 И напоследок, живой пример:

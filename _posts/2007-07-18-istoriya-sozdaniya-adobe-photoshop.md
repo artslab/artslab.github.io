@@ -27,7 +27,7 @@ tags:
   - история
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/istoriya_adobe_photoshop.jpg"><img src="http://artslab.info/wp-content/uploads/istoriya_adobe_photoshop-300x181.jpg" alt="" title="istoriya_adobe_photoshop" width="300" height="181" class="alignnone size-medium wp-image-798" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/istoriya_adobe_photoshop.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/istoriya_adobe_photoshop-300x181.jpg" alt="" title="istoriya_adobe_photoshop" width="300" height="181" class="alignnone size-medium wp-image-798" /></a>
 </center>
 
 В следующий раз, когда вы запустите Photoshop , вспомните о его разработчиках и объёме работы, который в него вложен…

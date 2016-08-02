@@ -22,7 +22,7 @@ tags:
   - html
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/hide_counters.png"><img src="http://artslab.info/wp-content/uploads/hide_counters.png" alt="как спрятать кнопки счетчиков" title="hide_counters" width="250" height="181" class="alignnone size-full wp-image-1831" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/hide_counters.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/hide_counters.png" alt="как спрятать кнопки счетчиков" title="hide_counters" width="250" height="181" class="alignnone size-full wp-image-1831" /></a>
 </center>
 
 По тем или иным причинам, **код счётчиков** систем интернет-статистики зачастую приходится **скрывать** на странице. Оставим в стороне правомерность этого действия (читайте внимательно правила конкретного счётчика) и рассмотрим способы сокрытия.

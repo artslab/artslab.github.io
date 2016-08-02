@@ -24,7 +24,7 @@ tags:
   - сниппет
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/text_shadow1.jpg"><img src="http://artslab.info/wp-content/uploads/text_shadow1.jpg" alt="текстовые эффекты с помощью css" title="text_shadow" width="587" height="179" class="alignnone size-full wp-image-1269" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_shadow1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_shadow1.jpg" alt="текстовые эффекты с помощью css" title="text_shadow" width="587" height="179" class="alignnone size-full wp-image-1269" /></a>
 </center>
 
 Ну вот, добрались и до типографий. Небольшой пост о том, как сделать эффект вдавленного текста с помощью CSS. Реализуется очень просто, всего одной строкой.
@@ -59,7 +59,7 @@ filter: dropshadow(color=#e5e5ee,offX=0,offY=1);
 
 Напоследок живой пример:
 
-<div style="background: url(http://artslab.info/wp-content/uploads/bg2.jpg); width: 300px; height: 190px; display:block; margin:0 auto; color:#666;font-family:trebuchet ms;text-shadow: 0px 1px 0px #e5e5ee;">
+<div style="background: url(http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bg2.jpg); width: 300px; height: 190px; display:block; margin:0 auto; color:#666;font-family:trebuchet ms;text-shadow: 0px 1px 0px #e5e5ee;">
   <div style="padding:20px 0 0 20px; font-size: 24px; ">
     ArtsLab
   </div>

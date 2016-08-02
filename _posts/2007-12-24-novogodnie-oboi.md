@@ -23,7 +23,7 @@ tags:
   - Обои для рабочего стола
 ---
 <center>
-  <img src="http://artslab.info/wp-content/uploads/new_year_wallpapers.jpg" alt="новогодние обои" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_year_wallpapers.jpg" alt="новогодние обои" />
 </center>
 
 Для тех кто любит создавать праздничную атмосферу не только в свеом доме, но и на компьютере, предлагаю большую подборку новогодних обоин для Вашего рабочего стола.

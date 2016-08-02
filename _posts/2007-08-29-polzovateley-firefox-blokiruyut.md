@@ -24,7 +24,7 @@ tags:
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/firefox_logo.jpg"><img src="http://artslab.info/wp-content/uploads/firefox_logo.jpg" alt="логотип файрфокса" title="firefox_logo" width="182" height="65" class="alignnone size-full wp-image-1828" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firefox_logo.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firefox_logo.jpg" alt="логотип файрфокса" title="firefox_logo" width="182" height="65" class="alignnone size-full wp-image-1828" /></a>
 </center>
 
 Некто Danny Carlton блокирует посещение своего [блога](http://jacklewis.net/weblog/) пользователям Firefox, мотивируя это возможностью отключить текстовую и графическую рекламу (плагином [AdBlock](https://addons.mozilla.org/ru/firefox/addon/1865)), что по его мнению разоряет веб-мастеров.

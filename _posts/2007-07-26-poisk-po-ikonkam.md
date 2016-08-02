@@ -22,7 +22,7 @@ tags:
   - программа
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/ssboxswb0.jpg" title="3D Box Shot Maker" alt="3D Box Shot Maker" border="0" height="179" width="220" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ssboxswb0.jpg" title="3D Box Shot Maker" alt="3D Box Shot Maker" border="0" height="179" width="220" />
 </p>
 
 > ”3D Box Shot Maker is an easy and FREE tool to virtually desgin quality box shot as your software box cover. An impressive box shot will make your software outstanding, and easily defeat your competitors at the start.”

@@ -22,7 +22,7 @@ tags:
   - скрипт
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/xtraupload.jpg"><img src="http://artslab.info/wp-content/uploads/xtraupload.jpg" alt="xtraupload скрипт" title="xtraupload" width="370" height="238" class="alignnone size-full wp-image-872" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/xtraupload.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/xtraupload.jpg" alt="xtraupload скрипт" title="xtraupload" width="370" height="238" class="alignnone size-full wp-image-872" /></a>
 </center>
 
 

@@ -22,7 +22,7 @@ tags:
   - социальная сеть
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/facebook-send-button.png"><img src="http://artslab.info/wp-content/uploads/facebook-send-button-300x182.png" alt="кнопка отправить от facebook - send button" title="facebook-send-button" width="300" height="182" class="alignnone size-medium wp-image-2398" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook-send-button.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook-send-button-300x182.png" alt="кнопка отправить от facebook - send button" title="facebook-send-button" width="300" height="182" class="alignnone size-medium wp-image-2398" /></a>
 </center>
 
 Ну что друзья, одной кнопкой на просторах нашей паутины стало больше. Фейсбук представил еще одну новую кнопочку, с нехитрым названием Send-Button. С её помощью можно отправить понравившийся материал, в виде личного сообщения, одному или сразу нескольким/группе Ваших друзей.

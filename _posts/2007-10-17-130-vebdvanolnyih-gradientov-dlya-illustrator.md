@@ -22,9 +22,9 @@ tags:
   - Web 2.0
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/illcs3swatch_03.jpg"><img src="http://artslab.info/wp-content/uploads/illcs3swatch_03-300x122.jpg" alt="набор градиентов для иллюстратора" title="illcs3swatch_03" width="300" height="122" class="alignnone size-medium wp-image-881" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/illcs3swatch_03.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/illcs3swatch_03-300x122.jpg" alt="набор градиентов для иллюстратора" title="illcs3swatch_03" width="300" height="122" class="alignnone size-medium wp-image-881" /></a>
 </center>
 
 
-  
+
 Авторы блога <a href="http://www.dezinerfolio.com/2007/10/15/130-web-20-gradient-swatches-for-illustrator/" title="dezinerfolio" target="_blank">Dezinerfolio</a> продолжают радовать нас своими красивыми градиентами. В этот раз они переконвертировали свои <a href="http://www.dezinerfolio.com/2007/05/06/ultimate-web-20-layer-styles/" title="web 2.0 gradients for photoshop" target="_blank">предыдущий набор для Adobe Photoshop</a>&#8216;a под Adobe Illustrator. Все кто использует данный софт для своих работ, рекомендую к применению!Скачать можно <a href="http://www.dezinerfolio.com/2007/10/15/130-web-20-gradient-swatches-for-illustrator/" title="130 web 2.0 gradients for illustrator" target="_blank">отсюда</a>

@@ -20,7 +20,7 @@ tags:
   - файлообменик
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/gett.jpg"><img src="http://artslab.info/wp-content/uploads/ge_tt.jpg" alt="" title="ge_tt" width="212" height="257" class="alignnone size-full wp-image-1626" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gett.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ge_tt.jpg" alt="" title="ge_tt" width="212" height="257" class="alignnone size-full wp-image-1626" /></a>
 </center>
 
 Файлообмеником сегодня мало кого удивишь, очень уж часто появляется что-то новое. Поэтому чтобы одному из таковых хоть как-то выделиться, нужно нас удивить каким-то новым/особым функционалом.

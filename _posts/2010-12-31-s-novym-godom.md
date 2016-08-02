@@ -18,7 +18,7 @@ tags:
   - новый год
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/new_2011.jpg"><img src="http://artslab.info/wp-content/uploads/new_2011.jpg" alt="" title="new_2011" width="142" height="140" class="alignnone size-full wp-image-764" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_2011.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_2011.jpg" alt="" title="new_2011" width="142" height="140" class="alignnone size-full wp-image-764" /></a>
 </center>
 
 Дорогие читатели, поздравляю вас всех с Новым 2011 Годом.

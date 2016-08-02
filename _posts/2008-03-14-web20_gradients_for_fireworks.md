@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021207
 cover:
-  - 
+  -
 categories:
   - Вектор
 tags:
@@ -25,7 +25,7 @@ tags:
   - Все для Fireworks
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/web20styles-new-for-web.png" alt="web 2.0 градиенты для adobe fireworks" height="571" width="478" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20styles-new-for-web.png" alt="web 2.0 градиенты для adobe fireworks" height="571" width="478" />
 </p>
 
 Многим уже наверняка знакомый набор вебдванольных градиентов, который ранее уже был сделан для <a href="http://www.dezinerfolio.com/2007/05/06/ultimate-web-20-layer-styles/" title="web 2.0 gradients for photoshop скачать" target="_blank">Adobe Photoshop</a>, <a href="http://artslab.info/?p=154" title="web 2.0 градиенты для adobe illustrator" target="_blank">Adobe Illustrator</a>, <a href="http://artslab.info/?p=61" title="скачать web 2.0 градиенты для GIMP" target="_blank">GIMP</a>. Теперь же очередь дошла и до <a href="http://www.2expertsdesign.com/2008/02/27/48-ultimate-web-20-styles-for-fireworks/" title="download web 2.0 gradients for Fireworks" target="_blank">Fireworks</a>.

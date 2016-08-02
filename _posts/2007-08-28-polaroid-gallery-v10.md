@@ -24,7 +24,7 @@ tags:
   - script
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/wp-content/uploads/polaroid_gallery.jpg"><img src="http://artslab.info/wp-content/uploads/polaroid_gallery-300x204.jpg" alt="" title="polaroid_gallery" width="300" height="204" class="alignnone size-medium wp-image-775" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/polaroid_gallery.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/polaroid_gallery-300x204.jpg" alt="" title="polaroid_gallery" width="300" height="204" class="alignnone size-medium wp-image-775" /></a>
 </p>
 
 &#8220;Polaroid Gallery is a free, opensource flash gallery developed by myself, <a href="http://www.no3dfx.com/polaroid/" title="homepage" target="_blank">Christopher Einarsrud</a>, in the year of 2006.&#8221;

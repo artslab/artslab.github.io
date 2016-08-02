@@ -26,7 +26,7 @@ tags:
   - эффекты
 ---
 <p style="text-align: center">
-  <a href="#"><img src="http://artslab.info/wp-content/uploads/banner.jpg" alt="artslab header" border="0" /></a>
+  <a href="#"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/banner.jpg" alt="artslab header" border="0" /></a>
 </p>
 
 В одном из <a href="http://artslab.info/?p=100#comments" title="комментарий" target="_blank">комментариев</a> на сайте спрашивали о там как создать **эффект**_ вроде того что на картинке выше. То есть чтобы при наведении на картинку, ее **прозрачность** становилась 100%-ной, а на неактивной картинке поменьше (50%), чтобы она выглядела потусклее. Далее следует небольшое описание, как это сделать.

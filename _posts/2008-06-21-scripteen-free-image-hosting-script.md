@@ -22,7 +22,7 @@ tags:
   - хостинг
 ---
 <center>
-  <img src="http://artslab.info/wp-content/uploads/image_hosting_script.jpg" alt="хостинг картинок скрипт" title="image_hosting_script" width="362" height="244" class="alignnone size-full wp-image-2417" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/image_hosting_script.jpg" alt="хостинг картинок скрипт" title="image_hosting_script" width="362" height="244" class="alignnone size-full wp-image-2417" />
 </center>
 
 Бесплатный скрипт для создания хостинга изображений аля <a href="http://imageshack.us" target="_blank">imageshack</a> и т.д.

@@ -22,7 +22,7 @@ tags:
   - плагины
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" style="border: 0pt none;" src="http://artslab.info/wp-content/uploads/multilanguage_wordpress.jpg" alt="мультиязычность в wordpress" width="348" height="198" />
+  <img class="aligncenter" style="border: 0pt none;" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/multilanguage_wordpress.jpg" alt="мультиязычность в wordpress" width="348" height="198" />
 </p>
 
 Кто занимается сайтостроением, наверняка сталкивался с тем что, сайт нужно было сделать на двух или сразу на нескольких языках. Для реализаций мультиязычности на движке wordpress, я нашел три плагина, все они совместимы с актуальной (2.5.1) версией вордпресса:

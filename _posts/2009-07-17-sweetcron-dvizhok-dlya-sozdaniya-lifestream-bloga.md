@@ -21,7 +21,7 @@ tags:
   - блог
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/sweetcron_cms.png"><img src="http://artslab.info/wp-content/uploads/sweetcron_cms-300x73.png" alt="" title="sweetcron_cms" width="300" height="73" class="alignnone size-medium wp-image-846" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sweetcron_cms.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sweetcron_cms-300x73.png" alt="" title="sweetcron_cms" width="300" height="73" class="alignnone size-medium wp-image-846" /></a>
 </center>
 
 <p style="text-align: left;">

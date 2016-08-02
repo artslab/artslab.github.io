@@ -28,7 +28,7 @@ tags:
   - фото
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/wp-content/uploads/photoshop_picnic_online.jpg"><img src="http://artslab.info/wp-content/uploads/photoshop_picnic_online.jpg" alt="" title="photoshop_picnic_online" width="324" height="130" class="alignnone size-full wp-image-791" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online.jpg 324w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online-300x120.jpg 300w" sizes="(max-width: 324px) 100vw, 324px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online.jpg" alt="" title="photoshop_picnic_online" width="324" height="130" class="alignnone size-full wp-image-791" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online.jpg 324w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_picnic_online-300x120.jpg 300w" sizes="(max-width: 324px) 100vw, 324px" /></a>
 </p>
 
 Думаю не для кого не секрет что существуют такие сервисы как &#8220;**онлайн редакторы фотографий**&#8220;. Они отлично подойдут для быстрого редактирования изображений(увеличить, уменьшить, повернуть и т.п.), в том случае если у Вас не установлен Adobe Photoshop&#8217;a или просто нету возможности им воспользоваться (и в то же время неохота мучаться в paint&#8217;e).
@@ -62,7 +62,7 @@ tags:
 ### 2. Pixlr (TOP!)
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/pixlr.jpg"><img src="http://artslab.info/wp-content/uploads/pixlr-300x135.jpg" alt="" title="pixlr" width="300" height="135" class="alignnone size-medium wp-image-695" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr-300x135.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr-1024x461.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr-300x135.jpg" alt="" title="pixlr" width="300" height="135" class="alignnone size-medium wp-image-695" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr-300x135.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixlr-1024x461.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 [Pixlr](http://pixlr.com/editor/?loc=ru) &#8211; Мой личный фаворит из всех сервисов. Во первых pixlr больше всего по интерфейсу напоминает фотошоп, поэтому не придется переучиваться и искать нужные кнопочки, все они находятся там, где они и должны быть. Второе не менее важное преимущество сервиса так это его русскоязычность. Полностью [руссифицированный](http://pixlr.com/editor/?loc=ru) интерфейс. Так же здесь есть импорт изображений с Facebook, Picasa, Flickr, загрузка изображения с интернета по ссылке и конечно же, с компьютера.
@@ -110,7 +110,7 @@ tags:
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/photoshop_online.jpg"><img src="http://artslab.info/wp-content/uploads/photoshop_online-300x163.jpg" alt="онлайн версия фотошопа" title="photoshop_online" width="300" height="163" class="aligncenter size-medium wp-image-664" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online-300x163.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online-1024x557.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online.jpg 1590w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online-300x163.jpg" alt="онлайн версия фотошопа" title="photoshop_online" width="300" height="163" class="aligncenter size-medium wp-image-664" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online-300x163.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online-1024x557.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_online.jpg 1590w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 7. iPiccy

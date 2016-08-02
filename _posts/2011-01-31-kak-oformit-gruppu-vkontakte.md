@@ -30,7 +30,7 @@ tags:
   - оформление
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/kak_oformit_gruppu_vkontakte.jpg"><img src="http://artslab.info/wp-content/uploads/kak_oformit_gruppu_vkontakte-300x136.jpg" alt="оформляем группу вконтакте" title="kak_oformit_gruppu_vkontakte" width="300" height="136" class="alignnone size-medium wp-image-1465" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_oformit_gruppu_vkontakte-300x136.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_oformit_gruppu_vkontakte.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_oformit_gruppu_vkontakte.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_oformit_gruppu_vkontakte-300x136.jpg" alt="оформляем группу вконтакте" title="kak_oformit_gruppu_vkontakte" width="300" height="136" class="alignnone size-medium wp-image-1465" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_oformit_gruppu_vkontakte-300x136.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_oformit_gruppu_vkontakte.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Недавно спрашивали, о том как вставить свои дизайн в группу на сайте Вконтакте. По этому поводу решил написать подробный мануал о том, как это сделать. Для примера нарисовал дизайн для [группы артслаб](http://vkontakte.ru/club880171).
@@ -55,31 +55,31 @@ tags:
 У нас есть дизайн:
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte1.jpg"><img src="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte1-300x283.jpg" alt="оформляем дизайн группы вконтакте" title="design_gruppi_vkontakte1" width="300" height="283" class="alignnone size-medium wp-image-1466" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte1-300x283.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte1.jpg 433w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte1-300x283.jpg" alt="оформляем дизайн группы вконтакте" title="design_gruppi_vkontakte1" width="300" height="283" class="alignnone size-medium wp-image-1466" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte1-300x283.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte1.jpg 433w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Для начала необходимо _порезать его на отдельные кусочки_. В Photoshop делается это с помощью инструмента **Slice Tool**. Требуется это для того, чтобы выставить нужные нам ссылки на отдельные картинки с надписями. В моем оформлении, я решил разместить 5 ссылок и две картинки(верхнюю и нижнюю) оставить без ссылок.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte.jpg"><img src="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte-300x286.jpg" alt="как сделать дизайн группы вконткте" title="design_gruppi_vkontakte" width="300" height="286" class="alignnone size-medium wp-image-1467" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte-300x286.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte.jpg 462w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte-300x286.jpg" alt="как сделать дизайн группы вконткте" title="design_gruppi_vkontakte" width="300" height="286" class="alignnone size-medium wp-image-1467" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte-300x286.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte.jpg 462w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Сохраняем наше оформление с помощью **File -> Save for Web&#8230;** После этого в указанном месте автоматически создастся папка images, в которой и будет находится дизайн в виде отдельно порезанных картинок.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte3.jpg"><img src="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte3-300x63.jpg" alt="дизайн группы вконтакте" title="design_gruppi_vkontakte3" width="300" height="63" class="alignnone size-medium wp-image-1486" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte3-300x63.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte3.jpg 947w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte3.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte3-300x63.jpg" alt="дизайн группы вконтакте" title="design_gruppi_vkontakte3" width="300" height="63" class="alignnone size-medium wp-image-1486" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte3-300x63.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte3.jpg 947w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Далее, заходим на страничку группы Вконтакте и создаем там отдельный фотоальбом. Назовем его &#8221; Оформление группы&#8221; и загрузим туда все картинки из папки images. В моем случае мне пришлось загрузить 7 картинок.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte4.jpg"><img src="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte4-300x145.jpg" alt="как сделать оформлением группы вконтакте" title="design_gruppi_vkontakte4" width="300" height="145" class="alignnone size-medium wp-image-1468" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte4-300x145.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte4.jpg 618w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte4.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte4-300x145.jpg" alt="как сделать оформлением группы вконтакте" title="design_gruppi_vkontakte4" width="300" height="145" class="alignnone size-medium wp-image-1468" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte4-300x145.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte4.jpg 618w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Теперь для удобства рекомендую оставить на одной вкладке альбом с картинками, а в новой вкладке открыть страницу группы и перейти к редактированию блока свежих новостей.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte7.jpg"><img src="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte7-300x107.jpg" alt="сделать свои дизайн для группы вконтакте" title="design_gruppi_vkontakte7" width="300" height="107" class="alignnone size-medium wp-image-1476" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte7-300x107.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte7.jpg 622w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte7.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte7-300x107.jpg" alt="сделать свои дизайн для группы вконтакте" title="design_gruppi_vkontakte7" width="300" height="107" class="alignnone size-medium wp-image-1476" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte7-300x107.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte7.jpg 622w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Самая пора приступить к **написанию кода** для вставки дизайна. Для этого давайте рассмотрим разметку сайта Вконтакте и разберемся c кодом для вставки полной картинки в блок группы.
@@ -93,7 +93,7 @@ tags:
 **&#8220;photo-880171_215099744&#8221;** &#8211; id фотографий, найти его можно в строке браузера при просмотре необходимой картинки
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte6.jpg"><img src="http://artslab.info/wp-content/uploads/design_gruppi_vkontakte6-300x125.jpg" alt="" title="design_gruppi_vkontakte6" width="300" height="125" class="alignnone size-medium wp-image-1475" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte6-300x125.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte6.jpg 978w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte6.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte6-300x125.jpg" alt="" title="design_gruppi_vkontakte6" width="300" height="125" class="alignnone size-medium wp-image-1475" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte6-300x125.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/design_gruppi_vkontakte6.jpg 978w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 **&#8220;370x37px&#8221;** &#8211; размер картинки в пикселях

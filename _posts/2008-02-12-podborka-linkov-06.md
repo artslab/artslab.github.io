@@ -24,7 +24,7 @@ tags:
   - tutorials
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/links.gif" alt="Подборка ссылок 0.6" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/links.gif" alt="Подборка ссылок 0.6" />
 </p>
 
 > <a href="http://nerdbusiness.com/blog/5978-high-quality-icons-web-apps-rss" target="_blank">~6000 качественных иконок (трафик!)</a>

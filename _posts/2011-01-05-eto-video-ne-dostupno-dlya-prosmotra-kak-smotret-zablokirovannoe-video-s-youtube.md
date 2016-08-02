@@ -24,7 +24,7 @@ tags:
   - сервис
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/unlock_videos_from_youtube.jpg"><img src="http://artslab.info/wp-content/uploads/unlock_videos_from_youtube.jpg" alt="смотрим заблокированные  видео с youtube" title="unlock_videos_from_youtube" width="523" class="alignnone size-full wp-image-977" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/unlock_videos_from_youtube.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/unlock_videos_from_youtube.jpg" alt="смотрим заблокированные  видео с youtube" title="unlock_videos_from_youtube" width="523" class="alignnone size-full wp-image-977" /></a>
 </center>
 
 Просматривая видео-ролики на YouTube, каждый из нас наверняка сталкивался с табличкой: &#8220;**Это видео не доступно для просмотра в вашей стране**&#8220;.
@@ -36,7 +36,7 @@ tags:
 Предлагаю воспользоваться сервисом <a href="http://youtubeunblocker.co.uk/" target="_blank">YoutubeUnblocker</a>.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/video_nedostupno.jpg"><img src="http://artslab.info/wp-content/uploads/video_nedostupno-300x55.jpg" alt="" title="video_nedostupno" width="300" height="55" class="alignnone size-medium wp-image-978" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/video_nedostupno-300x55.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/video_nedostupno.jpg 729w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/video_nedostupno.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/video_nedostupno-300x55.jpg" alt="" title="video_nedostupno" width="300" height="55" class="alignnone size-medium wp-image-978" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/video_nedostupno-300x55.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/video_nedostupno.jpg 729w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Работает очень просто. Берем ссылку на заблокированное видео и вставляем его в единственное текстовое поле на сайте, которое находится внизу. Жмем &#8220;Go&#8221;. Откроется окно с видео, которое теперь доступно к просмотру.

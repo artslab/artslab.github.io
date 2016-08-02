@@ -22,7 +22,7 @@ tags:
   - Для Wordpress
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/blogroll_with_favicons1.jpg"><img src="http://artslab.info/wp-content/uploads/blogroll_with_favicons1.jpg" alt="блогролл с фавиконкам" title="blogroll_with_favicons" width="295" height="262" class="alignnone size-full wp-image-1337" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blogroll_with_favicons1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blogroll_with_favicons1.jpg" alt="блогролл с фавиконкам" title="blogroll_with_favicons" width="295" height="262" class="alignnone size-full wp-image-1337" /></a>
 </center>
 
 Немного приукрасил свой блогролл, добавил к сайтам их фавиконки. Вроде мелочь, зато приятно.
@@ -39,9 +39,9 @@ PS: Небольшой совет для тех кто использует ст
 <!-- соответственно место artslab.info, указываем нужный сайт -->
 
 
-  
+
 [/sourcecode]
-  
+
 _Выглядит это так:_
 
 <li style="background: url('http://favicon.yandex.net/favicon/artslab.info') no-repeat;list-style: none;padding-left: 23px;">

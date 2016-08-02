@@ -27,5 +27,5 @@ tags:
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/new_youtube_startpage.png"><img src="http://artslab.info/wp-content/uploads/new_youtube_startpage-204x300.png" alt="" title="new_youtube_startpage" width="204" height="300" class="alignnone size-medium wp-image-1212" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_youtube_startpage.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_youtube_startpage-204x300.png" alt="" title="new_youtube_startpage" width="204" height="300" class="alignnone size-medium wp-image-1212" /></a>
 </center>

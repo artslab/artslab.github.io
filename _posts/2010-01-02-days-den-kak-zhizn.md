@@ -27,7 +27,7 @@ tags:
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/days.jpg"><img class="aligncenter" title="days" src="http://artslab.info/wp-content/uploads/days-221x300.jpg" alt="" width="221" height="300" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/days.jpg"><img class="aligncenter" title="days" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/days-221x300.jpg" alt="" width="221" height="300" /></a>
 </center>
 
 

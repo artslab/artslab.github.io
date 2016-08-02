@@ -24,7 +24,7 @@ tags:
   - Для Wordpress
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/wordpress-dw-extension.png" title="dreamweaver extension" alt="dreamweaver extension" border="1" height="52" width="415" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress-dw-extension.png" title="dreamweaver extension" alt="dreamweaver extension" border="1" height="52" width="415" />
 </p>
 
 <p style="text-align: center">

@@ -24,7 +24,7 @@ tags:
   - фотографий
 ---
 <center>
-  <img src="http://artslab.info/wp-content/uploads/magmypic.jpg" alt="Как попасть на обложку гламурного журнала? :P" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/magmypic.jpg" alt="Как попасть на обложку гламурного журнала? :P" />
 </center>
 
 <p align="center">

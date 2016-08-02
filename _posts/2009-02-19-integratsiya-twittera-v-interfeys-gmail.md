@@ -21,7 +21,7 @@ tags:
   - twitter
 ---
 <p style="text-align: center;">
-  <a title="блог для веб мастера" href="http://artslab.info"><img class="aligncenter" src="http://artslab.info/wp-content/uploads/twitter_in_gmail_interface.png" alt="Twitter in Gmail" /></a>
+  <a title="блог для веб мастера" href="http://artslab.info"><img class="aligncenter" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twitter_in_gmail_interface.png" alt="Twitter in Gmail" /></a>
 </p>
 
 Всем поклонникам этих двух сервисов посвящается, результат на скриншоте =)

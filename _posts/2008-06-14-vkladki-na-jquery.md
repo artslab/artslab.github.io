@@ -24,7 +24,7 @@ tags:
   - js
 ---
 <p align="center">
-  <img class="alignnone size-full wp-image-345 aligncenter" title="tabs" src="http://artslab.info/wp-content/uploads/tabs.jpg" alt="Вкладки на jQuery" width="421" height="326" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tabs.jpg 421w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tabs-300x232.jpg 300w" sizes="(max-width: 421px) 100vw, 421px" />
+  <img class="alignnone size-full wp-image-345 aligncenter" title="tabs" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tabs.jpg" alt="Вкладки на jQuery" width="421" height="326" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tabs.jpg 421w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tabs-300x232.jpg 300w" sizes="(max-width: 421px) 100vw, 421px" />
 </p>
 
 В последнее время во многих блогах стали использовать вкладки для навигации. Во первых для экономии места, а во вторых просто для красивого вида. Далее описан простой процес создания таких вкладок при помощи <a href="http://jquery.com/" target="_blank">jQuery</a>.<!--more-->

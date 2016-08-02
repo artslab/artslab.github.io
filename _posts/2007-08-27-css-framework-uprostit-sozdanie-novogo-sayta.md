@@ -22,7 +22,7 @@ tags:
   - website
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/css_framework.jpg"><img src="http://artslab.info/wp-content/uploads/css_framework.jpg" alt="css фреймворк" title="css_framework" width="234" height="68" class="alignnone size-full wp-image-1357" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_framework.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_framework.jpg" alt="css фреймворк" title="css_framework" width="234" height="68" class="alignnone size-full wp-image-1357" /></a>
 </center>
 
 &#8220;CSS-Framework — это набор css-стилей, упрощающий создание нового сайта. Вам не придется каждый раз придумывать и описывать то, что уже давно придумано и описано.&#8221;

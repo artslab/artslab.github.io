@@ -23,7 +23,7 @@ tags:
 ---
 <p style="text-align: left;">
   <center>
-    <img class="aligncenter" title="vtweet" src="http://artslab.info/wp-content/uploads/vtweet.jpg" alt="из твиттера вконтакт" width="430" height="121" />
+    <img class="aligncenter" title="vtweet" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vtweet.jpg" alt="из твиттера вконтакт" width="430" height="121" />
   </center>
 </p>
 

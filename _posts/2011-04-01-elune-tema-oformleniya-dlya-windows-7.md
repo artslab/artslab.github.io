@@ -27,7 +27,7 @@ tags:
 В качестве достойной замены, мне пригляделся стиль оформления [Elune](http://minhtrimatrix.deviantart.com/art/Elune-199350232). На скриншоте не разглядишь все прелести стиля, но все же:
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/elune_by_minhtrimatrix-d3aormg.jpg"><img src="http://artslab.info/wp-content/uploads/elune_by_minhtrimatrix-d3aormg-214x300.jpg" alt="тема оформления Elune для Windows 7" title="elune_by_minhtrimatrix-d3aormg" width="214" height="300" class="alignnone size-medium wp-image-1934" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/elune_by_minhtrimatrix-d3aormg.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/elune_by_minhtrimatrix-d3aormg-214x300.jpg" alt="тема оформления Elune для Windows 7" title="elune_by_minhtrimatrix-d3aormg" width="214" height="300" class="alignnone size-medium wp-image-1934" /></a>
 </center>
 
 Надеюсь никто не забыл как устанавливаются темы, если что есть [подробный мануал](http://artslab.info/2011/01/blend-2-0-krasivaya-tema-dlya-windows-7/).

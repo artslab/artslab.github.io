@@ -30,4 +30,4 @@ tags:
 
 Ну и напоследок пример того, как это выглядит:
 
-<img style="border: 0pt none;" src="http://artslab.info/wp-content/uploads/highlight_code_in_wordpress.jpg" alt="плагин для подсветки кода wordpress" width="410" height="148" />
+<img style="border: 0pt none;" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/highlight_code_in_wordpress.jpg" alt="плагин для подсветки кода wordpress" width="410" height="148" />

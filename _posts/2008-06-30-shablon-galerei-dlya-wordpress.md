@@ -25,7 +25,7 @@ tags:
   - шаблон
 ---
 <p style="text-align: center;">
-  <a rel="lightbox" href="http://artslab.info/wp-content/uploads/cssgalleryit7.gif"><img class="alignnone size-medium wp-image-354 aligncenter" title="cssgalleryit7" src="http://artslab.info/wp-content/uploads/cssgalleryit7-300x243.gif" alt="Шаблон галерей wordpress" width="300" height="243" /></a>
+  <a rel="lightbox" href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cssgalleryit7.gif"><img class="alignnone size-medium wp-image-354 aligncenter" title="cssgalleryit7" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cssgalleryit7-300x243.gif" alt="Шаблон галерей wordpress" width="300" height="243" /></a>
 </p>
 
 Наверняка, многие уже не раз встречали галерей оформленные на движке Вордпресс. В последнее время такие сайты появляются все чаще, особенно на английском: CSS sites showcase, галерей с логотипами, различные галерей с шаблонами, под все возможные платформы и т.д. Кроме того, использовать галерейную тему это отличный вариант, например, для создания портфолио фотографа.

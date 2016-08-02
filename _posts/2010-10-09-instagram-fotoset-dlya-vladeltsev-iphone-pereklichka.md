@@ -25,7 +25,7 @@ tags:
   - фото
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/Foto.png"><img class="size-medium wp-image-621 alignnone" title="Foto" src="http://artslab.info/wp-content/uploads/Foto-200x300.png" alt="instagram - социальная фотосеть для владельцев iphone" width="200" height="300" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Foto.png"><img class="size-medium wp-image-621 alignnone" title="Foto" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Foto-200x300.png" alt="instagram - социальная фотосеть для владельцев iphone" width="200" height="300" /></a>
 </center>
 
 <a href="http://instagr.am/" target="_blank">Instagram</a> &#8211; это новая социальная **_фотосеть_** для владельцев **_iPhone_**. Мне понравилась как сама идея, так и реализация. Приятное и простое приложение для телефона, красивые фильтры с эффектами для фотографий. Как и на твиттере, в instagram действует принцип &#8220;Following&#8221;. Интерфейс довольно таки минималистичен, существует возможность комментирования и есть кнопочка &#8220;like&#8221;. Есть лента новостей где отображаются новые фотографий и уведомления о комментариях к вашим фотографиям. Перед публикацией снимка можно указать место съемки, название кадра, а так же расшарить фото через Twitter, Facebook, Flickr, Tumblr и Foursquare.

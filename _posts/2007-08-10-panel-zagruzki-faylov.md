@@ -23,7 +23,7 @@ tags:
   - upload
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/sshot1eo2.jpg"><img src="http://artslab.info/wp-content/uploads/sshot1eo2.jpg" alt="панель загрузки для оперы" title="sshot1eo2" width="387" height="344" class="alignnone size-full wp-image-885" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sshot1eo2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sshot1eo2.jpg" alt="панель загрузки для оперы" title="sshot1eo2" width="387" height="344" class="alignnone size-full wp-image-885" /></a>
 </center>
 
 

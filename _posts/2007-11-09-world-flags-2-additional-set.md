@@ -22,7 +22,7 @@ tags:
   - флаги
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/world_flags.jpg"><img src="http://artslab.info/wp-content/uploads/world_flags.jpg" alt="Скачать иконки флагов стран" title="world_flags" width="400" height="247" class="alignnone size-full wp-image-860" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/world_flags.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/world_flags.jpg" alt="Скачать иконки флагов стран" title="world_flags" width="400" height="247" class="alignnone size-full wp-image-860" /></a>
 </center>
 
 <p align="center">

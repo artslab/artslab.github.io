@@ -20,7 +20,7 @@ tags:
   - news
 ---
 <center>
-  <img src="http://artslab.info/wp-content/uploads/artslab_icon1.png" alt="artslab иконка" title="artslab_icon" width="135" height="133" class="alignnone size-full wp-image-2406" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab_icon1.png" alt="artslab иконка" title="artslab_icon" width="135" height="133" class="alignnone size-full wp-image-2406" />
 </center>
 
 

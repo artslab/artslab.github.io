@@ -23,7 +23,7 @@ tags:
   - новый год
 ---
 <p style="text-align: center">
-  <a href="http://www.icondrawer.com/free.php"><img src="http://artslab.info/wp-content/uploads/free_christmas_icons-1.jpg" title="Новогоднии икноки для украшения сайта" alt="Новогоднии икноки для украшения сайта" border="0" height="267" width="382" /></a>
+  <a href="http://www.icondrawer.com/free.php"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_christmas_icons-1.jpg" title="Новогоднии икноки для украшения сайта" alt="Новогоднии икноки для украшения сайта" border="0" height="267" width="382" /></a>
 </p>
 
 <p style="text-align: center">

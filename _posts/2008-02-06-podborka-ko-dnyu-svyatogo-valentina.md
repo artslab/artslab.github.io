@@ -31,7 +31,7 @@ tags:
 **Вектор**
 
 <p style="text-align: center">
-  <a href="http://createsk8.com/2008/free-vector-hearts-for-valentines-day/" target="_blank"><img src="http://artslab.info/wp-content/uploads/createsk8_valentine_eps.jpg" alt="Вектор ко Дню Святого Валентина" border="0" height="345" width="275" /></a>
+  <a href="http://createsk8.com/2008/free-vector-hearts-for-valentines-day/" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/createsk8_valentine_eps.jpg" alt="Вектор ко Дню Святого Валентина" border="0" height="345" width="275" /></a>
 </p>
 
 <p style="text-align: center">
@@ -39,13 +39,13 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a href="http://aramisdream.deviantart.com/art/Valentine-74951843" target="_blank"><img src="http://artslab.info/wp-content/uploads/valentine_by_aramisdream.jpg" alt="Векторная графика ко Дню Святого Валентина" border="0" /></a>
+  <a href="http://aramisdream.deviantart.com/art/Valentine-74951843" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/valentine_by_aramisdream.jpg" alt="Векторная графика ко Дню Святого Валентина" border="0" /></a>
 </p>
 
 **Иконки**
 
 <p style="text-align: center">
-  <a href="http://iconfactory.com/freeware/preview/va06" target="_blank"><img src="http://artslab.info/wp-content/uploads/vals.png" alt="Valentine’s Day free icons download" border="0" /></a>
+  <a href="http://iconfactory.com/freeware/preview/va06" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vals.png" alt="Valentine’s Day free icons download" border="0" /></a>
 </p>
 
 <p style="text-align: center">
@@ -53,7 +53,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a href="http://iconfactory.com/freeware/preview/valh" title="download valentine's icons" target="_blank"><img src="http://artslab.info/wp-content/uploads/valentine_day_icons.png" title="valentine's day free icons" alt="valentine's day free icons" border="0" height="302" width="402" /></a>
+  <a href="http://iconfactory.com/freeware/preview/valh" title="download valentine's icons" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/valentine_day_icons.png" title="valentine's day free icons" alt="valentine's day free icons" border="0" height="302" width="402" /></a>
 </p>
 
 **Кисти для Photoshop**
@@ -83,7 +83,7 @@ tags:
 </p>
 
 <p align="center">
-  <a href="http://evilgeniuspirate.deviantart.com/art/Amore-28900213" title="скачать"><img src="http://artslab.info/wp-content/uploads/Amore_by_evilgeniuspirate-300x240.jpg" alt="День святого Валентина заставки" title="Amore_by_evilgeniuspirate" width="300" height="240" class="alignnone size-medium wp-image-1576" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Amore_by_evilgeniuspirate-300x240.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Amore_by_evilgeniuspirate.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://evilgeniuspirate.deviantart.com/art/Amore-28900213" title="скачать"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Amore_by_evilgeniuspirate-300x240.jpg" alt="День святого Валентина заставки" title="Amore_by_evilgeniuspirate" width="300" height="240" class="alignnone size-medium wp-image-1576" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Amore_by_evilgeniuspirate-300x240.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Amore_by_evilgeniuspirate.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p align="center">
@@ -91,11 +91,11 @@ tags:
 </p>
 
 <p align="center">
-  <a href="http://pincel3d.deviantart.com/art/Valentine-s-Day-48515137" target="_blank"><img src="http://artslab.info/wp-content/uploads/Valentine__s_Day_by_pincel3d-300x225.jpg" alt="Обои для рабочего стола ко дню Святого Валентина" title="Valentine__s_Day_by_pincel3d" width="300" height="225" class="alignnone size-medium wp-image-1575" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d-1024x768.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d.jpg 1032w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://pincel3d.deviantart.com/art/Valentine-s-Day-48515137" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d-300x225.jpg" alt="Обои для рабочего стола ко дню Святого Валентина" title="Valentine__s_Day_by_pincel3d" width="300" height="225" class="alignnone size-medium wp-image-1575" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d-1024x768.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Valentine__s_Day_by_pincel3d.jpg 1032w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p align="center">
-  <a href="http://-kol.deviantart.com/art/That-Day-At-The-Beach-48589027" target="_blank"><img src="http://artslab.info/wp-content/uploads/That_Day_At_The_Beach_by__kol-300x112.jpg" alt="Valentine&#039;s day wallpapers" title="That_Day_At_The_Beach_by__kol" width="300" height="112" class="alignnone size-medium wp-image-1574" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/That_Day_At_The_Beach_by__kol-300x112.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/That_Day_At_The_Beach_by__kol.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://-kol.deviantart.com/art/That-Day-At-The-Beach-48589027" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/That_Day_At_The_Beach_by__kol-300x112.jpg" alt="Valentine&#039;s day wallpapers" title="That_Day_At_The_Beach_by__kol" width="300" height="112" class="alignnone size-medium wp-image-1574" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/That_Day_At_The_Beach_by__kol-300x112.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/That_Day_At_The_Beach_by__kol.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p align="center">
@@ -105,5 +105,5 @@ tags:
 **Шрифты**
 
 <p style="text-align: center">
-  <a href="http://www.dafont.com/search.php?psize=m&q=valentine" target="_blank"><img src="http://artslab.info/wp-content/uploads/valentine_fonts.jpg" alt="Шрифты к Дню Святого Валентина" border="0" /></a>
+  <a href="http://www.dafont.com/search.php?psize=m&q=valentine" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/valentine_fonts.jpg" alt="Шрифты к Дню Святого Валентина" border="0" /></a>
 </p>

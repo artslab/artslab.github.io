@@ -23,7 +23,7 @@ tags:
   - клипарт
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/vector_clipart_design.jpg"><img src="http://artslab.info/wp-content/uploads/vector_clipart_design-300x34.jpg" alt="скачать бесплатный клипарт, веторы" title="vector_clipart_design" width="300" height="34" class="alignnone size-medium wp-image-1646" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vector_clipart_design.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vector_clipart_design-300x34.jpg" alt="скачать бесплатный клипарт, веторы" title="vector_clipart_design" width="300" height="34" class="alignnone size-medium wp-image-1646" /></a>
 </center>
 
 &#8220;This Free Vector Clipart, Ornaments and Icons section is finally open! Currently we offer over 500 free vector images! You are allowed to use them, but not allowed to distribute or sell them in any way.&#8221;

@@ -28,7 +28,7 @@ tags:
   - ikonki
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/fresh_pr2.jpg" title="fresh icons" alt="fresh icons" border="0" height="178" width="413" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fresh_pr2.jpg" title="fresh icons" alt="fresh icons" border="0" height="178" width="413" />
 </p>
 
 <p align="center">

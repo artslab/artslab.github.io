@@ -21,7 +21,7 @@ tags:
   - ikonki
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/vkontakte_buttons.png"><img src="http://artslab.info/wp-content/uploads/vkontakte_buttons.png" alt="кнопки vkontakte для сайта" title="vkontakte_buttons" width="379" height="356" class="alignnone size-full wp-image-857" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkontakte_buttons.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkontakte_buttons.png" alt="кнопки vkontakte для сайта" title="vkontakte_buttons" width="379" height="356" class="alignnone size-full wp-image-857" /></a>
 </center>
 
 Разгребая горы картинок у себя на компьютере, нарвался на кнопку _&#8220;вконтакте&#8221;_, которую как-то делал для сайта. Использовал ее с ссылкой на группу на этой соц. сети. Сделал из одной, небольшой набор, думаю кому-нибудь пригодится.

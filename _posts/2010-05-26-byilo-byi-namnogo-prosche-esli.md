@@ -24,7 +24,7 @@ tags:
 &#8230;если Apple и Blackberry &#8211; были бы просто фруктами. Немного мобильного креатива. =)
 
 <center>
-  <img src="http://artslab.info/wp-content/uploads/appleblackberry.jpg" alt="apple и blackberry - есть фрукты" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appleblackberry.jpg" alt="apple и blackberry - есть фрукты" />
 </center>
 
 Автором данной работы является участник <a href="http://rexgios.deviantart.com/#/d2kd6yj" target="_blank">deviantart&#8217;a</a> &#8211; <a href="http://rexgios.deviantart.com/" target="_blank">Rexgios</a>

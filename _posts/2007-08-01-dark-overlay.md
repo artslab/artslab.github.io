@@ -21,7 +21,7 @@ tags:
   - photoshop
 ---
 <center>
-  <img src="http://artslab.info/wp-content/uploads/overlay_d_prev.jpg" alt="скачать grunge кисти для photoshop" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/overlay_d_prev.jpg" alt="скачать grunge кисти для photoshop" />
 </center>
 
 Dark Overlay PS7 &#8211; это большой набор гранжевых кистей для фотошопа

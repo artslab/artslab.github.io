@@ -25,7 +25,7 @@ tags:
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/Guist-16-10.jpg"><img src="http://artslab.info/wp-content/uploads/guist_by_fatezoom-d3ajrjc-300x225.jpg" alt="обои для рабочего стола" title="guist_by_fatezoom-d3ajrjc" width="300" height="225" class="alignnone size-medium wp-image-1776" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guist_by_fatezoom-d3ajrjc-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guist_by_fatezoom-d3ajrjc.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Guist-16-10.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guist_by_fatezoom-d3ajrjc-300x225.jpg" alt="обои для рабочего стола" title="guist_by_fatezoom-d3ajrjc" width="300" height="225" class="alignnone size-medium wp-image-1776" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guist_by_fatezoom-d3ajrjc-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guist_by_fatezoom-d3ajrjc.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

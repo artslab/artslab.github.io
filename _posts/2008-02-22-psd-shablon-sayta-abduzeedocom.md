@@ -24,7 +24,7 @@ tags:
   - шаблон
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/abuzeedo_psd_template.jpg" alt="PSD шаблон сайта abuzeedo.com" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/abuzeedo_psd_template.jpg" alt="PSD шаблон сайта abuzeedo.com" />
 </p>
 
 Шаблон сайта abduzeedo.com в формате psd, файл можно [скачать с сайта автора](http://abduzeedo.com/abduzeedo-psd-theme).

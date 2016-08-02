@@ -48,31 +48,31 @@ _Картинку для своего примера, я нашел на сай�
 1. Переходим в режим быстрой маски, нажав клавишу &#8220;Q&#8221;
 
 <center>
-  <img src="http://artslab.info/wp-content/uploads/tilt_shift_quick_mask.jpg" alt="эффект tilt-shift в фотошоп" title="tilt_shift_quick_mask" width="308" height="123" class="alignnone size-full wp-image-2551" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_quick_mask.jpg 308w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_quick_mask-300x119.jpg 300w" sizes="(max-width: 308px) 100vw, 308px" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_quick_mask.jpg" alt="эффект tilt-shift в фотошоп" title="tilt_shift_quick_mask" width="308" height="123" class="alignnone size-full wp-image-2551" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_quick_mask.jpg 308w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_quick_mask-300x119.jpg 300w" sizes="(max-width: 308px) 100vw, 308px" />
 </center>
 
 2. Берем инструмент градиента (Gradient Tool &#8211; G). Выставляем бело-черный градиент и выбираем стиль &#8220;зеркального градиента&#8221; (Reflected Gradient)
 
 <center>
-  <img src="http://artslab.info/wp-content/uploads/2_tilt_shift_gradient_tool.jpg" alt="gradient tool" title="2_tilt_shift_gradient_tool" width="277" height="32" class="alignnone size-full wp-image-2552" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/2_tilt_shift_gradient_tool.jpg" alt="gradient tool" title="2_tilt_shift_gradient_tool" width="277" height="32" class="alignnone size-full wp-image-2552" />
 </center>
 
 3. Начинаем заливать фото градиентом с того места, которое останется **не**размытым
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/4_tilt_shift_mask.jpg"><img src="http://artslab.info/wp-content/uploads/4_tilt_shift_mask-300x217.jpg" alt="Залитая область в режиме быстрой маски" title="4_tilt_shift_mask" width="300" height="217" class="alignnone size-medium wp-image-2557" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/4_tilt_shift_mask-300x217.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/4_tilt_shift_mask.jpg 834w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/4_tilt_shift_mask.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/4_tilt_shift_mask-300x217.jpg" alt="Залитая область в режиме быстрой маски" title="4_tilt_shift_mask" width="300" height="217" class="alignnone size-medium wp-image-2557" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/4_tilt_shift_mask-300x217.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/4_tilt_shift_mask.jpg 834w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 4. Выходим из режима быстрой маски, опять же нажав &#8220;Q&#8221;. После этого в документе должно появится выделение, так и должно быть.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/5tilt_shift_quick_selected_area.jpg"><img src="http://artslab.info/wp-content/uploads/5tilt_shift_quick_selected_area-300x213.jpg" alt="Область для размытия" title="5tilt_shift_quick_selected_area" width="300" height="213" class="alignnone size-medium wp-image-2556" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/5tilt_shift_quick_selected_area-300x213.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/5tilt_shift_quick_selected_area.jpg 836w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/5tilt_shift_quick_selected_area.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/5tilt_shift_quick_selected_area-300x213.jpg" alt="Область для размытия" title="5tilt_shift_quick_selected_area" width="300" height="213" class="alignnone size-medium wp-image-2556" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/5tilt_shift_quick_selected_area-300x213.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/5tilt_shift_quick_selected_area.jpg 836w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 5. Теперь выбираем в меню Фильтр -> Размытие -> Размытие при малой глубине резкости&#8230; (Filter->Blur->Lens Blur). Здесь можно поиграться с настройками и выбрать наиболее подходящий вариант.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/6_tilt_shift_quick_filter.jpg"><img src="http://artslab.info/wp-content/uploads/6_tilt_shift_quick_filter-300x232.jpg" alt="Фильтры Photoshop" title="6_tilt_shift_quick_filter" width="300" height="232" class="alignnone size-medium wp-image-2554" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/6_tilt_shift_quick_filter-300x232.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/6_tilt_shift_quick_filter.jpg 574w" sizes="(max-width: 300px) 100vw, 300px" /></a><br /> <br /> <a href="http://artslab.info/wp-content/uploads/7_tilt_shift_quick_filter_conf.jpg"><img src="http://artslab.info/wp-content/uploads/7_tilt_shift_quick_filter_conf-300x176.jpg" alt="Окно фильтра Lens Blur в Adobe Photoshop" title="7_tilt_shift_quick_filter_conf" width="300" height="176" class="alignnone size-medium wp-image-2555" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf-300x176.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf-1024x602.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf.jpg 1270w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/6_tilt_shift_quick_filter.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/6_tilt_shift_quick_filter-300x232.jpg" alt="Фильтры Photoshop" title="6_tilt_shift_quick_filter" width="300" height="232" class="alignnone size-medium wp-image-2554" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/6_tilt_shift_quick_filter-300x232.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/6_tilt_shift_quick_filter.jpg 574w" sizes="(max-width: 300px) 100vw, 300px" /></a><br /> <br /> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf-300x176.jpg" alt="Окно фильтра Lens Blur в Adobe Photoshop" title="7_tilt_shift_quick_filter_conf" width="300" height="176" class="alignnone size-medium wp-image-2555" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf-300x176.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf-1024x602.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/7_tilt_shift_quick_filter_conf.jpg 1270w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 6. Дополнительно, можно поиграться с цветами, увеличить контрастность, добавить насыщенности и т.д. Это уже на Ваш вкус.
@@ -80,13 +80,13 @@ _Картинку для своего примера, я нашел на сай�
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/8_tilt_shift_quick_contrast_color.jpg"><img src="http://artslab.info/wp-content/uploads/8_tilt_shift_quick_contrast_color-212x300.jpg" alt="Дополнительные настройки" title="8_tilt_shift_quick_contrast_color" width="212" height="300" class="alignnone size-medium wp-image-2568" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/8_tilt_shift_quick_contrast_color-212x300.jpg 212w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/8_tilt_shift_quick_contrast_color.jpg 270w" sizes="(max-width: 212px) 100vw, 212px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/8_tilt_shift_quick_contrast_color.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/8_tilt_shift_quick_contrast_color-212x300.jpg" alt="Дополнительные настройки" title="8_tilt_shift_quick_contrast_color" width="212" height="300" class="alignnone size-medium wp-image-2568" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/8_tilt_shift_quick_contrast_color-212x300.jpg 212w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/8_tilt_shift_quick_contrast_color.jpg 270w" sizes="(max-width: 212px) 100vw, 212px" /></a>
 </center>
 
 Вот мои конечный результат:
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/tilt_shift.jpg"><img src="http://artslab.info/wp-content/uploads/tilt_shift-300x199.jpg" alt="Пример фото с эффектом Tilt-Shift" title="tilt_shift" width="300" height="199" class="alignnone size-medium wp-image-2553" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift-300x199.jpg" alt="Пример фото с эффектом Tilt-Shift" title="tilt_shift" width="300" height="199" class="alignnone size-medium wp-image-2553" /></a>
 </center>
 
 
@@ -101,7 +101,7 @@ _Картинку для своего примера, я нашел на сай�
 И еще пару примеров:
 
 <center>
-  <br /> <a href="http://artslab.info/wp-content/uploads/2.jpg"><img src="http://artslab.info/wp-content/uploads/2-300x221.jpg" alt="Пример эффекта Tilt-Shift" title="Freital, Germany" width="300" height="221" class="alignnone size-medium wp-image-2570" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/2-300x221.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/2.jpg 614w" sizes="(max-width: 300px) 100vw, 300px" /></a><br /> <br /> <a href="http://artslab.info/wp-content/uploads/1.jpg"><img src="http://artslab.info/wp-content/uploads/1-300x199.jpg" alt="Эффект Tilt-Shift" title="Sao Paulo Skyline" width="300" height="199" class="alignnone size-medium wp-image-2569" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/1-300x199.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+  <br /> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/2-300x221.jpg" alt="Пример эффекта Tilt-Shift" title="Freital, Germany" width="300" height="221" class="alignnone size-medium wp-image-2570" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/2-300x221.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/2.jpg 614w" sizes="(max-width: 300px) 100vw, 300px" /></a><br /> <br /> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/1-300x199.jpg" alt="Эффект Tilt-Shift" title="Sao Paulo Skyline" width="300" height="199" class="alignnone size-medium wp-image-2569" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/1-300x199.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 </center>
 
 UPD: О том как добиться такого эффекта в GIMP, можно на узнать в [статье на сайте Progimp](http://www.progimp.ru/articles/tilt_shift_v_gimp/) (спасибо [vanoc](http://vanoc.ru/) за ссылку 🙂 )

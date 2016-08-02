@@ -25,7 +25,7 @@ tags:
   - футбол
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/chrome_experiments.png"><img src="http://artslab.info/wp-content/uploads/chrome_experiments-300x249.png" alt="примеры html5 и js" title="chrome_experiments" width="300" height="249" class="aligncenter size-medium wp-image-580" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chrome_experiments.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chrome_experiments-300x249.png" alt="примеры html5 и js" title="chrome_experiments" width="300" height="249" class="aligncenter size-medium wp-image-580" /></a>
 </center>
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/browser_pong.png"><img src="http://artslab.info/wp-content/uploads/browser_pong-300x225.png" alt="играть пинг понг в браузере" title="browser_pong" width="300" height="225" class="aligncenter size-medium wp-image-581" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browser_pong-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browser_pong.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browser_pong.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browser_pong-300x225.png" alt="играть пинг понг в браузере" title="browser_pong" width="300" height="225" class="aligncenter size-medium wp-image-581" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browser_pong-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/browser_pong.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 _Напоследок несколько ссылок на разные темы:_

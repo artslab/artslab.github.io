@@ -21,11 +21,11 @@ tags:
   - video
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/wp-content/uploads/videobox_like_lightbox.jpg"><img src="http://artslab.info/wp-content/uploads/videobox_like_lightbox.jpg" alt="" title="videobox_like_lightbox" width="400" height="291" class="alignnone size-full wp-image-777" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/videobox_like_lightbox.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/videobox_like_lightbox.jpg" alt="" title="videobox_like_lightbox" width="400" height="291" class="alignnone size-full wp-image-777" /></a>
 </p>
 
 Наверняка большинство читателей уже знакомы со скриптом под названием [Lightbox](http://www.huddletogether.com/projects/lightbox2/ "все о lightbox") или [Litebox](http://artslab.info/?p=109 "скрипт litebox"). Так вот [<p style="text-align: center">
-  <a href="http://artslab.info/wp-content/uploads/videobox_like_lightbox.jpg"><img src="http://artslab.info/wp-content/uploads/videobox_like_lightbox.jpg" alt="" title="videobox_like_lightbox" width="400" height="291" class="alignnone size-full wp-image-777" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/videobox_like_lightbox.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/videobox_like_lightbox.jpg" alt="" title="videobox_like_lightbox" width="400" height="291" class="alignnone size-full wp-image-777" /></a>
 </p>
 
 Наверняка большинство читателей уже знакомы со скриптом под названием [Lightbox](http://www.huddletogether.com/projects/lightbox2/ "все о lightbox") или [Litebox](http://artslab.info/?p=109 "скрипт litebox"). Так вот](http://videobox-lb.sourceforge.net/ "videobox скрипт") работает таким же образом только теперь в новом popup окне будут открываться не изображения, а целые видео ролики.

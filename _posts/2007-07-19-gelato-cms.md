@@ -23,7 +23,7 @@ tags:
   - блог
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/gelato_cms.png" title="gelato cms" alt="gelato cms" border="0" height="83" width="163" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gelato_cms.png" title="gelato cms" alt="gelato cms" border="0" height="83" width="163" />
 </p>
 
 **Gelato CMS** &#8211; это бесплатный и простой в управлений движок для микроблогинга (вроде <a href="http://internetno.net/2007/03/12/tumblr/" title="tumblr.com" target="_blank">tumblr</a> или &#8220;нашего&#8221; [M-m-m&#8230;tasty?](http://mmm-tasty.ru/)).

@@ -27,7 +27,7 @@ tags:
   - новости
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/code_logo.gif"><img src="http://artslab.info/wp-content/uploads/code_logo.gif" alt="" title="code_logo" width="167" height="40" class="alignnone size-full wp-image-897" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/code_logo.gif"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/code_logo.gif" alt="" title="code_logo" width="167" height="40" class="alignnone size-full wp-image-897" /></a>
 </center>
 
 

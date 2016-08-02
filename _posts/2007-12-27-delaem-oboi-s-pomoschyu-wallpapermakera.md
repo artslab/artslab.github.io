@@ -17,7 +17,7 @@ tags:
 ---
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/wallpapermkrud4.jpg"><img src="http://artslab.info/wp-content/uploads/wallpapermkrud4.jpg" alt="" title="wallpapermkrud4" width="400" height="220" class="alignnone size-full wp-image-906" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wallpapermkrud4.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wallpapermkrud4.jpg" alt="" title="wallpapermkrud4" width="400" height="220" class="alignnone size-full wp-image-906" /></a>
 </center>
 
 Наткнулся недавно на один интересный сервис под названием [WallpaperMaker](http://www.wallpapermaker.net/). Название говорит само за себя, на сайт можно самому создавать заставки для рабочего стола. Конечно это не фотошоп, ничего серьезного там не сделаешь, но побаловаться можно. Собирать обои можно только из предоставленных там частей, свой картинки загружать пока нельзя.

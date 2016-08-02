@@ -22,7 +22,7 @@ tags:
   - скрипт
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/dew_player_mp3_flash.jpg"><img src="http://artslab.info/wp-content/uploads/dew_player_mp3_flash.jpg" alt="" title="dew_player_mp3_flash" width="494" height="413" class="alignnone size-full wp-image-850" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dew_player_mp3_flash.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dew_player_mp3_flash.jpg" alt="" title="dew_player_mp3_flash" width="494" height="413" class="alignnone size-full wp-image-850" /></a>
 </center>
 
 <p style="text-align: left;">

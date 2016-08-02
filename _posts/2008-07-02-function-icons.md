@@ -21,7 +21,7 @@ tags:
   - ikonki
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" style="border: 0pt none;" src="http://artslab.info/wp-content/uploads/functioniconsnz8.jpg" alt="function icons" width="490" height="200" />
+  <img class="aligncenter" style="border: 0pt none;" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/functioniconsnz8.jpg" alt="function icons" width="490" height="200" />
 </p>
 
 <p style="text-align: center;">

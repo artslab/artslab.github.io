@@ -21,7 +21,7 @@ tags:
   - почта
 ---
 <center>
-  <img src="http://artslab.info/wp-content/uploads/gmail_exe_filter.jpg" alt="Обход фильтра Gmail на exe-файлы" title="gmail_exe_filter" width="459" height="151" class="alignnone size-full wp-image-2436" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gmail_exe_filter.jpg" alt="Обход фильтра Gmail на exe-файлы" title="gmail_exe_filter" width="459" height="151" class="alignnone size-full wp-image-2436" />
 </center>
 
 Небольшой совет для пользователей почтовой службы Gmail. Бывает нужно оправить какую-то программку по почте, но фильтры Gmail блокируют exe-файлы, по понятным причинам. Но всё можно обойти, в том числе и фильтры гуглмэйл.

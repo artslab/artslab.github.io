@@ -22,7 +22,7 @@ tags:
   - софт
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/pdfzilla.jpg"><img src="http://artslab.info/wp-content/uploads/pdfzilla.jpg" alt="конвертер pdf файлов" title="pdfzilla" width="210" height="261" class="alignnone size-full wp-image-1494" /></a> <a href="http://artslab.info/wp-content/uploads/shot1.jpg"><img src="http://artslab.info/wp-content/uploads/shot1.jpg" alt="конвертировать pdf в jpg, bmp, txt, word" title="shot1" width="300" height="202" class="alignnone size-full wp-image-1495" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pdfzilla.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pdfzilla.jpg" alt="конвертер pdf файлов" title="pdfzilla" width="210" height="261" class="alignnone size-full wp-image-1494" /></a> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shot1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shot1.jpg" alt="конвертировать pdf в jpg, bmp, txt, word" title="shot1" width="300" height="202" class="alignnone size-full wp-image-1495" /></a>
 </center>
 
 [PDFZilla](http://www.pdfzilla.com/giveaway.html) представляет из себя программу для конвертирования PDF-файлов во все возможные форматы &#8211; PDF to Word, RTF, TXT, BMP, JPG, GIF, TIF и SWF. Фишка в том, что программа платная и по нормальному стоит 29$, но до 5 февраля разработчики раздают ее бесплатно вместе с серийным номером 8061822TWDV6YUK.

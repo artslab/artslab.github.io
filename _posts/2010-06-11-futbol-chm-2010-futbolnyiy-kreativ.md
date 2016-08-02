@@ -21,7 +21,7 @@ tags:
   - футбол
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/englandjpg.jpg"><img class="aligncenter size-medium wp-image-538" title="englandjpg" src="http://artslab.info/wp-content/uploads/englandjpg-225x300.jpg" alt="" width="225" height="300" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg-225x300.jpg 225w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg.jpg 542w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg.jpg"><img class="aligncenter size-medium wp-image-538" title="englandjpg" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg-225x300.jpg" alt="" width="225" height="300" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg-225x300.jpg 225w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/englandjpg.jpg 542w" sizes="(max-width: 225px) 100vw, 225px" /></a>
 </center>
 
 Буквально через час начнется Чемпионат Мира по футболу в ЮАР. Турнир стартует с матча хозяев ЮАР против сборной Мексики. В связи с этим событием хотел бы поделиться креативными карикатурками.

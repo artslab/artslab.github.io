@@ -24,7 +24,7 @@ tags:
 Пришло время яблок, кое-что для владельцев &#8220;червивых&#8221; айфонов, то есть для тех у кого **джейлбрейкнутые** девайсы. =)
 
 <center>
-  <img src="http://artslab.info/wp-content/uploads/iphone_fastsnap-100x100.jpg" alt="iphone cydia app" title="iphone_fastsnap" width="100" height="100" class="alignnone size-medium wp-image-2248" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_fastsnap-100x100.jpg" alt="iphone cydia app" title="iphone_fastsnap" width="100" height="100" class="alignnone size-medium wp-image-2248" />
 </center>
 
 Как всем известно для того чтобы сделать фото с iphone необходимо &#8220;тапнуть&#8221; по кнопке на дисплее. Согласитесь, это не всегда удобно, особенно если сам хочешь сфоткать себя и не видишь куда нужно нажимать. В таком случае было бы намного удобнее нажимать по какой-то видимой кнопке, которую можно нащупать. Знакомо?

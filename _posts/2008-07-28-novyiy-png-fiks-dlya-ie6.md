@@ -24,7 +24,7 @@ tags:
   - png
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/png_fix_for_internet_explorer.jpg"><img src="http://artslab.info/wp-content/uploads/png_fix_for_internet_explorer.jpg" alt="" title="png_fix_for_internet_explorer" width="292" height="273" class="alignnone size-full wp-image-832" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/png_fix_for_internet_explorer.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/png_fix_for_internet_explorer.jpg" alt="" title="png_fix_for_internet_explorer" width="292" height="273" class="alignnone size-full wp-image-832" /></a>
 </center>
 
 

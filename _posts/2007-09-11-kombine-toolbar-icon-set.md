@@ -23,7 +23,7 @@ tags:
   - ikonki
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/iconsfreehs1.png" title="icon set" alt="icon set" border="0" height="205" width="360" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsfreehs1.png" title="icon set" alt="icon set" border="0" height="205" width="360" />
 </p>
 
 <p align="center">

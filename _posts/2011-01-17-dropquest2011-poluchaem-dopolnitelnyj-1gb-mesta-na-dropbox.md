@@ -22,7 +22,7 @@ tags:
   - dropbox
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/dropbox.jpg"><img src="http://artslab.info/wp-content/uploads/dropbox-285x300.jpg" alt="как получить больше места на dropbox" title="dropbox" width="285" height="300" class="alignnone size-medium wp-image-1150" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox-285x300.jpg" alt="как получить больше места на dropbox" title="dropbox" width="285" height="300" class="alignnone size-medium wp-image-1150" /></a>
 </center>
 
 Dropbox.com предлагает пройти дроп-квест, всем кто пройдет дают дополнительный 1 гб свободного места. Думаю лишний гигабайт никому не помешает.

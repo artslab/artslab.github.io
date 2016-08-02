@@ -44,7 +44,7 @@ tags:
 3. Отличная подборка из <a href="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html" target="_blank">10 рукописных шрифтов</a>, жаль, что как всегда без поддержки кириллицы.
 
 <p style="text-align: center;">
-  <a href="http://artslab.info/wp-content/uploads/handwriting.jpg"><img class="alignnone size-medium wp-image-375" title="handwriting" src="http://artslab.info/wp-content/uploads/handwriting.jpg" alt="рукописные шрифты" width="155" height="115" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/handwriting.jpg"><img class="alignnone size-medium wp-image-375" title="handwriting" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/handwriting.jpg" alt="рукописные шрифты" width="155" height="115" /></a>
 </p>
 
 4. <a href="http://www.brushking.eu/" target="_blank">BrushKing</a> &#8211; Еще один новый ресурс, где собираются кисти для photoshop&#8217;a.

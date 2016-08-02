@@ -27,7 +27,7 @@ tags:
   - Для Wordpress
 ---
 <p style="text-align: center">
-  <img src="http://artslab.info/wp-content/uploads/iphone_home.jpg" alt="обои, иконки, скины в стиле iphone" />
+  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iphone_home.jpg" alt="обои, иконки, скины в стиле iphone" />
 </p>
 
 Сегодня подготовил не совсем обычную подборку ссылок, а немного узконаправленную. Посвящается всем любителям и конечно же владельцам **Apple iPhone**.<a href="http://www.softfacade.com/blog/15_free_icon_sets_for_iphone" title="15 Free Icon Sets for iPhone" target="_blank"></a>

@@ -25,7 +25,7 @@ tags:
   - shablonyi
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/wpfunuh6.jpg"><img src="http://artslab.info/wp-content/uploads/wpfunuh6-207x300.jpg" alt="скачать темы для wordpress" title="wpfunuh6" width="207" height="300" class="alignnone size-medium wp-image-824" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wpfunuh6.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wpfunuh6-207x300.jpg" alt="скачать темы для wordpress" title="wpfunuh6" width="207" height="300" class="alignnone size-medium wp-image-824" /></a>
 </center>
 
 

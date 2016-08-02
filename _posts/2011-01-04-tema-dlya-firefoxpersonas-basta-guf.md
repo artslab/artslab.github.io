@@ -24,7 +24,7 @@ tags:
 Обновлял недавно пост в блоге о [созданий темы для Firefox](http://artslab.info/2010/03/sozdaem-skinyi-dlya-firefox-personas/) и для примера создал простенькую [тему с фотографиями Басты и Гуфа](https://www.getpersonas.com/en-US/persona/349446). Решил выложить в отдельном посту.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/basta_guf_firefox_theme.jpg"><img src="http://artslab.info/wp-content/uploads/basta_guf_persona_firefox.jpg" alt="баста и гуф скин для firefox" title="basta_guf_persona_firefox" width="573" height="172" class="alignnone size-full wp-image-965" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/basta_guf_firefox_theme.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/basta_guf_persona_firefox.jpg" alt="баста и гуф скин для firefox" title="basta_guf_persona_firefox" width="573" height="172" class="alignnone size-full wp-image-965" /></a>
 </center>
 
 Удивился насколько быстро тема прошла [модерацию](https://www.getpersonas.com/en-US/persona/349446). Просто до этого, я уже добавлял туда [другую тему](http://www.getpersonas.com/en-US/persona/136793), тогда она попала в галерею спустя несколько дней. А в этот раз всего за пару часов. Хотя вполне возможно это из-за низкой активности в новогодний период&#8230;

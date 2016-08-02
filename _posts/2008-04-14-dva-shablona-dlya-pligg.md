@@ -28,7 +28,7 @@ tags:
 
 <p style="text-align: center;">
   <p style="text-align: center;">
-    <a class="lightview" href="http://artslab.info/wp-content/uploads/garrx_pligg_template.jpg"><img class="alignnone size-medium wp-image-293" title="garrx_pligg_template" src="http://artslab.info/wp-content/uploads/garrx_pligg_template-300x120.jpg" alt="тема для Pligg" width="300" height="120" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/garrx_pligg_template-300x120.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/garrx_pligg_template.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a> <strong></strong>
+    <a class="lightview" href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/garrx_pligg_template.jpg"><img class="alignnone size-medium wp-image-293" title="garrx_pligg_template" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/garrx_pligg_template-300x120.jpg" alt="тема для Pligg" width="300" height="120" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/garrx_pligg_template-300x120.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/garrx_pligg_template.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a> <strong></strong>
   </p>
 
   <p style="text-align: center;">
@@ -36,7 +36,7 @@ tags:
   </p>
 
   <p style="text-align: center;">
-    <a href="http://www.box.net/shared/c029m25gkw" target="_self"></a> <a class="lightview" href="http://artslab.info/wp-content/uploads/kez6_pligg_template.jpg"><img class="aligncenter size-medium wp-image-292" title="kez6_pligg_template" src="http://artslab.info/wp-content/uploads/kez6_pligg_template-300x120.jpg" alt="шаблон для Pligg" width="300" height="120" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kez6_pligg_template-300x120.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kez6_pligg_template.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a> <strong></strong>
+    <a href="http://www.box.net/shared/c029m25gkw" target="_self"></a> <a class="lightview" href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kez6_pligg_template.jpg"><img class="aligncenter size-medium wp-image-292" title="kez6_pligg_template" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kez6_pligg_template-300x120.jpg" alt="шаблон для Pligg" width="300" height="120" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kez6_pligg_template-300x120.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kez6_pligg_template.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a> <strong></strong>
   </p>
 
   <p style="text-align: center;">

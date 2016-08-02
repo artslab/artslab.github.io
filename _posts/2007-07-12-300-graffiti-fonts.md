@@ -25,7 +25,7 @@ tags:
   - graffiti
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/grafffitigs2.jpg"><img src="http://artslab.info/wp-content/uploads/grafffitigs2.jpg" alt="граффити шрифты для windows" title="grafffitigs2" width="300" height="200" class="alignnone size-full wp-image-2097" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/grafffitigs2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/grafffitigs2.jpg" alt="граффити шрифты для windows" title="grafffitigs2" width="300" height="200" class="alignnone size-full wp-image-2097" /></a>
 </center>
 
 **Хотите научиться рисовать граффити?**

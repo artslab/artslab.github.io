@@ -23,7 +23,7 @@ tags:
   - скрипт
 ---
 <center>
-  <a href="http://artslab.info/wp-content/uploads/navigation.jpg"><img src="http://artslab.info/wp-content/uploads/navigation.jpg" alt="навигация с помощью ctrl + &larr; / &rarr;" title="navigation" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/navigation.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/navigation.jpg" alt="навигация с помощью ctrl + &larr; / &rarr;" title="navigation" /></a>
 </center>
 
 Многие наверняка уже встречали метод навигаций с помощью клавиатуры, а конкретно сочетания клавиш Ctrl + стрелочки влево/вправо. Подобный скрипт используется на многих популярных сайтах, например в поиске на Яндексе, Хабре или сайте студий Лебедева. Такой метод действительно является удобным, так как для постраничной навигаций не нужно использоваться мышь, достаточно одной клавиатуры.

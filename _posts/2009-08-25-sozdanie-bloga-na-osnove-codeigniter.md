@@ -23,7 +23,7 @@ tags:
   - уроки
 ---
 <p style="text-align: center;">
-  <a href="http://artslab.info/wp-content/uploads/sozdaem_sait_na_codeigniter.jpg"><img src="http://artslab.info/wp-content/uploads/sozdaem_sait_na_codeigniter.jpg" alt="как создать сайт с помощью codeigniter" title="sozdaem_sait_na_codeigniter" width="143" height="170" class="alignnone size-full wp-image-782" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdaem_sait_na_codeigniter.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdaem_sait_na_codeigniter.jpg" alt="как создать сайт с помощью codeigniter" title="sozdaem_sait_na_codeigniter" width="143" height="170" class="alignnone size-full wp-image-782" /></a>
 </p>
 
 <a href="http://codeigniter.com/" target="_blank">Codeigniter</a> является одним из самых популярных PHP-фреймворков на сегодняшний день. На английском языке существует уже немалое количество хороших туториалов, которые рассказывают о основах фреймворка на примерах. А вот на русском существуют пока только единицы.

@@ -23,7 +23,7 @@ tags:
   - скрипт
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/wp-content/uploads/flatpress.jpg"><img src="http://artslab.info/wp-content/uploads/flatpress-300x64.jpg" alt="" title="flatpress - like wordpress but without mysql" width="300" height="64" class="alignnone size-medium wp-image-769" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatpress-300x64.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatpress.jpg 421w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatpress.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatpress-300x64.jpg" alt="" title="flatpress - like wordpress but without mysql" width="300" height="64" class="alignnone size-medium wp-image-769" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatpress-300x64.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flatpress.jpg 421w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 &#8220;**FlatPress** is an open-source standard-compliant multi-lingual extensible blogging engine which does not require a database to work.

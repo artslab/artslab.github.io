@@ -36,7 +36,7 @@ tags:
 Кнопочка &#8220;Like&#8221; думаю всем знакома и не нуждается в особом представлений. Данный плагин добавляет эту самую кнопочку в блог.
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/like_button_for_wordpress.png"><img src="http://artslab.info/wp-content/uploads/like_button_for_wordpress.png" alt="" title="like_button_for_wordpress" width="425" height="83" class="alignnone size-full wp-image-816" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/like_button_for_wordpress.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/like_button_for_wordpress.png" alt="" title="like_button_for_wordpress" width="425" height="83" class="alignnone size-full wp-image-816" /></a>
 </center>
 
 3. <a href="http://developers.facebook.com/docs/reference/plugins/like-box" target="_blank">Like Box</a>
@@ -44,7 +44,7 @@ tags:
 Это даже не совсем плагин, а скорей просто виджет. Понадобится он тем, у кого есть своя группа на facebook&#8217;e. В виджете отображается количество участников, их аватарки, а также присутствует кнопка, нажав на которую посетитель сможет вступить в группу. Выглядит это так:
 
 <center>
-  <a href="http://artslab.info/wp-content/uploads/facebook.png"><img src="http://artslab.info/wp-content/uploads/facebook-156x300.png" alt="like box для facebook" title="facebook" width="156" height="300" class="aligncenter size-medium wp-image-577" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook-156x300.png 156w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook.png 312w" sizes="(max-width: 156px) 100vw, 156px" /></a>
+  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook-156x300.png" alt="like box для facebook" title="facebook" width="156" height="300" class="aligncenter size-medium wp-image-577" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook-156x300.png 156w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook.png 312w" sizes="(max-width: 156px) 100vw, 156px" /></a>
 </center>
 
 Другие &#8220;вкусности&#8221;(например, лента активности&#8230;) от Facebook&#8217;a можно так же найти на страничке с дополнениями <a href="http://developers.facebook.com/plugins" target="_blank">у них на сайте</a>. Для авторизации через фэйсбук можно воспользоватся плагином [Loginza](http://artslab.info/2010/05/avtorizatsiya-cherez-vkontakte-openapi-dlya-wordpress/), который поддерживает и многие другие сервисы.
