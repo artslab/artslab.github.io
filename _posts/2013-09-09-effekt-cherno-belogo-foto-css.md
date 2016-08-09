@@ -26,12 +26,12 @@ tags:
 </center>
 
 
+
 <!--more-->
 
 Код:
 
-{% highlight css linenos %}
-
+{% highlight css linenos=table %}
 
 .bw {
 	filter: url(&#8220;data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale&#8221;); /\* Firefox 10+, Firefox on Android \*/
