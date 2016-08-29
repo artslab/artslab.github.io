@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3987
 permalink: /news/sinyaya-strelka-na-glavnoj-stranice-google/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_pokazivaet_gplus.jpg
 prosmotr:
   - 99
 wpb_post_views_count:

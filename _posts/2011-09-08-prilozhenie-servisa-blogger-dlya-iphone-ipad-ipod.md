@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3902
 permalink: /prilozheniya-dlya-ipod-touchiphone/prilozhenie-servisa-blogger-dlya-iphone-ipad-ipod/
-onswipe_thumb:
-  - {{site.img_cdn}}/blogger_icon.jpg
 prosmotr:
   - 117
 wpb_post_views_count:

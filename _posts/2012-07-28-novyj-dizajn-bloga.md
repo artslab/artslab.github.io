@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4843
 permalink: /novosti-sayta/novyj-dizajn-bloga/
 prosmotr:
   - 394
-onswipe_thumb:
-  - {{site.img_cdn}}/alab2012.jpg
 wpb_post_views_count:
   - 1074
 dsq_thread_id:

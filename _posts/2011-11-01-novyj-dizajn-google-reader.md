@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4082
 permalink: /news/novyj-dizajn-google-reader/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_reader_new_design.jpg
 prosmotr:
   - 254
 wpb_post_views_count:

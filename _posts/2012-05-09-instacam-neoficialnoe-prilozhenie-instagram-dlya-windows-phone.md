@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4588
 permalink: /news/instacam-neoficialnoe-prilozhenie-instagram-dlya-windows-phone/
 prosmotr:
   - 591
-onswipe_thumb:
-  - {{site.img_cdn}}/instagram_dlya_windows_phone3.png
 wpb_post_views_count:
   - 1620
 dsq_thread_id:

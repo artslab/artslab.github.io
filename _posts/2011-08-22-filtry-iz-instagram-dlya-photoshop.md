@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3863
 permalink: /kisti-dlya-photoshop/filtry-iz-instagram-dlya-photoshop/
-onswipe_thumb:
-  - {{site.img_cdn}}/instagram_filters_as_photoshop_action.png
 prosmotr:
   - 5883
 wpb_post_views_count:

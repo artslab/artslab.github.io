@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4742
 permalink: /onlayn-servisyi/instacover-generator-oblozhek-iz-instagram-foto-dlya-facebook-i-google/
 prosmotr:
   - 307
-onswipe_thumb:
-  - {{site.img_cdn}}/jeans-5.jpg
 wpb_post_views_count:
   - 2714
 dsq_thread_id:

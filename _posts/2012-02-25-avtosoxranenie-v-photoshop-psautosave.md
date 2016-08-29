@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4369
 permalink: /programmyi/avtosoxranenie-v-photoshop-psautosave/
-onswipe_thumb:
-  - {{site.img_cdn}}/psautosave_for_photoshop.jpg
 prosmotr:
   - 200
 wpb_post_views_count:

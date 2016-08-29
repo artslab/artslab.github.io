@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3716
 permalink: /socialnye-seti/krosspost-fotografij-iz-instagram-na-stenu-vkontakte/
-onswipe_thumb:
-  - {{site.img_cdn}}/Instagram-icon.png
 prosmotr:
   - 3883
 wpb_post_views_count:

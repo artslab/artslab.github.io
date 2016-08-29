@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4720
 permalink: /wordpress/uskoryaem-zagruzku-stranicy-bloga-s-pomoshhyu-plagina-lazy-load-wp/
 prosmotr:
   - 123
-onswipe_thumb:
-  - {{site.img_cdn}}/lazy_load_for_wp.jpg
 wpb_post_views_count:
   - 1773
 dsq_thread_id:

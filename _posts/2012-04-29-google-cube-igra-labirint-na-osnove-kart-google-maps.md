@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4583
 permalink: /news/google-cube-igra-labirint-na-osnove-kart-google-maps/
 prosmotr:
   - 308
-onswipe_thumb:
-  - {{site.img_cdn}}/google_cube.jpg
 wpb_post_views_count:
   - 1229
 dsq_thread_id:

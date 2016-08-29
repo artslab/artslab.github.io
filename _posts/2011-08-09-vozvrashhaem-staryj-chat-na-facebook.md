@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3831
 permalink: /socialnye-seti/vozvrashhaem-staryj-chat-na-facebook/
-onswipe_thumb:
-  - {{site.img_cdn}}/old_facebook_chat.jpg
 prosmotr:
   - 162
 wpb_post_views_count:

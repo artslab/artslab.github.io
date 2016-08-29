@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=1596
 permalink: /programmyi/twitter-gadzhet-tweetz-dlya-windows-7/
 ljID:
   - 316
-onswipe_thumb:
-  - {{site.img_cdn}}/twitter_gadget_tweetz.jpg
 prosmotr:
   - 1282
 wpb_post_views_count:

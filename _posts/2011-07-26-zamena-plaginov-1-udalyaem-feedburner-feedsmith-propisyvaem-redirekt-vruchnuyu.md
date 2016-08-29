@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3718
 permalink: /wordpress/zamena-plaginov-1-udalyaem-feedburner-feedsmith-propisyvaem-redirekt-vruchnuyu/
-onswipe_thumb:
-  - {{site.img_cdn}}/pretty_rss_feed_icon.png
 prosmotr:
   - 113
 wpb_post_views_count:

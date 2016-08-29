@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4506
 permalink: /news/novye-eksperimentalnye-funkcij-na-google-music-google-music-labs/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_music_labs_screen.jpg
 prosmotr:
   - 113
 wpb_post_views_count:

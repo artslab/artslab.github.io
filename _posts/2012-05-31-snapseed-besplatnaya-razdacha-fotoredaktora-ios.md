@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4657
 permalink: /prilozheniya-dlya-ipod-touchiphone/snapseed-besplatnaya-razdacha-fotoredaktora-ios/
 prosmotr:
   - 85
-onswipe_thumb:
-  - {{site.img_cdn}}/snapseed_ipad_for_free.png
 wpb_post_views_count:
   - 932
 dsq_thread_id:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4347
 permalink: /wordpress/krosspost-zapisej-iz-wordpress-bloga-na-stenu-stranicygruppy-vkontakte/
-onswipe_thumb:
-  - {{site.img_cdn}}/primer_crossposta_vkonakte.png
 prosmotr:
   - 207
 wpb_post_views_count:

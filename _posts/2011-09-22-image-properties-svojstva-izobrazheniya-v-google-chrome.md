@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3978
 permalink: /vse-dlya-google-chrome/image-properties-svojstva-izobrazheniya-v-google-chrome/
-onswipe_thumb:
-  - {{site.img_cdn}}/image_properties_google_chrome.jpg
 prosmotr:
   - 137
 wpb_post_views_count:

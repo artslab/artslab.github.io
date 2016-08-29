@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4331
 permalink: /windows-8-2/novyj-logotip-windows-8/
-onswipe_thumb:
-  - {{site.img_cdn}}/windows8_logo.jpg
 prosmotr:
   - 97
 wpb_post_views_count:

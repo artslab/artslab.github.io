@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4403
 permalink: /socialnye-seti/kak-poluchit-i-podpisatsya-na-rss-lentu-gruppystranicy-vkontakte/
-onswipe_thumb:
-  - {{site.img_cdn}}/rss_feed_vkonakte.jpg
 prosmotr:
   - 350
 wpb_post_views_count:

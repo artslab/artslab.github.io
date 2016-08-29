@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3892
 permalink: /socialnye-seti/multiattach-na-stenax-vkontakte/
-onswipe_thumb:
-  - {{site.img_cdn}}/multiattach_vkonakte3.jpg
 prosmotr:
   - 70
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3801
 permalink: /vse-dlya-google-chrome/3-column-reader-tema-oformleniya-dlya-google-reader-reeder-style/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_reader_theme_3_solumn_mac_Style.png
 prosmotr:
   - 98
 wpb_post_views_count:

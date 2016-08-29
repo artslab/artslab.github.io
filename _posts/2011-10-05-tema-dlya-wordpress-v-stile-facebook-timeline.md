@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4016
 permalink: /wordpress/tema-dlya-wordpress-v-stile-facebook-timeline/
-onswipe_thumb:
-  - {{site.img_cdn}}/facebook_timeline_wordpress_theme1.jpg
 prosmotr:
   - 187
 wpb_post_views_count:

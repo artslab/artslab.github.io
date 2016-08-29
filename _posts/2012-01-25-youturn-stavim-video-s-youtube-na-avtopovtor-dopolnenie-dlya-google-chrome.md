@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4274
 permalink: /vse-dlya-google-chrome/youturn-stavim-video-s-youtube-na-avtopovtor-dopolnenie-dlya-google-chrome/
-onswipe_thumb:
-  - {{site.img_cdn}}/youturn_chrome.jpg
 prosmotr:
   - 312
 wpb_post_views_count:

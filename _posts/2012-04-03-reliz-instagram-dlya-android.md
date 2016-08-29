@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4474
 permalink: /prilozheniya-dlya-android/reliz-instagram-dlya-android/
-onswipe_thumb:
-  - {{site.img_cdn}}/instagram_dlya_android.jpg
 prosmotr:
   - 574
 wpb_post_views_count:

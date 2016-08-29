@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4515
 permalink: /socialnye-seti/novyj-interfejs-google/
-onswipe_thumb:
-  - http://gplusblog.ru/wp-content/uploads/2012/04/cover-300x225.jpg
 prosmotr:
   - 133
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3816
 permalink: /skriptyi/animaciya-krugov-v-stile-google-s-pomoshhyu-jquery-i-css3/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_cricles_script_jquery_css3.png
 prosmotr:
   - 112
 wpb_post_views_count:

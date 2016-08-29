@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4032
 permalink: /windows-8-2/izmenyaem-cvet-interfejsa-metro-v-windows-8/
-onswipe_thumb:
-  - {{site.img_cdn}}/change_color_of_metro_ui_windows8.jpg
 prosmotr:
   - 271
 wpb_post_views_count:

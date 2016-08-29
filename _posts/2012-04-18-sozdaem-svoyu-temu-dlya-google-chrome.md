@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4472
 permalink: /news/sozdaem-svoyu-temu-dlya-google-chrome/
-onswipe_thumb:
-  - {{site.img_cdn}}/mychrometheme.jpg
 prosmotr:
   - 346
 wpb_post_views_count:

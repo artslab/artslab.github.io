@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3729
 permalink: /stati/otobrazhenie-foto-i-imeni-avtora-statibloga-v-rezultatax-poiska-google/
 ljID:
   - 445
-onswipe_thumb:
-  - {{site.img_cdn}}/google_author_name_photo_in_serp.jpg
 prosmotr:
   - 138
 wpb_post_views_count:

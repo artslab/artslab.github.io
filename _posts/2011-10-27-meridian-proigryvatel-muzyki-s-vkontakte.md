@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4066
 permalink: /programmyi/meridian-proigryvatel-muzyki-s-vkontakte/
-onswipe_thumb:
-  - {{site.img_cdn}}/meridian_play_vk_music.jpg
 prosmotr:
   - 773
 wpb_post_views_count:

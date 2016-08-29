@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3883
 permalink: /oboi/na-radost-desktopu-5/
-onswipe_thumb:
-  - {{site.img_cdn}}/ice_cold_by_snipes2-d392vis.jpg
 prosmotr:
   - 53
 wpb_post_views_count:

@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=620
 permalink: /prilozheniya-dlya-ipod-touchiphone/instagram-fotoset-dlya-vladeltsev-iphone-pereklichka/
 ljID:
   - 271
-onswipe_thumb:
-  - {{site.img_cdn}}/Foto.png
 prosmotr:
   - 2301
 wpb_post_views_count:

@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3649
 permalink: /wordpress/google-vidzhet-dlya-wordpress/
 ljID:
   - 438
-onswipe_thumb:
-  - {{site.img_cdn}}/google_plus_wordpress_widget.png
 prosmotr:
   - 113
 wpb_post_views_count:

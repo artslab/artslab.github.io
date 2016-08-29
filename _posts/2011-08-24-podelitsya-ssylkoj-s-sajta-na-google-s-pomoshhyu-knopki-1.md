@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3878
 permalink: /socialnye-seti/podelitsya-ssylkoj-s-sajta-na-google-s-pomoshhyu-knopki-1/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_plus_share_button_for_website.jpg
 prosmotr:
   - 67
 wpb_post_views_count:

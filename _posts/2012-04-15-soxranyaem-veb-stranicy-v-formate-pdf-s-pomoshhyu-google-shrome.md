@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4522
 permalink: /vse-dlya-google-chrome/soxranyaem-veb-stranicy-v-formate-pdf-s-pomoshhyu-google-shrome/
-onswipe_thumb:
-  - {{site.img_cdn}}/webpage_to_pdf_googlechrome.jpg
 prosmotr:
   - 170
 wpb_post_views_count:

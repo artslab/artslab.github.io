@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=2523
 permalink: /prilozheniya-dlya-ipod-touchiphone/podklyuchenie-iphone-k-tv/
 ljID:
   - 363
-onswipe_thumb:
-  - {{site.img_cdn}}/iphone_tv_cable.jpg
 prosmotr:
   - 2613
 wpb_post_views_count:

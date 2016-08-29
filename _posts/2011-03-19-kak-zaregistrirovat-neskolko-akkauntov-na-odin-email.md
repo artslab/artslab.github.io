@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=1746
 permalink: /sovetyi/kak-zaregistrirovat-neskolko-akkauntov-na-odin-email/
 ljID:
   - 324
-onswipe_thumb:
-  - {{site.img_cdn}}/gmail.jpg
 prosmotr:
   - 258
 wpb_post_views_count:

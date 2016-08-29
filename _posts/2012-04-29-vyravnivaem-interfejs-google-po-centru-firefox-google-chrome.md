@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4560
 permalink: /vse-dlya-google-chrome/vyravnivaem-interfejs-google-po-centru-firefox-google-chrome/
 prosmotr:
   - 174
-onswipe_thumb:
-  - {{site.img_cdn}}/whitespace_remover_googleplus.jpg
 wpb_post_views_count:
   - 1144
 dsq_thread_id:

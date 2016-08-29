@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=974
 permalink: /sovetyi/eto-video-ne-dostupno-dlya-prosmotra-kak-smotret-zablokirovannoe-video-s-youtube/
 ljID:
   - 283
-onswipe_thumb:
-  - {{site.img_cdn}}/unlock_videos_from_youtube.jpg
 prosmotr:
   - 830
 wpb_post_views_count:

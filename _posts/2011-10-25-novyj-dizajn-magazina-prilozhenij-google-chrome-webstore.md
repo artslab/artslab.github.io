@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4060
 permalink: /vse-dlya-google-chrome/novyj-dizajn-magazina-prilozhenij-google-chrome-webstore/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_chrome_web_store.jpg
 prosmotr:
   - 99
 wpb_post_views_count:

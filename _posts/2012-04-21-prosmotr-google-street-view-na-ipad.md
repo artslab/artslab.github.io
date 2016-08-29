@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4551
 permalink: /prilozheniya-dlya-ipod-touchiphone/prosmotr-google-street-view-na-ipad/
 prosmotr:
   - 499
-onswipe_thumb:
-  - {{site.img_cdn}}/photo46.png
 wpb_post_views_count:
   - 3873
 dsq_thread_id:

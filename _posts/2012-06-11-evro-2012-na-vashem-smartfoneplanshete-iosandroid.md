@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4667
 permalink: /prilozheniya-dlya-ipod-touchiphone/evro-2012-na-vashem-smartfoneplanshete-iosandroid/
 prosmotr:
   - 61
-onswipe_thumb:
-  - {{site.img_cdn}}/euro_football_dlya_iphone.jpg
 wpb_post_views_count:
   - 892
 dsq_thread_id:

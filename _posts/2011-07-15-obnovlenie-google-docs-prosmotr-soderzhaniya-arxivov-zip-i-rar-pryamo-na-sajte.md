@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3709
 permalink: /news/obnovlenie-google-docs-prosmotr-soderzhaniya-arxivov-zip-i-rar-pryamo-na-sajte/
 ljID:
   - 444
-onswipe_thumb:
-  - {{site.img_cdn}}/google_docs_update.jpg
 prosmotr:
   - 38
 wpb_post_views_count:

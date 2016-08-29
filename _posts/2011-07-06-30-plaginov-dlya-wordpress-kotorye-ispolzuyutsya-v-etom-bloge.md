@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3608
 permalink: /news/30-plaginov-dlya-wordpress-kotorye-ispolzuyutsya-v-etom-bloge/
 ljID:
   - 435
-onswipe_thumb:
-  - {{site.img_cdn}}/wordpress_plugins.png
 prosmotr:
   - 246
 wpb_post_views_count:

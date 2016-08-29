@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4250
 permalink: /news/igraem-v-cut-the-rope-pryamo-iz-brauzera-onlajn/
-onswipe_thumb:
-  - {{site.img_cdn}}/cuttherope_igrat_online.jpg
 prosmotr:
   - 2597
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4220
 permalink: /news/pervye-skrinshoty-novoj-mobilnoj-os-ot-samsung-tizen-os/
-onswipe_thumb:
-  - {{site.img_cdn}}/TIZEN1_mobile_os.png
 prosmotr:
   - 88
 wpb_post_views_count:

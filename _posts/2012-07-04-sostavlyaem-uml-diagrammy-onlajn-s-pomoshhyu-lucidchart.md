@@ -12,8 +12,6 @@ ljxp_comments:
   - 0
 ljxp_privacy:
   - public
-onswipe_thumb:
-  - {{site.img_cdn}}/lucidchart.jpg
 wpb_post_views_count:
   - 3037
 dsq_thread_id:

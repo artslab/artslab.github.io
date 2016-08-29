@@ -14,8 +14,6 @@ ljxp_comments:
   - 2
 ljxp_privacy:
   - friends
-onswipe_thumb:
-  - {{site.img_cdn}}/flash_igri_na_ipad.png
 wpb_post_views_count:
   - 4700
 cover:

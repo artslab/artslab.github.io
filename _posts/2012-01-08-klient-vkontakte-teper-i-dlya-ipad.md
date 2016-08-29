@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4208
 permalink: /prilozheniya-dlya-ipod-touchiphone/klient-vkontakte-teper-i-dlya-ipad/
-onswipe_thumb:
-  - {{site.img_cdn}}/vkontakte_ipad_app3.png
 prosmotr:
   - 163
 wpb_post_views_count:

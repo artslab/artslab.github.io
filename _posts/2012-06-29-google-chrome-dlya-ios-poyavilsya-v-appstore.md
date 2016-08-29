@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4725
 permalink: /prilozheniya-dlya-ipod-touchiphone/google-chrome-dlya-ios-poyavilsya-v-appstore/
 prosmotr:
   - 140
-onswipe_thumb:
-  - {{site.img_cdn}}/google_chrome_ios.png
 wpb_post_views_count:
   - 1622
 dsq_thread_id:

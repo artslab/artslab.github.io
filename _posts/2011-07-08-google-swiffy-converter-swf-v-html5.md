@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3624
 permalink: /onlayn-servisyi/google-swiffy-converter-swf-v-html5/
 ljID:
   - 437
-onswipe_thumb:
-  - {{site.img_cdn}}/google_swiffy_logo.gif
 prosmotr:
   - 246
 wpb_post_views_count:

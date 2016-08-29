@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3680
 permalink: /socialnye-seti/plusfeed-rss-lenta-polzovatelya-google/
 ljID:
   - 442
-onswipe_thumb:
-  - {{site.img_cdn}}/google_plus_get_rss.jpg
 prosmotr:
   - 115
 wpb_post_views_count:

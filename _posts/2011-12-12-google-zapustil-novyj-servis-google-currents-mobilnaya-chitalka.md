@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4090
 permalink: /news/google-zapustil-novyj-servis-google-currents-mobilnaya-chitalka/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_currents1.jpg
 prosmotr:
   - 169
 wpb_post_views_count:

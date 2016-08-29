@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4461
 permalink: /socialnye-seti/pinterest-priglasheniya-na-novuyu-socialnuyu-set/
-onswipe_thumb:
-  - {{site.img_cdn}}/pinterest_logo.jpg
 prosmotr:
   - 153
 wpb_post_views_count:

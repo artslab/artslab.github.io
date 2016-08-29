@@ -12,8 +12,6 @@ sbg_selected_sidebar:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
 sbg_selected_sidebar_replacement:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
-onswipe_thumb:
-  - {{site.img_cdn}}/export_facebook_google_plus.jpg
 prosmotr:
   - 215
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4170
 permalink: /windows-8-2/reshenie-problemy-s-sinxronizaciej-iphoneipad-v-windows-8-dp/
-onswipe_thumb:
-  - {{site.img_cdn}}/windows8_iphone_sync_itunes_problem.jpg
 prosmotr:
   - 127
 wpb_post_views_count:

@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4856
 permalink: /prilozheniya-dlya-ipod-touchiphone/catapult-king-dlya-ios-razdayut-besplatno/
 prosmotr:
   - 69
-onswipe_thumb:
-  - {{site.img_cdn}}/mza_4349827401603590009.png
 wpb_post_views_count:
   - 1148
 dsq_thread_id:

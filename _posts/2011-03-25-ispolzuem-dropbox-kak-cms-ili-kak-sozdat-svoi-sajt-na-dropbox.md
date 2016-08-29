@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=1851
 permalink: /onlayn-servisyi/ispolzuem-dropbox-kak-cms-ili-kak-sozdat-svoi-sajt-na-dropbox/
 ljID:
   - 329
-onswipe_thumb:
-  - {{site.img_cdn}}/droppages.jpg
 prosmotr:
   - 447
 cover:

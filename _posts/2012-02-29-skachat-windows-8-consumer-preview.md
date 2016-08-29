@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4377
 permalink: /windows-8-2/skachat-windows-8-consumer-preview/
-onswipe_thumb:
-  - {{site.img_cdn}}/win8cp.jpg
 prosmotr:
   - 245
 wpb_post_views_count:

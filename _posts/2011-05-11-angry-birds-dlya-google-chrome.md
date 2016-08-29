@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=2665
 permalink: /vse-dlya-google-chrome/angry-birds-dlya-google-chrome/
 ljID:
   - 370
-onswipe_thumb:
-  - {{site.img_cdn}}/chromebirds.png
 prosmotr:
   - 1562
 wpb_post_views_count:

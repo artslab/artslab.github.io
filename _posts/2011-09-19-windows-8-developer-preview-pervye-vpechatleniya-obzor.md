@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3917
 permalink: /windows-8-2/windows-8-developer-preview-pervye-vpechatleniya-obzor/
-onswipe_thumb:
-  - {{site.img_cdn}}/11.jpg
 prosmotr:
   - 477
 wpb_post_views_count:

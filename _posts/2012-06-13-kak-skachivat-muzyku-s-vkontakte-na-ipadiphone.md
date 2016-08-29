@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4681
 permalink: /prilozheniya-dlya-ipod-touchiphone/kak-skachivat-muzyku-s-vkontakte-na-ipadiphone/
 prosmotr:
   - 714
-onswipe_thumb:
-  - {{site.img_cdn}}/skachat_muziku_s_vk.png
 wpb_post_views_count:
   - 3875
 dsq_thread_id:

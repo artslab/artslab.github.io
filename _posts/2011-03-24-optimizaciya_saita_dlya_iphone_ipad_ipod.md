@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=1819
 permalink: /stati/optimizaciya_saita_dlya_iphone_ipad_ipod/
 ljID:
   - 327
-onswipe_thumb:
-  - {{site.img_cdn}}/iphone_Desk_icon1.jpg
 prosmotr:
   - 508
 wpb_post_views_count:

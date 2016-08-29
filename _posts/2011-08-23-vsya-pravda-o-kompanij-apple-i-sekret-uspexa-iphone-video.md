@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3872
 permalink: /kreativnyie-rabotyi/vsya-pravda-o-kompanij-apple-i-sekret-uspexa-iphone-video/
-onswipe_thumb:
-  - SKIP
 prosmotr:
   - 1005
 wpb_post_views_count:

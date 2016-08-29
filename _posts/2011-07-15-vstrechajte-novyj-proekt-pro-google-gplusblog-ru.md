@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3686
 permalink: /obzoryi-saytov/vstrechajte-novyj-proekt-pro-google-gplusblog-ru/
 ljID:
   - 443
-onswipe_thumb:
-  - {{site.img_cdn}}/gplusblog_small_logo.jpg
 prosmotr:
   - 69
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4498
 permalink: /news/yandeks-disk-novyj-oblachnyj-servis-ot-poiskovika/
-onswipe_thumb:
-  - {{site.img_cdn}}/yandex_disk.jpg
 prosmotr:
   - 619
 wpb_post_views_count:

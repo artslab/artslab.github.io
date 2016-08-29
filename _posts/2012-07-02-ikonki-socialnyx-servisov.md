@@ -12,8 +12,6 @@ ljxp_comments:
   - 0
 ljxp_privacy:
   - 0
-onswipe_thumb:
-  - {{site.img_cdn}}/socialnie_iconki_dlya_saita.jpg
 wpb_post_views_count:
   - 1050
 dsq_thread_id:

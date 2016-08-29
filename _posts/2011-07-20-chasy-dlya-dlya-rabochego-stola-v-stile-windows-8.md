@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3720
 permalink: /programmyi/chasy-dlya-dlya-rabochego-stola-v-stile-windows-8/
 ljID:
   - 447
-onswipe_thumb:
-  - {{site.img_cdn}}/w8_desktop_clock_for_windows_7.png
 prosmotr:
   - 434
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4386
 permalink: /socialnye-seti/perenosim-dni-rozhdeniya-vashix-druzej-iz-facebook-v-google-calendar/
-onswipe_thumb:
-  - {{site.img_cdn}}/Facebook.png
 prosmotr:
   - 137
 wpb_post_views_count:

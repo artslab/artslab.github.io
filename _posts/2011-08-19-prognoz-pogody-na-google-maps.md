@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3854
 permalink: /sovetyi/prognoz-pogody-na-google-maps/
-onswipe_thumb:
-  - {{site.img_cdn}}/pogoda_na_google_maps.jpg
 prosmotr:
   - 191
 wpb_post_views_count:

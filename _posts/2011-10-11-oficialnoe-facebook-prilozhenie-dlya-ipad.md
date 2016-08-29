@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4048
 permalink: /prilozheniya-dlya-ipod-touchiphone/oficialnoe-facebook-prilozhenie-dlya-ipad/
-onswipe_thumb:
-  - {{site.img_cdn}}/facebook_for_ipad.png
 prosmotr:
   - 100
 wpb_post_views_count:

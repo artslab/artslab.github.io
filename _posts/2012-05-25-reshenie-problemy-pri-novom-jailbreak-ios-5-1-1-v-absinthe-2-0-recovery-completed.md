@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=4626
 permalink: /sovetyi/reshenie-problemy-pri-novom-jailbreak-ios-5-1-1-v-absinthe-2-0-recovery-completed/
 prosmotr:
   - 469
-onswipe_thumb:
-  - {{site.img_cdn}}/chronic_dev_team_jailbreak.jpg
 wpb_post_views_count:
   - 1225
 dsq_thread_id:

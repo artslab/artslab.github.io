@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4308
 permalink: /prilozheniya-dlya-ipod-touchiphone/besplatnye-prilozheniya-dlya-ios-v-den-svyatogo-valentina/
-onswipe_thumb:
-  - {{site.img_cdn}}/fera_for_facebook.jpg
 prosmotr:
   - 89
 wpb_post_views_count:

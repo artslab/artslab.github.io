@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3669
 permalink: /socialnye-seti/facebook-prilozhenie-dlya-telefonov-s-podderzhkoj-java/
 ljID:
   - 441
-onswipe_thumb:
-  - {{site.img_cdn}}/facebook_every_phone_java_app.jpg
 prosmotr:
   - 361
 wpb_post_views_count:

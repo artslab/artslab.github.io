@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4002
 permalink: /news/novyj-iphone-4s/
-onswipe_thumb:
-  - {{site.img_cdn}}/iphone4s.jpg
 prosmotr:
   - 57
 wpb_post_views_count:

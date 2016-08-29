@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3845
 permalink: /prilozheniya-dlya-ipod-touchiphone/facebook-messenger-dlya-mobilnih-ios-android/
-onswipe_thumb:
-  - {{site.img_cdn}}/facebook_messenger.jpg
 prosmotr:
   - 114
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4101
 permalink: /news/zeitgeist-2011-samye-populyarnyx-zaprosy-v-google-v-2011-godu/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_zeitgeist1.jpg
 prosmotr:
   - 67
 wpb_post_views_count:

@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4238
 permalink: /news/angry-birds-rio-dlya-pc-besplatno-i-legalno/
-onswipe_thumb:
-  - {{site.img_cdn}}/angry_birds_rio_skachat_besplatno_pc.jpg
 prosmotr:
   - 341
 wpb_post_views_count:

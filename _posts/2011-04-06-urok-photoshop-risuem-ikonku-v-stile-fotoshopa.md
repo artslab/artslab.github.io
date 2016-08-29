@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=1960
 permalink: /uroki-photoshop/urok-photoshop-risuem-ikonku-v-stile-fotoshopa/
-onswipe_thumb:
-  - {{site.img_cdn}}/risuem_ikonku_v_photoshop1.jpg
 prosmotr:
   - 527
 wpb_post_views_count:

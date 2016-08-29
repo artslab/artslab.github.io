@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=4184
 permalink: /wordpress/let-it-snow-dobavlyaem-sneg-na-vash-blog/
-onswipe_thumb:
-  - {{site.img_cdn}}/letitsnow_wordpress.png
 prosmotr:
   - 87
 wpb_post_views_count:

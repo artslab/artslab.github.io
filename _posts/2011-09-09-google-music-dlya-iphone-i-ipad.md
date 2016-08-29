@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3911
 permalink: /prilozheniya-dlya-ipod-touchiphone/google-music-dlya-iphone-i-ipad/
-onswipe_thumb:
-  - {{site.img_cdn}}/google_music_web_interface_for_ios.png
 prosmotr:
   - 79
 wpb_post_views_count:

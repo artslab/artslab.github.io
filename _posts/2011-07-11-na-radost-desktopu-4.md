@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3657
 permalink: /oboi/na-radost-desktopu-4/
 ljID:
   - 439
-onswipe_thumb:
-  - {{site.img_cdn}}/nature.jpg
 prosmotr:
   - 71
 wpb_post_views_count:

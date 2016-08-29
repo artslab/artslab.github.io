@@ -8,8 +8,6 @@ guid: http://artslab.info/?p=3662
 permalink: /vse-dlya-google-chrome/usability-boost-for-google-plus-dopolnenie-dlya-google-chrome/
 ljID:
   - 440
-onswipe_thumb:
-  - {{site.img_cdn}}/google_plus_boost_plugin.jpg
 prosmotr:
   - 349
 wpb_post_views_count:

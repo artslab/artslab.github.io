@@ -6,8 +6,6 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=3782
 permalink: /vse-dlya-google-chrome/udobnoe-upravlenie-muzykoj-s-servisa-google-music/
-onswipe_thumb:
-  - {{site.img_cdn}}/better_music_for_googlemusic_chrome.png
 prosmotr:
   - 117
 wpb_post_views_count:
