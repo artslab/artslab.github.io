@@ -21,7 +21,7 @@ tags:
   - windows 7
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd-tga-viewer-thumbnail.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd-tga-viewer-thumbnail.jpg" alt="отображение psd в windows explorer" title="psd-tga-viewer-thumbnail" width="200" height="200" class="alignnone size-full wp-image-2300" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd-tga-viewer-thumbnail.jpg 200w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd-tga-viewer-thumbnail-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+  <a href="{{site.img_cdn}}/psd-tga-viewer-thumbnail.jpg"><img src="{{site.img_cdn}}/psd-tga-viewer-thumbnail.jpg" alt="отображение psd в windows explorer" title="psd-tga-viewer-thumbnail" width="200" height="200" class="alignnone size-full wp-image-2300" srcset="{{site.img_cdn}}/psd-tga-viewer-thumbnail.jpg 200w, {{site.img_cdn}}/psd-tga-viewer-thumbnail-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 </center>
 
 Небольшой твик для проводника виндовс. Пригодится тем, кто часто работает с фотошопом. Согласитесь, было бы удобно видеть миниатюры PSD-файлов прямо в проводнике, место привычной иконки, которая отображает формат файла. Твик [PSD Thumbnail Viewer](http://tbxstudio.com/psd-thumbnail-viewer-on-windows-explorer-for-windows-7-vista-64/) позволит сделать это в виндовс. У меня в Win 7 работает, в Vista и XP, не пробовал (но разработчики заявляют о совместимости).

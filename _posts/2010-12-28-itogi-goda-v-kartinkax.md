@@ -22,7 +22,7 @@ tags:
   - фото
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/olimpic_games.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/olimpic_games-300x203.jpg" alt="" title="olimpic_games" width="300" height="203" class="alignnone size-medium wp-image-669" /></a>
+  <a href="{{site.img_cdn}}/olimpic_games.jpg"><img src="{{site.img_cdn}}/olimpic_games-300x203.jpg" alt="" title="olimpic_games" width="300" height="203" class="alignnone size-medium wp-image-669" /></a>
 </center>
 
 

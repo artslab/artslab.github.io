@@ -13,7 +13,7 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/icons_mac_os_x_lion.png
+  - {{site.img_cdn}}/icons_mac_os_x_lion.png
 prosmotr:
   - 623
 wpb_post_views_count:
@@ -28,7 +28,7 @@ tags:
   - ikonki
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/icons_mac_os_x_lion.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/icons_mac_os_x_lion-300x217.png" alt="иконки mac os x lion" title="icons_mac_os_x_lion" width="300" height="217" class="alignnone size-medium wp-image-3326" /></a>
+  <a href="{{site.img_cdn}}/icons_mac_os_x_lion.png"><img src="{{site.img_cdn}}/icons_mac_os_x_lion-300x217.png" alt="иконки mac os x lion" title="icons_mac_os_x_lion" width="300" height="217" class="alignnone size-medium wp-image-3326" /></a>
 </center>
 
 Набор иконок из свеженькой [Mac OS X Lion](http://lordalpha1.deviantart.com/art/Mac-OS-X-Lion-DP4-Icon-Pack-212708369), всего 238 иконок, размером 512&#215;512 пикселей в форматах png и ico. Подойдет, как для использования в системе, так и для дока.

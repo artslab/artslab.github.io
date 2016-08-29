@@ -19,7 +19,7 @@ tags:
   - погода
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pogodnie_ikonki.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pogodnie_ikonki-300x240.png" alt="скачать погодные иконки" title="pogodnie_ikonki" width="300" height="240" class="aligncenter size-medium wp-image-5549" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pogodnie_ikonki-300x240.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pogodnie_ikonki.png 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/pogodnie_ikonki.png"><img src="{{site.img_cdn}}/pogodnie_ikonki-300x240.png" alt="скачать погодные иконки" title="pogodnie_ikonki" width="300" height="240" class="aligncenter size-medium wp-image-5549" srcset="{{site.img_cdn}}/pogodnie_ikonki-300x240.png 300w, {{site.img_cdn}}/pogodnie_ikonki.png 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Если вы решили разрабатывать какое-то приложение для прогноза погоды или нечто в подобном роде, то данный набор иконок вам очень даже пригодиться. [Climacons](http://adamwhitcroft.com/climacons/) содержит в себе 75 качественных иконок с отображением разных погодных условий. Набор доступен для бесплатной загрузки в 4 разных форматах (PSD + EPS + Fw PNG + SVG).

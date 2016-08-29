@@ -23,7 +23,7 @@ tags:
   - скрипт
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_with_css3.png"><img class="aligncenter size-medium wp-image-5133" title="tilt_shift_with_css3" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_with_css3-300x147.png" alt="эффект tilt-shift" width="300" height="147" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_with_css3-300x147.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_with_css3.png 889w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/tilt_shift_with_css3.png"><img class="aligncenter size-medium wp-image-5133" title="tilt_shift_with_css3" src="{{site.img_cdn}}/tilt_shift_with_css3-300x147.png" alt="эффект tilt-shift" width="300" height="147" srcset="{{site.img_cdn}}/tilt_shift_with_css3-300x147.png 300w, {{site.img_cdn}}/tilt_shift_with_css3.png 889w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>Если Вы время от времени читаете мой блог, то должны быть знакомы с
 
 [эффектом Tilt-Shift](http://artslab.info/kreativnyie-rabotyi/timelapse-tilt-shift-dva-effekta-v-odnom-video/ "Timelapse + Tilt-Shift — два эффекта в одном видео"), про который я уже неоднократно писал. Если же нет, тогда рекомендую заглянуть в пост с [уроком Photoshop (текст и видео)](http://artslab.info/uroki-photoshop/effekt-tilt-shift-v-photoshop-urok/ "Эффект Tilt-Shift в Photoshop (урок)") или посмотреть [красивый видеоролик](http://artslab.info/kreativnyie-rabotyi/timelapse-tilt-shift-dva-effekta-v-odnom-video/) на эту тему .
@@ -34,7 +34,7 @@ tags:
 
 ### Пример
 
-[<img class="aligncenter size-medium wp-image-5136" title="tilt_shift_s_css3" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_s_css3-300x199.png" alt="эффект тайл шифт без фотошопа" width="300" height="199" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_s_css3-300x199.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_s_css3.png 614w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tilt_shift_s_css3.png)
+[<img class="aligncenter size-medium wp-image-5136" title="tilt_shift_s_css3" src="{{site.img_cdn}}/tilt_shift_s_css3-300x199.png" alt="эффект тайл шифт без фотошопа" width="300" height="199" srcset="{{site.img_cdn}}/tilt_shift_s_css3-300x199.png 300w, {{site.img_cdn}}/tilt_shift_s_css3.png 614w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/tilt_shift_s_css3.png)
 
 Живой пример работы скрипта можно увидеть на [этой страничке](http://www.noeltock.com/tilt-shift-css3-jquery-plugin/).
 

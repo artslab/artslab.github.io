@@ -21,7 +21,7 @@ tags:
   - news
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_easter_egg.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_easter_egg-300x209.jpg" alt="пасхальные яйца от Google" title="google_easter_egg" width="300" height="209" class="alignnone size-medium wp-image-2235" /></a>
+  <a href="{{site.img_cdn}}/google_easter_egg.jpg"><img src="{{site.img_cdn}}/google_easter_egg-300x209.jpg" alt="пасхальные яйца от Google" title="google_easter_egg" width="300" height="209" class="alignnone size-medium wp-image-2235" /></a>
 </center>
 
 Как <a HREF="http://lenta.ru/news/2007/09/03/google/">сообщает</a> lenta.ru, в новой версии Google Earth появился авиасимулятор. Чтобы вызвать его, достаточно нажать Ctrl+Alt+A.

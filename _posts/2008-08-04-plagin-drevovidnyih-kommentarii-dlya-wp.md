@@ -24,7 +24,7 @@ tags:
   - плагины
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/drevovidnie_comments.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/drevovidnie_comments-300x259.jpg" alt="" title="drevovidnie_comments" width="300" height="259" class="alignnone size-medium wp-image-836" /></a>
+  <a href="{{site.img_cdn}}/drevovidnie_comments.jpg"><img src="{{site.img_cdn}}/drevovidnie_comments-300x259.jpg" alt="" title="drevovidnie_comments" width="300" height="259" class="alignnone size-medium wp-image-836" /></a>
 </center>
 
 

@@ -25,7 +25,7 @@ tags:
   - подборка
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-280" title="blogosfera1" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blogosfera2.gif" alt="Подборка ссылок" width="381" height="81" />
+  <img class="aligncenter size-full wp-image-280" title="blogosfera1" src="{{site.img_cdn}}/blogosfera2.gif" alt="Подборка ссылок" width="381" height="81" />
 </p>
 
  <a title="каталоги, рейтинги - куда можно добавить свой блог" href="http://smopro.ru/category/blog/159-ssyilok-kuda-dobavit-blog/" target="_blank">160+ ссылок</a> куда можно добавить добавить блог

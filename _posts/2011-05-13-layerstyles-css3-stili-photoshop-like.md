@@ -22,7 +22,7 @@ tags:
   - онлайн сервис
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/layerstyle_html5.jpg" alt="Веб-приложение для создания стилей(css3)" title="layerstyle_html5" width="561" height="198" class="alignnone size-full wp-image-2696" />
+  <img src="{{site.img_cdn}}/layerstyle_html5.jpg" alt="Веб-приложение для создания стилей(css3)" title="layerstyle_html5" width="561" height="198" class="alignnone size-full wp-image-2696" />
 </center>
 
 Более подходящего заголовка я не подобрал, но взглянув на скриншот думаю все станет на свои места. Сервис [LayerStyle](http://layerstyles.org/) своим внешним видом, несомненно напоминает наши родные &#8220;Blending Options&#8221; из фотошопа. Так вот с помощью этого онлайн сервиса можно легко создать стиль блока и получить готовый CSS3 код, который можно можно смело вставлять на Ваш сайт.

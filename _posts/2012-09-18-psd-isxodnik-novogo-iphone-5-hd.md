@@ -23,7 +23,7 @@ tags:
   - psd
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_5_psd_file.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_iphone_5_psd_file-300x215.jpg" alt="psd нового айфона 5" title="apple_iphone_5_psd_file" width="300" height="215" class="aligncenter size-medium wp-image-5246" /></a>
+  <a href="{{site.img_cdn}}/apple_iphone_5_psd_file.jpeg"><img src="{{site.img_cdn}}/apple_iphone_5_psd_file-300x215.jpg" alt="psd нового айфона 5" title="apple_iphone_5_psd_file" width="300" height="215" class="aligncenter size-medium wp-image-5246" /></a>
 </center>
 
 На прошлой неделе Apple представила свой новый смартфон iPhone 5. Насколько успешным станет новый продукт яблочной компаний, мы узнаем совсем скоро.

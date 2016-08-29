@@ -19,7 +19,7 @@ tags:
   - windows 7
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/aaclr.jpg" alt="смена цвета интерфейса Aero" title="aaclr" width="228" height="159" class="alignnone size-full wp-image-2460" />
+  <img src="{{site.img_cdn}}/aaclr.jpg" alt="смена цвета интерфейса Aero" title="aaclr" width="228" height="159" class="alignnone size-full wp-image-2460" />
 </center>
 
 Опять же кастомайз, но на это раз для особо требовательных пользователей, я бы даже сказал, для гурманов этого дела =)

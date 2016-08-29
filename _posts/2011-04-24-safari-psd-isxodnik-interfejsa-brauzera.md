@@ -33,7 +33,7 @@ tags:
 Скачать браузер можно [у яблочных](http://www.apple.com/safari/download/), а psd-шки предлагаю ниже.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/safari_psd_template.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/safari_psd_template-300x223.jpg" alt="шаблон браузера safari в psd" title="safari_psd_template" width="300" height="223" class="alignnone size-medium wp-image-2378" /></a>
+  <a href="{{site.img_cdn}}/safari_psd_template.jpg"><img src="{{site.img_cdn}}/safari_psd_template-300x223.jpg" alt="шаблон браузера safari в psd" title="safari_psd_template" width="300" height="223" class="alignnone size-medium wp-image-2378" /></a>
 </center>
 
 

@@ -22,7 +22,7 @@ tags:
   - обзор
 ---
 <p style="text-align: center">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3-300x94.jpg" alt="" title="css3" width="300" height="94" class="alignnone size-medium wp-image-1594" /></a>
+  <a href="{{site.img_cdn}}/css3.jpg"><img src="{{site.img_cdn}}/css3-300x94.jpg" alt="" title="css3" width="300" height="94" class="alignnone size-medium wp-image-1594" /></a>
 </p>
 
 Довольно таки интересный сайт посвященный CSS3 (Cascading Style Sheet 3). Простые решения проблем, советы, технологий, уроки и всякие полезные вещи на эту тему (например, как сделать закругленные углы без применения картинок, как сделать тень от изображений, опять же без применения какой либо графики и т.д.).

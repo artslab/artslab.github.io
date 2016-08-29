@@ -29,7 +29,7 @@ tags:
 Продолжим развлекаться с менюшками и сегодня создадим простое выпадающее меню на чистом CSS&HTML. В прошлых записях мы уже рассматривали два других варианта меню &#8211; [адаптивное](http://artslab.info/snippety/sozdaem-adaptivnoe-menyu/ "Создаем адаптивное меню") и [фиксированное меню](http://artslab.info/snippety/sozdaem-fiksirovannoe-navigacionnoe-menyu-otobrazhaemoe-pri-prokrutke-stranicy/ "Создаем фиксированное навигационное меню, отображаемое при прокрутке страницы").
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css-300x188.png" alt="выпадающее меню на чистом CSS" class="aligncenter size-medium wp-image-7532" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css-300x188.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css.png 581w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/dropdown_menu_css.png"><img src="{{site.img_cdn}}/dropdown_menu_css-300x188.png" alt="выпадающее меню на чистом CSS" class="aligncenter size-medium wp-image-7532" srcset="{{site.img_cdn}}/dropdown_menu_css-300x188.png 300w, {{site.img_cdn}}/dropdown_menu_css.png 581w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
@@ -129,7 +129,7 @@ tags:
 Главное, на что стоит обратить внимание в CSS части, то что выпадающее меню изначально скрыто (display:none) и появляется только при наведения курсора (li:hover ul).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css-300x188.png" alt="выпадающее меню на чистом CSS" class="aligncenter size-medium wp-image-7532" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css-300x188.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropdown_menu_css.png 581w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/dropdown_menu_css.png"><img src="{{site.img_cdn}}/dropdown_menu_css-300x188.png" alt="выпадающее меню на чистом CSS" class="aligncenter size-medium wp-image-7532" srcset="{{site.img_cdn}}/dropdown_menu_css-300x188.png 300w, {{site.img_cdn}}/dropdown_menu_css.png 581w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Поэкспериментировать с кодом можно, как всегда, в песочнице на <a href="http://codepen.io/4gray/pen/CoyJt" target="_blank">Codepen</a>.

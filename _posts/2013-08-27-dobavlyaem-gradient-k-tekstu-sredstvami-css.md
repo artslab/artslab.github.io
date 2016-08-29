@@ -21,7 +21,7 @@ tags:
 Еще один CSS-сниппет, который позволит добавить градиент на любой текст, без использования какой-либо графики.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_s_gradientom.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_s_gradientom-300x67.png" alt="текст с градиентом css" class="aligncenter size-medium wp-image-7597" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_s_gradientom-300x67.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_s_gradientom.png 519w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/text_s_gradientom.png"><img src="{{site.img_cdn}}/text_s_gradientom-300x67.png" alt="текст с градиентом css" class="aligncenter size-medium wp-image-7597" srcset="{{site.img_cdn}}/text_s_gradientom-300x67.png 300w, {{site.img_cdn}}/text_s_gradientom.png 519w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

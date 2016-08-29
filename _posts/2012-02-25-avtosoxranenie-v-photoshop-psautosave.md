@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4369
 permalink: /programmyi/avtosoxranenie-v-photoshop-psautosave/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psautosave_for_photoshop.jpg
+  - {{site.img_cdn}}/psautosave_for_photoshop.jpg
 prosmotr:
   - 200
 wpb_post_views_count:
@@ -21,7 +21,7 @@ tags:
   - программа
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psautosave_for_photoshop.jpg" alt="автосохранение в фотошопе" title="psautosave_for_photoshop" width="230" height="310" class="aligncenter size-full wp-image-4370" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psautosave_for_photoshop.jpg 230w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psautosave_for_photoshop-222x300.jpg 222w" sizes="(max-width: 230px) 100vw, 230px" />
+  <img src="{{site.img_cdn}}/psautosave_for_photoshop.jpg" alt="автосохранение в фотошопе" title="psautosave_for_photoshop" width="230" height="310" class="aligncenter size-full wp-image-4370" srcset="{{site.img_cdn}}/psautosave_for_photoshop.jpg 230w, {{site.img_cdn}}/psautosave_for_photoshop-222x300.jpg 222w" sizes="(max-width: 230px) 100vw, 230px" />
 </center>
 
 Бывает крайне обидно при созданий какого-либо макета в [фотошопе](http://artslab.info/?s=photoshop), если программа зависнет и при этом вы забыли сохранить проект. Говорю из личного опыта, не раз со мной такой случалось, вроде бы учишься на своих ошибках, но все равно такие неприятные моменты происходят и приходится начинать заново.

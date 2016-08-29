@@ -23,7 +23,7 @@ tags:
   - логотипы
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnie_logotipi.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnie_logotipi.jpg" alt="скачать бесплатные логотипы вектор" title="besplatnie_logotipi" width="300" height="124" class="alignnone size-full wp-image-952" /></a>
+  <a href="{{site.img_cdn}}/besplatnie_logotipi.jpg"><img src="{{site.img_cdn}}/besplatnie_logotipi.jpg" alt="скачать бесплатные логотипы вектор" title="besplatnie_logotipi" width="300" height="124" class="alignnone size-full wp-image-952" /></a>
 </center>
 
 <a href="http://www.allfreelogo.com/" title="free logos" target="_blank">Allfreelogo</a> &#8211; ресурс полностью посвящен **бесплатным векторным логотипам**. Для того чтобы заполучить необходимое лого, нужно сначала пройти небольшую регистрацию, после чего на почтовый ящик придет подтверждение регистраций и пароль для входа на сайт. В данный момент на сайте находятся **678 логотипов** в форматах \*.ai, либо \*.eps.

@@ -17,7 +17,7 @@ tags:
   - программа
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mac_dvoinii_zapisi_v_menu.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mac_dvoinii_zapisi_v_menu-300x209.jpg" alt="удаляем лишние программы из меню открыть программой" title="mac_dvoinii_zapisi_v_menu" width="300" height="209" class="aligncenter size-medium wp-image-5768" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mac_dvoinii_zapisi_v_menu-300x209.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mac_dvoinii_zapisi_v_menu.jpg 753w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/mac_dvoinii_zapisi_v_menu.jpg"><img src="{{site.img_cdn}}/mac_dvoinii_zapisi_v_menu-300x209.jpg" alt="удаляем лишние программы из меню открыть программой" title="mac_dvoinii_zapisi_v_menu" width="300" height="209" class="aligncenter size-medium wp-image-5768" srcset="{{site.img_cdn}}/mac_dvoinii_zapisi_v_menu-300x209.jpg 300w, {{site.img_cdn}}/mac_dvoinii_zapisi_v_menu.jpg 753w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Если ситуация на скриншоте вам знакома, тогда вы наверняка задавали себе вопрос, почему некоторые программы повторяются и как же убрать дубликаты из меню. Ответ на первый вопрос довольно-таки прост. Из-за обновления программ старые версий не пропадают, а новые добавляются, именно поэтому некоторые приложения занимают сразу несколько строчек в меню.
@@ -29,5 +29,5 @@ tags:
 Чтобы удалить не нужное из контекстного меню, необходимо поставить всего одну галочку:
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/onyx_nastroika_mac.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/onyx_nastroika_mac-300x289.jpg" alt="очистка launch services" title="onyx_nastroika_mac" width="300" height="289" class="aligncenter size-medium wp-image-5772" /></a>
+  <a href="{{site.img_cdn}}/onyx_nastroika_mac.jpeg"><img src="{{site.img_cdn}}/onyx_nastroika_mac-300x289.jpg" alt="очистка launch services" title="onyx_nastroika_mac" width="300" height="289" class="aligncenter size-medium wp-image-5772" /></a>
 </center>

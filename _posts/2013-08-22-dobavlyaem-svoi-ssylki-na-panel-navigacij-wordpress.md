@@ -23,7 +23,7 @@ tags:
 Например, я добавил на панель ссылку для быстрой очистки кэша, которая была запрятано далеко в настройках плагина.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabavit_ssilku_v_navbar.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabavit_ssilku_v_navbar-300x47.png" alt="добавить ссылку в NavBar WP" class="aligncenter size-medium wp-image-7509" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabavit_ssilku_v_navbar-300x47.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabavit_ssilku_v_navbar.png 789w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/dabavit_ssilku_v_navbar.png"><img src="{{site.img_cdn}}/dabavit_ssilku_v_navbar-300x47.png" alt="добавить ссылку в NavBar WP" class="aligncenter size-medium wp-image-7509" srcset="{{site.img_cdn}}/dabavit_ssilku_v_navbar-300x47.png 300w, {{site.img_cdn}}/dabavit_ssilku_v_navbar.png 789w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

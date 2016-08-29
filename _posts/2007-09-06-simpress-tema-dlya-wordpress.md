@@ -23,7 +23,7 @@ tags:
   - шаблон
 ---
 <p style="text-align: center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/simpress_wordpress_theme.jpg" alt="ImageShack" border="0" />
+  <img src="{{site.img_cdn}}/simpress_wordpress_theme.jpg" alt="ImageShack" border="0" />
 </p>
 
 sIMPRESS &#8211; **бесплатная** тема для WordPress 2.x, от <a href="http://www.dezinerfolio.com/2007/09/04/simpress-free-theme-download/" title="dezinerfolio" target="_blank">dezinerfolio</a>. Шаблон имеет поддержку плагина <a href="http://www.skippy.net/blog/2005/03/24/gravatars/" title="Gravatars plugin для WordPress" target="_blank"><strong>Gravatars</strong></a>

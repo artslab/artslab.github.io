@@ -22,7 +22,7 @@ tags:
   - Для Wordpress
 ---
 <p style="text-align: center">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/templlr9.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/templlr9.jpg" alt="" title="templlr9" width="391" height="223" class="alignnone size-full wp-image-810" /></a>
+  <a href="{{site.img_cdn}}/templlr9.jpg"><img src="{{site.img_cdn}}/templlr9.jpg" alt="" title="templlr9" width="391" height="223" class="alignnone size-full wp-image-810" /></a>
 </p>
 
 Генератор тем для WordPress, позволит вам без особых знаний html и css создать свою собственную тему.

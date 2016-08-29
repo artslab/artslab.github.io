@@ -21,7 +21,7 @@ tags:
 Одним из главных изменений в графическом интерфейсе Windows 8 (помимо плиточного интерфейса Modern UI и отсутствия кнопки пуск) стало отключение прозрачности окон программ. Сделано это было потому как, по мнению дизайнеров Microsoft, прозрачность не подходила к новому однотонному плиточному интерфейсу. А так же, отказ от эффекта прозрачности, позволяет немного увеличить производительности системы.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prozrachnost_v_windows8.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prozrachnost_v_windows8-300x160.png" alt="возвращаем прозрачность в windows 8" title="prozrachnost_v_windows8" width="300" height="160" class="aligncenter size-medium wp-image-5884" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prozrachnost_v_windows8-300x160.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prozrachnost_v_windows8.png 619w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/prozrachnost_v_windows8.png"><img src="{{site.img_cdn}}/prozrachnost_v_windows8-300x160.png" alt="возвращаем прозрачность в windows 8" title="prozrachnost_v_windows8" width="300" height="160" class="aligncenter size-medium wp-image-5884" srcset="{{site.img_cdn}}/prozrachnost_v_windows8-300x160.png 300w, {{site.img_cdn}}/prozrachnost_v_windows8.png 619w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Несотря на все эти вещи, сегодня у нас появилась возможность вернуть прозрачные панельки в стиле Aero, присутствовавшие в предыдущих версиях операционной системы, и в новую Windows 8.
@@ -33,5 +33,5 @@ tags:
 Если вам понравился &#8220;старый-новый&#8221; вид с прозрачными окнами, то лучше всего поставить WinAeroGlass на автостарт, чтобы не запускать ее каждый раз вручную.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/winaeroglass_windows8.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/winaeroglass_windows8-300x178.png" alt="стиль aero в виндовс 8" title="winaeroglass_windows8" width="300" height="178" class="aligncenter size-medium wp-image-5896" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/winaeroglass_windows8-300x178.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/winaeroglass_windows8-1024x608.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/winaeroglass_windows8.png 1028w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/winaeroglass_windows8.png"><img src="{{site.img_cdn}}/winaeroglass_windows8-300x178.png" alt="стиль aero в виндовс 8" title="winaeroglass_windows8" width="300" height="178" class="aligncenter size-medium wp-image-5896" srcset="{{site.img_cdn}}/winaeroglass_windows8-300x178.png 300w, {{site.img_cdn}}/winaeroglass_windows8-1024x608.png 1024w, {{site.img_cdn}}/winaeroglass_windows8.png 1028w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

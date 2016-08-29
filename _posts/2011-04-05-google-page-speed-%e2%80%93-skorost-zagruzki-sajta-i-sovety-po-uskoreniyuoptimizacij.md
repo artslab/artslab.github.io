@@ -24,7 +24,7 @@ tags:
 В сети существует достаточно большое количество инструментов для измерения скорости загрузки сайта, но пободному сервису от гугла наверное стоит прислушиваться побольше чем к его конкурентам, поэтому не мог пройти мимо и не написать здесь о [Google Page Speed](http://pagespeed.googlelabs.com/).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_page_speed.jpg"><img class="alignnone size-medium wp-image-2012" title="google_page_speed" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_page_speed-300x28.jpg" alt="оптимизация сайта" width="300" height="28" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_page_speed-300x28.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_page_speed.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/google_page_speed.jpg"><img class="alignnone size-medium wp-image-2012" title="google_page_speed" src="{{site.img_cdn}}/google_page_speed-300x28.jpg" alt="оптимизация сайта" width="300" height="28" srcset="{{site.img_cdn}}/google_page_speed-300x28.jpg 300w, {{site.img_cdn}}/google_page_speed.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>Услугами этого сервиса можно было использовать и ранее, но только с помощью плагина для
 
 [Firefox](http://code.google.com/intl/de-DE/speed/page-speed/download.html) или [Chrome](http://code.google.com/intl/de-DE/speed/page-speed/docs/using_chrome.html), а теперь он и вовсе стал доступен [без всяких дополнений](http://pagespeed.googlelabs.com/) к браузерам.
@@ -34,5 +34,5 @@ tags:
 Моему блогу &#8220;гугломер&#8221; дал 56 баллов, надо бы прислушаться и заняться оптимизацией =)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_page_speed_artslab.jpg"><img class="alignnone size-medium wp-image-2013" title="google_page_speed_artslab" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_page_speed_artslab-300x177.jpg" alt="скорость загрузки сайта" width="300" height="177" /></a>
+  <a href="{{site.img_cdn}}/google_page_speed_artslab.jpg"><img class="alignnone size-medium wp-image-2013" title="google_page_speed_artslab" src="{{site.img_cdn}}/google_page_speed_artslab-300x177.jpg" alt="скорость загрузки сайта" width="300" height="177" /></a>
 </center>

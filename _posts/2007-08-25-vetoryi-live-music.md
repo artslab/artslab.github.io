@@ -22,7 +22,7 @@ tags:
   - Вектор
 ---
 <p STYLE="text-align: center">
-  <img ALT="live music vector" BORDER="1" SRC="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vector.jpg" />
+  <img ALT="live music vector" BORDER="1" SRC="{{site.img_cdn}}/vector.jpg" />
 </p>
 
 Vector Resources Part 6 &#8211; Live Music набор векторов музыкальной тематики от <a TITLE="spoongrapchics" TARGET="_blank" HREF="http://spoongraphics.co.uk/">spoongraphics</a>

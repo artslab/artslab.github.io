@@ -22,7 +22,7 @@ tags:
   - screensavers
 ---
 <p style="text-align: center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/creaturesiconsgb7.jpg" style="width: 300px; height: 225px" title="apple icons and screensavers" alt="apple icons and screensavers" border="0" height="225" width="300" />
+  <img src="{{site.img_cdn}}/creaturesiconsgb7.jpg" style="width: 300px; height: 225px" title="apple icons and screensavers" alt="apple icons and screensavers" border="0" height="225" width="300" />
 </p>
 
 <p align="center">

@@ -13,7 +13,7 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_circles.png
+  - {{site.img_cdn}}/google_plus_circles.png
 prosmotr:
   - 105
 wpb_post_views_count:
@@ -28,7 +28,7 @@ tags:
 format: aside
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus-300x266.jpg" alt="Социальная сеть от Google" title="google_plus" width="300" height="266" class="alignnone size-medium wp-image-3473" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus-300x266.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus.jpg 969w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/google_plus.jpg"><img src="{{site.img_cdn}}/google_plus-300x266.jpg" alt="Социальная сеть от Google" title="google_plus" width="300" height="266" class="alignnone size-medium wp-image-3473" srcset="{{site.img_cdn}}/google_plus-300x266.jpg 300w, {{site.img_cdn}}/google_plus.jpg 969w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 > Добро пожаловать в Google+ &#8211; Обмен идеями через Интернет в реальном времени.
@@ -48,7 +48,7 @@ UPD: Для тех у кого пока нету тестовых аккаунт
 
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_circles.png" alt="гугл плюс социальная сеть" title="google_plus_circles" width="175" height="172" class="alignnone size-full wp-image-3474" />
+  <img src="{{site.img_cdn}}/google_plus_circles.png" alt="гугл плюс социальная сеть" title="google_plus_circles" width="175" height="172" class="alignnone size-full wp-image-3474" />
 </center>
 
 > В реальной жизни вы всегда выбираете, кому стоит рассказать новость, показать фотографии или сообщить, где вы находитесь. Делать то же самое в Интернете должно быть так же просто и естественно. В Google+ вы можете легко объединить в одну группу ваших приятелей с пятничной вечеринки, в другую – родственников жены, а в третью – только начальника. Всё как в жизни!
@@ -58,7 +58,7 @@ UPD: Для тех у кого пока нету тестовых аккаунт
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sparks.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sparks-300x138.png" alt="google plus темы" title="sparks" width="300" height="138" class="alignnone size-medium wp-image-3477" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sparks-300x138.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sparks.png 494w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/sparks.png"><img src="{{site.img_cdn}}/sparks-300x138.png" alt="google plus темы" title="sparks" width="300" height="138" class="alignnone size-medium wp-image-3477" srcset="{{site.img_cdn}}/sparks-300x138.png 300w, {{site.img_cdn}}/sparks.png 494w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 > Помните, как дедушка присылал вам вырезанные из газет статьи? Вот были времена&#8230; В &#8220;Темах&#8221; примерно то же самое: вам будут предлагаться статьи и видеоролики, которые могут вас заинтересовать. Поэтому, когда выпадет свободная минутка, у вас всегда будет что посмотреть, почитать и чем поделиться. Дедушке бы понравилось.
@@ -68,7 +68,7 @@ UPD: Для тех у кого пока нету тестовых аккаунт
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_video.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_video-300x112.png" alt="google plus видео чат" title="google_plus_video" width="300" height="112" class="alignnone size-medium wp-image-3475" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_video-300x112.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_video.png 460w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/google_plus_video.png"><img src="{{site.img_cdn}}/google_plus_video-300x112.png" alt="google plus видео чат" title="google_plus_video" width="300" height="112" class="alignnone size-medium wp-image-3475" srcset="{{site.img_cdn}}/google_plus_video-300x112.png 300w, {{site.img_cdn}}/google_plus_video.png 460w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 > Согласитесь, случайно встретить друзей всегда приятно. Теперь такие неожиданные встречи возможны и в Интернете. Просто начните видеовстречу, и кто-нибудь из ваших друзей обязательно заглянет к вам. Это, конечно, не телепортация, но тоже очень впечатляет.

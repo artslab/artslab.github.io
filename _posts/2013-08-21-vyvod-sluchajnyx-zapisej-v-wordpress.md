@@ -19,7 +19,7 @@ tags:
   - Для Wordpress
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sluchainie_zapisi_wordpress.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sluchainie_zapisi_wordpress.png" alt="сниппеты для wordpress" class="aligncenter wp-image-7479" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sluchainie_zapisi_wordpress.png 355w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sluchainie_zapisi_wordpress-300x186.png 300w" sizes="(max-width: 355px) 100vw, 355px" /></a>
+  <a href="{{site.img_cdn}}/sluchainie_zapisi_wordpress.png"><img src="{{site.img_cdn}}/sluchainie_zapisi_wordpress.png" alt="сниппеты для wordpress" class="aligncenter wp-image-7479" srcset="{{site.img_cdn}}/sluchainie_zapisi_wordpress.png 355w, {{site.img_cdn}}/sluchainie_zapisi_wordpress-300x186.png 300w" sizes="(max-width: 355px) 100vw, 355px" /></a>
 </center>
 
 Этот небольшой сниппет позволит вывести случайное количество записей из блога в любом месте на Вашем сайте.

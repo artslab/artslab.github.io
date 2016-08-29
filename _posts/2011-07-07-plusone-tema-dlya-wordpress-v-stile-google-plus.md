@@ -21,7 +21,7 @@ tags:
   - тема
 format: aside
 ---
-<a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/plustheme-wordpress-theme.png" rel="nofollow"><img class="size-medium wp-image-3632 aligncenter" title="plustheme-wordpress-theme" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/plustheme-wordpress-theme-300x206.png" alt="Шаблон для WordPress" width="300" height="206" /></a>
+<a href="{{site.img_cdn}}/plustheme-wordpress-theme.png" rel="nofollow"><img class="size-medium wp-image-3632 aligncenter" title="plustheme-wordpress-theme" src="{{site.img_cdn}}/plustheme-wordpress-theme-300x206.png" alt="Шаблон для WordPress" width="300" height="206" /></a>
 
 Вот и пошла волна всяких дополнений, кнопок, иконок и в том числе и всевозможных тем оформлений в стиле новой социальной сети Google+.  На этот раз хочу поделиться с вами темой <a title="тема для WordPress в стиле Google+" href="http://www.hacktrix.com/plusone-wordpress-theme" rel="nofollow">PlusOne для WordPress</a>, минимально красиво, все в стиле.
 

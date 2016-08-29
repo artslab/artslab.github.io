@@ -32,7 +32,7 @@ tags:
 Главное преимущество скрипта, это его легкость &#8211; всего 4 кб.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nifty_player.jpg" alt="легкий скрипт mp3 плеера" title="nifty_player" width="182" height="59" class="alignnone size-full wp-image-2483" />
+  <img src="{{site.img_cdn}}/nifty_player.jpg" alt="легкий скрипт mp3 плеера" title="nifty_player" width="182" height="59" class="alignnone size-full wp-image-2483" />
 </center>
 
 
@@ -80,7 +80,7 @@ _Кроме того, можно легко настроить внешний в
 Более крупный вариант плеера &#8211; из преимуществ стоит отметить наличие плейлиста и настройки цвета внешнего вида.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_falsh_mp3_player.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_falsh_mp3_player-300x117.jpg" alt="бесплатный flash mp3 плеер для вставки на сайт" title="free_falsh_mp3_player" width="300" height="117" class="alignnone size-medium wp-image-2485" /></a>
+  <a href="{{site.img_cdn}}/free_falsh_mp3_player.jpg"><img src="{{site.img_cdn}}/free_falsh_mp3_player-300x117.jpg" alt="бесплатный flash mp3 плеер для вставки на сайт" title="free_falsh_mp3_player" width="300" height="117" class="alignnone size-medium wp-image-2485" /></a>
 </center>
 
 ## 3. [jPlayer](http://www.jplayer.org/0.2.1/demos/)
@@ -88,7 +88,7 @@ _Кроме того, можно легко настроить внешний в
 Доступен в разных вариант, как с плейлистом, так и без.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer-300x280.jpg" alt="jquery скрипт Mp3 плеера" title="jplayer" width="300" height="280" class="alignnone size-medium wp-image-2486" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer-300x280.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer.jpg 429w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer2-300x75.jpg" alt="jquery mp3 player для вставки музыки на сайт" title="jplayer2" width="300" height="75" class="alignnone size-medium wp-image-2487" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer2-300x75.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jplayer2.jpg 432w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/jplayer.jpg"><img src="{{site.img_cdn}}/jplayer-300x280.jpg" alt="jquery скрипт Mp3 плеера" title="jplayer" width="300" height="280" class="alignnone size-medium wp-image-2486" srcset="{{site.img_cdn}}/jplayer-300x280.jpg 300w, {{site.img_cdn}}/jplayer.jpg 429w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="{{site.img_cdn}}/jplayer2.jpg"><img src="{{site.img_cdn}}/jplayer2-300x75.jpg" alt="jquery mp3 player для вставки музыки на сайт" title="jplayer2" width="300" height="75" class="alignnone size-medium wp-image-2487" srcset="{{site.img_cdn}}/jplayer2-300x75.jpg 300w, {{site.img_cdn}}/jplayer2.jpg 432w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 4. [Audio.js](http://kolber.github.com/audiojs/)
@@ -100,7 +100,7 @@ _Кроме того, можно легко настроить внешний в
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/audiojs.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/audiojs-300x73.jpg" alt="jquery html5 mp3 player" title="audiojs" width="300" height="73" class="alignnone size-medium wp-image-2488" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/audiojs-300x73.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/audiojs.jpg 548w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/audiojs.jpg"><img src="{{site.img_cdn}}/audiojs-300x73.jpg" alt="jquery html5 mp3 player" title="audiojs" width="300" height="73" class="alignnone size-medium wp-image-2488" srcset="{{site.img_cdn}}/audiojs-300x73.jpg 300w, {{site.img_cdn}}/audiojs.jpg 548w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 5. [Yahoo mp3 Playe](http://developer.yahoo.com/mediaplayer/)r
@@ -108,7 +108,7 @@ _Кроме того, можно легко настроить внешний в
 Симпатичный плеер от Yahoo
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/yahoo_player.gif"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/yahoo_player-300x47.gif" alt="скрипт Mp3 плеера от yahoo" title="yahoo_player" width="300" height="47" class="alignnone size-medium wp-image-2491" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/yahoo_player-300x47.gif 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/yahoo_player.gif 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/yahoo_player.gif"><img src="{{site.img_cdn}}/yahoo_player-300x47.gif" alt="скрипт Mp3 плеера от yahoo" title="yahoo_player" width="300" height="47" class="alignnone size-medium wp-image-2491" srcset="{{site.img_cdn}}/yahoo_player-300x47.gif 300w, {{site.img_cdn}}/yahoo_player.gif 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 6. [Epplayer](http://www.epplayer.com/)
@@ -116,7 +116,7 @@ _Кроме того, можно легко настроить внешний в
 Плеер с плейлистом и поддержкой разных скинов.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/epplayer.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/epplayer-300x183.jpg" alt="mp3 player script" title="epplayer" width="300" height="183" class="alignnone size-medium wp-image-2492" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/epplayer-300x183.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/epplayer.jpg 431w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/epplayer.jpg"><img src="{{site.img_cdn}}/epplayer-300x183.jpg" alt="mp3 player script" title="epplayer" width="300" height="183" class="alignnone size-medium wp-image-2492" srcset="{{site.img_cdn}}/epplayer-300x183.jpg 300w, {{site.img_cdn}}/epplayer.jpg 431w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 7. [Simple Flash Mp3 Player](http://www.flabell.com/flash/Simple-Flash-Mp3-Player-37)
@@ -124,7 +124,7 @@ _Кроме того, можно легко настроить внешний в
 Легкий и минимально оформленный скрипт Mp3-проигрывателя.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_simple_player.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_simple_player-300x93.jpg" alt="простой Mp3 плеер для сайта" title="flabell_simple_player" width="300" height="93" class="alignnone size-medium wp-image-2493" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_simple_player-300x93.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_simple_player.jpg 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/flabell_simple_player.jpg"><img src="{{site.img_cdn}}/flabell_simple_player-300x93.jpg" alt="простой Mp3 плеер для сайта" title="flabell_simple_player" width="300" height="93" class="alignnone size-medium wp-image-2493" srcset="{{site.img_cdn}}/flabell_simple_player-300x93.jpg 300w, {{site.img_cdn}}/flabell_simple_player.jpg 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 8. [Flash Mp3 Player](http://www.flabell.com/flash/Flash-Mp3-Player-29)
@@ -132,7 +132,7 @@ _Кроме того, можно легко настроить внешний в
 Навороченный скрипт от Flabell. Тут и плеилист и выбор артиста, описание альбома и другие фишки.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_flash_player.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_flash_player-300x162.jpg" alt="многофункциональный скрипт Mp3-плеера для вставки на сайт" title="flabell_flash_player" width="300" height="162" class="alignnone size-medium wp-image-2494" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_flash_player-300x162.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flabell_flash_player.jpg 566w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/flabell_flash_player.jpg"><img src="{{site.img_cdn}}/flabell_flash_player-300x162.jpg" alt="многофункциональный скрипт Mp3-плеера для вставки на сайт" title="flabell_flash_player" width="300" height="162" class="alignnone size-medium wp-image-2494" srcset="{{site.img_cdn}}/flabell_flash_player-300x162.jpg 300w, {{site.img_cdn}}/flabell_flash_player.jpg 566w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## 9. [WordPress Audio Player](http://wpaudioplayer.com/)
@@ -140,7 +140,7 @@ _Кроме того, можно легко настроить внешний в
 Доступен в виде самостоятельного плеера, а так же в виде плагина для WordPress.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wp_audio_player.jpg" alt="плагин mp3-плеера для wordpress" title="wp_audio_player" width="311" height="42" class="alignnone size-full wp-image-2495" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wp_audio_player.jpg 311w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wp_audio_player-300x40.jpg 300w" sizes="(max-width: 311px) 100vw, 311px" />
+  <img src="{{site.img_cdn}}/wp_audio_player.jpg" alt="плагин mp3-плеера для wordpress" title="wp_audio_player" width="311" height="42" class="alignnone size-full wp-image-2495" srcset="{{site.img_cdn}}/wp_audio_player.jpg 311w, {{site.img_cdn}}/wp_audio_player-300x40.jpg 300w" sizes="(max-width: 311px) 100vw, 311px" />
 </center>
 
 **UPDATE: +2 скрипта**
@@ -148,14 +148,14 @@ _Кроме того, можно легко настроить внешний в
 ### 10. <a href="http://scmplayer.net/" target="_blank">SCM Music Player</a>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player-300x124.png" alt="js_player" class="aligncenter size-medium wp-image-7368" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player-300x124.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/js_player.png 668w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/js_player.png"><img src="{{site.img_cdn}}/js_player-300x124.png" alt="js_player" class="aligncenter size-medium wp-image-7368" srcset="{{site.img_cdn}}/js_player-300x124.png 300w, {{site.img_cdn}}/js_player.png 668w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 SCM Player &#8211; выделяется от других плееров двумя главными функциями. Во-первых плеер предоставляет возможность переходить по страницам сайта и прослушивать при этом музыку, без всяких прерываний и перезагрузок (например, как музыка ВКонтакте). Во-вторых плеер можно прикрепить в самых верх/низ страницы, откуда будут доступны все кнопки для управления музыкой.
 Кроме этого, SCM Player имеет множество настроек, несколько готовых скинов и, конечно же, поддерживает крупные плейлисты.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk-300x107.png" alt="scm player js" class="aligncenter size-medium wp-image-7370" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk-300x107.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk-1024x368.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pleer_kak_vk.png 1059w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/pleer_kak_vk.png"><img src="{{site.img_cdn}}/pleer_kak_vk-300x107.png" alt="scm player js" class="aligncenter size-medium wp-image-7370" srcset="{{site.img_cdn}}/pleer_kak_vk-300x107.png 300w, {{site.img_cdn}}/pleer_kak_vk-1024x368.png 1024w, {{site.img_cdn}}/pleer_kak_vk.png 1059w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
@@ -167,7 +167,7 @@ SCM Player &#8211; выделяется от других плееров дву�
 ### 11. <a href="http://www.codebasehero.com/2011/06/html-music-player/" target="_blank">ttwMusicPlayer</a>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita-235x300.png" alt="музыкальный плеер js" class="aligncenter size-medium wp-image-7366" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita-235x300.png 235w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/player_dlya_saita.png 423w" sizes="(max-width: 235px) 100vw, 235px" /></a>
+  <a href="{{site.img_cdn}}/player_dlya_saita.png"><img src="{{site.img_cdn}}/player_dlya_saita-235x300.png" alt="музыкальный плеер js" class="aligncenter size-medium wp-image-7366" srcset="{{site.img_cdn}}/player_dlya_saita-235x300.png 235w, {{site.img_cdn}}/player_dlya_saita.png 423w" sizes="(max-width: 235px) 100vw, 235px" /></a>
 </center>
 
 Красивый плеер на основе HTML5 & JavaScript. Пример с использованием, доступен на страничке плеера.

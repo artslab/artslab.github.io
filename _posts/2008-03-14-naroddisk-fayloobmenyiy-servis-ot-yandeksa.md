@@ -22,7 +22,7 @@ tags:
   - файлообменик
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/?p=248"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/narod_disk1.jpg" alt="Файлообменый сервис от Яндекс" border="0" /></a>
+  <a href="http://artslab.info/?p=248"><img src="{{site.img_cdn}}/narod_disk1.jpg" alt="Файлообменый сервис от Яндекс" border="0" /></a>
 </p>
 
 &#8220;Новый сервис на Яндекс.Народе — бесконечный диск для хранения ваших файлов. Загружайте свои файлы и делитесь ссылками с друзьями. &#8221;

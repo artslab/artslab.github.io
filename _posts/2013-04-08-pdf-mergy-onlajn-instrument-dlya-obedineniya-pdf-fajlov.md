@@ -22,7 +22,7 @@ tags:
 Иногда бывает нужно склеить несколько PDF-документов в один, а под рукой нету подходящего инструмента. На помощь приходит онлайн-сервис [PDF Mergy](http://pdfmerge.w69b.com/), который поможет вам быстро объединить PDF-документы в один файл.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/obedint_pdf_faili.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/obedint_pdf_faili-300x142.jpg" alt="склеить pdf файлы в один" class="aligncenter size-medium wp-image-6940" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/obedint_pdf_faili-300x142.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/obedint_pdf_faili.jpg 743w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/obedint_pdf_faili.jpg"><img src="{{site.img_cdn}}/obedint_pdf_faili-300x142.jpg" alt="склеить pdf файлы в один" class="aligncenter size-medium wp-image-6940" srcset="{{site.img_cdn}}/obedint_pdf_faili-300x142.jpg 300w, {{site.img_cdn}}/obedint_pdf_faili.jpg 743w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Работает все предельно просто, загружаем файлы на сайт и кликаем по кнопочке &#8220;Merge&#8221;. Ждем пока сервис склеивает файлы и затем скачиваем документ.

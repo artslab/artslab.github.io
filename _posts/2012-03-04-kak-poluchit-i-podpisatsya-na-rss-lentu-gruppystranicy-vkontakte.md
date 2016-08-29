@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4403
 permalink: /socialnye-seti/kak-poluchit-i-podpisatsya-na-rss-lentu-gruppystranicy-vkontakte/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rss_feed_vkonakte.jpg
+  - {{site.img_cdn}}/rss_feed_vkonakte.jpg
 prosmotr:
   - 350
 wpb_post_views_count:
@@ -21,7 +21,7 @@ tags:
   - vkontakte
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rss_feed_vkonakte.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rss_feed_vkonakte-300x89.jpg" alt="rss-лента группы, страницы вконтакте" title="rss_feed_vkonakte" width="300" height="89" class="aligncenter size-medium wp-image-4408" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rss_feed_vkonakte-300x89.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rss_feed_vkonakte.jpg 613w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/rss_feed_vkonakte.jpg"><img src="{{site.img_cdn}}/rss_feed_vkonakte-300x89.jpg" alt="rss-лента группы, страницы вконтакте" title="rss_feed_vkonakte" width="300" height="89" class="aligncenter size-medium wp-image-4408" srcset="{{site.img_cdn}}/rss_feed_vkonakte-300x89.jpg 300w, {{site.img_cdn}}/rss_feed_vkonakte.jpg 613w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Как нам известно, публичные страницы и группы в социальной сети Вконтакте не имеют RSS-ленты новостей на которую можно было бы подписаться. Иногда попадаются группы/страницы, которые было бы удобнее читать через RSS-читалку, при этом не обращая внимания на спам в комментариях и прочие отвлекающие вещи на страницах социальной сети. Решение есть, это небольшой сторонний сервис [Вконтакте RSS](http://vkontakte-feed.appspot.com/). Именно он и поможет нам получить RSS-фид любой публичной группы, страницы или даже открытой стены пользователя.

@@ -16,7 +16,7 @@ categories:
   - patterns
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns-300x274.jpg" alt="металлические паттерны" class="aligncenter size-medium wp-image-6531" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns-300x274.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metalicheskie_patterns.jpg 547w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/metalicheskie_patterns.jpg"><img src="{{site.img_cdn}}/metalicheskie_patterns-300x274.jpg" alt="металлические паттерны" class="aligncenter size-medium wp-image-6531" srcset="{{site.img_cdn}}/metalicheskie_patterns-300x274.jpg 300w, {{site.img_cdn}}/metalicheskie_patterns.jpg 547w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Отличный набор металлических паттернов для использования в веб-дизайне. Решетки и сетки с хромированным покрытием. Всего в набор входят 14 разных мозайек, все они, конечно же, могут бы использованы в качестве фона сайта, приложения, для оформления флаеров или каких-либо других материалов. Формат: png, паттерны можно импортировать и использовать в любом графическом редакторе, например в Photoshop или Gimp.

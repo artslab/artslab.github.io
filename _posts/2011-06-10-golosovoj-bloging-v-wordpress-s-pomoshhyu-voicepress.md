@@ -30,7 +30,7 @@ tags:
 Перейдем к главному, написание поста с помощью голоса. Для этого, естественно, понадобится микрофон, Chrome и четкое выговаривание слов и целых предложений. [Google Chrome](http://artslab.info/tag/google-chrome/) придется использовать, так как реализовано это, все на том же Google Speech API.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/voicepress.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/voicepress-300x161.jpg" alt="голосовой блогинг" title="voicepress" width="300" height="161" class="alignnone size-medium wp-image-3311" /></a>
+  <a href="{{site.img_cdn}}/voicepress.jpg"><img src="{{site.img_cdn}}/voicepress-300x161.jpg" alt="голосовой блогинг" title="voicepress" width="300" height="161" class="alignnone size-medium wp-image-3311" /></a>
 </center>
 
 В случае с поиском мы добавляли [несколько строк](http://artslab.info/wordpress/golosovoj-poisk-na-sajte/) к input, для того чтобы в поле появилась иконка с микрофоном и возможность распознования речи. Следующий шаг, в принципе, был очевиден. Почему бы не прикрутить тоже самое к текстовому полю textarea и выпустить это в виде отдельного плагина, неапример для WordPress. Это и представляет из себя дополнение [VoicePress.it](http://voicepress.it/).

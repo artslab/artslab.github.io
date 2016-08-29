@@ -25,7 +25,7 @@ Root позволит владельцам Android-девайсов получи
 
 Поэтому перед тем как сделать root, задумайтесь, действительно ли он вам нужен.
 
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-chto-zachem-kak-300x291.jpg" alt="что такое root и зачем он нужен" class="aligncenter size-medium wp-image-8142" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-chto-zachem-kak-300x291.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-chto-zachem-kak.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-chto-zachem-kak.jpg)
+[<img src="{{site.img_cdn}}/root-chto-zachem-kak-300x291.jpg" alt="что такое root и зачем он нужен" class="aligncenter size-medium wp-image-8142" srcset="{{site.img_cdn}}/root-chto-zachem-kak-300x291.jpg 300w, {{site.img_cdn}}/root-chto-zachem-kak.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/root-chto-zachem-kak.jpg)
 
 <!--more-->
 
@@ -33,6 +33,6 @@ Root позволит владельцам Android-девайсов получи
 
 Для этого скачиваем последнюю версию приложения с официальной ветки на форуме [xda-developers](http://forum.xda-developers.com/showthread.php?t=2130276). Там же, можно ознакомиться со списком всех поддерживаемых устройств на данный момент. Этот метод подойдет для большинства устройств, однако, если вашего девайса нет в списке, то я бы не рекомендовал использовать Framaroot, а попробовал поискать другой проверенный способ.
 
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-prava-v-odin-klik-168x300.jpg" alt="приложение framaroot" class="aligncenter size-medium wp-image-8140" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-prava-v-odin-klik-168x300.jpg 168w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-prava-v-odin-klik-576x1024.jpg 576w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-prava-v-odin-klik.jpg 720w" sizes="(max-width: 168px) 100vw, 168px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/root-prava-v-odin-klik.jpg)
+[<img src="{{site.img_cdn}}/root-prava-v-odin-klik-168x300.jpg" alt="приложение framaroot" class="aligncenter size-medium wp-image-8140" srcset="{{site.img_cdn}}/root-prava-v-odin-klik-168x300.jpg 168w, {{site.img_cdn}}/root-prava-v-odin-klik-576x1024.jpg 576w, {{site.img_cdn}}/root-prava-v-odin-klik.jpg 720w" sizes="(max-width: 168px) 100vw, 168px" />]({{site.img_cdn}}/root-prava-v-odin-klik.jpg)
 
 После того, как скачали apk-файл приложения, устанавливаем его на телефон/планшет, затем запускаем и выбираем один из нескольких методов.

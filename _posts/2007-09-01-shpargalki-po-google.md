@@ -22,7 +22,7 @@ tags:
   - google
 ---
 <p style="text-align: center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_cheat_sheet.jpg" alt="шпаргалка по сервисам гугла" title="google_cheat_sheet" width="450" height="319" class="alignnone size-full wp-image-994" />
+  <img src="{{site.img_cdn}}/google_cheat_sheet.jpg" alt="шпаргалка по сервисам гугла" title="google_cheat_sheet" width="450" height="319" class="alignnone size-full wp-image-994" />
 </p>
 
 **Google Cheat Sheet** &#8211; это две странички, на которых собрана самая интересная информация о Google. Все домены google, адреса googlebot&#8217;a, список сервисов и инструментов, а так же команды которые помогут при поиске. Да что писать, <a href="http://adelaider.com/google/" title="google cheat sheet" target="_blank">смотрите сами</a>

@@ -25,7 +25,7 @@ tags:
 Теперь никаких бликов, никакой объемности. Возможно кому-то новый логотип и придется по душе, а мне старый как-то больше нравится.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_chrome_logo_2d2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/new_chrome_logo_2d2-300x180.jpg" alt="новый логотип браузера Google Chrome" title="new_chrome_logo_2d" width="300" height="180" class="alignnone size-medium wp-image-1738" /></a>
+  <a href="{{site.img_cdn}}/new_chrome_logo_2d2.jpg"><img src="{{site.img_cdn}}/new_chrome_logo_2d2-300x180.jpg" alt="новый логотип браузера Google Chrome" title="new_chrome_logo_2d" width="300" height="180" class="alignnone size-medium wp-image-1738" /></a>
 </center>
 
 UPD: Google [прокомментировали](http://chrome.blogspot.com/2011/03/fresh-take-on-icon.html), почему они изменили логотип:

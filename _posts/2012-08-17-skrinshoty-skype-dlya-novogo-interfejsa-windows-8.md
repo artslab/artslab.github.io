@@ -19,7 +19,7 @@ tags:
   - windows 8
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1-300x168.png" alt="скайп для windows 8" title="skype1" width="300" height="168" class="aligncenter size-medium wp-image-4945" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1-300x168.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/skype1.png"><img src="{{site.img_cdn}}/skype1-300x168.png" alt="скайп для windows 8" title="skype1" width="300" height="168" class="aligncenter size-medium wp-image-4945" srcset="{{site.img_cdn}}/skype1-300x168.png 300w, {{site.img_cdn}}/skype1.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 В руки владельцев сайта [Neowin](http://www.neowin.net/news/skype-for-metro-leaks-we-go-hands-on) попала последняя версия программы Skype для <del datetime="2012-08-17T10:00:21+00:00">Metro UI</del> нового плиточного интерфейса Windows 8 (Modern UI?). Вслед за этим они опубликовали ряд скриншотов, на которых можно увидеть, как в будущем будет выглядеть приложение. Все скриншоты под катом.
@@ -34,25 +34,25 @@ tags:
   <div id='gallery-10' class='gallery galleryid-4942 gallery-columns-4 gallery-size-thumbnail'>
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1.png'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1-100x100.png" class="attachment-thumbnail size-thumbnail" alt="скайп для windows 8" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype1-150x150.png 150w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+        <a href='{{site.img_cdn}}/skype1.png'><img width="100" height="100" src="{{site.img_cdn}}/skype1-100x100.png" class="attachment-thumbnail size-thumbnail" alt="скайп для windows 8" srcset="{{site.img_cdn}}/skype1-100x100.png 100w, {{site.img_cdn}}/skype1-150x150.png 150w" sizes="(max-width: 100px) 100vw, 100px" /></a>
       </dt>
     </dl>
 
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype2.png'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype2-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype2" /></a>
+        <a href='{{site.img_cdn}}/skype2.png'><img width="100" height="100" src="{{site.img_cdn}}/skype2-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype2" /></a>
       </dt>
     </dl>
 
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype3.png'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype3-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype3" /></a>
+        <a href='{{site.img_cdn}}/skype3.png'><img width="100" height="100" src="{{site.img_cdn}}/skype3-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype3" /></a>
       </dt>
     </dl>
 
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype4.png'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype4-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype4" /></a>
+        <a href='{{site.img_cdn}}/skype4.png'><img width="100" height="100" src="{{site.img_cdn}}/skype4-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype4" /></a>
       </dt>
     </dl>
 
@@ -60,13 +60,13 @@ tags:
 
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype5.png'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype5-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype5" /></a>
+        <a href='{{site.img_cdn}}/skype5.png'><img width="100" height="100" src="{{site.img_cdn}}/skype5-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype5" /></a>
       </dt>
     </dl>
 
     <dl class='gallery-item'>
       <dt class='gallery-icon landscape'>
-        <a href='http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype6.png'><img width="100" height="100" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/skype6-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype6" /></a>
+        <a href='{{site.img_cdn}}/skype6.png'><img width="100" height="100" src="{{site.img_cdn}}/skype6-100x100.png" class="attachment-thumbnail size-thumbnail" alt="skype6" /></a>
       </dt>
     </dl>
 

@@ -21,7 +21,7 @@ tags:
   - почта
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail01.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail01-300x144.jpg" alt="почтовик от opera - opera mail" title="opera_mail0" width="300" height="144" class="alignnone size-medium wp-image-2088" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail01-300x144.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail01.jpg 764w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/opera_mail01.jpg"><img src="{{site.img_cdn}}/opera_mail01-300x144.jpg" alt="почтовик от opera - opera mail" title="opera_mail0" width="300" height="144" class="alignnone size-medium wp-image-2088" srcset="{{site.img_cdn}}/opera_mail01-300x144.jpg 300w, {{site.img_cdn}}/opera_mail01.jpg 764w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Да-да, разработчики браузера создали свою почтовую службу [**Opera Mail**](https://mail.opera.com/) с полноценным **веб-интерфейсом**. Каждый зарегистрированный пользователь получает адрес вида **mail@myopera.com**. Сервис был представлен [только сегодня](http://my.opera.com/mailteam/blog/welcome-to-my-opera-mail) и пока что работает в режиме бета.
@@ -31,7 +31,7 @@ tags:
 А вот еще несколько скриншотов :
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail-100x100.png" alt="почтовая служба оперы" title="opera_mail" width="100" height="100" class="alignnone size-medium wp-image-2076" /></a> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail2.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail2-100x100.png" alt="почта от оперы" title="opera_mail2" width="100" height="100" class="alignnone size-medium wp-image-2075" /></a> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail3.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/opera_mail3-100x100.png" alt="почтовые сервис от оперы - opera mail" title="opera_mail3" width="100" height="100" class="alignnone size-medium wp-image-2077" /></a>
+  <a href="{{site.img_cdn}}/opera_mail.png"><img src="{{site.img_cdn}}/opera_mail-100x100.png" alt="почтовая служба оперы" title="opera_mail" width="100" height="100" class="alignnone size-medium wp-image-2076" /></a> <a href="{{site.img_cdn}}/opera_mail2.png"><img src="{{site.img_cdn}}/opera_mail2-100x100.png" alt="почта от оперы" title="opera_mail2" width="100" height="100" class="alignnone size-medium wp-image-2075" /></a> <a href="{{site.img_cdn}}/opera_mail3.png"><img src="{{site.img_cdn}}/opera_mail3-100x100.png" alt="почтовые сервис от оперы - opera mail" title="opera_mail3" width="100" height="100" class="alignnone size-medium wp-image-2077" /></a>
 </center>
 
 ([остальные скриншоты](http://my.opera.com/Tamil/albums/slideshow/?album=6510742&picture=99198732))

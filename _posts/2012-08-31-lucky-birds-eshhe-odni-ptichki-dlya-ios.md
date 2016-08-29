@@ -21,7 +21,7 @@ tags:
   - игры
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucky_birds.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucky_birds-300x114.png" alt="игра lucky birds для ios" title="lucky_birds" width="300" height="114" class="aligncenter size-medium wp-image-5032" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucky_birds-300x114.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lucky_birds.png 840w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/lucky_birds.png"><img src="{{site.img_cdn}}/lucky_birds-300x114.png" alt="игра lucky birds для ios" title="lucky_birds" width="300" height="114" class="aligncenter size-medium wp-image-5032" srcset="{{site.img_cdn}}/lucky_birds-300x114.png 300w, {{site.img_cdn}}/lucky_birds.png 840w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Большой успех и прорыв Angry Birds не дает покоя разработчикам iOS-приложений, поэтому регулярно появляются новые игрушки с участием &#8220;милых&#8221; птичек. Многие из них получается унылыми, а некоторые становятся довольно-таки успешны. Именно одной из таких игр и является [Lucky Birds](http://www.luckybirds.com/).

@@ -22,7 +22,7 @@ tags:
   - Web 2.0
 ---
 <p style="text-align: center">
-  <a href="http://artslab.info/?p=251"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vibr8bros_colorstickers_previewfull2.jpg" alt="vibr8bros_colorstickers_previewfull2.jpg" border="0" /></a>
+  <a href="http://artslab.info/?p=251"><img src="{{site.img_cdn}}/vibr8bros_colorstickers_previewfull2.jpg" alt="vibr8bros_colorstickers_previewfull2.jpg" border="0" /></a>
 </p>
 
 <p align="center">

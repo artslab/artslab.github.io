@@ -22,7 +22,7 @@ tags:
 [Еще один](http://artslab.info/skriptyi/minimalistichnyj-stil-dlya-feedly/ "Минималистичный стиль для Feedly") отличный userscript [Readly](http://userscripts.org/scripts/show/162237) для пользователей Feedly, который добавит сервису более привычный стиль Google Reader. Светлые тона (лучше всего использовать с темой &#8220;Modern Gray&#8221;), широкая лента и компактный вид заголовков.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_v_stile_google_reader.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_v_stile_google_reader-300x170.jpg" alt="стиль google reader для feedly" class="aligncenter size-medium wp-image-6707" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_v_stile_google_reader-300x170.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_v_stile_google_reader.jpg 808w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/feedly_v_stile_google_reader.jpg"><img src="{{site.img_cdn}}/feedly_v_stile_google_reader-300x170.jpg" alt="стиль google reader для feedly" class="aligncenter size-medium wp-image-6707" srcset="{{site.img_cdn}}/feedly_v_stile_google_reader-300x170.jpg 300w, {{site.img_cdn}}/feedly_v_stile_google_reader.jpg 808w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Для установки и использования скрипта пользователям Firefox потребуется дополнение Greasemonkey, хромоводам можно воспользоваться TamperMonkey.

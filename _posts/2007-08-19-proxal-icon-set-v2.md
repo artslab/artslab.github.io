@@ -21,7 +21,7 @@ tags:
   - Miranda
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Proxal_Icon_Set_v2_by_valkyre.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Proxal_Icon_Set_v2_by_valkyre.jpg" alt="" title="Proxal_Icon_Set_v2_by_valkyre" width="500" height="173" class="alignnone size-full wp-image-862" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Proxal_Icon_Set_v2_by_valkyre.jpg 500w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Proxal_Icon_Set_v2_by_valkyre-300x103.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="{{site.img_cdn}}/Proxal_Icon_Set_v2_by_valkyre.jpg"><img src="{{site.img_cdn}}/Proxal_Icon_Set_v2_by_valkyre.jpg" alt="" title="Proxal_Icon_Set_v2_by_valkyre" width="500" height="173" class="alignnone size-full wp-image-862" srcset="{{site.img_cdn}}/Proxal_Icon_Set_v2_by_valkyre.jpg 500w, {{site.img_cdn}}/Proxal_Icon_Set_v2_by_valkyre-300x103.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 </center>
 
 <p align="center">

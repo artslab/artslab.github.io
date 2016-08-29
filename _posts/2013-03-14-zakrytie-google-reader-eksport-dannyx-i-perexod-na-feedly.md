@@ -19,7 +19,7 @@ tags:
   - google reader
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/proshay_google_reader.jpg" alt="google закрывает reader" class="aligncenter size-medium wp-image-6477" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/proshay_google_reader.jpg 460w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/proshay_google_reader-300x103.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />
+  <img src="{{site.img_cdn}}/proshay_google_reader.jpg" alt="google закрывает reader" class="aligncenter size-medium wp-image-6477" srcset="{{site.img_cdn}}/proshay_google_reader.jpg 460w, {{site.img_cdn}}/proshay_google_reader-300x103.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />
 </center>
 
 Google опубликовал [список](http://googleblog.blogspot.de/2013/03/a-second-spring-of-cleaning.html) очередных проектов, которые в ближайшем будущем будут закрыты. Удивительно, но в этот список попала самая популярная RSS-читалка Google Reader (закрытие &#8211; 01.07.2013). Еще одной неожиданностью для меня, стало попадание в список недавно приобретенного графического редактора Snapseed. Google прекратит развитие и поддержку Windows и Mac OS X версий редактора.
@@ -37,7 +37,7 @@ Google опубликовал [список](http://googleblog.blogspot.de/2013/
 Экспортировать все свой данные с Google Reader, можно с помощью сервиса [Google Takeout](https://www.google.com/takeout/?pli=1#custom:reader).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/export_dannih_iz_google_reader.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/export_dannih_iz_google_reader-300x289.jpg" alt="экспорт данных из google reader" class="aligncenter size-medium wp-image-6479" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/export_dannih_iz_google_reader-300x289.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/export_dannih_iz_google_reader.jpg 527w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/export_dannih_iz_google_reader.jpg"><img src="{{site.img_cdn}}/export_dannih_iz_google_reader-300x289.jpg" alt="экспорт данных из google reader" class="aligncenter size-medium wp-image-6479" srcset="{{site.img_cdn}}/export_dannih_iz_google_reader-300x289.jpg 300w, {{site.img_cdn}}/export_dannih_iz_google_reader.jpg 527w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
@@ -49,7 +49,7 @@ Google опубликовал [список](http://googleblog.blogspot.de/2013/
 Для себя я сделал выбор в сторону Feedly, который уже давно мне симпатизировал. Разработчики сервиса сразу [сделали заявление](http://blog.feedly.com/2013/03/14/google-reader/) в своем блоге, что в будущем сервис будет работать независимо от гугл ридера.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zdrastvui_feedly.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zdrastvui_feedly-300x200.jpg" alt="feedly достойная альтернатива" class="aligncenter size-medium wp-image-6481" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zdrastvui_feedly-300x200.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zdrastvui_feedly-1024x684.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zdrastvui_feedly.jpg 1274w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/zdrastvui_feedly.jpg"><img src="{{site.img_cdn}}/zdrastvui_feedly-300x200.jpg" alt="feedly достойная альтернатива" class="aligncenter size-medium wp-image-6481" srcset="{{site.img_cdn}}/zdrastvui_feedly-300x200.jpg 300w, {{site.img_cdn}}/zdrastvui_feedly-1024x684.jpg 1024w, {{site.img_cdn}}/zdrastvui_feedly.jpg 1274w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Среди других сервисов, отмечу [NetVibes](http://www.netvibes.com/ru), [Яндекс.Ленту](http://lenta.yandex.ru/) и [TheOldReader](http://theoldreader.com/).

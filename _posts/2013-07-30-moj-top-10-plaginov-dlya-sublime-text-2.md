@@ -1,6 +1,6 @@
 ---
 id: 7279
-title: Мой топ-10 плагинов для Sublime Text 2
+title: Мой топ-10+ плагинов для Sublime Text 2
 date: 2013-07-30T00:30:37+00:00
 author: serEga
 layout: post
@@ -18,7 +18,7 @@ tags:
   - sublime-text
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins-300x193.png" alt="полезные плагины для ST2" class="size-medium wp-image-7280" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins-300x193.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins-1024x659.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sublime_text2_plugins.png 1088w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/sublime_text2_plugins.png"><img src="{{site.img_cdn}}/sublime_text2_plugins-300x193.png" alt="полезные плагины для ST2" class="size-medium wp-image-7280" srcset="{{site.img_cdn}}/sublime_text2_plugins-300x193.png 300w, {{site.img_cdn}}/sublime_text2_plugins-1024x659.png 1024w, {{site.img_cdn}}/sublime_text2_plugins.png 1088w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 В последнее время стал регулярно использовать Sublime Text 2 в качестве основного редактора. В процессе кодинга начал подробнее ознакамливаться с возможностями и начал восхищаться этим, казалось бы, простым редактором.
@@ -29,19 +29,15 @@ tags:
 
 <!--more-->
 
-
-
-
-
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/package_control_dly_sublime.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/package_control_dly_sublime.png" alt="менеджер пакетов для сублайм текст" class="size-full wp-image-7282" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/package_control_dly_sublime.png 593w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/package_control_dly_sublime-300x93.png 300w" sizes="(max-width: 593px) 100vw, 593px" /></a>
+  <a href="{{site.img_cdn}}/package_control_dly_sublime.png"><img src="{{site.img_cdn}}/package_control_dly_sublime.png" alt="менеджер пакетов для сублайм текст" class="size-full wp-image-7282" srcset="{{site.img_cdn}}/package_control_dly_sublime.png 593w, {{site.img_cdn}}/package_control_dly_sublime-300x93.png 300w" sizes="(max-width: 593px) 100vw, 593px" /></a>
 </center>
 
 1. <a href="http://wbond.net/sublime_packages/package_control" target="_blank">Package Control</a> &#8211; менеджер пакетов для Sublime Text. Позволяет легко устанавливать дополнительные плагины, не выходя из редактора. Все нижеуказанные плагины можно установить с помощью Package Control. Для этого нажимаем комбинаию клавиш Ctrl+Shift+P, даем команду Install Package и затем вводим название интересующего вас плагина.
 
-<center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/color_picker_sublime_text_plugin.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/color_picker_sublime_text_plugin.png" alt="выбор цвета пипеткой st2" class="aligncenter size-full wp-image-7284" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/color_picker_sublime_text_plugin.png 415w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/color_picker_sublime_text_plugin-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/color_picker_sublime_text_plugin-295x300.png 295w" sizes="(max-width: 415px) 100vw, 415px" /></a>
-</center>
+    <center>
+      <a href="{{site.img_cdn}}/color_picker_sublime_text_plugin.png"><img src="{{site.img_cdn}}/color_picker_sublime_text_plugin.png" alt="выбор цвета пипеткой st2" class="aligncenter size-full wp-image-7284" srcset="{{site.img_cdn}}/color_picker_sublime_text_plugin.png 415w, {{site.img_cdn}}/color_picker_sublime_text_plugin-100x100.png 100w, {{site.img_cdn}}/color_picker_sublime_text_plugin-295x300.png 295w" sizes="(max-width: 415px) 100vw, 415px" /></a>
+    </center>
 
 2. <a href="https://github.com/weslly/ColorPicker" target="_blank">Color Picker</a> &#8211; удобная пипетка для выбора необходимого цвета.
 
@@ -55,24 +51,22 @@ tags:
 
 7. <a href="https://github.com/facelessuser/ApplySyntax" target="_blank">ApplySyntax</a> &#8211; плагин для автоматического определения и переключения синтаксиса.
 
-<center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/soda_theme.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/soda_theme.png" alt="графическая оболочка для редактора" class="aligncenter size-full wp-image-7283" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/soda_theme.png 850w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/soda_theme-300x224.png 300w" sizes="(max-width: 850px) 100vw, 850px" /></a>
-</center>
+    <center>
+      <a href="{{site.img_cdn}}/soda_theme.png"><img src="{{site.img_cdn}}/soda_theme.png" alt="графическая оболочка для редактора" class="aligncenter size-full wp-image-7283" srcset="{{site.img_cdn}}/soda_theme.png 850w, {{site.img_cdn}}/soda_theme-300x224.png 300w" sizes="(max-width: 850px) 100vw, 850px" /></a>
+    </center>
 
 8. <a href="https://github.com/buymeasoda/soda-theme" target="_blank">Soda Theme</a> &#8211; одна из самых красивых и безусловно, самая популярная тема для Sublime Text.
 
 9. <a href="https://github.com/sergeche/emmet-sublime" target="_blank">Emmet</a> &#8211; очень крутая штука, о которой я к сожалению узнал совсем недавно. Плагин позволит сэкономить уйму времени при написаний кода. Например, сокращенный код .row>.span6 плагин преобразует в полноценный:
 
-[sourcecode lang=&#8221;html&#8221;]<div class="row"><div class="span6"></div></div>[/sourcecode]
+    ```
+        <div class="row"><div class="span6"></div></div>
+    ```
 
 10. <a href="https://github.com/facelessuser/BracketHighlighter" target="_blank">Bracket Highlighter</a> &#8211; полезный плагин для подсветки скобок и тегов.
 
-**UPDATE:**
-
-
-
-<center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67-300x230.png" alt="подсветка цвета в коде" class="aligncenter size-medium wp-image-8245" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67-300x230.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67.png 378w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
-
 11. [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter) &#8211; подсвечивает HEX-значение в CSS-файлах соответствующим цветом, очень удобно.
+
+    <center>
+      <a href="{{site.img_cdn}}/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67.png"><img src="{{site.img_cdn}}/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67-300x230.png" alt="подсветка цвета в коде" class="aligncenter size-medium wp-image-8245" srcset="{{site.img_cdn}}/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67-300x230.png 300w, {{site.img_cdn}}/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67.png 378w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </center>

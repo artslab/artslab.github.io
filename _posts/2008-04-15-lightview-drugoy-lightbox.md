@@ -23,7 +23,7 @@ tags:
   - скрипт
 ---
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lightview.jpg" class="lightview"><img class="alignnone size-medium wp-image-295" title="lightview" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lightview-300x126.jpg" alt="" width="300" height="126" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lightview-300x126.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lightview.jpg 665w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/lightview.jpg" class="lightview"><img class="alignnone size-medium wp-image-295" title="lightview" src="{{site.img_cdn}}/lightview-300x126.jpg" alt="" width="300" height="126" srcset="{{site.img_cdn}}/lightview-300x126.jpg 300w, {{site.img_cdn}}/lightview.jpg 665w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 Наверняка многие уже заметили наличие этого скрипта в последних записях на сайте. Если кликнуть по мини-картинке записи, то полное изображение откроется в отдельном диалоговом окне. Принцип работы такой же как и уже знакомого Lightbox&#8217;a, только **Lightview** может открывать не только картинки, а так же и веб-станицы (в виде iframe), видео(QuickTime) и flash-ролики(swf).

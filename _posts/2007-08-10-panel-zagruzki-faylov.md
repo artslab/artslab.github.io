@@ -23,7 +23,7 @@ tags:
   - upload
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sshot1eo2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sshot1eo2.jpg" alt="панель загрузки для оперы" title="sshot1eo2" width="387" height="344" class="alignnone size-full wp-image-885" /></a>
+  <a href="{{site.img_cdn}}/sshot1eo2.jpg"><img src="{{site.img_cdn}}/sshot1eo2.jpg" alt="панель загрузки для оперы" title="sshot1eo2" width="387" height="344" class="alignnone size-full wp-image-885" /></a>
 </center>
 
 

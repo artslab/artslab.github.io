@@ -26,7 +26,7 @@ tags:
 format: aside
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css-sprites-300x68.jpg" alt="Как создавать css-спрайты" title="css-sprites" width="300" height="68" class="alignnone size-medium wp-image-3222" />
+  <img src="{{site.img_cdn}}/css-sprites-300x68.jpg" alt="Как создавать css-спрайты" title="css-sprites" width="300" height="68" class="alignnone size-medium wp-image-3222" />
 </center>
 
 Для тех кто не в курсе, css-спрайты &#8211; это одна комбинированная картинка, из которой потом выбираются нужные изображения с помощью CSS.
@@ -34,7 +34,7 @@ format: aside
 Использовать спрайты нам рекомендует Google Page Speed, так как это должно ускорять скорость загрузки сайта. Вот пример спрайта с главной страницы гугла:
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nav_logo72.png" alt="Пример CSS-Sprites" title="nav_logo72" width="178" height="289" class="alignnone size-full wp-image-3221" />
+  <img src="{{site.img_cdn}}/nav_logo72.png" alt="Пример CSS-Sprites" title="nav_logo72" width="178" height="289" class="alignnone size-full wp-image-3221" />
 </center>
 
 Теперь перейдем к тому, как создавать такие спрайты самому.

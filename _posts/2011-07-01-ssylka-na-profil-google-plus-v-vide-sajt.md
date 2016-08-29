@@ -13,7 +13,7 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_logo.jpg
+  - {{site.img_cdn}}/google_plus_logo.jpg
 prosmotr:
   - 123
 wpb_post_views_count:
@@ -26,7 +26,7 @@ tags:
   - google plus
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_logo.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_logo.jpg" alt="Логотип Google Plus" title="google_plus_logo" width="140" height="54" class="alignnone size-full wp-image-3513" /></a>
+  <a href="{{site.img_cdn}}/google_plus_logo.jpg"><img src="{{site.img_cdn}}/google_plus_logo.jpg" alt="Логотип Google Plus" title="google_plus_logo" width="140" height="54" class="alignnone size-full wp-image-3513" /></a>
 </center>
 
 Продолжение гуглотемы. Наткнулся на одну интересную задумку, а почему бы не поставить ссылку на свой профиль Google + в таком виде: http://sitename.ru/+ .

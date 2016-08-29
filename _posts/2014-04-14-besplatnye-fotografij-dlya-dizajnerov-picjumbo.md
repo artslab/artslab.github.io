@@ -20,7 +20,7 @@ tags:
 Дизайнерам и блогерам регулярно приходиться искать качественные фотографий для использования в своих проектах (публикаций, макеты сайтов, открытки, реклама, готовые шаблоны для продажи и т.д.). При поиске и выборе фото важно смотреть на ее лицензию, (в том числе и на популярных стоковых сайтах) чтобы не попасть в нелепую ситуацию. Все это осложняет поиск и найти подходящую фотографию бывает сложно и на это уходит немало времени.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/IMG_6973-1300x866.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/IMG_6973-1300x866-300x199.jpg" alt="бесплатные стоковые фото" class="aligncenter size-medium wp-image-8171" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/IMG_6973-1300x866-300x199.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/IMG_6973-1300x866-1024x682.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/IMG_6973-1300x866-900x599.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/IMG_6973-1300x866.jpg 1300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/IMG_6973-1300x866.jpg"><img src="{{site.img_cdn}}/IMG_6973-1300x866-300x199.jpg" alt="бесплатные стоковые фото" class="aligncenter size-medium wp-image-8171" srcset="{{site.img_cdn}}/IMG_6973-1300x866-300x199.jpg 300w, {{site.img_cdn}}/IMG_6973-1300x866-1024x682.jpg 1024w, {{site.img_cdn}}/IMG_6973-1300x866-900x599.jpg 900w, {{site.img_cdn}}/IMG_6973-1300x866.jpg 1300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

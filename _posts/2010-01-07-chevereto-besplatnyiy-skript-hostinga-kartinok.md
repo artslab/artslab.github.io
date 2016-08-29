@@ -23,7 +23,7 @@ tags:
   - хостинг картинок
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chevereto_logo.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chevereto_logo.png" alt="chevereto cms" title="chevereto_logo" width="535" height="120" class="alignnone size-full wp-image-852" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chevereto_logo.png 535w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chevereto_logo-300x67.png 300w" sizes="(max-width: 535px) 100vw, 535px" /></a>
+  <a href="{{site.img_cdn}}/chevereto_logo.png"><img src="{{site.img_cdn}}/chevereto_logo.png" alt="chevereto cms" title="chevereto_logo" width="535" height="120" class="alignnone size-full wp-image-852" srcset="{{site.img_cdn}}/chevereto_logo.png 535w, {{site.img_cdn}}/chevereto_logo-300x67.png 300w" sizes="(max-width: 535px) 100vw, 535px" /></a>
 </center>
 
 <p style="text-align: left;">

@@ -19,7 +19,7 @@ tags:
   - советы
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_novii_dizain.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_novii_dizain-300x233.png" alt="новый дизайн как попробовать новый дизайн youtube" title="youtube_novii_dizain" width="300" height="233" class="aligncenter size-medium wp-image-5675" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_novii_dizain-300x233.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_novii_dizain-1024x796.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_novii_dizain.png 1149w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/youtube_novii_dizain.png"><img src="{{site.img_cdn}}/youtube_novii_dizain-300x233.png" alt="новый дизайн как попробовать новый дизайн youtube" title="youtube_novii_dizain" width="300" height="233" class="aligncenter size-medium wp-image-5675" srcset="{{site.img_cdn}}/youtube_novii_dizain-300x233.png 300w, {{site.img_cdn}}/youtube_novii_dizain-1024x796.png 1024w, {{site.img_cdn}}/youtube_novii_dizain.png 1149w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Команда YouTube вновь экспериментирует и судя по всему готовит новый дизайн видеопортала. Самые нетерпеливые могут активировать новый пользовательский интерфейс уже сейчас.

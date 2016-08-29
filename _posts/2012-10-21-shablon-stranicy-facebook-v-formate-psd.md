@@ -21,7 +21,7 @@ tags:
 Точный дизайн страницы профиля Facebook. Все элементы UI проработаны очень детально и разбиты отдельно по слоям. Отлично подойдет для тех, кто занимается оформлением страниц в социальной сети.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/048_full.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/048_full-175x300.jpg" alt="шаблон страницы facebook" title="facebook_template" width="175" height="300" class="aligncenter size-medium wp-image-5543" /></a>
+  <a href="{{site.img_cdn}}/048_full.jpeg"><img src="{{site.img_cdn}}/048_full-175x300.jpg" alt="шаблон страницы facebook" title="facebook_template" width="175" height="300" class="aligncenter size-medium wp-image-5543" /></a>
 </center>
 
 [Скачать PSD-файл](http://freebiesbooth.com/facebook-timeline)

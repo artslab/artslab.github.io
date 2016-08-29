@@ -29,7 +29,7 @@ tags:
 **Arthemia**
 
 <p style="text-align: center;">
-  <a rel="lightbox" href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/arthemia.jpg"><img class="alignnone size-medium wp-image-390 aligncenter" title="arthemia" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/arthemia-300x240.jpg" alt="шаблон для вордпресс" width="300" height="240" /></a>
+  <a rel="lightbox" href="{{site.img_cdn}}/arthemia.jpg"><img class="alignnone size-medium wp-image-390 aligncenter" title="arthemia" src="{{site.img_cdn}}/arthemia-300x240.jpg" alt="шаблон для вордпресс" width="300" height="240" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -39,7 +39,7 @@ tags:
 **Guzel Magazine**
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guzel.jpg" rel="lightbox"><img class="alignnone size-medium wp-image-389 aligncenter" title="guzel magazine style" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guzel-300x191.jpg" alt="бесплатные шаблоны для wordpress" width="300" height="191" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guzel-300x191.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/guzel.jpg 1185w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/guzel.jpg" rel="lightbox"><img class="alignnone size-medium wp-image-389 aligncenter" title="guzel magazine style" src="{{site.img_cdn}}/guzel-300x191.jpg" alt="бесплатные шаблоны для wordpress" width="300" height="191" srcset="{{site.img_cdn}}/guzel-300x191.jpg 300w, {{site.img_cdn}}/guzel.jpg 1185w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">

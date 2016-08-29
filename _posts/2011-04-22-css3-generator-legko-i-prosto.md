@@ -21,11 +21,11 @@ tags:
   - generator
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_generator.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_generator-300x44.jpg" alt="css3 генератор эффектов" title="css3_generator" width="300" height="44" class="alignnone size-medium wp-image-2350" /></a>
+  <a href="{{site.img_cdn}}/css3_generator.jpg"><img src="{{site.img_cdn}}/css3_generator-300x44.jpg" alt="css3 генератор эффектов" title="css3_generator" width="300" height="44" class="alignnone size-medium wp-image-2350" /></a>
 </center>
 
 [CSS3 Generator](http://css3generator.com/) &#8211; генерирует кусочки кода для всяких эффектов с помощью CSS3, например, блоки с закругленными углами, текст с тенью, блок с отражением, блок с x-количеством текстовых столбцов и прочие мелкие, но приятные вещи. Рядом с отрывком css-кода, так же размещена информация о кроссбраузерности, думаю на это пока еще стоит обратить особое внимание.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/border_radius.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/border_radius-100x100.jpg" alt="закругленные углы блока без использования картинок" title="border_radius" width="100" height="100" class="alignnone size-thumbnail wp-image-2352" /></a> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_s_tenyu_css3.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/text_s_tenyu_css3-100x100.jpg" alt="текст с тенью css3" title="text_s_tenyu_css3" width="100" height="100" class="alignnone size-thumbnail wp-image-2353" /></a> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/stolbiki_texta.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/stolbiki_texta-100x100.jpg" alt="текст столбцами" title="stolbiki_texta" width="100" height="100" class="alignnone size-thumbnail wp-image-2354" /></a>
+  <a href="{{site.img_cdn}}/border_radius.jpg"><img src="{{site.img_cdn}}/border_radius-100x100.jpg" alt="закругленные углы блока без использования картинок" title="border_radius" width="100" height="100" class="alignnone size-thumbnail wp-image-2352" /></a> <a href="{{site.img_cdn}}/text_s_tenyu_css3.jpg"><img src="{{site.img_cdn}}/text_s_tenyu_css3-100x100.jpg" alt="текст с тенью css3" title="text_s_tenyu_css3" width="100" height="100" class="alignnone size-thumbnail wp-image-2353" /></a> <a href="{{site.img_cdn}}/stolbiki_texta.jpg"><img src="{{site.img_cdn}}/stolbiki_texta-100x100.jpg" alt="текст столбцами" title="stolbiki_texta" width="100" height="100" class="alignnone size-thumbnail wp-image-2354" /></a>
 </center>

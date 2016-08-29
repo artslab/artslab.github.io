@@ -9,7 +9,7 @@ permalink: /news/30-plaginov-dlya-wordpress-kotorye-ispolzuyutsya-v-etom-bloge/
 ljID:
   - 435
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_plugins.png
+  - {{site.img_cdn}}/wordpress_plugins.png
 prosmotr:
   - 246
 wpb_post_views_count:
@@ -23,7 +23,7 @@ tags:
   - Для Wordpress
   - плагины
 ---
-[<img class="size-full wp-image-3619 aligncenter" title="wordpress_plugins" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_plugins.png" alt="Плагины для WordPress" width="128" height="128" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_plugins.png)
+[<img class="size-full wp-image-3619 aligncenter" title="wordpress_plugins" src="{{site.img_cdn}}/wordpress_plugins.png" alt="Плагины для WordPress" width="128" height="128" />]({{site.img_cdn}}/wordpress_plugins.png)
 
 Давно хотел сделать подборку самых необходимых, на мой взгляд, плагинов для WordPress. А тут еще и в комментариях [спросили](http://artslab.info/wordpress/pered-tem-kak-obnovitsya-do-wordpress-3-2/#comments). Поэтому решил больше не затягивать и поделиться всеми плагинами, который я использую на артслабе. Названия, ссылкаи и короткие описанием.
 

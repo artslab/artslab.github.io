@@ -22,7 +22,7 @@ tags:
   - youtube
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/videodropper.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/videodropper-300x83.jpg" alt="сервис videodropper скачивает видео с youtube в dropbox" title="videodropper" width="300" height="83" class="aligncenter size-medium wp-image-4272" /></a>
+  <a href="{{site.img_cdn}}/videodropper.jpg"><img src="{{site.img_cdn}}/videodropper-300x83.jpg" alt="сервис videodropper скачивает видео с youtube в dropbox" title="videodropper" width="300" height="83" class="aligncenter size-medium wp-image-4272" /></a>
 </center>
 
 Существует много разных способов для обхода блокировки на видеороликах Youtube, об одной из таких возможностей для [просмотра заблокированных видео](http://artslab.info/sovetyi/eto-video-ne-dostupno-dlya-prosmotra-kak-smotret-zablokirovannoe-video-s-youtube/ "Это видео не доступно для просмотра — как смотреть заблокированное видео с youtube"), я уже писал ранее. На днях я встретил еще один интересный метод, который предлагает нам сервис [Videodropper](http://videodropper.ep.io/). Videodropper загружает заблокированные видеоролики в папку на ваш Dropbox-аккаунт. Немного необычный подход, но тем не менее интересный.

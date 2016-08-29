@@ -45,29 +45,29 @@ tags:
 [BlueStandard](http://forums.pligg.com/free-templates/16275-bluestandard-template-farru.html) &#8211; красивый шаблон в синих тонах
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bluestandard_shablon_pligg.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bluestandard_shablon_pligg-300x237.png" alt="бесплатная тема для pligg" class="aligncenter size-medium wp-image-7423" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bluestandard_shablon_pligg-300x237.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bluestandard_shablon_pligg-1024x810.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bluestandard_shablon_pligg.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/bluestandard_shablon_pligg.png"><img src="{{site.img_cdn}}/bluestandard_shablon_pligg-300x237.png" alt="бесплатная тема для pligg" class="aligncenter size-medium wp-image-7423" srcset="{{site.img_cdn}}/bluestandard_shablon_pligg-300x237.png 300w, {{site.img_cdn}}/bluestandard_shablon_pligg-1024x810.png 1024w, {{site.img_cdn}}/bluestandard_shablon_pligg.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <a href="http://forums.pligg.com/free-templates/19508-genesis-free-professional-pligg-template.html" target="_blank">Genesis</a> &#8211; бесплатный шаблон с приятными цветами.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/genesis_free.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/genesis_free-300x237.jpg" alt="шаблон genesis" class="aligncenter size-medium wp-image-7425" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/genesis_free-300x237.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/genesis_free.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/genesis_free.jpg"><img src="{{site.img_cdn}}/genesis_free-300x237.jpg" alt="шаблон genesis" class="aligncenter size-medium wp-image-7425" srcset="{{site.img_cdn}}/genesis_free-300x237.jpg 300w, {{site.img_cdn}}/genesis_free.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <a href="http://forums.pligg.com/free-templates/7652-cznet-free-pligg-template.html" target="_blank">czNet</a> &#8211; еще одна неплохая бесплатная темка. Цвета, на мой взгляд, выбраны не совсем удачно, но это легко можно исправить.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/czNet_besplatnaya_tema.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/czNet_besplatnaya_tema-206x300.jpg" alt="скачать тему для плигг" class="aligncenter size-medium wp-image-7424" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/czNet_besplatnaya_tema-206x300.jpg 206w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/czNet_besplatnaya_tema-705x1024.jpg 705w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/czNet_besplatnaya_tema.jpg 800w" sizes="(max-width: 206px) 100vw, 206px" /></a>
+  <a href="{{site.img_cdn}}/czNet_besplatnaya_tema.jpg"><img src="{{site.img_cdn}}/czNet_besplatnaya_tema-206x300.jpg" alt="скачать тему для плигг" class="aligncenter size-medium wp-image-7424" srcset="{{site.img_cdn}}/czNet_besplatnaya_tema-206x300.jpg 206w, {{site.img_cdn}}/czNet_besplatnaya_tema-705x1024.jpg 705w, {{site.img_cdn}}/czNet_besplatnaya_tema.jpg 800w" sizes="(max-width: 206px) 100vw, 206px" /></a>
 </center>
 
 <a href="http://forums.pligg.com/free-templates/18172-pliggmeme-redux-1-1-3-a.html" target="_blank">Pliggmeme</a> &#8211; шаблон в минималистичном стиле, подойдет для сайта на любую тематику.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pliggmemedit.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pliggmemedit-300x293.png" alt="минималистичная тема" class="aligncenter size-medium wp-image-7426" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pliggmemedit-300x293.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pliggmemedit-1024x1002.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pliggmemedit.png 1083w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/pliggmemedit.png"><img src="{{site.img_cdn}}/pliggmemedit-300x293.png" alt="минималистичная тема" class="aligncenter size-medium wp-image-7426" srcset="{{site.img_cdn}}/pliggmemedit-300x293.png 300w, {{site.img_cdn}}/pliggmemedit-1024x1002.png 1024w, {{site.img_cdn}}/pliggmemedit.png 1083w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <a href="http://forums.pligg.com/free-templates/18359-mainstream-template.html" target="_blank">Mainstream</a> &#8211; еще один довольно-таки стильный шаблон в ярких тонах.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mainstream_dlya_pligg.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mainstream_dlya_pligg-279x300.png" alt="бесплатный шаблон mainstream" class="aligncenter size-medium wp-image-7427" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mainstream_dlya_pligg-279x300.png 279w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mainstream_dlya_pligg-953x1024.png 953w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mainstream_dlya_pligg.png 1168w" sizes="(max-width: 279px) 100vw, 279px" /></a>
+  <a href="{{site.img_cdn}}/mainstream_dlya_pligg.png"><img src="{{site.img_cdn}}/mainstream_dlya_pligg-279x300.png" alt="бесплатный шаблон mainstream" class="aligncenter size-medium wp-image-7427" srcset="{{site.img_cdn}}/mainstream_dlya_pligg-279x300.png 279w, {{site.img_cdn}}/mainstream_dlya_pligg-953x1024.png 953w, {{site.img_cdn}}/mainstream_dlya_pligg.png 1168w" sizes="(max-width: 279px) 100vw, 279px" /></a>
 </center>

@@ -19,7 +19,7 @@ tags:
   - generator
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/knopki_dlya_saita.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/knopki_dlya_saita.png" alt="кнопки для сайта" title="knopki_dlya_saita" width="270" height="182" class="aligncenter size-full wp-image-4932" /></a>
+  <a href="{{site.img_cdn}}/knopki_dlya_saita.png"><img src="{{site.img_cdn}}/knopki_dlya_saita.png" alt="кнопки для сайта" title="knopki_dlya_saita" width="270" height="182" class="aligncenter size-full wp-image-4932" /></a>
 </center>
 
 Главное преимущество кнопок созданных с помощью CSS3 &#8211; это возможность создавать красивые элементы без использования дополнительной графики. Не нужно открывать графический редактор и что-то в нем рисовать, кнопка полностью состоит из CSS3-кода, в котором можно мгновенно изменить цвет, уменьшить тень или например, увеличить толщину рамки. Очевидный минус такого подхода, это несовместимость с устаревшими браузерами.
@@ -31,13 +31,13 @@ tags:
 ### 1. [Button X &#8211; CSS3 Button Maker](http://www.webarti.com/best-CSS3-button-maker/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_knopka.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_knopka-300x134.png" alt="генератор css3-кнопок" title="css3_knopka" width="300" height="134" class="aligncenter size-medium wp-image-4929" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_knopka-300x134.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_knopka-1024x459.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_knopka.png 1312w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/css3_knopka.png"><img src="{{site.img_cdn}}/css3_knopka-300x134.png" alt="генератор css3-кнопок" title="css3_knopka" width="300" height="134" class="aligncenter size-medium wp-image-4929" srcset="{{site.img_cdn}}/css3_knopka-300x134.png 300w, {{site.img_cdn}}/css3_knopka-1024x459.png 1024w, {{site.img_cdn}}/css3_knopka.png 1312w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 2. [CSS3 Button Generator](http://css3button.net/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_generator_knopok.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_generator_knopok-300x256.png" alt="создать css3-кнопку" title="css3_generator_knopok" width="300" height="256" class="aligncenter size-medium wp-image-4928" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_generator_knopok-300x256.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css3_generator_knopok.png 935w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/css3_generator_knopok.png"><img src="{{site.img_cdn}}/css3_generator_knopok-300x256.png" alt="создать css3-кнопку" title="css3_generator_knopok" width="300" height="256" class="aligncenter size-medium wp-image-4928" srcset="{{site.img_cdn}}/css3_generator_knopok-300x256.png 300w, {{site.img_cdn}}/css3_generator_knopok.png 935w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 На обоих сайтах есть галерей с готовыми кнопками, которые можно изменить так как вам нужно.

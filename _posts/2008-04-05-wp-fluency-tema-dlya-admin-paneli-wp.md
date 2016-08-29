@@ -24,7 +24,7 @@ tags:
   - шаблон
 ---
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fluency_admin_wordpress.jpg" class="lightview"><img class="alignnone size-medium wp-image-283" title="fluency_admin_wordpress" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fluency_admin_wordpress-300x187.jpg" alt="Шаблон для админ панели wordpress" width="300" height="187" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fluency_admin_wordpress-300x187.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fluency_admin_wordpress.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/fluency_admin_wordpress.jpg" class="lightview"><img class="alignnone size-medium wp-image-283" title="fluency_admin_wordpress" src="{{site.img_cdn}}/fluency_admin_wordpress-300x187.jpg" alt="Шаблон для админ панели wordpress" width="300" height="187" srcset="{{site.img_cdn}}/fluency_admin_wordpress-300x187.jpg 300w, {{site.img_cdn}}/fluency_admin_wordpress.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <a title="Шаблон для админ панели WordPress" href="http://deanjrobinson.com/projects/fluency-admin/" target="_blank">Wp Fluency Admin</a> &#8211; шаблон, в темных тонах, для админки вордпресса. Думаю тема придется по душе всем тем, кому не понравилось новое &#8220;мягкое&#8221; оформление в версий wp 2.5.

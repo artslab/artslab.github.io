@@ -9,7 +9,7 @@ permalink: /vse-dlya-google-chrome/vyravnivaem-interfejs-google-po-centru-firefo
 prosmotr:
   - 174
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus.jpg
+  - {{site.img_cdn}}/whitespace_remover_googleplus.jpg
 wpb_post_views_count:
   - 1144
 dsq_thread_id:
@@ -23,7 +23,7 @@ tags:
   - дополнение
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus-300x187.jpg" alt="убираем пустое место на google plus" title="whitespace_remover_googleplus" width="300" height="187" class="aligncenter size-medium wp-image-4561" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus-300x187.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/whitespace_remover_googleplus.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/whitespace_remover_googleplus.jpg"><img src="{{site.img_cdn}}/whitespace_remover_googleplus-300x187.jpg" alt="убираем пустое место на google plus" title="whitespace_remover_googleplus" width="300" height="187" class="aligncenter size-medium wp-image-4561" srcset="{{site.img_cdn}}/whitespace_remover_googleplus-300x187.jpg 300w, {{site.img_cdn}}/whitespace_remover_googleplus.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Для тех, кто до сих пор не может привыкнуть к пустому месту на Google+. В одной из прошлых заметок на [блоге про Google+](http://gplusblog.ru/fiks-shiriny-lenty-novogo-interfejsa-google/), я уже делился небольшим стилем (userstyle), который помогал избавиться от пустого места и растягивал ленту активности в ширину. Скрипт работает, но у него есть минус. Видео и фотографий из ленты отображаются не совсем красиво.

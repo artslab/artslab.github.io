@@ -25,7 +25,7 @@ tags:
   - шаблон
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/screenshot.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/screenshot.png" alt="" title="screenshot" width="300" height="225" class="alignnone size-full wp-image-838" /></a>
+  <a href="{{site.img_cdn}}/screenshot.png"><img src="{{site.img_cdn}}/screenshot.png" alt="" title="screenshot" width="300" height="225" class="alignnone size-full wp-image-838" /></a>
 </center>
 
 

@@ -21,7 +21,7 @@ tags:
   - vista
 ---
 <center>
-  <img border="0" title="aero vista иконки" alt="aero vista иконки" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/AeroVista_by_Mayosoft.jpg" />
+  <img border="0" title="aero vista иконки" alt="aero vista иконки" src="{{site.img_cdn}}/AeroVista_by_Mayosoft.jpg" />
 </center>
 
 Симпатичный набор иконок под названием Aerovista / 40 иконок в стиле Windows Vista / автор: [Mayosoft](http://mayosoft.deviantart.com/)

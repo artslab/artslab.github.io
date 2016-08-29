@@ -22,7 +22,7 @@ tags:
   - pinterest
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_ios_android.png" alt="приложение pinterest для смартофонов" title="pinterest_ios_android" width="124" height="124" class="aligncenter size-full wp-image-5152" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_ios_android.png 124w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_ios_android-100x100.png 100w" sizes="(max-width: 124px) 100vw, 124px" />
+  <img src="{{site.img_cdn}}/pinterest_ios_android.png" alt="приложение pinterest для смартофонов" title="pinterest_ios_android" width="124" height="124" class="aligncenter size-full wp-image-5152" srcset="{{site.img_cdn}}/pinterest_ios_android.png 124w, {{site.img_cdn}}/pinterest_ios_android-100x100.png 100w" sizes="(max-width: 124px) 100vw, 124px" />
 </center>
 
 Про сервис Pinterest я уже писал ранее в блоге и даже раздавал инвайты. Для многих пользователей сервис стал неотъемленной частью интернета, особенно популярным он является среди представителей слабого пола. Для того чтобы удобно просматривать фотографий из этой сети со своего смартфона или планшета, было создано специальное приложение для разных платформ.
@@ -34,7 +34,7 @@ tags:
 ### Pinterest для владельцев девайсов с Android
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_skachat_dlya_android.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_skachat_dlya_android-168x300.jpg" alt="приложение pinterest для android" title="pinterest_skachat_dlya_android" width="168" height="300" class="size-medium wp-image-5153" /></a>&nbsp;<a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_skachat_dlya_android2.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_skachat_dlya_android2-168x300.jpg" alt="скачать pinterest для android" title="pinterest_skachat_dlya_android2" width="168" height="300" class="size-medium wp-image-5154" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_skachat_dlya_android2-168x300.jpg 168w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pinterest_skachat_dlya_android2.jpeg 288w" sizes="(max-width: 168px) 100vw, 168px" /></a>
+  <a href="{{site.img_cdn}}/pinterest_skachat_dlya_android.jpeg"><img src="{{site.img_cdn}}/pinterest_skachat_dlya_android-168x300.jpg" alt="приложение pinterest для android" title="pinterest_skachat_dlya_android" width="168" height="300" class="size-medium wp-image-5153" /></a>&nbsp;<a href="{{site.img_cdn}}/pinterest_skachat_dlya_android2.jpeg"><img src="{{site.img_cdn}}/pinterest_skachat_dlya_android2-168x300.jpg" alt="скачать pinterest для android" title="pinterest_skachat_dlya_android2" width="168" height="300" class="size-medium wp-image-5154" srcset="{{site.img_cdn}}/pinterest_skachat_dlya_android2-168x300.jpg 168w, {{site.img_cdn}}/pinterest_skachat_dlya_android2.jpeg 288w" sizes="(max-width: 168px) 100vw, 168px" /></a>
 </center>
 
 

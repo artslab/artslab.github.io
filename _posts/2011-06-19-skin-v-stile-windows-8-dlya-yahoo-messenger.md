@@ -26,7 +26,7 @@ tags:
   - yahoo messenger
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metro_yahoo_messenger_update_1_by_alkhan-d3isteb.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/metro_yahoo_messenger_update_1_by_alkhan-d3isteb-300x225.jpg" alt="скин для yahoo messenger в стиле windows 8" title="metro_yahoo_messenger_update_1_by_alkhan-d3isteb" width="300" height="225" class="alignnone size-medium wp-image-3375" /></a>
+  <a href="{{site.img_cdn}}/metro_yahoo_messenger_update_1_by_alkhan-d3isteb.jpg"><img src="{{site.img_cdn}}/metro_yahoo_messenger_update_1_by_alkhan-d3isteb-300x225.jpg" alt="скин для yahoo messenger в стиле windows 8" title="metro_yahoo_messenger_update_1_by_alkhan-d3isteb" width="300" height="225" class="alignnone size-medium wp-image-3375" /></a>
 </center>
 
 Должен сразу признаться, я ни разу не пользовался клиентом Yahoo! Messenger, поэтому ничего не могу сказать о том насколько он хорош и удобен. Согласитесь, он не настолько популярен, как некоторые другие программы для мгновенного обмена сообщениями, но судя по всему есть те, кому нравится этот мессенджер и те кто его активно использует.

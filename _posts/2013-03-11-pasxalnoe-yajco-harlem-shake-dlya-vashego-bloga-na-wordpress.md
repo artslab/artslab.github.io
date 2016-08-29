@@ -23,7 +23,7 @@ tags:
 
 Если на YouTube ввести фразу &#8220;do the harlem shake&#8221; и нажать Enter, то можно увидеть пляску элементов под уже поднадоевшую мелодию из трендового видео-безумства. Окончательную идею реализовать что-то подобное для своего сайта, мне подкинул один из посетителей, который вбил эту фразу в поисковую строку на моем блоге (увидел через плагин [Search Meter](http://artslab.info/news/30-plaginov-dlya-wordpress-kotorye-ispolzuyutsya-v-etom-bloge/)). Можете попробовать [поискать](http://artslab.info/?s=do+the+harlem+shake), а под катом реализация.
 
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/harlem_shake_dlya_saita.jpg" alt="harlem shake для сайта" class="aligncenter size-medium" width="347" width="79" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/harlem_shake_dlya_saita.jpg)
+[<img src="{{site.img_cdn}}/harlem_shake_dlya_saita.jpg" alt="harlem shake для сайта" class="aligncenter size-medium" width="347" width="79" />]({{site.img_cdn}}/harlem_shake_dlya_saita.jpg)
 
 <!--more-->
 
@@ -96,5 +96,5 @@ harlemShake();
 Как видите, создать &#8220;пасхальное яйцо&#8221; для WP-поиска очень даже просто.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shaker.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shaker-300x204.jpg" alt="harlem shake для сайта" class="aligncenter size-medium wp-image-6441" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shaker-300x204.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shaker-1024x698.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shaker.jpg 1091w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/shaker.jpg"><img src="{{site.img_cdn}}/shaker-300x204.jpg" alt="harlem shake для сайта" class="aligncenter size-medium wp-image-6441" srcset="{{site.img_cdn}}/shaker-300x204.jpg 300w, {{site.img_cdn}}/shaker-1024x698.jpg 1024w, {{site.img_cdn}}/shaker.jpg 1091w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

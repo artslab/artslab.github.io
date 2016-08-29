@@ -9,7 +9,7 @@ permalink: /programmyi/chasy-dlya-dlya-rabochego-stola-v-stile-windows-8/
 ljID:
   - 447
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/w8_desktop_clock_for_windows_7.png
+  - {{site.img_cdn}}/w8_desktop_clock_for_windows_7.png
 prosmotr:
   - 434
 wpb_post_views_count:
@@ -24,7 +24,7 @@ tags:
   - часы
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/w8_desktop_clock_for_windows_7.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/w8_desktop_clock_for_windows_7-300x248.png" alt="часы для рабочего стола в стиле WIndows 8" title="w8_desktop_clock_for_windows_7" width="300" height="248" class="alignnone size-medium wp-image-3726" /></a>
+  <a href="{{site.img_cdn}}/w8_desktop_clock_for_windows_7.png"><img src="{{site.img_cdn}}/w8_desktop_clock_for_windows_7-300x248.png" alt="часы для рабочего стола в стиле WIndows 8" title="w8_desktop_clock_for_windows_7" width="300" height="248" class="alignnone size-medium wp-image-3726" /></a>
 </center>
 
 Дата релиза [Windows 8](http://artslab.info/tag/windows-8/) все еще не известна, но стиль новой операционной системы пришелся многим по душе. Уже в данный момент, существует много всяких украшений для Windows 7/Vista/XP в стиле новой ОСи.

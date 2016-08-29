@@ -20,7 +20,7 @@ tags:
   - ikonki
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ka_ching.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ka_ching-300x268.png" alt="набор коммерческих иконок" title="ka_ching" width="300" height="268" class="alignnone size-medium wp-image-1305" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ka_ching-300x268.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ka_ching.png 615w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/ka_ching.png"><img src="{{site.img_cdn}}/ka_ching-300x268.png" alt="набор коммерческих иконок" title="ka_ching" width="300" height="268" class="alignnone size-medium wp-image-1305" srcset="{{site.img_cdn}}/ka_ching-300x268.png 300w, {{site.img_cdn}}/ka_ching.png 615w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Бесплатный набор коммерческих иконок

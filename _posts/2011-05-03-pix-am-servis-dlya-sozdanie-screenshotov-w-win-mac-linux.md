@@ -22,7 +22,7 @@ tags:
   - скриншот
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixam.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixam-300x140.png" alt="сервис для загрузки скриншотов" title="pixam" width="300" height="140" class="alignnone size-medium wp-image-2511" /></a>
+  <a href="{{site.img_cdn}}/pixam.png"><img src="{{site.img_cdn}}/pixam-300x140.png" alt="сервис для загрузки скриншотов" title="pixam" width="300" height="140" class="alignnone size-medium wp-image-2511" /></a>
 </center>
 
 Тема программ для создания скриншотов наверное бесконечна и с каждым днем, появляются все новые и новые решения. Моим фаворитом в этой области был сервис [clip2net](http://artslab.info/onlayn-servisyi/byistroe-sozdanie-skrinshotov-clip2net/), с его отличным клиентом. Кроме того я писал уже и о утилите [shotty](http://artslab.info/programmyi/shotty-udobnoe-snyatie-skrinshotov/) и о дополнениях к браузерам.
@@ -34,5 +34,5 @@ tags:
 Кроме того в программе присутствует быстрый и легкий встроенный редактор, в котором есть самые главные функций (карандаш, круг, прямоугольник, текст, инструмент для &#8220;замазки&#8221; текста). Еще одна небольшая, но приятная вещь, это то что после загрузки изображения в сеть, ссылка на скриншот сразу же копируется в буфер обмена.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixam_editor.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixam_editor-100x100.jpg" alt="встроенный редактор скриншотов" title="pixam_editor" width="100" height="100" class="alignnone size-thumbnail wp-image-2512" /></a> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixam_homepage.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pixam_homepage-100x100.png" alt="главная страница сервиса" title="pixam_homepage" width="100" height="100" class="alignnone size-thumbnail wp-image-2513" /></a>
+  <a href="{{site.img_cdn}}/pixam_editor.jpg"><img src="{{site.img_cdn}}/pixam_editor-100x100.jpg" alt="встроенный редактор скриншотов" title="pixam_editor" width="100" height="100" class="alignnone size-thumbnail wp-image-2512" /></a> <a href="{{site.img_cdn}}/pixam_homepage.png"><img src="{{site.img_cdn}}/pixam_homepage-100x100.png" alt="главная страница сервиса" title="pixam_homepage" width="100" height="100" class="alignnone size-thumbnail wp-image-2513" /></a>
 </center>

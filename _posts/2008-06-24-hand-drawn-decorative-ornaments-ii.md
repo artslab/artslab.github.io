@@ -22,7 +22,7 @@ tags:
   - Вектор
 ---
 <p style="text-align: center;">
-  <a rel="lightbox" href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_vector_ornaments_6.gif"><img class="alignnone size-medium wp-image-349" title="free_vector_ornaments_6" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_vector_ornaments_6-288x300.gif" alt="орнаменты в векторе" width="288" height="300" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_vector_ornaments_6-288x300.gif 288w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_vector_ornaments_6.gif 465w" sizes="(max-width: 288px) 100vw, 288px" /></a>
+  <a rel="lightbox" href="{{site.img_cdn}}/free_vector_ornaments_6.gif"><img class="alignnone size-medium wp-image-349" title="free_vector_ornaments_6" src="{{site.img_cdn}}/free_vector_ornaments_6-288x300.gif" alt="орнаменты в векторе" width="288" height="300" srcset="{{site.img_cdn}}/free_vector_ornaments_6-288x300.gif 288w, {{site.img_cdn}}/free_vector_ornaments_6.gif 465w" sizes="(max-width: 288px) 100vw, 288px" /></a>
 </p>
 
 <p style="text-align: center;">

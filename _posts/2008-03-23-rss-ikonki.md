@@ -24,7 +24,7 @@ tags:
 Любителям красивых RSS иконок посвящается =)
 
 <p style="text-align: center">
-  <a href="http://artslab.info/?p=265"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pretty_rss_feed_icon.png" alt="Скачать RSS иконки" border="0" /></a>
+  <a href="http://artslab.info/?p=265"><img src="{{site.img_cdn}}/pretty_rss_feed_icon.png" alt="Скачать RSS иконки" border="0" /></a>
 </p>
 
 <p style="text-align: center">

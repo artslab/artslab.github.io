@@ -23,7 +23,7 @@ tags:
   - video
 ---
 <center>
-   <img STYLE="width: 189px; height: 118px" HEIGHT="118" WIDTH="189" BORDER="0" TITLE="снятие звуковой дорожки с видео" ALT="снятие звуковой дорожки с видео" SRC="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vid2mp3.gif" />
+   <img STYLE="width: 189px; height: 118px" HEIGHT="118" WIDTH="189" BORDER="0" TITLE="снятие звуковой дорожки с видео" ALT="снятие звуковой дорожки с видео" SRC="{{site.img_cdn}}/vid2mp3.gif" />
 </center>
 
 

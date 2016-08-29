@@ -13,7 +13,7 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress32.png
+  - {{site.img_cdn}}/wordpress32.png
 prosmotr:
   - 447
 wpb_post_views_count:
@@ -26,7 +26,7 @@ tags:
   - Для Wordpress
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress32.png" alt="Новая версия WordPress 3.2" title="wordpress32" width="130" height="130" class="alignnone size-full wp-image-3599" />
+  <img src="{{site.img_cdn}}/wordpress32.png" alt="Новая версия WordPress 3.2" title="wordpress32" width="130" height="130" class="alignnone size-full wp-image-3599" />
 </center>
 
 Совсем скоро состоится релиз финальной версий [WordPress 3.2](http://artslab.info/wordpress/chto-novogo-v-wordpress-3-2-obzor-novovvedenij/). Разработчики [напоминают нам](http://wordpress.org/news/2011/07/are-you-ready-for-wordpress-3-2/), что перед тем как обновиться на новую версию, важно проверить версию PHP и MySQL на вашем хостинге. Дело в том, что минимальные требования для корректной работы WP 3.2 изменились, теперь обязательно нужны версий PHP 5.2.4 и MySQL 5.0. Поэтому чтобы избежать лишних проблем с движком, лучше заранее, перед обновлением, перепроверить это.

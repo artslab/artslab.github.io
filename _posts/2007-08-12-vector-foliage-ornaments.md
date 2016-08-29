@@ -22,7 +22,7 @@ tags:
   - Вектор
 ---
 <p style="text-align: center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_vector_floral_ornaments01.jpg" title="векторные орнаменты" alt="векторные орнаменты" border="1" height="169" width="500" />
+  <img src="{{site.img_cdn}}/free_vector_floral_ornaments01.jpg" title="векторные орнаменты" alt="векторные орнаменты" border="1" height="169" width="500" />
 </p>
 
  13 Free Vector Foliage Ornaments Pack 01 | 13 бесплатных векторных орнаментов (веточки, кустарники, цветочки и т.п.) от <a href="http://www.snap2objects.com" title="Snap2Objects" target="_blank">snap2objects</a>

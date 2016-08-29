@@ -22,7 +22,7 @@ tags:
 Возможности CSS3 легко позволяют превратить цветную фотографию в черно-белую, используя для этого всего несколько строк кода. Добавим еще один эффект для обратного перехода при наведении на изображение и можно смело использовать код для каких-нибудь превью-миниатюр на сайтах.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cherno-beloe-foto-css.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cherno-beloe-foto-css-300x101.png" alt="черно-белое фото css" class="aligncenter size-medium wp-image-7890" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cherno-beloe-foto-css-300x101.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cherno-beloe-foto-css.png 609w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/cherno-beloe-foto-css.png"><img src="{{site.img_cdn}}/cherno-beloe-foto-css-300x101.png" alt="черно-белое фото css" class="aligncenter size-medium wp-image-7890" srcset="{{site.img_cdn}}/cherno-beloe-foto-css-300x101.png 300w, {{site.img_cdn}}/cherno-beloe-foto-css.png 609w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

@@ -56,13 +56,13 @@ tags:
 </p>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20_name_generator1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20_name_generator1-300x65.jpg" alt="" title="web20_name_generator" width="300" height="65" class="alignnone size-medium wp-image-928" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20_name_generator1-300x65.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20_name_generator1.jpg 378w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/web20_name_generator1.jpg"><img src="{{site.img_cdn}}/web20_name_generator1-300x65.jpg" alt="" title="web20_name_generator" width="300" height="65" class="alignnone size-medium wp-image-928" srcset="{{site.img_cdn}}/web20_name_generator1-300x65.jpg 300w, {{site.img_cdn}}/web20_name_generator1.jpg 378w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
   * **My cool button** &#8211; Сервис для создания вот таких вот кнопок:
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/buttons.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/buttons-300x94.jpg" alt="создать кнопку онлайн" title="buttons" width="300" height="94" class="alignnone size-medium wp-image-937" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/buttons-300x94.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/buttons.jpg 509w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/buttons.jpg"><img src="{{site.img_cdn}}/buttons-300x94.jpg" alt="создать кнопку онлайн" title="buttons" width="300" height="94" class="alignnone size-medium wp-image-937" srcset="{{site.img_cdn}}/buttons-300x94.jpg 300w, {{site.img_cdn}}/buttons.jpg 509w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <p align="center">
@@ -72,11 +72,11 @@ tags:
   * **Ajaxload** &#8211; Генератор картинок отображающих статус загрузки страницы/приложения
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ajaxload.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ajaxload-300x117.jpg" alt="" title="ajaxload" width="300" height="117" class="alignnone size-medium wp-image-930" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ajaxload-300x117.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ajaxload.jpg 421w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/ajaxload.jpg"><img src="{{site.img_cdn}}/ajaxload-300x117.jpg" alt="" title="ajaxload" width="300" height="117" class="alignnone size-medium wp-image-930" srcset="{{site.img_cdn}}/ajaxload-300x117.jpg 300w, {{site.img_cdn}}/ajaxload.jpg 421w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <p align="center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/8-0.gif" alt="" title="8-0" width="220" height="19" class="size-full wp-image-931" />
+  <img src="{{site.img_cdn}}/8-0.gif" alt="" title="8-0" width="220" height="19" class="size-full wp-image-931" />
 </p>
 
 <p align="center">

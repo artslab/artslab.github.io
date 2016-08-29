@@ -19,7 +19,7 @@ tags:
   - урок
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/effekt_akvareli1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/effekt_akvareli1-300x203.jpg" alt="эффект акварели в фотошоп" title="effekt_akvareli" width="300" height="203" class="aligncenter size-medium wp-image-5075" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/effekt_akvareli1-300x203.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/effekt_akvareli1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a></a>
+  <a href="{{site.img_cdn}}/effekt_akvareli1.jpg"><img src="{{site.img_cdn}}/effekt_akvareli1-300x203.jpg" alt="эффект акварели в фотошоп" title="effekt_akvareli" width="300" height="203" class="aligncenter size-medium wp-image-5075" srcset="{{site.img_cdn}}/effekt_akvareli1-300x203.jpg 300w, {{site.img_cdn}}/effekt_akvareli1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a></a>
 </center>
 
 Записал небольшой видеотуториал, в котором мы научимся применять эффект акварели к фотографиям. Конечный результат урока можно увидеть на картинке выше. Перед тем как начать, нам понадобятся несколько текстур и основная фотография.

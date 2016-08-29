@@ -26,7 +26,7 @@ tags:
 Началось все с того, что мне захотелось записать видео версию [урока о эффекте Tilt-Shift в Photoshop](http://artslab.info/uroki-photoshop/effekt-tilt-shift-v-photoshop-urok/) ([записал!](http://www.youtube.com/watch?v=gvI-gzdfqj8)). И тут мне вспомнился [Screenr](http://artslab.info/onlayn-servisyi/screenr-skrinkast-na-letu/), которым меня ранее уже выручал. С его помощью можно быстро и без лишних заморочек записывать скринкасты прямо из браузера (требуется только Java). В целом, удобный и красивый сервис, но есть один недостаток. Нет возможности отправлять снятое видео на Youtube.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/screencastomatic.jpg" alt="быстрое создания скринкаста онлайн" title="screencastomatic" width="385" height="288" class="alignnone size-full wp-image-2816" />
+  <img src="{{site.img_cdn}}/screencastomatic.jpg" alt="быстрое создания скринкаста онлайн" title="screencastomatic" width="385" height="288" class="alignnone size-full wp-image-2816" />
 </center>
 
 Поэтому я отправился на поиски альтернативы и наткнулся на сервис [Screencast-O-Matic](http://www.screencast-o-matic.com/).

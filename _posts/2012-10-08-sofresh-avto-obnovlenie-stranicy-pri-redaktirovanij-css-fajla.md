@@ -21,7 +21,7 @@ tags:
   - script
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sofresh_css.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sofresh_css-300x89.png" alt="букмарклет sofresh" title="sofresh_css" width="300" height="89" class="aligncenter size-medium wp-image-5319" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sofresh_css-300x89.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sofresh_css.png 478w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/sofresh_css.png"><img src="{{site.img_cdn}}/sofresh_css-300x89.png" alt="букмарклет sofresh" title="sofresh_css" width="300" height="89" class="aligncenter size-medium wp-image-5319" srcset="{{site.img_cdn}}/sofresh_css-300x89.png 300w, {{site.img_cdn}}/sofresh_css.png 478w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Во время редактирования CSS-файлов, при внесенний малейшего изменения, нам приходиться обновлять страничку в браузере, чтобы увидеть внесенные правки. Небольшой букмарклет [SoFresh](http://sofresh.redpik.net/) избавит вас от этого и спасет вашу клавишу F5, так как будет все время отслеживать изменяемые файлы и автоматически подгружать все сделанные изменения.

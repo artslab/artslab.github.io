@@ -19,8 +19,8 @@ tags:
   - инфографика
   - плагин
 ---
-Наткнулся на отличную инфографику, которая содержит в себе информацию о 30 самых популярных плагинах для WordPress. [Смотреть в полном размере](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/top_pluginov_dlya_wordpress.jpg).
+Наткнулся на отличную инфографику, которая содержит в себе информацию о 30 самых популярных плагинах для WordPress. [Смотреть в полном размере]({{site.img_cdn}}/top_pluginov_dlya_wordpress.jpg).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/top_pluginov_dlya_wordpress_mini.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/top_pluginov_dlya_wordpress_mini-285x300.jpg" alt="30 популярных плагинов для WordPress" title="top_pluginov_dlya_wordpress_mini" width="285" height="300" class="aligncenter size-medium wp-image-5900" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/top_pluginov_dlya_wordpress_mini-285x300.jpg 285w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/top_pluginov_dlya_wordpress_mini.jpg 600w" sizes="(max-width: 285px) 100vw, 285px" /></a>
+  <a href="{{site.img_cdn}}/top_pluginov_dlya_wordpress_mini.jpg"><img src="{{site.img_cdn}}/top_pluginov_dlya_wordpress_mini-285x300.jpg" alt="30 популярных плагинов для WordPress" title="top_pluginov_dlya_wordpress_mini" width="285" height="300" class="aligncenter size-medium wp-image-5900" srcset="{{site.img_cdn}}/top_pluginov_dlya_wordpress_mini-285x300.jpg 285w, {{site.img_cdn}}/top_pluginov_dlya_wordpress_mini.jpg 600w" sizes="(max-width: 285px) 100vw, 285px" /></a>
 </center>

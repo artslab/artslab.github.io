@@ -21,7 +21,7 @@ tags:
 Очередной CSS сниппет позволяющий создать размытый текст (blurry text). Добавим немного анимаций при наведении на текст для того чтобы размытый текст плавно переходил в четкую типографию.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/razmitii_tekst.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/razmitii_tekst-300x64.png" alt="размытие текста на css" class="aligncenter size-medium wp-image-7860" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/razmitii_tekst-300x64.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/razmitii_tekst.png 580w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/razmitii_tekst.png"><img src="{{site.img_cdn}}/razmitii_tekst-300x64.png" alt="размытие текста на css" class="aligncenter size-medium wp-image-7860" srcset="{{site.img_cdn}}/razmitii_tekst-300x64.png 300w, {{site.img_cdn}}/razmitii_tekst.png 580w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

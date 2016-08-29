@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=3854
 permalink: /sovetyi/prognoz-pogody-na-google-maps/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pogoda_na_google_maps.jpg
+  - {{site.img_cdn}}/pogoda_na_google_maps.jpg
 prosmotr:
   - 191
 wpb_post_views_count:
@@ -28,5 +28,5 @@ tags:
 Чтобы попасть на страницу просмотра прогноза погода, необходимо перейти по этому адресу: <http://maps.google.com/maps?lci=weather>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pogoda_na_google_maps.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pogoda_na_google_maps-300x160.jpg" alt="прогноз погоды на карте мира Google Maps" title="pogoda_na_google_maps" width="300" height="160" class="alignnone size-medium wp-image-3855" /></a>
+  <a href="{{site.img_cdn}}/pogoda_na_google_maps.jpg"><img src="{{site.img_cdn}}/pogoda_na_google_maps-300x160.jpg" alt="прогноз погоды на карте мира Google Maps" title="pogoda_na_google_maps" width="300" height="160" class="alignnone size-medium wp-image-3855" /></a>
 </center>

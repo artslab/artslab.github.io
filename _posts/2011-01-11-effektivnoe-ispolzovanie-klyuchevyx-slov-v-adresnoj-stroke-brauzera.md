@@ -21,7 +21,7 @@ tags:
   - lifehack
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/search.jpg" alt="" title="search" width="276" height="226" class="alignnone size-full wp-image-1085" />
+  <img src="{{site.img_cdn}}/search.jpg" alt="" title="search" width="276" height="226" class="alignnone size-full wp-image-1085" />
 </center>
 
 При работе в интернете часто приходится искать разную информацию. При этом информация разного вида ищется в разных местах. Например, музыка &#8211; вконтакте, видео &#8211; youtube, закладки &#8211; delicios и т.д. Для этого требуется открывать страницы с поиском и писать в них запросы. Открыв тот же вконтакте, мы видим новые комментарии или новые фото подруги, несомненно это отвлекает от задуманного и отнимает время.
@@ -39,7 +39,7 @@ _Пример:
 
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/example2.jpg" alt="" title="example" width="437" height="33" class="alignnone size-full wp-image-1105" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/example2.jpg 437w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/example2-300x22.jpg 300w" sizes="(max-width: 437px) 100vw, 437px" />
+  <img src="{{site.img_cdn}}/example2.jpg" alt="" title="example" width="437" height="33" class="alignnone size-full wp-image-1105" srcset="{{site.img_cdn}}/example2.jpg 437w, {{site.img_cdn}}/example2-300x22.jpg 300w" sizes="(max-width: 437px) 100vw, 437px" />
 </center>
 
 
@@ -50,12 +50,12 @@ _Пример:
 
 Итак, перейдем к делу.
 
-Зайдем в опций Chrome  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/options.jpg" alt="" title="options" width="28" height="24" class="alignnone size-full wp-image-1088" />и жмем на первой вкладке “Основные настройки” по кнопке “Управление”. Откроется новое окно, в котором мы и будем добавлять(редактировать) необходимые сайты.
+Зайдем в опций Chrome  <img src="{{site.img_cdn}}/options.jpg" alt="" title="options" width="28" height="24" class="alignnone size-full wp-image-1088" />и жмем на первой вкладке “Основные настройки” по кнопке “Управление”. Откроется новое окно, в котором мы и будем добавлять(редактировать) необходимые сайты.
 
 Нажав на кнопку &#8220;Добавить&#8221;, здесь можно самим добавить необходимые сайты. Главное, это определить где в URL находится поисковый запрос и место него вставить %s.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/options2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/options2-300x278.jpg" alt="" title="options2" width="300" height="278" class="alignnone size-medium wp-image-1086" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/options2-300x278.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/options2.jpg 613w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/options2.jpg"><img src="{{site.img_cdn}}/options2-300x278.jpg" alt="" title="options2" width="300" height="278" class="alignnone size-medium wp-image-1086" srcset="{{site.img_cdn}}/options2-300x278.jpg 300w, {{site.img_cdn}}/options2.jpg 613w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
@@ -63,7 +63,7 @@ _Пример:
 
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add.jpg" alt="" title="add" width="377" height="180" class="alignnone size-full wp-image-1087" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add.jpg 377w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/add-300x143.jpg 300w" sizes="(max-width: 377px) 100vw, 377px" />
+  <img src="{{site.img_cdn}}/add.jpg" alt="" title="add" width="377" height="180" class="alignnone size-full wp-image-1087" srcset="{{site.img_cdn}}/add.jpg 377w, {{site.img_cdn}}/add-300x143.jpg 300w" sizes="(max-width: 377px) 100vw, 377px" />
 </center>
 
 В целом использование ключевых слов, это дело привычки, но если привыкнуть, то очень удобно.

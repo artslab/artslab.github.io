@@ -21,7 +21,7 @@ tags:
   - Обои для рабочего стола
 ---
 <p style="text-align: center">
-  <a href="http://-kol.deviantart.com/art/Grass-Blades-73597063" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/grass_wallpapers.jpg" alt="Grass Blades обои для рабочего стола" border="0" /></a>
+  <a href="http://-kol.deviantart.com/art/Grass-Blades-73597063" target="_blank"><img src="{{site.img_cdn}}/grass_wallpapers.jpg" alt="Grass Blades обои для рабочего стола" border="0" /></a>
 </p>
 
 <p style="text-align: center">

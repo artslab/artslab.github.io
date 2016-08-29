@@ -9,7 +9,7 @@ permalink: /sovetyi/kak-zaregistrirovat-neskolko-akkauntov-na-odin-email/
 ljID:
   - 324
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gmail.jpg
+  - {{site.img_cdn}}/gmail.jpg
 prosmotr:
   - 258
 wpb_post_views_count:
@@ -23,7 +23,7 @@ tags:
   - почта
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gmail-300x123.jpg" alt="регистрация нескольких аккаунтов на один почтовый ящик" title="gmail" width="150" class="alignnone size-medium wp-image-1747" />
+  <img src="{{site.img_cdn}}/gmail-300x123.jpg" alt="регистрация нескольких аккаунтов на один почтовый ящик" title="gmail" width="150" class="alignnone size-medium wp-image-1747" />
 </center>
 
 Небольшой совет для тех, кто по какой либо причине не может/хочет создавать отдельный email для регистраций **второго аккаунта на одном сайте/сервисе**. Работает только для владельцев почтовых ящиков на **[Gmail](http://mail.google.com)**.

@@ -24,7 +24,7 @@ tags:
   - Patterns
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/moziki_dlya_saita_bg.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/moziki_dlya_saita_bg.jpg" alt="мозаики и фоны для сайта" title="moziki_dlya_saita_bg" width="205" height="197" class="aligncenter size-full wp-image-5744" /></a>
+  <a href="{{site.img_cdn}}/moziki_dlya_saita_bg.jpg"><img src="{{site.img_cdn}}/moziki_dlya_saita_bg.jpg" alt="мозаики и фоны для сайта" title="moziki_dlya_saita_bg" width="205" height="197" class="aligncenter size-full wp-image-5744" /></a>
 </center>
 
 

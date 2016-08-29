@@ -20,7 +20,7 @@ tags:
   - Для Wordpress
 ---
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-300x300.png" alt="архив новостей блога" title="archiv" width="300" height="300" class="aligncenter size-medium wp-image-4990" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-300x300.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-150x150.png 150w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv.png 713w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/archiv.png"><img src="{{site.img_cdn}}/archiv-300x300.png" alt="архив новостей блога" title="archiv" width="300" height="300" class="aligncenter size-medium wp-image-4990" srcset="{{site.img_cdn}}/archiv-300x300.png 300w, {{site.img_cdn}}/archiv-100x100.png 100w, {{site.img_cdn}}/archiv-150x150.png 150w, {{site.img_cdn}}/archiv.png 713w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 Небольшой мануал, подглянутый у <a href="http://stylizedweb.com/2008/03/08/wp-archive-page/" target="_blank">stylizedweb</a>, по тому, как создать страничку архива сайта в WordPress. С содержанием всех новостей и датой их публикаций, [пример](http://artslab.info/?page_id=350).<!--more-->
@@ -30,7 +30,7 @@ tags:
 2. Затем открываем _archives.php_ и меняем главную часть кода (начинается так же) на это:
 
 `<p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-300x300.png" alt="архив новостей блога" title="archiv" width="300" height="300" class="aligncenter size-medium wp-image-4990" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-300x300.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv-150x150.png 150w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archiv.png 713w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/archiv.png"><img src="{{site.img_cdn}}/archiv-300x300.png" alt="архив новостей блога" title="archiv" width="300" height="300" class="aligncenter size-medium wp-image-4990" srcset="{{site.img_cdn}}/archiv-300x300.png 300w, {{site.img_cdn}}/archiv-100x100.png 100w, {{site.img_cdn}}/archiv-150x150.png 150w, {{site.img_cdn}}/archiv.png 713w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 Небольшой мануал, подглянутый у <a href="http://stylizedweb.com/2008/03/08/wp-archive-page/" target="_blank">stylizedweb</a>, по тому, как создать страничку архива сайта в WordPress. С содержанием всех новостей и датой их публикаций, [пример](http://artslab.info/?page_id=350).<!--more-->

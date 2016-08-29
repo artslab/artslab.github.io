@@ -24,7 +24,7 @@ tags:
 В последнее время в сети появилось множество достойных редакторов и даже целых облачных IDE, способных полностью или хотя бы частично заменить привычные программы.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen-300x174.jpg" alt="онлайн редактор кода" class="aligncenter size-medium wp-image-7064" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen-300x174.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen-1024x594.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen.jpg 1298w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/codepen.jpg"><img src="{{site.img_cdn}}/codepen-300x174.jpg" alt="онлайн редактор кода" class="aligncenter size-medium wp-image-7064" srcset="{{site.img_cdn}}/codepen-300x174.jpg 300w, {{site.img_cdn}}/codepen-1024x594.jpg 1024w, {{site.img_cdn}}/codepen.jpg 1298w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Сегодня я хотел бы поделиться с вами несколькими из таких &#8220;песочниц&#8221; для работы с HTML, CSS и JS-кодом, которые отлично подойдут для самых разных целей. Практически все редакторы внешне имеют похожий интерфейс, разделенный на несколько частей. В одной области мы пишем HTML, в другой оформляем наш код с помощью CSS, в третьем окошке добавляем эффекты на javascript и в четвертом окне мы видим результат всего нашего кода, который обновляется мгновенно в live-режиме или с помощью хоткея.
@@ -43,29 +43,29 @@ tags:
 1. [Codepen](http://codepen.io/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen-300x174.jpg" alt="онлайн редактор кода" class="aligncenter size-medium wp-image-7064" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen-300x174.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen-1024x594.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/codepen.jpg 1298w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/codepen.jpg"><img src="{{site.img_cdn}}/codepen-300x174.jpg" alt="онлайн редактор кода" class="aligncenter size-medium wp-image-7064" srcset="{{site.img_cdn}}/codepen-300x174.jpg 300w, {{site.img_cdn}}/codepen-1024x594.jpg 1024w, {{site.img_cdn}}/codepen.jpg 1298w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 2. [JSFiddle](http://jsfiddle.net/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jsfiddle.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jsfiddle-300x154.jpg" alt="jsfiddle css html editor" class="aligncenter size-medium wp-image-7065" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jsfiddle-300x154.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jsfiddle-1024x525.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/jsfiddle.jpg 1196w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/jsfiddle.jpg"><img src="{{site.img_cdn}}/jsfiddle-300x154.jpg" alt="jsfiddle css html editor" class="aligncenter size-medium wp-image-7065" srcset="{{site.img_cdn}}/jsfiddle-300x154.jpg 300w, {{site.img_cdn}}/jsfiddle-1024x525.jpg 1024w, {{site.img_cdn}}/jsfiddle.jpg 1196w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 3. [Dabblet](http://dabblet.com/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabblet_editor.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabblet_editor-300x128.jpg" alt="песочница dabblet" class="aligncenter size-medium wp-image-7066" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabblet_editor-300x128.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabblet_editor-1024x438.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dabblet_editor.jpg 1274w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/dabblet_editor.jpg"><img src="{{site.img_cdn}}/dabblet_editor-300x128.jpg" alt="песочница dabblet" class="aligncenter size-medium wp-image-7066" srcset="{{site.img_cdn}}/dabblet_editor-300x128.jpg 300w, {{site.img_cdn}}/dabblet_editor-1024x438.jpg 1024w, {{site.img_cdn}}/dabblet_editor.jpg 1274w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 4. [CSSDeck](http://cssdeck.com/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cssdeck_redaktor_html_css.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cssdeck_redaktor_html_css-300x166.png" alt="редактор html css js" class="aligncenter size-medium wp-image-7067" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cssdeck_redaktor_html_css-300x166.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cssdeck_redaktor_html_css-1024x567.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cssdeck_redaktor_html_css.png 1290w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/cssdeck_redaktor_html_css.png"><img src="{{site.img_cdn}}/cssdeck_redaktor_html_css-300x166.png" alt="редактор html css js" class="aligncenter size-medium wp-image-7067" srcset="{{site.img_cdn}}/cssdeck_redaktor_html_css-300x166.png 300w, {{site.img_cdn}}/cssdeck_redaktor_html_css-1024x567.png 1024w, {{site.img_cdn}}/cssdeck_redaktor_html_css.png 1290w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 5. [jsBin](http://jsbin.com/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snippeti_hranenie_onlain.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snippeti_hranenie_onlain-300x169.jpg" alt="сервис jsBin" class="aligncenter size-medium wp-image-7068" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snippeti_hranenie_onlain-300x169.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snippeti_hranenie_onlain-1024x579.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/snippeti_hranenie_onlain.jpg 1279w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/snippeti_hranenie_onlain.jpg"><img src="{{site.img_cdn}}/snippeti_hranenie_onlain-300x169.jpg" alt="сервис jsBin" class="aligncenter size-medium wp-image-7068" srcset="{{site.img_cdn}}/snippeti_hranenie_onlain-300x169.jpg 300w, {{site.img_cdn}}/snippeti_hranenie_onlain-1024x579.jpg 1024w, {{site.img_cdn}}/snippeti_hranenie_onlain.jpg 1279w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

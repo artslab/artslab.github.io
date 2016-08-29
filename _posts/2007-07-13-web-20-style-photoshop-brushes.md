@@ -22,7 +22,7 @@ tags:
   - Web 2.0
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20stylebrushesbyardcci0.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20stylebrushesbyardcci0.jpg" alt="вебдванольные кисти для фотошопа" title="web20stylebrushesbyardcci0" width="300" height="236" class="alignnone size-full wp-image-889" /></a>
+  <a href="{{site.img_cdn}}/web20stylebrushesbyardcci0.jpg"><img src="{{site.img_cdn}}/web20stylebrushesbyardcci0.jpg" alt="вебдванольные кисти для фотошопа" title="web20stylebrushesbyardcci0" width="300" height="236" class="alignnone size-full wp-image-889" /></a>
 </center>
 
 <p align="center">

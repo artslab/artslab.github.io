@@ -21,7 +21,7 @@ tags:
   - js
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat-300x122.jpg" alt="smart app для ios" class="aligncenter size-medium wp-image-7113" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat-300x122.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/smartapp_banner_sozdat.jpg"><img src="{{site.img_cdn}}/smartapp_banner_sozdat-300x122.jpg" alt="smart app для ios" class="aligncenter size-medium wp-image-7113" srcset="{{site.img_cdn}}/smartapp_banner_sozdat-300x122.jpg 300w, {{site.img_cdn}}/smartapp_banner_sozdat.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Если Вы впервые сталкиваетесь с термниом Smart App Banners, то одного взгляда на скриншот хватит для того чтобы понять, о чем идет речь. Думаю что все пользователи iOS или Android, хотя бы раз встречали такой вид баннера на каком-либо сайте. Smart App Banner это небольшая панелька, которая появляется в верхней части страницы и призывает пользователя установить приложение. Для сайтов имеющих свое нативное приложение в AppStore или Google Play это отличный способ для его рекламы.
@@ -43,7 +43,7 @@ tags:
 Для того чтобы проверить результат, откройте сайт в браузере Safari (только Safari понимает этот метатег, для других браузеров используем плагин [jQuery Smart Banner](http://jasny.github.io/jquery.smartbanner/)) на iPhone/iPad или через iOS-симулятор.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat-300x122.jpg" alt="smart app для ios" class="aligncenter size-medium wp-image-7113" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat-300x122.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_banner_sozdat.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/smartapp_banner_sozdat.jpg"><img src="{{site.img_cdn}}/smartapp_banner_sozdat-300x122.jpg" alt="smart app для ios" class="aligncenter size-medium wp-image-7113" srcset="{{site.img_cdn}}/smartapp_banner_sozdat-300x122.jpg 300w, {{site.img_cdn}}/smartapp_banner_sozdat.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 **2. Android**
@@ -51,7 +51,7 @@ tags:
 Для андроида, придется воспользоваться небольшим jQuery-плагином &#8211; [jQuery Smart Banner](http://jasny.github.io/jquery.smartbanner/). Примеры с кодом доступны на страничке с плагином.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_dlya_android.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_dlya_android-300x76.jpg" alt="smart app banner для андроид приложения" class="aligncenter size-medium wp-image-7115" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_dlya_android-300x76.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smartapp_dlya_android.jpg 707w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/smartapp_dlya_android.jpg"><img src="{{site.img_cdn}}/smartapp_dlya_android-300x76.jpg" alt="smart app banner для андроид приложения" class="aligncenter size-medium wp-image-7115" srcset="{{site.img_cdn}}/smartapp_dlya_android-300x76.jpg 300w, {{site.img_cdn}}/smartapp_dlya_android.jpg 707w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 **Для сайтов на основе WordPress**

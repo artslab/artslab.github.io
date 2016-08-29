@@ -24,7 +24,7 @@ tags:
   - фон
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/osennie_patterni.gif"><img class="aligncenter size-medium wp-image-6469" alt="мозайки для сайта" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/osennie_patterni-300x257.gif" /></a>
+  <a href="{{site.img_cdn}}/osennie_patterni.gif"><img class="aligncenter size-medium wp-image-6469" alt="мозайки для сайта" src="{{site.img_cdn}}/osennie_patterni-300x257.gif" /></a>
 </center>
 
 

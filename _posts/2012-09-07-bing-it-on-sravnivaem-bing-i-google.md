@@ -18,7 +18,7 @@ categories:
 Mircosoft вероятно не совсем уверен в своем поисковике и поэтому предлагает нам сравнить выдачу результатов Google и Bing по различным поисковым фразам.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bingiton_google_vs_bing.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bingiton_google_vs_bing-286x300.png" alt="bing против google" title="bingiton_google_vs_bing" width="286" height="300" class="aligncenter size-medium wp-image-5111" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bingiton_google_vs_bing-286x300.png 286w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bingiton_google_vs_bing.png 897w" sizes="(max-width: 286px) 100vw, 286px" /></a>
+  <a href="{{site.img_cdn}}/bingiton_google_vs_bing.png"><img src="{{site.img_cdn}}/bingiton_google_vs_bing-286x300.png" alt="bing против google" title="bingiton_google_vs_bing" width="286" height="300" class="aligncenter size-medium wp-image-5111" srcset="{{site.img_cdn}}/bingiton_google_vs_bing-286x300.png 286w, {{site.img_cdn}}/bingiton_google_vs_bing.png 897w" sizes="(max-width: 286px) 100vw, 286px" /></a>
 </center>
 
 

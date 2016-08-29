@@ -19,7 +19,7 @@ tags:
   - дизайн
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_design_kanalov.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_design_kanalov-300x160.jpg" alt="новый дизайн каналов на youtube" class="aligncenter size-medium wp-image-6410" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_design_kanalov-300x160.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/youtube_design_kanalov.jpg 644w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/youtube_design_kanalov.jpg"><img src="{{site.img_cdn}}/youtube_design_kanalov-300x160.jpg" alt="новый дизайн каналов на youtube" class="aligncenter size-medium wp-image-6410" srcset="{{site.img_cdn}}/youtube_design_kanalov-300x160.jpg 300w, {{site.img_cdn}}/youtube_design_kanalov.jpg 644w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Недавно YouTube представил новый дизайн для страниц каналов, который сначала был доступен только для избранных страниц. Теперь попробовать новое оформление может любой из зарегистрированных пользователей. В новом варианте оформления, появилась обложка канала и возможность добавить приветственный трейлер.

@@ -22,7 +22,7 @@ tags:
   - прозрачность пнг
 ---
 <p STYLE="text-align: center">
-  <img WIDTH="238" HEIGHT="215" BORDER="0" ALT="internet explorer png fix" TITLE="internet explorer png fix" SRC="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/png_fix_for_ie.jpg" />
+  <img WIDTH="238" HEIGHT="215" BORDER="0" ALT="internet explorer png fix" TITLE="internet explorer png fix" SRC="{{site.img_cdn}}/png_fix_for_ie.jpg" />
 </p>
 
 Наверное каждый веб-мастер уже знаком с проблемой **отображения прозрачности картинок формата .png** в **internet explorer 6**. Да наш &#8220;любимый&#8221; IE 6 версий (в 7 все отлично) не хочет корректно отображать прозрачные картинки этого формата т.е. вообще никакой прозрачности не наблюдается.Что делать? Я встречал много разных <a rel="none" TARGET="_blank" TITLE="прозрачность png в ie 6" HREF="http://www.google.de/search?hl=de&q=%D0%9F%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C+png+%D0%B2+Internet+Explorer&btnG=Google-Suche&meta=">способов решения</a> этой проблемы, но этот показался мне самым **простым**.

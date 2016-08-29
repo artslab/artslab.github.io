@@ -19,7 +19,7 @@ tags:
   - psd
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnie_ikonki_psd.png" alt="набор бесплатных иконок" class="aligncenter size-medium wp-image-6785" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnie_ikonki_psd.png 400w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnie_ikonki_psd-300x225.png 300w" sizes="(max-width: 400px) 100vw, 400px" />
+  <img src="{{site.img_cdn}}/besplatnie_ikonki_psd.png" alt="набор бесплатных иконок" class="aligncenter size-medium wp-image-6785" srcset="{{site.img_cdn}}/besplatnie_ikonki_psd.png 400w, {{site.img_cdn}}/besplatnie_ikonki_psd-300x225.png 300w" sizes="(max-width: 400px) 100vw, 400px" />
 </center>
 
 Команда дизайнеров с сайта [Userbra.in](http://dribbble.com/shots/709942-Free-Ui-Icons) выпустила большой набор бесплатных иконок в формате PSD. Иконочки подойдут для оформления любых пользовательских интерфейсов, программ, мобильных приложений или веб-интерфесов. В целом, набор включает в себя 168 иконок, [качаем](http://cl.ly/112F0X3h3p3q).

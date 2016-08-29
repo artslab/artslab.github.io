@@ -20,7 +20,7 @@ tags:
   - игра
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/plants_vs_zombies_skachat.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/plants_vs_zombies_skachat-300x224.jpg" alt="скачать игру бесплатно" title="plants_vs_zombies_skachat" width="300" height="224" class="aligncenter size-medium wp-image-5634" /></a>
+  <a href="{{site.img_cdn}}/plants_vs_zombies_skachat.jpeg"><img src="{{site.img_cdn}}/plants_vs_zombies_skachat-300x224.jpg" alt="скачать игру бесплатно" title="plants_vs_zombies_skachat" width="300" height="224" class="aligncenter size-medium wp-image-5634" /></a>
 </center>
 
 Plants vs. Zombies это популярная игрушка в жанре Tower Defense, где вам предстоит защищать свой дом от злющих зомби. Игрушка хорошая и стоит денег, но в честь праздника [Halloween](http://artslab.info/ikonki/kreativ-na-helloween-2007/ "Креатив на Helloween 2007"), разработчики раздают коды на лицензию бесплатно. Акция длится до 11 ноября, код по которому можно получить лицензию: PEAH8R

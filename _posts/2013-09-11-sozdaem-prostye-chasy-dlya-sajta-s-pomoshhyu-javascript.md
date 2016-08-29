@@ -22,7 +22,7 @@ tags:
 Сегодня предлагаю небольшой сниппет, который позволит вам добавить простые часы на сайт, используя для этого немного JavaScript-кода. Пример можно увидеть на <a href="http://codepen.io/4gray/pen/prytd" target="_blank">Codepen</a>.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chasi_dlya_saita.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chasi_dlya_saita-300x81.png" alt="часы для сайта на яваскрипт" class="aligncenter size-medium wp-image-7911" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chasi_dlya_saita-300x81.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chasi_dlya_saita.png 680w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/chasi_dlya_saita.png"><img src="{{site.img_cdn}}/chasi_dlya_saita-300x81.png" alt="часы для сайта на яваскрипт" class="aligncenter size-medium wp-image-7911" srcset="{{site.img_cdn}}/chasi_dlya_saita-300x81.png 300w, {{site.img_cdn}}/chasi_dlya_saita.png 680w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

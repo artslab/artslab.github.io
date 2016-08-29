@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4184
 permalink: /wordpress/let-it-snow-dobavlyaem-sneg-na-vash-blog/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/letitsnow_wordpress.png
+  - {{site.img_cdn}}/letitsnow_wordpress.png
 prosmotr:
   - 87
 wpb_post_views_count:
@@ -27,6 +27,6 @@ tags:
 Можно настроить частоту падения снега, количество, скорость и другие мелочи.
 Рекомендую всем, кто еще не успел придать своему блогу зимний вид.
 
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/letitsnow_wordpress-300x270.png" alt="как добавить снег на  сайт" title="letitsnow_wordpress" width="300" height="270" class="aligncenter size-medium wp-image-4185" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/letitsnow_wordpress.png)
+[<img src="{{site.img_cdn}}/letitsnow_wordpress-300x270.png" alt="как добавить снег на  сайт" title="letitsnow_wordpress" width="300" height="270" class="aligncenter size-medium wp-image-4185" />]({{site.img_cdn}}/letitsnow_wordpress.png)
 
 PS: Не буду создавать новый пост, ради ожидаемого. Всех с наступающим 2012. Счастья, радости, здоровья и всего-всего =)

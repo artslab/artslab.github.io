@@ -33,15 +33,15 @@ tags:
 Для того чтобы перейти на страничку скачивания, кликаем по картинке, начнем:
 
 <center>
-  <a href="http://2shi.deviantart.com/art/Drop-Box-Icon-83426299" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_nabor_iconok-300x239.jpg" alt="Скачать иконки Dropbox" title="dropbox_nabor_iconok" width="300" height="239" class="alignnone size-medium wp-image-3363" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_nabor_iconok-300x239.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_nabor_iconok.jpg 476w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://2shi.deviantart.com/art/Drop-Box-Icon-83426299" target="_blank"><img src="{{site.img_cdn}}/dropbox_nabor_iconok-300x239.jpg" alt="Скачать иконки Dropbox" title="dropbox_nabor_iconok" width="300" height="239" class="alignnone size-medium wp-image-3363" srcset="{{site.img_cdn}}/dropbox_nabor_iconok-300x239.jpg 300w, {{site.img_cdn}}/dropbox_nabor_iconok.jpg 476w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <center>
-  <a href="http://www.iconfinder.com/icondetails/34467/128/dropbox_icon" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox.png" alt="иконка сайта dropbox" title="Dropbox" width="128" height="128" class="alignnone size-full wp-image-3365" /></a>
+  <a href="http://www.iconfinder.com/icondetails/34467/128/dropbox_icon" target="_blank"><img src="{{site.img_cdn}}/Dropbox.png" alt="иконка сайта dropbox" title="Dropbox" width="128" height="128" class="alignnone size-full wp-image-3365" /></a>
 </center>
 
 <center>
-  <a href="http://www.iconfinder.com/icondetails/34493/128/dropbox_icon" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox-1.png" alt="иконка дропбокс" title="Dropbox (1)" width="128" height="128" class="alignnone size-full wp-image-3366" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox-1.png 128w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox-1-100x100.png 100w" sizes="(max-width: 128px) 100vw, 128px" /></a>
+  <a href="http://www.iconfinder.com/icondetails/34493/128/dropbox_icon" target="_blank"><img src="{{site.img_cdn}}/Dropbox-1.png" alt="иконка дропбокс" title="Dropbox (1)" width="128" height="128" class="alignnone size-full wp-image-3366" srcset="{{site.img_cdn}}/Dropbox-1.png 128w, {{site.img_cdn}}/Dropbox-1-100x100.png 100w" sizes="(max-width: 128px) 100vw, 128px" /></a>
 </center>
 
 
@@ -53,25 +53,25 @@ tags:
 
 
 <center>
-  <a href="http://vathanx.deviantart.com/art/Dropbox-Icon-106941298" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox_Icon_by_Vathanx-300x178.jpg" alt="Иконки Dropbox" title="Dropbox_Icon_by_Vathanx" width="300" height="178" class="alignnone size-medium wp-image-3359" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox_Icon_by_Vathanx-300x178.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox_Icon_by_Vathanx.jpg 840w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://vathanx.deviantart.com/art/Dropbox-Icon-106941298" target="_blank"><img src="{{site.img_cdn}}/Dropbox_Icon_by_Vathanx-300x178.jpg" alt="Иконки Dropbox" title="Dropbox_Icon_by_Vathanx" width="300" height="178" class="alignnone size-medium wp-image-3359" srcset="{{site.img_cdn}}/Dropbox_Icon_by_Vathanx-300x178.jpg 300w, {{site.img_cdn}}/Dropbox_Icon_by_Vathanx.jpg 840w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <center>
-  <a href="http://www.joeldelane.com/blog/?p=861" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox-iconka-300x300.jpg" alt="Иконка Dropbox" title="dropbox-iconka" width="300" height="300" class="alignnone size-medium wp-image-3362" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox-iconka-300x300.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox-iconka-100x100.jpg 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox-iconka.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.joeldelane.com/blog/?p=861" target="_blank"><img src="{{site.img_cdn}}/dropbox-iconka-300x300.jpg" alt="Иконка Dropbox" title="dropbox-iconka" width="300" height="300" class="alignnone size-medium wp-image-3362" srcset="{{site.img_cdn}}/dropbox-iconka-300x300.jpg 300w, {{site.img_cdn}}/dropbox-iconka-100x100.jpg 100w, {{site.img_cdn}}/dropbox-iconka.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <center>
-  <a href="http://nilsxys.deviantart.com/art/Dropbox-Icon-160687407" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_icon-300x190.jpg" alt="альтернативные иконки dropbox" title="dropbox_icon" width="300" height="190" class="alignnone size-medium wp-image-3361" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_icon-300x190.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_icon.jpg 606w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://nilsxys.deviantart.com/art/Dropbox-Icon-160687407" target="_blank"><img src="{{site.img_cdn}}/dropbox_icon-300x190.jpg" alt="альтернативные иконки dropbox" title="dropbox_icon" width="300" height="190" class="alignnone size-medium wp-image-3361" srcset="{{site.img_cdn}}/dropbox_icon-300x190.jpg 300w, {{site.img_cdn}}/dropbox_icon.jpg 606w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <center>
-  <a href="http://audaciterfortis.deviantart.com/art/Token-Dropbox-Icons-188862252" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ikonki_dropbox-300x166.png" alt="набор иконок для dropbox" title="ikonki_dropbox" width="300" height="166" class="alignnone size-medium wp-image-3360" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ikonki_dropbox-300x166.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ikonki_dropbox.png 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://audaciterfortis.deviantart.com/art/Token-Dropbox-Icons-188862252" target="_blank"><img src="{{site.img_cdn}}/ikonki_dropbox-300x166.png" alt="набор иконок для dropbox" title="ikonki_dropbox" width="300" height="166" class="alignnone size-medium wp-image-3360" srcset="{{site.img_cdn}}/ikonki_dropbox-300x166.png 300w, {{site.img_cdn}}/ikonki_dropbox.png 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <center>
-  <a href="http://www.iconfinder.com/search/?q=dropbox" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_icons_download-300x113.jpg" alt="скачать иконки Dropbox" title="dropbox_icons_download" width="300" height="113" class="alignnone size-medium wp-image-3367" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_icons_download-300x113.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_icons_download-1024x386.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dropbox_icons_download.jpg 1476w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://www.iconfinder.com/search/?q=dropbox" target="_blank"><img src="{{site.img_cdn}}/dropbox_icons_download-300x113.jpg" alt="скачать иконки Dropbox" title="dropbox_icons_download" width="300" height="113" class="alignnone size-medium wp-image-3367" srcset="{{site.img_cdn}}/dropbox_icons_download-300x113.jpg 300w, {{site.img_cdn}}/dropbox_icons_download-1024x386.jpg 1024w, {{site.img_cdn}}/dropbox_icons_download.jpg 1476w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 <center>
-  <a href="http://robrayburn.deviantart.com/art/building-Smooth-Dropbox-folder-149615895" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox_folder_icon-300x207.jpg" alt="иконка папки Dropbox" title="Dropbox_folder_icon" width="300" height="207" class="alignnone size-medium wp-image-3368" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox_folder_icon-300x207.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Dropbox_folder_icon.jpg 821w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://robrayburn.deviantart.com/art/building-Smooth-Dropbox-folder-149615895" target="_blank"><img src="{{site.img_cdn}}/Dropbox_folder_icon-300x207.jpg" alt="иконка папки Dropbox" title="Dropbox_folder_icon" width="300" height="207" class="alignnone size-medium wp-image-3368" srcset="{{site.img_cdn}}/Dropbox_folder_icon-300x207.jpg 300w, {{site.img_cdn}}/Dropbox_folder_icon.jpg 821w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

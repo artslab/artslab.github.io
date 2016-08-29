@@ -24,7 +24,7 @@ tags:
 
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/myb_sm.jpg" alt="скачать иконки браузеров" />
+  <img src="{{site.img_cdn}}/myb_sm.jpg" alt="скачать иконки браузеров" />
 </center>
 
 

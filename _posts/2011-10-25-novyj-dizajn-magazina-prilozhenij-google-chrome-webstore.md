@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4060
 permalink: /vse-dlya-google-chrome/novyj-dizajn-magazina-prilozhenij-google-chrome-webstore/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_chrome_web_store.jpg
+  - {{site.img_cdn}}/google_chrome_web_store.jpg
 prosmotr:
   - 99
 wpb_post_views_count:
@@ -27,5 +27,5 @@ tags:
 Как по мне, так отображение на главной странице, немного напоминает майкрософтовский Metro UI. Сделано красиво, теперь осталось только привыкнуть 🙂
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_chrome_web_store.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_chrome_web_store-300x223.jpg" alt="новый дизайн" title="google_chrome_web_store" width="300" height="223" class="alignnone size-medium wp-image-4061" /></a>
+  <a href="{{site.img_cdn}}/google_chrome_web_store.jpg"><img src="{{site.img_cdn}}/google_chrome_web_store-300x223.jpg" alt="новый дизайн" title="google_chrome_web_store" width="300" height="223" class="alignnone size-medium wp-image-4061" /></a>
 </center>

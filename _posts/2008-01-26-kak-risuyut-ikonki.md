@@ -9,7 +9,7 @@ permalink: /ikonki/kak-risuyut-ikonki/
 ljID:
   - 162
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_risuyut_ikonki.jpg
+  - {{site.img_cdn}}/kak_risuyut_ikonki.jpg
 prosmotr:
   - 143
 wpb_post_views_count:

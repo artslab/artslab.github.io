@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4377
 permalink: /windows-8-2/skachat-windows-8-consumer-preview/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win8cp.jpg
+  - {{site.img_cdn}}/win8cp.jpg
 prosmotr:
   - 245
 wpb_post_views_count:
@@ -20,7 +20,7 @@ tags:
   - windows 8
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win8cp.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win8cp-300x168.jpg" alt="скачать windows 8 consumer preview" title="win8cp" width="300" height="168" class="aligncenter size-medium wp-image-4379" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win8cp-300x168.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win8cp.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/win8cp.jpg"><img src="{{site.img_cdn}}/win8cp-300x168.jpg" alt="скачать windows 8 consumer preview" title="win8cp" width="300" height="168" class="aligncenter size-medium wp-image-4379" srcset="{{site.img_cdn}}/win8cp-300x168.jpg 300w, {{site.img_cdn}}/win8cp.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Вот и наступило 29 февраля, день в который должна выйти Windows 8 Consumer Preview. Разработчики сдержали обещанное слово и выпустили бету своей новой операционной системы. Так что готовим свободное место и VirtualBox. Я наверное сразу же и попробую. А вы, будете ставить? =)

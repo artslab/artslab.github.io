@@ -20,11 +20,11 @@ tags:
 [Maki](http://mapbox.com/maki/) представляет из себя качественный набор из 246 пиктограм доступных в трех размерах (24px, 18px и 12px), которые отлично подойдут для использования на картах. Например, иконками можно выделять и отмечать различные объекты. Набор распространяется бесплатно, скачать его можно на сайте разработчиков.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kartograficheskie_piktogrami.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kartograficheskie_piktogrami-300x271.jpg" alt="иконки для карт" class="aligncenter size-medium wp-image-6944" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kartograficheskie_piktogrami-300x271.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kartograficheskie_piktogrami.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/kartograficheskie_piktogrami.jpg"><img src="{{site.img_cdn}}/kartograficheskie_piktogrami-300x271.jpg" alt="иконки для карт" class="aligncenter size-medium wp-image-6944" srcset="{{site.img_cdn}}/kartograficheskie_piktogrami-300x271.jpg 300w, {{site.img_cdn}}/kartograficheskie_piktogrami.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Пример использования:
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/marki_ikonki_kart.jpg" alt="отмечаем объекты на карте" class="aligncenter size-full wp-image-6943" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/marki_ikonki_kart.jpg 344w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/marki_ikonki_kart-300x270.jpg 300w" sizes="(max-width: 344px) 100vw, 344px" />
+  <img src="{{site.img_cdn}}/marki_ikonki_kart.jpg" alt="отмечаем объекты на карте" class="aligncenter size-full wp-image-6943" srcset="{{site.img_cdn}}/marki_ikonki_kart.jpg 344w, {{site.img_cdn}}/marki_ikonki_kart-300x270.jpg 300w" sizes="(max-width: 344px) 100vw, 344px" />
 </center>

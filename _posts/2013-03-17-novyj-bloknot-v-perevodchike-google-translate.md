@@ -19,7 +19,7 @@ tags:
   - переводчик
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_tranlate_bloknot.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_tranlate_bloknot-300x92.jpg" alt="блокнот на google translate" class="aligncenter size-medium wp-image-6509" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_tranlate_bloknot-300x92.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_tranlate_bloknot-1024x316.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_tranlate_bloknot.jpg 1216w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/google_tranlate_bloknot.jpg"><img src="{{site.img_cdn}}/google_tranlate_bloknot-300x92.jpg" alt="блокнот на google translate" class="aligncenter size-medium wp-image-6509" srcset="{{site.img_cdn}}/google_tranlate_bloknot-300x92.jpg 300w, {{site.img_cdn}}/google_tranlate_bloknot-1024x316.jpg 1024w, {{site.img_cdn}}/google_tranlate_bloknot.jpg 1216w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 На странице переводчика [Google Translate](http://translate.google.ru/) появилась новая панель с блокнотом. Если отметить какое-то слово/фразу/предложение звездочкой, то оно, вместе с переводом, автоматически попадает в блокнот.

@@ -20,7 +20,7 @@ tags:
 Сегодня хочу поделиться с вами популярным узором с гусиными лапками, так называемый &#8220;пье де пуль&#8221; (Pied-de-poule), который часто используется в качестве текстуры для дизайна одежды.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pied_de_poule_pattern.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pied_de_poule_pattern-300x231.jpg" alt="мозайка гусиные лапки" class="aligncenter size-medium wp-image-6947" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pied_de_poule_pattern-300x231.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pied_de_poule_pattern.jpg 1017w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/pied_de_poule_pattern.jpg"><img src="{{site.img_cdn}}/pied_de_poule_pattern-300x231.jpg" alt="мозайка гусиные лапки" class="aligncenter size-medium wp-image-6947" srcset="{{site.img_cdn}}/pied_de_poule_pattern-300x231.jpg 300w, {{site.img_cdn}}/pied_de_poule_pattern.jpg 1017w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Паттерн, как и положенно, &#8220;резиновый&#8221;, поэтому может быть легко использован в качестве повторяющегося фона.

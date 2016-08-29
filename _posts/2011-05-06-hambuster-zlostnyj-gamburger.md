@@ -22,7 +22,7 @@ tags:
   - video
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/hambuster.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/hambuster-300x176.jpg" alt="Видео" title="Hambuster" width="300" height="176" class="alignnone size-medium wp-image-2583" /></a>
+  <a href="{{site.img_cdn}}/hambuster.jpg"><img src="{{site.img_cdn}}/hambuster-300x176.jpg" alt="Видео" title="Hambuster" width="300" height="176" class="alignnone size-medium wp-image-2583" /></a>
 </center>
 
 Здравствуйте, сегодня пятница и <del datetime="2011-05-06T00:54:41+00:00">в эфире Поле Чудес</del> 😀 чтобы поддержать пятничное настроение, предлагаю посмотреть веселый и красочный анимационный ролик &#8211; **Hambuster**.

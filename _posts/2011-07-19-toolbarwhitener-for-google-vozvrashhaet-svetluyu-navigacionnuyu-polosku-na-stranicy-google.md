@@ -22,7 +22,7 @@ tags:
   - дополнение
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_white_toolbar.png" alt="Светлая полоска на Google" title="google_white_toolbar" width="400" height="275" class="alignnone size-full wp-image-3752" />
+  <img src="{{site.img_cdn}}/google_white_toolbar.png" alt="Светлая полоска на Google" title="google_white_toolbar" width="400" height="275" class="alignnone size-full wp-image-3752" />
 </center>
 
 Не всем по душе пришлось нововведения гугла, в лице темной навигационной полоски в верхней части сайта. Именно для них и было сделанно дополнение для Google Chrome, которое перекрашивает темную полоску в белый цвет, как это было раньше. Мелочь а приятно, кому нужно, ставьте &#8211; [ToolbarWhitener for Google™](https://chrome.google.com/webstore/detail/feoeglchiaabaccccnfiminjmcppicio "вернуть белую полоску на гугле")
