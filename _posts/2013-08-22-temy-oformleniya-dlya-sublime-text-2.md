@@ -77,7 +77,9 @@ tags:
 
 8. <a href="http://kkga.github.io/spacegray/">Spacegray</a> &#8211; красивая минималистичная тема.
 
+    <center>
     <a href="{{site.img_cdn}}/spacegray-sublime.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/spacegray-sublime-300x186.png" alt="стильная тема для редактора" class="aligncenter size-medium wp-image-7986" srcset="{{site.img_cdn}}/spacegray-sublime-300x186.png 300w, {{site.img_cdn}}/spacegray-sublime-1024x636.png 1024w, {{site.img_cdn}}/spacegray-sublime.png 1191w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    </center>
 
 9. <a href="https://github.com/samuelrafo/piatto">Piatto</a> Light & Dark
 
