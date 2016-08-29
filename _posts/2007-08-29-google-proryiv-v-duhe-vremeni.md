@@ -22,7 +22,7 @@ tags:
   - книга
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google-history.png" alt="Google. Прорыв в духе времени." title="google-history" width="150" height="217" class="alignnone size-full wp-image-2288" />
+  <img src="{{site.img_cdn}}/google-history.png" alt="Google. Прорыв в духе времени." title="google-history" width="150" height="217" class="alignnone size-full wp-image-2288" />
 </center>
 
 Это книга 2005 года издания. Книга об истории компании, которой ещё не исполнилось десяти лет. Книга о стремительном успехе. Вчера мельком увидел в книжном, захотелось заполучить. Для желающих ознакомиться немедленно &#8211; <a HREF="http://folone.googlepages.com/malsid_google_proriyv_v_duhe_vremen.html">онлайн-версия</a> (скачать <a HREF="http://files.artslab.info/google_book.zip">Google Book</a>).

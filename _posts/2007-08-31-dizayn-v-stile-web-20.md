@@ -25,7 +25,7 @@ tags:
   - дизайн
 ---
 <center align="center">
-   <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web_20.jpg" alt="дизайн в стиле web 2.0" title="web_20" width="271" height="83" class="alignnone size-full wp-image-1008" />
+   <img src="{{site.img_cdn}}/web_20.jpg" alt="дизайн в стиле web 2.0" title="web_20" width="271" height="83" class="alignnone size-full wp-image-1008" />
 </center>
 
 &#8220;В этом уроке я опишу некоторые элементы, распространенные в современном web дизайне, постараюсь объяснить, почему они работают, и как когда и где вы можете использовать эти элементы в ваших работах. Это продолжение моей статьи [Современный стиль в веб дизайне](http://designformasters.info/posts/current-style/), с более глубоким анализом особенностей дизайна в стиле Web 2.0.&#8221;

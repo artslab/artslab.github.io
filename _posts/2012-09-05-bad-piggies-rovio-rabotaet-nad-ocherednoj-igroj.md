@@ -19,7 +19,7 @@ tags:
   - игра
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bad_piggies_prodolzhenie_angry_birds.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/bad_piggies_prodolzhenie_angry_birds-300x167.jpg" alt="bad piggies продолжение игры angry birds" title="bad_piggies_prodolzhenie_angry_birds" width="300" height="167" class="aligncenter size-medium wp-image-5101" /></a>
+  <a href="{{site.img_cdn}}/bad_piggies_prodolzhenie_angry_birds.jpeg"><img src="{{site.img_cdn}}/bad_piggies_prodolzhenie_angry_birds-300x167.jpg" alt="bad piggies продолжение игры angry birds" title="bad_piggies_prodolzhenie_angry_birds" width="300" height="167" class="aligncenter size-medium wp-image-5101" /></a>
 </center>
 
 Игра Angry Birds от компаний Rovio никого не оставила равнодушным и быстро завоевала сердца пользователей. За весьма короткие сроки игра стала всемирно известной и популярной. Начав с платформы iOS, птички перебрались и на другие мобильный платформы, ну а затем и на десктопные операционные системы.

@@ -23,7 +23,7 @@ tags:
 Далее, несколько вариантов меню с шапками разных команд и код с картинками.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gotovie-kartinki-menu-vk.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gotovie-kartinki-menu-vk-208x300.jpg" alt="меню для группы вконтакте" class="size-medium wp-image-8090" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gotovie-kartinki-menu-vk-208x300.jpg 208w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gotovie-kartinki-menu-vk.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chelsea-sport-menu.jpg"><img class="size-medium wp-image-8091" alt="меню vk" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chelsea-sport-menu-208x300.jpg" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chelsea-sport-menu-208x300.jpg 208w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/chelsea-sport-menu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>
+  <a href="{{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg"><img src="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg" alt="меню для группы вконтакте" class="size-medium wp-image-8090" srcset="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg 208w, {{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<a href="{{site.img_cdn}}/chelsea-sport-menu.jpg"><img class="size-medium wp-image-8091" alt="меню vk" src="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg" srcset="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg 208w, {{site.img_cdn}}/chelsea-sport-menu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>
 </center>
 
 
@@ -35,7 +35,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/liverpool-menu-vk.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/liverpool-menu-vk-208x300.jpg" alt="суарез ливерпуль" class="size-medium wp-image-8092" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/liverpool-menu-vk-208x300.jpg 208w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/liverpool-menu-vk.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/arsenal-menu.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/arsenal-menu-208x300.jpg" alt="арсенал лондон" class="size-medium wp-image-8097" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/arsenal-menu-208x300.jpg 208w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/arsenal-menu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>
+  <a href="{{site.img_cdn}}/liverpool-menu-vk.jpg"><img src="{{site.img_cdn}}/liverpool-menu-vk-208x300.jpg" alt="суарез ливерпуль" class="size-medium wp-image-8092" srcset="{{site.img_cdn}}/liverpool-menu-vk-208x300.jpg 208w, {{site.img_cdn}}/liverpool-menu-vk.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<a href="{{site.img_cdn}}/arsenal-menu.jpg"><img src="{{site.img_cdn}}/arsenal-menu-208x300.jpg" alt="арсенал лондон" class="size-medium wp-image-8097" srcset="{{site.img_cdn}}/arsenal-menu-208x300.jpg 208w, {{site.img_cdn}}/arsenal-menu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>
 </center>
 
 Код меню:

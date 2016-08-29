@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4090
 permalink: /news/google-zapustil-novyj-servis-google-currents-mobilnaya-chitalka/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_currents1.jpg
+  - {{site.img_cdn}}/google_currents1.jpg
 prosmotr:
   - 169
 wpb_post_views_count:
@@ -33,5 +33,5 @@ tags:
 К сожалению приложение пока что дсотупно только для пользователей США. Но скачать его тем не менее можно всем. Для андроид, [отсюда](http://www.shenye.co.uk/files/Currents_1.0.apk). А для iOS необходимо использовать американский Apple Store аккаунт.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_currents1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_currents1-300x233.jpg" alt="читалка от гугла" title="google_currents" width="300" height="233" class="alignnone size-medium wp-image-4095" /></a>
+  <a href="{{site.img_cdn}}/google_currents1.jpg"><img src="{{site.img_cdn}}/google_currents1-300x233.jpg" alt="читалка от гугла" title="google_currents" width="300" height="233" class="alignnone size-medium wp-image-4095" /></a>
 </center>

@@ -36,5 +36,5 @@ tags:
 Нажав по баттону сразу же происходит подписка на микроблог, а если нажать на ссылку рядом, то всплывает окно такого вида:
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twiplee.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twiplee-300x255.jpg" alt="Кнопка подписки от твиттер" title="twiplee" width="300" height="255" class="alignnone size-medium wp-image-3241" /></a>
+  <a href="{{site.img_cdn}}/twiplee.jpg"><img src="{{site.img_cdn}}/twiplee-300x255.jpg" alt="Кнопка подписки от твиттер" title="twiplee" width="300" height="255" class="alignnone size-medium wp-image-3241" /></a>
 </center>

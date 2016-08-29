@@ -21,6 +21,6 @@ tags:
 ---
 [Post Editor for Google+](https://chrome.google.com/webstore/detail/post-editor-for-google%2B/canbakmdapinjpiabkbdgmpenllifmij) представляет из себя небольшой плагин для браузера Google Chrome, который будет полезен для пользователей социальной сети Google+.
 
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/post-editor-plugin-chrome-300x165.jpg" alt="плагин post editor для google+" class="aligncenter size-medium wp-image-8047" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/post-editor-plugin-chrome-300x165.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/post-editor-plugin-chrome.jpg 758w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/post-editor-plugin-chrome.jpg)
+[<img src="{{site.img_cdn}}/post-editor-plugin-chrome-300x165.jpg" alt="плагин post editor для google+" class="aligncenter size-medium wp-image-8047" srcset="{{site.img_cdn}}/post-editor-plugin-chrome-300x165.jpg 300w, {{site.img_cdn}}/post-editor-plugin-chrome.jpg 758w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/post-editor-plugin-chrome.jpg)
 
 После установки плагин добавит несколько кнопок к форме добавления контента для форматирования текста, т.е. выделить текст жирным (bold), курсивом (italic), зачеркнуть выбранный текст, а так же добавит выпадающее меню с специальными символами для вставки в запись.

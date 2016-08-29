@@ -26,13 +26,13 @@ tags:
   - новости
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twitter_vkontakte_export_import.jpg" alt="Импорт и экспорт твитов Вконтакте - официально" title="twitter_vkontakte_export_import" width="430" height="80" class="alignnone size-full wp-image-2803" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twitter_vkontakte_export_import.jpg 430w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/twitter_vkontakte_export_import-300x55.jpg 300w" sizes="(max-width: 430px) 100vw, 430px" />
+  <img src="{{site.img_cdn}}/twitter_vkontakte_export_import.jpg" alt="Импорт и экспорт твитов Вконтакте - официально" title="twitter_vkontakte_export_import" width="430" height="80" class="alignnone size-full wp-image-2803" srcset="{{site.img_cdn}}/twitter_vkontakte_export_import.jpg 430w, {{site.img_cdn}}/twitter_vkontakte_export_import-300x55.jpg 300w" sizes="(max-width: 430px) 100vw, 430px" />
 </center>
 
 Совсем недавно стала доступной для всех, функция импорта твитов на стену страницы Вконтакте. Ранее я [уже писал](http://artslab.info/skriptyi/translyatsiya-statusov-iz-twitter-na-vkontakte/), как это можно было сделать с помощью стороннего скрипта, который приходилось запускать с помощью cronjob. Но вот теперь, наконец, появилось официальное решение и поддержка Twitter. Работает без лишних <del datetime="2011-05-17T22:26:11+00:00">велосипедов</del> скриптов в обе стороны, как импорт, так и экспорт.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkontakte_twitter.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vkontakte_twitter-300x181.jpg" alt="Импорт из Твиттера на сайт Вконтакте" title="vkontakte_twitter" width="300" height="181" class="alignnone size-medium wp-image-2802" /></a>
+  <a href="{{site.img_cdn}}/vkontakte_twitter.jpg"><img src="{{site.img_cdn}}/vkontakte_twitter-300x181.jpg" alt="Импорт из Твиттера на сайт Вконтакте" title="vkontakte_twitter" width="300" height="181" class="alignnone size-medium wp-image-2802" /></a>
 </center>
 
 Импорт твитов включается на странице редактирования профиля, на вкладке &#8220;Контакты&#8221;. Нажав там по ссылке &#8220;Интеграция с другими сервисами&#8221;, необходимо будет авторизироваться и после этого все твиты будут автоматически транслироваться на Вашу стену.

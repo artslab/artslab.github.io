@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=3978
 permalink: /vse-dlya-google-chrome/image-properties-svojstva-izobrazheniya-v-google-chrome/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/image_properties_google_chrome.jpg
+  - {{site.img_cdn}}/image_properties_google_chrome.jpg
 prosmotr:
   - 137
 wpb_post_views_count:
@@ -23,7 +23,7 @@ tags:
 Всегда не хватало такой функций в браузере. Часто бывает нужно посмотреть на ширину и высоту картинки или узнать ее размер. Для того чтобы узнать формат и размер, приходилось открывать исходный код страницы и там смотреть свойства картинки.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/image_properties_google_chrome.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/image_properties_google_chrome-281x300.jpg" alt="свойства изображения в google chrome" title="image_properties_google_chrome" width="281" height="300" class="alignnone size-medium wp-image-3979" /></a>
+  <a href="{{site.img_cdn}}/image_properties_google_chrome.jpg"><img src="{{site.img_cdn}}/image_properties_google_chrome-281x300.jpg" alt="свойства изображения в google chrome" title="image_properties_google_chrome" width="281" height="300" class="alignnone size-medium wp-image-3979" /></a>
 </center>
 
 С дополнением [Image Properties](https://chrome.google.com/webstore/detail/khagclindddokccfbmfmckaflngbmpon) все становится намного проще, просто выбираем нужную картинку, жмем по ней правой кнопкой мыши и в контекстном меню выбираем пункт &#8220;Свойства изображения&#8221;.

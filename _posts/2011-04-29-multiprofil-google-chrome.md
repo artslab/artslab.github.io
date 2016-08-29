@@ -21,7 +21,7 @@ tags:
   - браузеры
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/profile_switcher_google_chrome.jpg" alt="профили в google chrome" title="profile_switcher_google_chrome" width="388" height="71" class="alignnone size-full wp-image-2469" />
+  <img src="{{site.img_cdn}}/profile_switcher_google_chrome.jpg" alt="профили в google chrome" title="profile_switcher_google_chrome" width="388" height="71" class="alignnone size-full wp-image-2469" />
 </center>
 
 Вчера появилась уже 13 dev-версия Google Chrome с новой экспериментальной функцией. На страничке about:flags, появился пункт &#8211; &#8220;Несколько профилей&#8221;, да-да хром приобрел долгожданную мультипрофильность.
@@ -33,5 +33,5 @@ tags:
 Одним словом &#8211; хромовцы молодцы, очень радует что браузер развивается и обрастает новыми функциями, да еще в таком темпе.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/multiprofile_google_chrome.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/multiprofile_google_chrome-300x189.jpg" alt="мультипрофили в google chrome" title="multiprofile_google_chrome" width="300" height="189" class="alignnone size-medium wp-image-2470" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/multiprofile_google_chrome-300x189.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/multiprofile_google_chrome.jpg 919w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/multiprofile_google_chrome.jpg"><img src="{{site.img_cdn}}/multiprofile_google_chrome-300x189.jpg" alt="мультипрофили в google chrome" title="multiprofile_google_chrome" width="300" height="189" class="alignnone size-medium wp-image-2470" srcset="{{site.img_cdn}}/multiprofile_google_chrome-300x189.jpg 300w, {{site.img_cdn}}/multiprofile_google_chrome.jpg 919w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

@@ -19,7 +19,7 @@ tags:
   - дополнение
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/personalize_google_navbar.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/personalize_google_navbar-300x207.png" alt="тонкая настройка навигаций google" title="personalize_google_navbar" width="300" height="207" class="aligncenter size-medium wp-image-5196" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/personalize_google_navbar-300x207.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/personalize_google_navbar.png 634w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/personalize_google_navbar.png"><img src="{{site.img_cdn}}/personalize_google_navbar-300x207.png" alt="тонкая настройка навигаций google" title="personalize_google_navbar" width="300" height="207" class="aligncenter size-medium wp-image-5196" srcset="{{site.img_cdn}}/personalize_google_navbar-300x207.png 300w, {{site.img_cdn}}/personalize_google_navbar.png 634w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Если Вы часто пользуетесь сервисами Google, то наверняка уже привыкли к верхней навигационной панели на страничках поисковика. Дополнение [+You Gbar для Google Chrome](https://chrome.google.com/webstore/detail/pdkohnefnbiiijjpjcefmfbeopbcflep/related?hl=de) поможет сделать навигацию еще удобнее.

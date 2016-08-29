@@ -22,7 +22,7 @@ tags:
   - онлайн сервис
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/flattrcom.jpg" alt="Новое в системе Flattr" title="flattrcom" width="249" height="70" class="alignnone size-full wp-image-2640" />
+  <img src="{{site.img_cdn}}/flattrcom.jpg" alt="Новое в системе Flattr" title="flattrcom" width="249" height="70" class="alignnone size-full wp-image-2640" />
 </center>
 
 _Немного запоздал с этой новостью, но все таки не мог не запостить и не упомянуть.._

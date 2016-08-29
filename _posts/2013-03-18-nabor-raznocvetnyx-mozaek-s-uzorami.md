@@ -20,7 +20,7 @@ tags:
   - дизайн
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/raznozvetnie_mozaiki.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/raznozvetnie_mozaiki-300x279.jpg" alt="мозайки для сайта" class="aligncenter size-medium wp-image-6551" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/raznozvetnie_mozaiki-300x279.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/raznozvetnie_mozaiki.jpg 650w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/raznozvetnie_mozaiki.jpg"><img src="{{site.img_cdn}}/raznozvetnie_mozaiki-300x279.jpg" alt="мозайки для сайта" class="aligncenter size-medium wp-image-6551" srcset="{{site.img_cdn}}/raznozvetnie_mozaiki-300x279.jpg 300w, {{site.img_cdn}}/raznozvetnie_mozaiki.jpg 650w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Большой набор (51 pattern) стильных разноцветных и узорчатых паттернов для использования в веб-дизайне.

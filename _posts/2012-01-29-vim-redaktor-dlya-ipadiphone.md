@@ -21,13 +21,13 @@ tags:
   - редактор
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_editor_icon.jpg" alt="" title="vim_editor_icon" width="189" height="188" class="aligncenter size-full wp-image-4291" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_editor_icon.jpg 189w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_editor_icon-100x100.jpg 100w" sizes="(max-width: 189px) 100vw, 189px" />
+  <img src="{{site.img_cdn}}/vim_editor_icon.jpg" alt="" title="vim_editor_icon" width="189" height="188" class="aligncenter size-full wp-image-4291" srcset="{{site.img_cdn}}/vim_editor_icon.jpg 189w, {{site.img_cdn}}/vim_editor_icon-100x100.jpg 100w" sizes="(max-width: 189px) 100vw, 189px" />
 </center>
 
 Я редко пишу про приложения для мобильных устроиств, а если и писал, то это были либо игры, либо клиенты для популярных сервисов.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone-200x300.jpg" alt="" title="vim_iphone" width="200" height="300" class="aligncenter size-medium wp-image-4292" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone-200x300.jpg 200w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_iphone.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+  <a href="{{site.img_cdn}}/vim_iphone.jpg"><img src="{{site.img_cdn}}/vim_iphone-200x300.jpg" alt="" title="vim_iphone" width="200" height="300" class="aligncenter size-medium wp-image-4292" srcset="{{site.img_cdn}}/vim_iphone-200x300.jpg 200w, {{site.img_cdn}}/vim_iphone.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 </center>
 
 
@@ -39,4 +39,4 @@ tags:
 [Скачать Vim с AppStore](http://itunes.apple.com/us/app/vim/id492668168?mt=8)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_ipad.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vim_ipad-225x300.jpg" alt="" title="vim_ipad" width="225" height="300" class="aligncenter size-medium wp-image-4293" /></a>>/center></p>
+  <a href="{{site.img_cdn}}/vim_ipad.jpg"><img src="{{site.img_cdn}}/vim_ipad-225x300.jpg" alt="" title="vim_ipad" width="225" height="300" class="aligncenter size-medium wp-image-4293" /></a>>/center></p>

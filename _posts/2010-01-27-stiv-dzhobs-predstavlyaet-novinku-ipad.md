@@ -21,7 +21,7 @@ tags:
   - ipad
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_ipad.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_ipad-300x199.jpg" alt="" title="apple_ipad" width="300" height="199" class="alignnone size-medium wp-image-867" /></a>
+  <a href="{{site.img_cdn}}/apple_ipad.jpg"><img src="{{site.img_cdn}}/apple_ipad-300x199.jpg" alt="" title="apple_ipad" width="300" height="199" class="alignnone size-medium wp-image-867" /></a>
 </center>
 
 27 января, Стив Джобс показал миру долгожданную новинку от Apple. По мнению Стива устройство должно заполнить пустоту между ноутбуком и телефоном, так как нетбук является медленным и неудобным. Многие еще до презентаций продукта прозвали предполагаемую новинку как iSlate или iTablet.

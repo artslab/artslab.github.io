@@ -23,7 +23,7 @@ tags:
   - web design
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/thumbalizr.jpg" alt="сделать скриншот сайта быстро" title="thumbalizr" width="289" height="96" class="alignnone size-full wp-image-1003" />
+  <img src="{{site.img_cdn}}/thumbalizr.jpg" alt="сделать скриншот сайта быстро" title="thumbalizr" width="289" height="96" class="alignnone size-full wp-image-1003" />
 </center>
 
 [Thumbalirz](http://www.thumbalizr.com/) &#8211; небольшой сервис при помощи которого в любой момент можно сделать **полный** скриншот любой веб-странички и сохранить его к себе на жесткий диск. Скриншот доступен в разных размерах, так же можно выбрать между скриншотом только видимой области, либо всей страницы.

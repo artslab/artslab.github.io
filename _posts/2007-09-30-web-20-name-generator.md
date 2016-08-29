@@ -23,7 +23,7 @@ tags:
   - сервис
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20_name_generator.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/web20_name_generator-300x171.jpg" alt="web 2.0 name generator" title="web20_name_generator" width="300" height="171" class="alignnone size-medium wp-image-879" /></a>
+  <a href="{{site.img_cdn}}/web20_name_generator.jpg"><img src="{{site.img_cdn}}/web20_name_generator-300x171.jpg" alt="web 2.0 name generator" title="web20_name_generator" width="300" height="171" class="alignnone size-medium wp-image-879" /></a>
 </center>
 
 

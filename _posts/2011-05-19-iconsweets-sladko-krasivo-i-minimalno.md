@@ -21,13 +21,13 @@ tags:
   - ikonki
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets-300x99.jpg" alt="Набор иконок для web-приложений" title="iconsweets" width="300" height="99" class="alignnone size-medium wp-image-2911" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets-300x99.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconsweets.jpg 424w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/iconsweets.jpg"><img src="{{site.img_cdn}}/iconsweets-300x99.jpg" alt="Набор иконок для web-приложений" title="iconsweets" width="300" height="99" class="alignnone size-medium wp-image-2911" srcset="{{site.img_cdn}}/iconsweets-300x99.jpg 300w, {{site.img_cdn}}/iconsweets.jpg 424w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Именно таким бы мог быть слоган [IconSweets](http://www.iconsweets.com/). Простой и красивый набор для веб-приложений. На мой взгляд больше всего иконки подойдут для сайтов, iPhone/iPad-приложений, хотя можно вставить и в док и куда угодно. Исполнены в минимальном стиле, в белом цвете. Всего в набор входят 60 иконок, в двух размерах 32?32 и 16?16px, формат PSD.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconSweets.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconSweets-237x300.png" alt="Иконки для веб-сайтов" title="iconSweets" width="237" height="300" class="alignnone size-medium wp-image-2912" /></a>
+  <a href="{{site.img_cdn}}/iconSweets.png"><img src="{{site.img_cdn}}/iconSweets-237x300.png" alt="Иконки для веб-сайтов" title="iconSweets" width="237" height="300" class="alignnone size-medium wp-image-2912" /></a>
 </center>
 
 [Скачать иконки](http://www.iconsweets.com/)

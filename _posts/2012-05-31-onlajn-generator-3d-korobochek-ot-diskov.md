@@ -19,7 +19,7 @@ tags:
   - онлайн сервис
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdanie_boxow.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdanie_boxow-209x300.jpg" alt="создание 3d-каверов дисков" title="sozdanie_boxow" width="209" height="300" class="aligncenter size-medium wp-image-4651" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdanie_boxow-209x300.jpg 209w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdanie_boxow.jpg 291w" sizes="(max-width: 209px) 100vw, 209px" /></a>
+  <a href="{{site.img_cdn}}/sozdanie_boxow.jpg"><img src="{{site.img_cdn}}/sozdanie_boxow-209x300.jpg" alt="создание 3d-каверов дисков" title="sozdanie_boxow" width="209" height="300" class="aligncenter size-medium wp-image-4651" srcset="{{site.img_cdn}}/sozdanie_boxow-209x300.jpg 209w, {{site.img_cdn}}/sozdanie_boxow.jpg 291w" sizes="(max-width: 209px) 100vw, 209px" /></a>
 </center>
 
 <a href="http://3d-pack.com/" target="_blank">3D-Pack</a> &#8211; это онлайн сервис для быстрого создания 3d коробочек или обложек для DVD и CD. Для того чтобы сгенерировать кавер, необходимо указать изображения для разных сторон коробочки и нажать по кнопки generate, после чего сайт выдаст вам готовый дизайн обложки, который можно сохранить в jpg/png. перед тем как начать, загляните в <a href="http://3d-pack.com/gallery.php" target="_blank">галерею готовых коробочек</a> для вдохновения.

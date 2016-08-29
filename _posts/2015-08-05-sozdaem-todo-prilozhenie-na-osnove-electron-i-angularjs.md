@@ -21,7 +21,7 @@ tags:
   - material design
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg" data-lightbox="img-1"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg" alt="todo-приложения на основе electron и angularjs" class="aligncenter size-medium wp-image-8341" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/electron-todo-app.jpg" data-lightbox="img-1"><img src="{{site.img_cdn}}/electron-todo-app-300x234.jpg" alt="todo-приложения на основе electron и angularjs" class="aligncenter size-medium wp-image-8341" srcset="{{site.img_cdn}}/electron-todo-app-300x234.jpg 300w, {{site.img_cdn}}/electron-todo-app-900x702.jpg 900w, {{site.img_cdn}}/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Давно хотел познакомиться с <a href="https://github.com/atom/electron/" target="_blank">Electron</a>, платформой для создания десктопных приложений на основе веб-технологий, но до этого момента никак не доходили руки. Сегодня мы создадим небольшое ToDo-приложение и используем для этого JavaScript-фреймворк <a href="https://angularjs.org/" target="_blank">AngularJs</a> в связке с гугловским <a href="https://material.angularjs.org" target="_blank">Material Design’ом</a>. Код готового приложения доступен на <a href="https://github.com/4gray/electronTodoApp" target="_blank">Github</a>.
@@ -74,7 +74,7 @@ tags:
 <pre>electron app.js</pre>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start.jpg" data-lightbox="img-2"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-300x234.jpg" alt="первый старт приложения" width="300" height="234" class="aligncenter size-medium wp-image-8339" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-prilozhenie-start.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/electron-todo-prilozhenie-start.jpg" data-lightbox="img-2"><img src="{{site.img_cdn}}/electron-todo-prilozhenie-start-300x234.jpg" alt="первый старт приложения" width="300" height="234" class="aligncenter size-medium wp-image-8339" srcset="{{site.img_cdn}}/electron-todo-prilozhenie-start-300x234.jpg 300w, {{site.img_cdn}}/electron-todo-prilozhenie-start-900x702.jpg 900w, {{site.img_cdn}}/electron-todo-prilozhenie-start.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Теперь скачаем необходимые нам библиотеки &#8211; AngularJs, Angular Material, а так же веб-шрифт с иконками <a href="https://www.google.com/design/icons/" target="_blank">Material Icons</a>. Для этого можем воспользоваться менеджером пакетов npm:
@@ -204,7 +204,7 @@ npm install angular-material</pre>
 <pre>electron app.js</pre>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie.jpg" data-lightbox="img-3"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-300x234.jpg" alt="создание приложение на основе electron" class="aligncenter size-medium wp-image-8343" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electro-pervoe-prilozhenie.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/electro-pervoe-prilozhenie.jpg" data-lightbox="img-3"><img src="{{site.img_cdn}}/electro-pervoe-prilozhenie-300x234.jpg" alt="создание приложение на основе electron" class="aligncenter size-medium wp-image-8343" srcset="{{site.img_cdn}}/electro-pervoe-prilozhenie-300x234.jpg 300w, {{site.img_cdn}}/electro-pervoe-prilozhenie-900x702.jpg 900w, {{site.img_cdn}}/electro-pervoe-prilozhenie.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 На данный момент у нас отображаются все три пункта меню с иконками и две задачи, которые мы поместили в наш массив. Кроме того, мы можем переключаться между тремя созданными списками (все задачи, предстоящий и сделанные).
@@ -283,7 +283,7 @@ npm install angular-material</pre>
 {% endhighlight %}
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg" data-lightbox="img-4"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg" alt="todo-app - добавить новую задачу" class="aligncenter size-medium wp-image-8340" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-dobavit-novuju-zadachu.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/electron-dobavit-novuju-zadachu.jpg" data-lightbox="img-4"><img src="{{site.img_cdn}}/electron-dobavit-novuju-zadachu-300x234.jpg" alt="todo-app - добавить новую задачу" class="aligncenter size-medium wp-image-8340" srcset="{{site.img_cdn}}/electron-dobavit-novuju-zadachu-300x234.jpg 300w, {{site.img_cdn}}/electron-dobavit-novuju-zadachu-900x702.jpg 900w, {{site.img_cdn}}/electron-dobavit-novuju-zadachu.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 В итоге, у меня main.js выглядит следующим образом:
@@ -348,7 +348,7 @@ npm install angular-material</pre>
 
 {% endhighlight %}
 
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg" alt="создание приложения на основе electron" class="aligncenter size-medium wp-image-8341" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-300x234.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app-900x702.jpg 900w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/electron-todo-app.jpg)
+[<img src="{{site.img_cdn}}/electron-todo-app-300x234.jpg" alt="создание приложения на основе electron" class="aligncenter size-medium wp-image-8341" srcset="{{site.img_cdn}}/electron-todo-app-300x234.jpg 300w, {{site.img_cdn}}/electron-todo-app-900x702.jpg 900w, {{site.img_cdn}}/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/electron-todo-app.jpg)
 
 На этом пока что все, экспериментируй, расширяйте возможности 🙂 Для сохранения списка дел, например, можно воспользоваться local storage (модуль ngStorage). Весь код данного приложения доступен на [github](https://github.com/4gray/electronTodoApp).
 

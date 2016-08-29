@@ -27,7 +27,7 @@ tags:
   - Для Wordpress
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_text_effects.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photoshop_text_effects-300x196.jpg" alt="" title="photoshop_text_effects" width="300" height="196" class="alignnone size-medium wp-image-961" /></a>
+  <a href="{{site.img_cdn}}/photoshop_text_effects.jpg"><img src="{{site.img_cdn}}/photoshop_text_effects-300x196.jpg" alt="" title="photoshop_text_effects" width="300" height="196" class="alignnone size-medium wp-image-961" /></a>
 </center>
 
 

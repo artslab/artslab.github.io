@@ -23,7 +23,7 @@ tags:
   - онлайн сервис
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline-300x225.png" alt="buzzlike сервис для автопостинга vkontakte" title="servis_buzzlike" width="300" height="225" class="aligncenter size-medium wp-image-5210" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline.png 992w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/servis_buzzline.png"><img src="{{site.img_cdn}}/servis_buzzline-300x225.png" alt="buzzlike сервис для автопостинга vkontakte" title="servis_buzzlike" width="300" height="225" class="aligncenter size-medium wp-image-5210" srcset="{{site.img_cdn}}/servis_buzzline-300x225.png 300w, {{site.img_cdn}}/servis_buzzline.png 992w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Если Вы хотите активно развивать и поддерживать свою группу/страницу [ВКонтакте](http://artslab.info/tag/vkontakte/), то рано или поздно Вам придется воспользоваться сервисом для отложенного автопостинга на стену группы/страницы. Допустим, Вы уезжаете в отпуск, но тем не менее хотите поддерживать активность в группе. Вот тут Вам и поможет один из подобных сервисов на который можно положиться в Ваше отсутствие.
@@ -37,17 +37,17 @@ tags:
 ### 1. [Buzzlike](http://buzzlike.ru)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline-300x225.png" alt="buzzlike vkontakte" title="servis_buzzlike" width="300" height="225" class="aligncenter size-medium wp-image-5210" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/servis_buzzline.png 992w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/servis_buzzline.png"><img src="{{site.img_cdn}}/servis_buzzline-300x225.png" alt="buzzlike vkontakte" title="servis_buzzlike" width="300" height="225" class="aligncenter size-medium wp-image-5210" srcset="{{site.img_cdn}}/servis_buzzline-300x225.png 300w, {{site.img_cdn}}/servis_buzzline.png 992w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 2. [FeedMan](http://feedman.ru)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedman_vk.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedman_vk-300x191.png" alt="сервис для постинга VK" title="feedman_vk" width="300" height="191" class="aligncenter size-medium wp-image-5214" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedman_vk-300x191.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedman_vk.png 1019w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/feedman_vk.png"><img src="{{site.img_cdn}}/feedman_vk-300x191.png" alt="сервис для постинга VK" title="feedman_vk" width="300" height="191" class="aligncenter size-medium wp-image-5214" srcset="{{site.img_cdn}}/feedman_vk-300x191.png 300w, {{site.img_cdn}}/feedman_vk.png 1019w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### 3. [Time2Post](http://time2post.ru/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/time2post_vk.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/time2post_vk-300x236.png" alt="отложенный постнг в социальные сеть facebook, vk, twitter" title="time2post_vk" width="300" height="236" class="aligncenter size-medium wp-image-5215" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/time2post_vk-300x236.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/time2post_vk.png 975w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/time2post_vk.png"><img src="{{site.img_cdn}}/time2post_vk-300x236.png" alt="отложенный постнг в социальные сеть facebook, vk, twitter" title="time2post_vk" width="300" height="236" class="aligncenter size-medium wp-image-5215" srcset="{{site.img_cdn}}/time2post_vk-300x236.png 300w, {{site.img_cdn}}/time2post_vk.png 975w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

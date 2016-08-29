@@ -22,13 +22,13 @@ tags:
   - темы
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blend_2_0_for_windows_7_by_zainadeel-d364ccx.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blend_2_0_for_windows_7_by_zainadeel-d364ccx-200x300.jpg" alt="тема для windows 7" title="blend_2_0_for_windows_7_by_zainadeel-d364ccx" width="200" height="300" class="alignnone size-medium wp-image-1219" /></a>
+  <a href="{{site.img_cdn}}/blend_2_0_for_windows_7_by_zainadeel-d364ccx.jpg"><img src="{{site.img_cdn}}/blend_2_0_for_windows_7_by_zainadeel-d364ccx-200x300.jpg" alt="тема для windows 7" title="blend_2_0_for_windows_7_by_zainadeel-d364ccx" width="200" height="300" class="alignnone size-medium wp-image-1219" /></a>
 </center>
 
 Сегодня я хотел бы поделиться одной очень красивой и качественно сделанной темой **Blend 2.0**. Автор темы пишет, что на разработку и улучшение ему понадобилось три месяца.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blend1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blend1.jpg" alt="" title="blend1" width="215" height="166" class="alignnone size-full wp-image-1220" /></a>&nbsp; <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blend2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blend2.jpg" alt="скачать тему для windows 7" title="blend2" width="218" height="165" class="alignnone size-full wp-image-1221" /></a>
+  <a href="{{site.img_cdn}}/blend1.jpg"><img src="{{site.img_cdn}}/blend1.jpg" alt="" title="blend1" width="215" height="166" class="alignnone size-full wp-image-1220" /></a>&nbsp; <a href="{{site.img_cdn}}/blend2.jpg"><img src="{{site.img_cdn}}/blend2.jpg" alt="скачать тему для windows 7" title="blend2" width="218" height="165" class="alignnone size-full wp-image-1221" /></a>
 </center>
 
 [Скачать тему](http://zainadeel.deviantart.com/art/Blend-2-0-for-Windows-7-191678865)
@@ -46,7 +46,7 @@ tags:
 2. Теперь нужно перенести скачанные файлы темы (*.theme) в папку C:\Windows\Resources\Themes
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7-300x184.jpg" alt="как установить тему в win 7" title="ustanovka_tem_dlya_win7" width="300" height="184" class="alignnone size-medium wp-image-1227" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7-300x184.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7.jpg 780w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/ustanovka_tem_dlya_win7.jpg"><img src="{{site.img_cdn}}/ustanovka_tem_dlya_win7-300x184.jpg" alt="как установить тему в win 7" title="ustanovka_tem_dlya_win7" width="300" height="184" class="alignnone size-medium wp-image-1227" srcset="{{site.img_cdn}}/ustanovka_tem_dlya_win7-300x184.jpg 300w, {{site.img_cdn}}/ustanovka_tem_dlya_win7.jpg 780w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 3. Тема установлена, осталось только выбрать её.
@@ -56,7 +56,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_win_7.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_win_7-251x300.png" alt="Как установить тему для виндовс" title="ustanovka_tem_win_7" width="251" height="300" class="alignnone size-medium wp-image-1228" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_win_7-251x300.png 251w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_win_7.png 289w" sizes="(max-width: 251px) 100vw, 251px" /></a>
+  <a href="{{site.img_cdn}}/ustanovka_tem_win_7.png"><img src="{{site.img_cdn}}/ustanovka_tem_win_7-251x300.png" alt="Как установить тему для виндовс" title="ustanovka_tem_win_7" width="251" height="300" class="alignnone size-medium wp-image-1228" srcset="{{site.img_cdn}}/ustanovka_tem_win_7-251x300.png 251w, {{site.img_cdn}}/ustanovka_tem_win_7.png 289w" sizes="(max-width: 251px) 100vw, 251px" /></a>
 </center>
 
 
@@ -64,7 +64,7 @@ tags:
 В открывшемся окне, пролистав чуть ниже, вы уведите список установленных тем.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2-300x179.jpg" alt="темы для win 7" title="ustanovka_tem_dlya_win7_2" width="300" height="179" class="alignnone size-medium wp-image-1229" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2-300x179.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2-1024x613.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ustanovka_tem_dlya_win7_2.jpg 1044w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/ustanovka_tem_dlya_win7_2.jpg"><img src="{{site.img_cdn}}/ustanovka_tem_dlya_win7_2-300x179.jpg" alt="темы для win 7" title="ustanovka_tem_dlya_win7_2" width="300" height="179" class="alignnone size-medium wp-image-1229" srcset="{{site.img_cdn}}/ustanovka_tem_dlya_win7_2-300x179.jpg 300w, {{site.img_cdn}}/ustanovka_tem_dlya_win7_2-1024x613.jpg 1024w, {{site.img_cdn}}/ustanovka_tem_dlya_win7_2.jpg 1044w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Выберите из списка новую тему и подтвердите выбор.

@@ -21,7 +21,7 @@ tags:
 Небольшой набор иконок для программ от команий Adobe (Photoshop, Illustrator и другие), а так же иконочки для Chrome, Twitter и Instagram. Доступны в формате PSD, со всеми слоями. Поэтому можно легко дополнить набор своими иконками.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/acutal-pixels.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/acutal-pixels-200x300.jpg" alt="иконки в виде диамантов" class="aligncenter size-medium wp-image-6959" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/acutal-pixels-200x300.jpg 200w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/acutal-pixels-682x1024.jpg 682w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/acutal-pixels.jpg 800w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+  <a href="{{site.img_cdn}}/acutal-pixels.jpg"><img src="{{site.img_cdn}}/acutal-pixels-200x300.jpg" alt="иконки в виде диамантов" class="aligncenter size-medium wp-image-6959" srcset="{{site.img_cdn}}/acutal-pixels-200x300.jpg 200w, {{site.img_cdn}}/acutal-pixels-682x1024.jpg 682w, {{site.img_cdn}}/acutal-pixels.jpg 800w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 </center>
 
 Автор [David Kovalev](http://dribbble.com/shots/1021023-Adobe-Icons-PSD), скачиваем psd-файл с его странички на [Dribbble](http://dribbble.com/shots/1021023-Adobe-Icons-PSD)

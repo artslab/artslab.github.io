@@ -21,7 +21,7 @@ tags:
   - psd
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipad_mini_skachat_psd.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipad_mini_skachat_psd-300x211.jpg" alt="скачать psd ipad mini" title="ipad_mini_skachat_psd" width="300" height="211" class="aligncenter size-medium wp-image-5613" /></a>
+  <a href="{{site.img_cdn}}/ipad_mini_skachat_psd.jpeg"><img src="{{site.img_cdn}}/ipad_mini_skachat_psd-300x211.jpg" alt="скачать psd ipad mini" title="ipad_mini_skachat_psd" width="300" height="211" class="aligncenter size-medium wp-image-5613" /></a>
 </center>
 
 Свеженький исходник с новеньким планшетом от Apple. Встречайте psd-файл с iPad Mini. Более 200 слоев и две версий планшета, черная и белая.

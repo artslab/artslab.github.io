@@ -21,7 +21,7 @@ tags:
   - дополнение
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/24russia_online_tv.png" alt="Просмотр канала Россия 24 в режиме - онлайн" title="24russia_online_tv" width="400" height="275" class="alignnone size-full wp-image-3078" />
+  <img src="{{site.img_cdn}}/24russia_online_tv.png" alt="Просмотр канала Россия 24 в режиме - онлайн" title="24russia_online_tv" width="400" height="275" class="alignnone size-full wp-image-3078" />
 </center>
 
 Google Chrome не перестает меня радовать, так же как и [те люди](http://my-chrome.ru/2011/05/prilozhenie-rossiya-24-onlajn-tv/), которые делают для него замечательные плагины. В этот раз для Хрома было создано приложение канала [Россия 24](https://chrome.google.com/webstore/detail/backaeplcmgnncbejeanhhohngidfapj#) &#8211; онлайн ТВ.

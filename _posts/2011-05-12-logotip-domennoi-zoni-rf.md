@@ -26,7 +26,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/domeni_rf_logo1.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/domeni_rf_logo1-300x115.png" alt="Логотип доменной зоны РФ" title="domeni_rf_logo" width="300" height="115" class="alignnone size-medium wp-image-2684" /></a>
+  <a href="{{site.img_cdn}}/domeni_rf_logo1.png"><img src="{{site.img_cdn}}/domeni_rf_logo1-300x115.png" alt="Логотип доменной зоны РФ" title="domeni_rf_logo" width="300" height="115" class="alignnone size-medium wp-image-2684" /></a>
 </center>
 
 

@@ -26,13 +26,13 @@ tags:
 ## Mosaic
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mozaic_psd_template.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mozaic_psd_template-253x300.png" alt="psd шаблон для создания сайта" title="mozaic_psd_template" width="253" height="300" class="alignnone size-medium wp-image-2258" /></a>
+  <a href="{{site.img_cdn}}/mozaic_psd_template.png"><img src="{{site.img_cdn}}/mozaic_psd_template-253x300.png" alt="psd шаблон для создания сайта" title="mozaic_psd_template" width="253" height="300" class="alignnone size-medium wp-image-2258" /></a>
 </center>
 
 Скачать psd можно с [сайта разработчика](http://www.readactor.com/design/free-creative-website-template-design-psd/)
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd_shablon_dlya_saita.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/psd_shablon_dlya_saita2.jpg" alt="psd шаблон для сайта" title="psd_shablon_dlya_saita" width="250" height="364" class="alignnone size-full wp-image-2262" /></a>
+  <a href="{{site.img_cdn}}/psd_shablon_dlya_saita.jpg"><img src="{{site.img_cdn}}/psd_shablon_dlya_saita2.jpg" alt="psd шаблон для сайта" title="psd_shablon_dlya_saita" width="250" height="364" class="alignnone size-full wp-image-2262" /></a>
 </center>
 
 ## Events Template

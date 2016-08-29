@@ -22,7 +22,7 @@ tags:
 Одним из последних нововведений на популярном фото-сервисе [Instagram](http://artslab.info/tag/instagram/) стала возможность снятия и добавления видео с фильтрами. В связи с этим, у многих пользователей появился вопрос, как скачать свой или чужой ролик с инстаграм.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/downloadgram-skachat-video-instagram.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/downloadgram-skachat-video-instagram.jpg" alt="скачать видео с instagram" class="aligncenter size-medium wp-image-7826" width="550" data-lightbox="instagram" /></a>
+  <a href="{{site.img_cdn}}/downloadgram-skachat-video-instagram.jpg"><img src="{{site.img_cdn}}/downloadgram-skachat-video-instagram.jpg" alt="скачать видео с instagram" class="aligncenter size-medium wp-image-7826" width="550" data-lightbox="instagram" /></a>
 </center>
 
 Самое просто решение &#8211; это воспользоваться онлайн-сервисом <a href="https://downloadgram.com/" target="_blank">DownloadGram</a>, который позволит скачать любое видео и сохранить его в формате mp4. Кроме видео, сервис так же позволяет скачивать фотографий оригинального размера и качества в jpg.

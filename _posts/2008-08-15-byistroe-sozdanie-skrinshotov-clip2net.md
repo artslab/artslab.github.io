@@ -29,7 +29,7 @@ tags:
 format: aside
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" style="border: 0pt none;" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/clip2net.jpg" alt="сдip2net быстрые скриншоты" width="361" height="146" />
+  <img class="aligncenter" style="border: 0pt none;" src="{{site.img_cdn}}/clip2net.jpg" alt="сдip2net быстрые скриншоты" width="361" height="146" />
 </p>
 
 _Скриншоты приходится делать ежедневно, для решения какой-либо проблемы, для написания статьи или просто бывает нужно показать что-то. Пользоваться принт-скрином немного напрягает: нужно открыть редактор, вставить изображение, сохранить и потом еще залить куда-то._

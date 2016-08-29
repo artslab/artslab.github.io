@@ -20,12 +20,12 @@ tags:
   - программа
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lockpic_dlya_windows8.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lockpic_dlya_windows8-300x176.jpg" alt="lockpic картинки для экрана блокировки" title="lockpic_dlya_windows8" width="300" height="176" class="aligncenter size-medium wp-image-5087" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lockpic_dlya_windows8-300x176.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lockpic_dlya_windows8.jpeg 550w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/lockpic_dlya_windows8.jpeg"><img src="{{site.img_cdn}}/lockpic_dlya_windows8-300x176.jpg" alt="lockpic картинки для экрана блокировки" title="lockpic_dlya_windows8" width="300" height="176" class="aligncenter size-medium wp-image-5087" srcset="{{site.img_cdn}}/lockpic_dlya_windows8-300x176.jpg 300w, {{site.img_cdn}}/lockpic_dlya_windows8.jpeg 550w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 По умолчанию в Windows 8 есть ряд красивейших изображений, которые можно использовать для экрана блокировки. Но всё рано или поздно надоедает и когда-нибудь нам обязательно захочется добавить свои фотографии в качестве фона экрана блокировки.
 В этом нам поможет приложение LockPic, которое уже содержит в себе огромную галерею изображений. Скачать **LockPic** можно абсолютно бесплатно из магазина приложений Windows Store, из категорий &#8220;Life Style&#8221;.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lockpic_image_gallery.jpeg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/lockpic_image_gallery-300x187.jpg" alt="фон для экрана блокировки в windows 8" title="lockpic_image_gallery" width="300" height="187" class="aligncenter size-medium wp-image-5088" /></a>
+  <a href="{{site.img_cdn}}/lockpic_image_gallery.jpeg"><img src="{{site.img_cdn}}/lockpic_image_gallery-300x187.jpg" alt="фон для экрана блокировки в windows 8" title="lockpic_image_gallery" width="300" height="187" class="aligncenter size-medium wp-image-5088" /></a>
 </center>

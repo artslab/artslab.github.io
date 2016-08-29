@@ -19,7 +19,7 @@ tags:
   - дизайн
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutoe_foto.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutoe_foto.jpg" alt="повернуть фото CSS" class="aligncenter size-full wp-image-6932" /></a>
+  <a href="{{site.img_cdn}}/povernutoe_foto.jpg"><img src="{{site.img_cdn}}/povernutoe_foto.jpg" alt="повернуть фото CSS" class="aligncenter size-full wp-image-6932" /></a>
 </center>
 
 С этой записью я хотел бы открыть новый раздел в моем блоге, который будет содержать различные кусочки кода, которые могут оказаться полезными при создании и оформлений сайта. Категория получит название «[Сниппеты](http://artslab.info/category/snippety/)». В будущем планирую разбить рубрику на подкатегорий для различных платформ и языков.
@@ -39,7 +39,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rotate_text.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rotate_text.jpg" alt="поворот текст css" class="aligncenter size-full wp-image-6931" /></a>
+  <a href="{{site.img_cdn}}/rotate_text.jpg"><img src="{{site.img_cdn}}/rotate_text.jpg" alt="поворот текст css" class="aligncenter size-full wp-image-6931" /></a>
 </center>
 
 
@@ -62,7 +62,7 @@ tags:
 **Фотография:**
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutoe_foto.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutoe_foto.jpg" alt="повернуть фото CSS" class="aligncenter size-full wp-image-6932" /></a>
+  <a href="{{site.img_cdn}}/povernutoe_foto.jpg"><img src="{{site.img_cdn}}/povernutoe_foto.jpg" alt="повернуть фото CSS" class="aligncenter size-full wp-image-6932" /></a>
 </center>
 
 
@@ -74,7 +74,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutaya_forma.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/povernutaya_forma.jpg" alt="css сниппеты" class="aligncenter size-full wp-image-6930" /></a>
+  <a href="{{site.img_cdn}}/povernutaya_forma.jpg"><img src="{{site.img_cdn}}/povernutaya_forma.jpg" alt="css сниппеты" class="aligncenter size-full wp-image-6930" /></a>
 </center>
 
 

@@ -18,7 +18,7 @@ tags:
   - vkontakte
   - меню
 ---
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dark_style_menu_vk-300x225.jpg" alt="темное меню для вконтакте" class="aligncenter size-medium wp-image-8017" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dark_style_menu_vk-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dark_style_menu_vk.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dark_style_menu_vk.jpg)
+[<img src="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg" alt="темное меню для вконтакте" class="aligncenter size-medium wp-image-8017" srcset="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg 300w, {{site.img_cdn}}/dark_style_menu_vk.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/dark_style_menu_vk.jpg)
 
 Сегодня предоставляю Вашему вниманию очередное готовое меню в темное стиле. В качестве основы был взят бесплатный psd-исходника &#8211; [Notifications](http://dribbble.com/shots/631076-Notifications-PSD-freebie).
 

@@ -27,7 +27,7 @@ tags:
 Продолжим экспериментировать с различными текстовыми эффектами и создадим &#8220;огненный&#8221; текст используя возможности CSS.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ognenii_tekst.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ognenii_tekst-300x173.png" alt="огненный текст" class="aligncenter size-medium wp-image-7644" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ognenii_tekst-300x173.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ognenii_tekst.png 780w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/ognenii_tekst.png"><img src="{{site.img_cdn}}/ognenii_tekst-300x173.png" alt="огненный текст" class="aligncenter size-medium wp-image-7644" srcset="{{site.img_cdn}}/ognenii_tekst-300x173.png 300w, {{site.img_cdn}}/ognenii_tekst.png 780w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

@@ -20,7 +20,7 @@ tags:
   - дизайн
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rounded_css_avatar.jpg" alt="border-radius круглые картинки" class="aligncenter size-medium wp-image-6742" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rounded_css_avatar.jpg 542w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/rounded_css_avatar-300x71.jpg 300w" sizes="(max-width: 542px) 100vw, 542px" />
+  <img src="{{site.img_cdn}}/rounded_css_avatar.jpg" alt="border-radius круглые картинки" class="aligncenter size-medium wp-image-6742" srcset="{{site.img_cdn}}/rounded_css_avatar.jpg 542w, {{site.img_cdn}}/rounded_css_avatar-300x71.jpg 300w" sizes="(max-width: 542px) 100vw, 542px" />
 </center>
 
 Если Вам надоело стандартное, квадратное оформление аватаров или миниатюр новостей в Вашем блоге, то можно легко &#8220;закруглить&#8221; картинки и придать им другой вид, используя для этого только средства CSS.
@@ -32,13 +32,13 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari-300x135.jpg" alt="круглые аватары в комментариях" class="aligncenter size-medium wp-image-6721" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari-300x135.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari.jpg 655w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/kruglie_avatari.jpg"><img src="{{site.img_cdn}}/kruglie_avatari-300x135.jpg" alt="круглые аватары в комментариях" class="aligncenter size-medium wp-image-6721" srcset="{{site.img_cdn}}/kruglie_avatari-300x135.jpg 300w, {{site.img_cdn}}/kruglie_avatari.jpg 655w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Если внимательно приглядеться к картинке выше, то можно разглядеть не только круглый аватар, но и несколько других элементов и эффектов. Во-первых, это рамка в которой находится аватар, во-вторых внутреннюю тень, а так же выпуклость и эффект стекла, в виде светлого отблеска на аватаре. Код такого оформления мы рассмотрим чуть ниже, а для начала ознакомимся с простым примером.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zakruglenie_kartinke.jpg" alt="сделать картинку круглой css" class="aligncenter size-medium wp-image-6723" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zakruglenie_kartinke.jpg 418w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/zakruglenie_kartinke-300x72.jpg 300w" sizes="(max-width: 418px) 100vw, 418px" />
+  <img src="{{site.img_cdn}}/zakruglenie_kartinke.jpg" alt="сделать картинку круглой css" class="aligncenter size-medium wp-image-6723" srcset="{{site.img_cdn}}/zakruglenie_kartinke.jpg 418w, {{site.img_cdn}}/zakruglenie_kartinke-300x72.jpg 300w" sizes="(max-width: 418px) 100vw, 418px" />
 </center>
 
 Допустим мы хотим закруглить края изображения. Для этого достаточно будет добавить всего лишь одно CSS-свойство &#8211; border-radius.
@@ -63,7 +63,7 @@ HTML-код:
 
 Теперь рассмотрим полный пример.
 
-[<img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari-300x135.jpg" alt="круглые аватары в комментариях" class="aligncenter size-medium wp-image-6721" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari-300x135.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari.jpg 655w" sizes="(max-width: 300px) 100vw, 300px" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kruglie_avatari.jpg)
+[<img src="{{site.img_cdn}}/kruglie_avatari-300x135.jpg" alt="круглые аватары в комментариях" class="aligncenter size-medium wp-image-6721" srcset="{{site.img_cdn}}/kruglie_avatari-300x135.jpg 300w, {{site.img_cdn}}/kruglie_avatari.jpg 655w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/kruglie_avatari.jpg)
 
 Для начала подготовим часть HTML-кода:
 

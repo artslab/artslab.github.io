@@ -21,7 +21,7 @@ tags:
   - ikonki
 ---
 <p style="text-align: center;">
-  <img style="border: 0pt none;" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pool.png" alt="Весенние иконки" width="453" height="312" />
+  <img style="border: 0pt none;" src="{{site.img_cdn}}/pool.png" alt="Весенние иконки" width="453" height="312" />
 </p>
 
 Очередной красивейший набор иконок от сайта <a href="http://ikonka.ru/free/" target="_blank">ikonka.ru</a>. <a href="http://www.iconka.com/free/" target="_blank">Скачать набор Pool</a>

@@ -20,7 +20,7 @@ tags:
   - игра
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_angry_birds.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_angry_birds-300x181.jpg" alt="angry birds скоро на facebook" title="facebook_angry_birds" width="300" height="181" class="aligncenter size-medium wp-image-4286" /></a>
+  <a href="{{site.img_cdn}}/facebook_angry_birds.jpg"><img src="{{site.img_cdn}}/facebook_angry_birds-300x181.jpg" alt="angry birds скоро на facebook" title="facebook_angry_birds" width="300" height="181" class="aligncenter size-medium wp-image-4286" /></a>
 </center>
 
 Всем нам хорошо известная игрушка [Angry Birds](http://artslab.info/news/angry-birds-rio-dlya-pc-besplatno-i-legalno/ "Angry Birds Rio для PC бесплатно и легально"), скоро появиться в виде приложения на Facebook. Первой социальная сетью в которая появилась эта игра, была Google+.

@@ -22,7 +22,7 @@ tags:
 Сегодня небольшой пост с примером, в котором мы создадим фиксированное навигационное меню, которое будет появляться в шапке сайта при прокрутке страницы вниз. Демо доступно для просмотра в песочнице на <a href="http://codepen.io/4gray/full/hrIan" target="_blank">Codepen</a>, там же можно и поэкспериментировать с кодом.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fiksirovanoe_menu.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fiksirovanoe_menu-300x269.jpg" alt="fiksirovanoe_menu" class="aligncenter size-medium wp-image-7376" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fiksirovanoe_menu-300x269.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fiksirovanoe_menu.jpg 833w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/fiksirovanoe_menu.jpg"><img src="{{site.img_cdn}}/fiksirovanoe_menu-300x269.jpg" alt="fiksirovanoe_menu" class="aligncenter size-medium wp-image-7376" srcset="{{site.img_cdn}}/fiksirovanoe_menu-300x269.jpg 300w, {{site.img_cdn}}/fiksirovanoe_menu.jpg 833w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

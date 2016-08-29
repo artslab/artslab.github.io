@@ -23,7 +23,7 @@ tags:
   - новый год
 ---
 <p style="text-align: center">
-  <a href="http://www.icondrawer.com/free.php"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/free_christmas_icons-1.jpg" title="Новогоднии икноки для украшения сайта" alt="Новогоднии икноки для украшения сайта" border="0" height="267" width="382" /></a>
+  <a href="http://www.icondrawer.com/free.php"><img src="{{site.img_cdn}}/free_christmas_icons-1.jpg" title="Новогоднии икноки для украшения сайта" alt="Новогоднии икноки для украшения сайта" border="0" height="267" width="382" /></a>
 </p>
 
 <p style="text-align: center">
@@ -31,7 +31,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a href="http://enhancedlabs.com/therealchristmas/"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novogodnie_ikonki-276x300.jpg" alt="скачать новогодние иконки" title="novogodnie_ikonki" width="276" height="300" class="aligncenter size-medium wp-image-4194" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novogodnie_ikonki-276x300.jpg 276w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/novogodnie_ikonki.jpg 600w" sizes="(max-width: 276px) 100vw, 276px" /></a>
+  <a href="http://enhancedlabs.com/therealchristmas/"><img src="{{site.img_cdn}}/novogodnie_ikonki-276x300.jpg" alt="скачать новогодние иконки" title="novogodnie_ikonki" width="276" height="300" class="aligncenter size-medium wp-image-4194" srcset="{{site.img_cdn}}/novogodnie_ikonki-276x300.jpg 276w, {{site.img_cdn}}/novogodnie_ikonki.jpg 600w" sizes="(max-width: 276px) 100vw, 276px" /></a>
 </p>
 
 <p style="text-align: center">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a href="http://ikonka.ru/free/" title="santa claus icons" target="_blank"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/santa_klaus_icons-289x300.png" alt="иконки санта клауса и дед мороза" title="santa_klaus_icons" width="289" height="300" class="alignnone size-medium wp-image-4196" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/santa_klaus_icons-289x300.png 289w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/santa_klaus_icons.png 550w" sizes="(max-width: 289px) 100vw, 289px" /></a>
+  <a href="http://ikonka.ru/free/" title="santa claus icons" target="_blank"><img src="{{site.img_cdn}}/santa_klaus_icons-289x300.png" alt="иконки санта клауса и дед мороза" title="santa_klaus_icons" width="289" height="300" class="alignnone size-medium wp-image-4196" srcset="{{site.img_cdn}}/santa_klaus_icons-289x300.png 289w, {{site.img_cdn}}/santa_klaus_icons.png 550w" sizes="(max-width: 289px) 100vw, 289px" /></a>
 </p>
 
 <p style="text-align: center">

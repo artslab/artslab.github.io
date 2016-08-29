@@ -24,7 +24,7 @@ tags:
 Поэтому я решил вывести список месяцев определенного года и список категорий, где в скобках указано количество записей.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page-300x167.jpg" alt="страница архива блога на wordpress" title="archive_page" width="300" height="167" class="alignnone size-medium wp-image-3184" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page-300x167.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive_page.jpg 535w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/archive_page.jpg"><img src="{{site.img_cdn}}/archive_page-300x167.jpg" alt="страница архива блога на wordpress" title="archive_page" width="300" height="167" class="alignnone size-medium wp-image-3184" srcset="{{site.img_cdn}}/archive_page-300x167.jpg 300w, {{site.img_cdn}}/archive_page.jpg 535w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ## Как сделать такую страницу архива?
@@ -70,7 +70,7 @@ Template Name: Archive
 После этого создаем страницу и в виде шаблона выбираем Archives page.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/archive.jpg" alt="архив сайта" title="archive" width="297" height="246" class="alignnone size-full wp-image-3183" />
+  <img src="{{site.img_cdn}}/archive.jpg" alt="архив сайта" title="archive" width="297" height="246" class="alignnone size-full wp-image-3183" />
 </center>
 
 Готово!

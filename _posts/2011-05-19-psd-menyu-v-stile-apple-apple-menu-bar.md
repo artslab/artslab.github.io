@@ -24,7 +24,7 @@ tags:
 Меню в стиле сайта Apple. Стильное и красивое меню в серых тонах. Доступно в трех вариантах, в том числе и с нажатыми кнопками. Формат PSD
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/apple_like_menu.jpg" alt="Навигационное меню в стиле Apple" title="apple_like_menu" width="295" height="262" class="alignnone size-full wp-image-2921" />
+  <img src="{{site.img_cdn}}/apple_like_menu.jpg" alt="Навигационное меню в стиле Apple" title="apple_like_menu" width="295" height="262" class="alignnone size-full wp-image-2921" />
 </center>
 
 

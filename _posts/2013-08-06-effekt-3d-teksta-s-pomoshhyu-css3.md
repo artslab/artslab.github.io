@@ -21,7 +21,7 @@ tags:
 3D-эффект для создания объемного текста можно легко создать с помощью Photoshop, Gimp или любого другого графического редактора, но а так же и с помощью CSS3, без использования дополнительной графики. Преимуществом любого эффекта с применением CSS3 является быстрая скорость загрузки, а главным недостатком, конечно же, кроссбраузерность.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_3dtext_s_css.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_3dtext_s_css.png" alt="эффект 3d текста на css" class="aligncenter size-medium wp-image-7329" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_3dtext_s_css.png 653w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_3dtext_s_css-300x74.png 300w" sizes="(max-width: 653px) 100vw, 653px" /></a>
+  <a href="{{site.img_cdn}}/sozdat_3dtext_s_css.png"><img src="{{site.img_cdn}}/sozdat_3dtext_s_css.png" alt="эффект 3d текста на css" class="aligncenter size-medium wp-image-7329" srcset="{{site.img_cdn}}/sozdat_3dtext_s_css.png 653w, {{site.img_cdn}}/sozdat_3dtext_s_css-300x74.png 300w" sizes="(max-width: 653px) 100vw, 653px" /></a>
 </center>
 
 Далее сниппет с небольшим примером.

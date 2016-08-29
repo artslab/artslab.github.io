@@ -22,7 +22,7 @@ tags:
   - Web 2.0
 ---
 <p STYLE="text-align: center">
-  <img STYLE="width: 415px; height: 120px" HEIGHT="120" WIDTH="415" BORDER="1" TITLE="social bookmark iconset" ALT="social bookmark iconset" SRC="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/socialpart2pu3.jpg" />
+  <img STYLE="width: 415px; height: 120px" HEIGHT="120" WIDTH="415" BORDER="1" TITLE="social bookmark iconset" ALT="social bookmark iconset" SRC="{{site.img_cdn}}/socialpart2pu3.jpg" />
 </p>
 
 <p ALIGN="center">

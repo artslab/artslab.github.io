@@ -25,7 +25,7 @@ tags:
   - шаблон
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab-210x300.jpg" alt="free wordpress theme" title="artslab" width="210" height="300" class="alignnone size-medium wp-image-1817" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab-210x300.jpg 210w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab-719x1024.jpg 719w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab.jpg 800w" sizes="(max-width: 210px) 100vw, 210px" /></a>
+  <a href="{{site.img_cdn}}/artslab.jpg"><img src="{{site.img_cdn}}/artslab-210x300.jpg" alt="free wordpress theme" title="artslab" width="210" height="300" class="alignnone size-medium wp-image-1817" srcset="{{site.img_cdn}}/artslab-210x300.jpg 210w, {{site.img_cdn}}/artslab-719x1024.jpg 719w, {{site.img_cdn}}/artslab.jpg 800w" sizes="(max-width: 210px) 100vw, 210px" /></a>
 </center>
 
 **ArtsLab theme** для **WordPress** &#8211; как и обещал выкладываю нынешнюю тему сайта, в свободный доступ для скачивания.

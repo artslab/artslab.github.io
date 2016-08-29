@@ -24,7 +24,7 @@ tags:
   - pixel font
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pikselni_shrift.jpg" alt="бесплатный пиксельный шрифт" class="aligncenter" />
+  <img src="{{site.img_cdn}}/pikselni_shrift.jpg" alt="бесплатный пиксельный шрифт" class="aligncenter" />
 </center>
 
 <p ALIGN="center">

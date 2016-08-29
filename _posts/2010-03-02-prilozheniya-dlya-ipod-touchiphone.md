@@ -21,7 +21,7 @@ tags:
   - iphone
   - ipod
 ---
-[<img title="volext" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/volext-201x300.jpg" alt="" width="164" height="245" align="right" />](http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/volext.jpg)
+[<img title="volext" src="{{site.img_cdn}}/volext-201x300.jpg" alt="" width="164" height="245" align="right" />]({{site.img_cdn}}/volext.jpg)
 
 С недавнего времени я стал счастливым владельцем одного девайса от яблочной конторы, который называется iPod Touch. В связи с этим решил добавить в блог новую рубрику в которой время от времени, будут появляться небольшие обзоры различных приложений.
 

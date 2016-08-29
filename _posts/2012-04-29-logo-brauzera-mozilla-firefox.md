@@ -26,7 +26,7 @@ tags:
   - логотип
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firefox_logo1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firefox_logo1.jpg" alt="логотип файрфокса" title="firefox_logo" width="296" height="273" class="aligncenter size-full wp-image-4579" /></a>
+  <a href="{{site.img_cdn}}/firefox_logo1.jpg"><img src="{{site.img_cdn}}/firefox_logo1.jpg" alt="логотип файрфокса" title="firefox_logo" width="296" height="273" class="aligncenter size-full wp-image-4579" /></a>
 </center>
 
 Логотип браузера Firefox [в формате PSD](http://mizie2009.deviantart.com/art/High-quality-Firefox-PSD-file-213917085), возможно кому-нибудь да пригодиться.

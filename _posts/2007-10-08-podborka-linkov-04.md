@@ -26,7 +26,7 @@ tags:
   - фото
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/custom_wordpress_login.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/custom_wordpress_login-300x100.jpg" alt="" title="custom_wordpress_login" width="300" height="100" class="alignnone size-medium wp-image-958" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/custom_wordpress_login-300x100.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/custom_wordpress_login.jpg 527w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/custom_wordpress_login.jpg"><img src="{{site.img_cdn}}/custom_wordpress_login-300x100.jpg" alt="" title="custom_wordpress_login" width="300" height="100" class="alignnone size-medium wp-image-958" srcset="{{site.img_cdn}}/custom_wordpress_login-300x100.jpg 300w, {{site.img_cdn}}/custom_wordpress_login.jpg 527w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

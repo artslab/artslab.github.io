@@ -24,7 +24,7 @@ tags:
 Выделять [комментарии автора блога особым стилем](http://artslab.info/wordpress/oformlyaem-kommentarii-administratora-v-wordpress/), это хорошо. Ставить плагин для голосования за комментарии, это тоже круто, но тогда понадобится регистрация в блоге, адекватные оценки пользователей и другие нюансы. Поэтому я подумал и решил, почему бы просто не выделять полезные комментарий самому.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feature_comments.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feature_comments-300x184.jpg" alt="выделение комментариев" title="feature_comments" width="300" height="184" class="alignnone size-medium wp-image-2608" /></a>
+  <a href="{{site.img_cdn}}/feature_comments.jpg"><img src="{{site.img_cdn}}/feature_comments-300x184.jpg" alt="выделение комментариев" title="feature_comments" width="300" height="184" class="alignnone size-medium wp-image-2608" /></a>
 </center>
 
 Допустим, кто-то оставил полезный коммент с каким-то советом или поделился хорошей ссылкой, почему бы админу блога не выделить такой коммент так, чтобы он отличался от всех остальных. Поискал плагины для wordpress и нашел то что надо &#8211; [Feature Comments](http://wordpress.org/extend/plugins/feature-comments/). Для того чтобы плагин заработал нужно приложить минимум усилий. Скачать плагин, активировать и затем прописать в css отдельные стили для хороших(.featured {}) и плохих (.buried {}) комментариев.

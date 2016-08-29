@@ -23,7 +23,7 @@ tags:
   - youtube
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tubular.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tubular.png" alt="добавить видео с youtube на фон сайта" title="tubular" width="166" height="81" class="alignnone size-full wp-image-1679" /></a>
+  <a href="{{site.img_cdn}}/tubular.png"><img src="{{site.img_cdn}}/tubular.png" alt="добавить видео с youtube на фон сайта" title="tubular" width="166" height="81" class="alignnone size-full wp-image-1679" /></a>
 </center>
 
 Наткнулся на интересный jQuery скрипт, который позволяет вставить **видео в виде фона для сайта**. Впечатляет, не правда ли? Как по мне, то сама идея немного необыкновенна, но вот другой вопрос, найдет ли этот скрипт реальное применение&#8230;

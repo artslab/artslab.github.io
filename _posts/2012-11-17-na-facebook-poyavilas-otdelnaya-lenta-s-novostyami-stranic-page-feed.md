@@ -18,7 +18,7 @@ tags:
   - facebook
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Facebook.png" alt="facebook page feed" title="Facebook" width="300" height="300" class="aligncenter size-full wp-image-4388" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Facebook.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Facebook-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Facebook-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img src="{{site.img_cdn}}/Facebook.png" alt="facebook page feed" title="Facebook" width="300" height="300" class="aligncenter size-full wp-image-4388" srcset="{{site.img_cdn}}/Facebook.png 300w, {{site.img_cdn}}/Facebook-100x100.png 100w, {{site.img_cdn}}/Facebook-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" />
 </center>
 
 У пользователей социальной сети Facebook появилась возможность просматривать новости с &#8220;лайкнутых&#8221; страниц на отдельной странице. На мой взгляд, правильное разделение контента, таким образом пользователь получит возможность узнавать свежие новости с подписанных страниц, не отвлекаясь при этом на статусы и фотографий друзей. Страница &#8220;Page Feed&#8221; уже достпна для пользователей по этому адресу: [facebook.com/pages/feed](https://www.facebook.com/pages/feed)

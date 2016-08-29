@@ -24,7 +24,7 @@ tags:
   - дополнение
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/scroll_button.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/scroll_button-300x203.jpg" alt="плагин пролистать вверх для chrome" title="scroll_button" width="300" height="203" class="aligncenter size-medium wp-image-5961" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/scroll_button-300x203.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/scroll_button.jpg 585w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/scroll_button.jpg"><img src="{{site.img_cdn}}/scroll_button-300x203.jpg" alt="плагин пролистать вверх для chrome" title="scroll_button" width="300" height="203" class="aligncenter size-medium wp-image-5961" srcset="{{site.img_cdn}}/scroll_button-300x203.jpg 300w, {{site.img_cdn}}/scroll_button.jpg 585w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Сначала я искал небольшой яваскрипт для сайта, который бы добавлял иконку для перехода в самый верх страницы, если допустим я нахожусь на самом ее низу. Затем я наткнулся на такой плагин для Google Chrome [Scroll To Top Button](https://chrome.google.com/extensions/detail/chiikmhgllekggjhdfjhajkfdkcngplp) и он мне понравился. Согласитесь, так удобней, чем листать колесиком мышки (если оно есть) или передвигать курсором скроллбар.

@@ -23,7 +23,7 @@ tags:
   - shriftyi
 ---
 <p align="center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/anivers.jpg" alt="Anivers free font" />
+  <img src="{{site.img_cdn}}/anivers.jpg" alt="Anivers free font" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ tags:
 </p>
 
 <p align="center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/diavlo.jpg" alt="Diavlo - бесплатный шрифт" />
+  <img src="{{site.img_cdn}}/diavlo.jpg" alt="Diavlo - бесплатный шрифт" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p align="center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/tallys.jpg" alt="Tallys - скачать шрифт" />
+  <img src="{{site.img_cdn}}/tallys.jpg" alt="Tallys - скачать шрифт" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ tags:
 </p>
 
 <p align="center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/delicious.jpg" alt="Delicious - скачать шрифт в стлие web 2.0" />
+  <img src="{{site.img_cdn}}/delicious.jpg" alt="Delicious - скачать шрифт в стлие web 2.0" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ tags:
 </p>
 
 <p align="center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fontin.jpg" alt="Fontin - free web 2.0 font" />
+  <img src="{{site.img_cdn}}/fontin.jpg" alt="Fontin - free web 2.0 font" />
 </p>
 
 <p align="center">

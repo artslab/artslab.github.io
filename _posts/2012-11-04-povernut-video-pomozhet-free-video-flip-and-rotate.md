@@ -19,7 +19,7 @@ tags:
   - программа
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_povernut_video.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_povernut_video-300x216.png" alt="как повернуть видео" title="kak_povernut_video" width="300" height="216" class="aligncenter size-medium wp-image-5700" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_povernut_video-300x216.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/kak_povernut_video.png 790w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/kak_povernut_video.png"><img src="{{site.img_cdn}}/kak_povernut_video-300x216.png" alt="как повернуть видео" title="kak_povernut_video" width="300" height="216" class="aligncenter size-medium wp-image-5700" srcset="{{site.img_cdn}}/kak_povernut_video-300x216.png 300w, {{site.img_cdn}}/kak_povernut_video.png 790w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Чтобы повернуть фотографию не потребуется никаких дополнительных средств, это может даже стандартная программа для просмотра фото. А что насчет видео? Допустим, мы снимали какой-то момент на телефон и сделали это наклонив девайс в сторону. Чтобы нормально просмотреть ролик и показать его друзьям, нужно повернуть его на 90 градусов. Как же это сделать? Непременно, для этого существует множество разных способов.

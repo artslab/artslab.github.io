@@ -9,7 +9,7 @@ permalink: /oboi/na-radost-desktopu-4/
 ljID:
   - 439
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nature.jpg
+  - {{site.img_cdn}}/nature.jpg
 prosmotr:
   - 71
 wpb_post_views_count:
@@ -24,7 +24,7 @@ tags:
 Очень красивая обоина для рабочего стола. Все таки, заставки с природой, на мой взгляд, самые красивые 🙂
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nature.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nature-300x187.jpg" alt="Обои на природную тему" title="nature" width="300" height="187" class="alignnone size-medium wp-image-3658" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nature-300x187.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nature-1024x640.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/nature.jpg"><img src="{{site.img_cdn}}/nature-300x187.jpg" alt="Обои на природную тему" title="nature" width="300" height="187" class="alignnone size-medium wp-image-3658" srcset="{{site.img_cdn}}/nature-300x187.jpg 300w, {{site.img_cdn}}/nature-1024x640.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Размер &#8211; 1920&#215;1200. Автора не нашел.

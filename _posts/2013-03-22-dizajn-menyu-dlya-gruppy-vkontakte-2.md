@@ -23,7 +23,7 @@ tags:
 Еще одно готовое меню с кодом для группы Vkontakte. За основу меню был взят бесплатный PSD-исходник с выпадающим списком оповещений с сайта [PixelsDaily](http://pixelsdaily.com/resources/photoshop/psds/popout-navigation/). Меню сделано в минималистичном стиле и поэтому подойдет для любых групп, независимо от тематики. Монохромные иконки и заголовки, конечно же, можно легко заменить на любые другие.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_dlya_vk.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_dlya_vk-300x257.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_dlya_vk-300x257.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/menu_dlya_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/menu_dlya_vk.jpg"><img src="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" srcset="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg 300w, {{site.img_cdn}}/menu_dlya_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

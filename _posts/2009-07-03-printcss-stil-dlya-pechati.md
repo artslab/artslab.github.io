@@ -20,7 +20,7 @@ tags:
   - css
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otdelnii_stil_dlya_pechati_teksta.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otdelnii_stil_dlya_pechati_teksta.png" alt="" title="otdelnii_stil_dlya_pechati_teksta" width="468" height="145" class="aligncenter size-full wp-image-5753" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otdelnii_stil_dlya_pechati_teksta.png 468w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otdelnii_stil_dlya_pechati_teksta-300x92.png 300w" sizes="(max-width: 468px) 100vw, 468px" /></a>
+  <a href="{{site.img_cdn}}/otdelnii_stil_dlya_pechati_teksta.png"><img src="{{site.img_cdn}}/otdelnii_stil_dlya_pechati_teksta.png" alt="" title="otdelnii_stil_dlya_pechati_teksta" width="468" height="145" class="aligncenter size-full wp-image-5753" srcset="{{site.img_cdn}}/otdelnii_stil_dlya_pechati_teksta.png 468w, {{site.img_cdn}}/otdelnii_stil_dlya_pechati_teksta-300x92.png 300w" sizes="(max-width: 468px) 100vw, 468px" /></a>
 </center>
 
 Я заметил на многих сайтах (<del datetime="2011-04-08T18:43:19+00:00">в том числе и на моем блоге</del> уже появился) отсутствует отдельный стиль для печати. То есть, если кто-то захочет распечатать какой-либо материал с сайта (например, отпечатать эту статью), то на бумаге он будет выглядеть почти так же как и в сети, вместе с кучей ненужной информацией, фоновой картинкой и лишними изображениями. С боковой панелью, с категориями, с облаком тегов и прочими ссылками и кнопочками, которые будут не интересны на бумаге. А на картриджах для домашнего принтера, все таки стоит экономить, так как цены для некоторых моделей очень даже кусаются =)

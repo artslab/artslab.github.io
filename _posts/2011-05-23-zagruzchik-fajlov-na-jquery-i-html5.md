@@ -24,13 +24,13 @@ tags:
   - файлообменик
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_uploader_script.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_uploader_script-300x152.jpg" alt="Скрипт загрузчика файлов" title="html5_uploader_script" width="300" height="152" class="alignnone size-medium wp-image-3024" /></a>
+  <a href="{{site.img_cdn}}/html5_uploader_script.jpg"><img src="{{site.img_cdn}}/html5_uploader_script-300x152.jpg" alt="Скрипт загрузчика файлов" title="html5_uploader_script" width="300" height="152" class="alignnone size-medium wp-image-3024" /></a>
 </center>
 
 Помните такие сервисы, как [min.us или dropmocks](http://artslab.info/onlayn-servisyi/ge-tt-fajloobmenik-s-izyuminkoj/). Им удалось выделиться из всех остальных файлохостингов, тем, что они начали предлогать загружать файлы, методом перетягивания (например, из папки) прямо на веб-страницу (drag & drop). Но в скором времени этим уже не удивишь, так как такой функционал теперь может встроить каждый желающий на свой сайт. Ребята с [Igloo Lab](http://www.igloolab.com/) сделали скрипт [HTML5 Uploader](http://www.igloolab.com/jquery-html5-uploader/), который доступен для скачивания любому. На оф. сайте приложения также есть демо, где можно увидеть работу скрипта.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_uploader_script_demo.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_uploader_script_demo-300x233.jpg" alt="Скрипт upload&#039;а файлов" title="html5_uploader_script_demo" width="300" height="233" class="alignnone size-medium wp-image-3025" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_uploader_script_demo-300x233.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/html5_uploader_script_demo.jpg 627w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/html5_uploader_script_demo.jpg"><img src="{{site.img_cdn}}/html5_uploader_script_demo-300x233.jpg" alt="Скрипт upload&#039;а файлов" title="html5_uploader_script_demo" width="300" height="233" class="alignnone size-medium wp-image-3025" srcset="{{site.img_cdn}}/html5_uploader_script_demo-300x233.jpg 300w, {{site.img_cdn}}/html5_uploader_script_demo.jpg 627w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Владельцам image-хостингов наверное стоит заняться апдейтом и прикрутить что-то подобное и к своему детищу, так как drag & drop, как мне кажется, пока еще привлекает пользователей =)

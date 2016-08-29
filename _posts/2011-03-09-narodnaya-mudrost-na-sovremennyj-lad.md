@@ -20,7 +20,7 @@ tags:
   - креатив
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_before_you_tweet.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_before_you_tweet-214x300.jpg" alt="погугль перед тем как затвитить" title="google_before_you_tweet" width="214" height="300" class="alignnone size-medium wp-image-1707" /></a>
+  <a href="{{site.img_cdn}}/google_before_you_tweet.jpg"><img src="{{site.img_cdn}}/google_before_you_tweet-214x300.jpg" alt="погугль перед тем как затвитить" title="google_before_you_tweet" width="214" height="300" class="alignnone size-medium wp-image-1707" /></a>
 </center>
 
 Google before you tweet &#8211; а что то в этом есть. Ведь часто перед тем, как что-либо запостить в блог мы гуглим на эту тему. Конечно вряд ли, что мы делаем это перед каждым твитом, но все таки. Здесь больше важна игра слов.

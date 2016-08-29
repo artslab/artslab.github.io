@@ -21,7 +21,7 @@ tags:
   - смайлы
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" title="smilespackbyjaveline" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smilespackbyjaveline.jpg" alt="Набор смайликов" width="400" height="162" />
+  <img class="aligncenter" title="smilespackbyjaveline" src="{{site.img_cdn}}/smilespackbyjaveline.jpg" alt="Набор смайликов" width="400" height="162" />
 </p>
 
 <p style="text-align: center;">

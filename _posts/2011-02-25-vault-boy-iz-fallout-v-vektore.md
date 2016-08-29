@@ -25,7 +25,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fallout_vault_boy.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fallout_vault_boy-209x300.png" alt="fallout vault boy vector" title="fallout_vault_boy" width="209" height="300" class="alignnone size-medium wp-image-1634" /></a>
+  <a href="{{site.img_cdn}}/fallout_vault_boy.png"><img src="{{site.img_cdn}}/fallout_vault_boy-209x300.png" alt="fallout vault boy vector" title="fallout_vault_boy" width="209" height="300" class="alignnone size-medium wp-image-1634" /></a>
 </center>
 
 [Скачать векторы](http://www.box.net/shared/75529cycy4), в архиве 40 файлов.

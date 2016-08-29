@@ -23,7 +23,7 @@ tags:
   - wysiwy редакторы
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nicedit_wysiwyg.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/nicedit_wysiwyg.jpg" alt="wysiwyg редактор" title="nicedit_wysiwyg" width="278" height="218" class="alignnone size-full wp-image-874" /></a>
+  <a href="{{site.img_cdn}}/nicedit_wysiwyg.jpg"><img src="{{site.img_cdn}}/nicedit_wysiwyg.jpg" alt="wysiwyg редактор" title="nicedit_wysiwyg" width="278" height="218" class="alignnone size-full wp-image-874" /></a>
 </center>
 
 

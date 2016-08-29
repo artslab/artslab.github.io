@@ -21,7 +21,7 @@ tags:
   - онлайн сервис
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instarchive_backup_foto_iz_instagram.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instarchive_backup_foto_iz_instagram-300x122.png" alt="бэкап фотографий из instagram" title="instarchive_backup_foto_iz_instagram" width="300" height="122" class="aligncenter size-medium wp-image-5240" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instarchive_backup_foto_iz_instagram-300x122.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/instarchive_backup_foto_iz_instagram.png 882w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/instarchive_backup_foto_iz_instagram.png"><img src="{{site.img_cdn}}/instarchive_backup_foto_iz_instagram-300x122.png" alt="бэкап фотографий из instagram" title="instarchive_backup_foto_iz_instagram" width="300" height="122" class="aligncenter size-medium wp-image-5240" srcset="{{site.img_cdn}}/instarchive_backup_foto_iz_instagram-300x122.png 300w, {{site.img_cdn}}/instarchive_backup_foto_iz_instagram.png 882w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Небольшая рекомендация для [инстаграммеров](http://artslab.info/prilozheniya-dlya-ipod-touchiphone/instagram-fotoset-dlya-vladeltsev-iphone-pereklichka/ "Instagram — Фотосеть для владельцев iPhone (перекличка)"), которых в последнее время становиться все больше и больше. А если приложение для Windows Phone все таки выйдет, то их станет еще больше.

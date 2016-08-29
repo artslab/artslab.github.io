@@ -30,7 +30,7 @@ tags:
 _Иконка RSS, которая в шапке шаблона(думаю она уже многим знакома), была взята из пака <a href="http://www.smashingmagazine.com/2008/04/01/fresh-free-and-gorgeous-rssfeed-icons/" target="_blank">от Smashingmagazine</a>, так же в теме используются маленькие иконки от <a href="http://www.famfamfam.com/lab/icons/" target="_blank">famfamfam</a>._
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/orangy.jpg" rel="lightbox"><img class="aligncenter" title="orangy_prev_mini" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/orangy_prev_mini.jpg" alt="Orangy Lite бесплатная тема для WordPress" width="400" height="464" /></a>
+  <a href="{{site.img_cdn}}/orangy.jpg" rel="lightbox"><img class="aligncenter" title="orangy_prev_mini" src="{{site.img_cdn}}/orangy_prev_mini.jpg" alt="Orangy Lite бесплатная тема для WordPress" width="400" height="464" /></a>
 </p>
 
 Итак, залил на _box.net_, если интересует, <a href="http://www.box.net/shared/u7o5ah4n4y" target="_blank">забираем</a>.

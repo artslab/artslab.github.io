@@ -22,7 +22,7 @@ tags:
   - поисковик
 ---
 <p STYLE="text-align: center">
-  <img SRC="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/iconfinder1.jpg" ALT="iconfinder огромный архив иконок" />
+  <img SRC="{{site.img_cdn}}/iconfinder1.jpg" ALT="iconfinder огромный архив иконок" />
 </p>
 
 <p ALIGN="center">

@@ -21,7 +21,7 @@ tags:
   - шаблон
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shablon_saita_dlya_prilozheniya.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shablon_saita_dlya_prilozheniya-300x291.png" alt="бесплатный шаблон в psd" title="shablon_saita_dlya_prilozheniya" width="300" height="291" class="aligncenter size-medium wp-image-5608" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shablon_saita_dlya_prilozheniya-300x291.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shablon_saita_dlya_prilozheniya-1024x994.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shablon_saita_dlya_prilozheniya.png 1380w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/shablon_saita_dlya_prilozheniya.png"><img src="{{site.img_cdn}}/shablon_saita_dlya_prilozheniya-300x291.png" alt="бесплатный шаблон в psd" title="shablon_saita_dlya_prilozheniya" width="300" height="291" class="aligncenter size-medium wp-image-5608" srcset="{{site.img_cdn}}/shablon_saita_dlya_prilozheniya-300x291.png 300w, {{site.img_cdn}}/shablon_saita_dlya_prilozheniya-1024x994.png 1024w, {{site.img_cdn}}/shablon_saita_dlya_prilozheniya.png 1380w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Красивый и бесплатный шаблон сайта. Отлично подойдет для страницы мобильного приложения. Автор: [Jakub Spitzer](http://jakubspitzer.tumblr.com/). [Скачать шаблон](http://www.mypixels.me/download.php?id=6) в формате psd

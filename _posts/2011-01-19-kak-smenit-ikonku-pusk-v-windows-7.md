@@ -27,7 +27,7 @@ tags:
 Сегодня я хотел бы представить одно небольшое приложение, которое позволит безобидно сменить стартовую иконку меню &#8220;Пуск&#8221; (да-да, тот значок внизу в левом углу) на любую другую. Для этого существует несколько утилит, но у меня получилось сделать это только c одной и это _[Windows 7 Start Orb Changer](http://www.door2windows.com/windows-7-start-button-changer-change-your-windows-7-start-button-with-one-click/)_, скачать можно [отсюда](http://www.door2windows.com/wp-content/fdown/Windows%207%20Start%20Orb%20Changer.zip).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows_7_start_orb_changer.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/windows_7_start_orb_changer.png" alt="" title="windows_7_start_orb_changer" width="438" height="238" class="alignnone size-full wp-image-1174" /></a>
+  <a href="{{site.img_cdn}}/windows_7_start_orb_changer.png"><img src="{{site.img_cdn}}/windows_7_start_orb_changer.png" alt="" title="windows_7_start_orb_changer" width="438" height="238" class="alignnone size-full wp-image-1174" /></a>
 </center>
 
 С программой проблем возникнуть не должно, интерфейс прост. Чтобы сменить иконку необходимо нажать &#8220;Change&#8221;, выбрать новую и подтвердить выбор.
@@ -37,5 +37,5 @@ tags:
 И напоследок мой текущий результат:
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win_orb.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win_orb.jpg" alt="windows 7 иконка пуск" title="win_orb" width="428" height="33" class="alignnone size-full wp-image-1175" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win_orb.jpg 428w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/win_orb-300x23.jpg 300w" sizes="(max-width: 428px) 100vw, 428px" /></a>
+  <a href="{{site.img_cdn}}/win_orb.jpg"><img src="{{site.img_cdn}}/win_orb.jpg" alt="windows 7 иконка пуск" title="win_orb" width="428" height="33" class="alignnone size-full wp-image-1175" srcset="{{site.img_cdn}}/win_orb.jpg 428w, {{site.img_cdn}}/win_orb-300x23.jpg 300w" sizes="(max-width: 428px) 100vw, 428px" /></a>
 </center>

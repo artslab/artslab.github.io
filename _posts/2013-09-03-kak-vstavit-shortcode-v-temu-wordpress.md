@@ -25,7 +25,7 @@ tags:
 Для того чтобы добиться нужного эффекта и правильно встроить плагин на ваш сайт, нам на помощь придет PHP-функцией do_shortcode(). Именно, благодаря ей WordPress интерпретирует короткий код.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp-300x86.png" alt="короткий код" class="aligncenter size-medium wp-image-7816" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp-300x86.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shortcode_v_wp.png 622w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/shortcode_v_wp.png"><img src="{{site.img_cdn}}/shortcode_v_wp-300x86.png" alt="короткий код" class="aligncenter size-medium wp-image-7816" srcset="{{site.img_cdn}}/shortcode_v_wp-300x86.png 300w, {{site.img_cdn}}/shortcode_v_wp.png 622w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 ### Код:

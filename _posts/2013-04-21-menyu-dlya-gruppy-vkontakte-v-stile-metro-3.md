@@ -22,7 +22,7 @@ tags:
 Представляю [еще одну](http://artslab.info/category/menu-design-vkontakte/) готовую менюшку с кодом в стиле Metro UI для ВК-групп. За основу был взят бесплатный PSD файл [Weather Widget](http://dribbble.com/shots/894214-Weather-Widget-freebie?list=users).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vk_menu_metro_style.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vk_menu_metro_style-236x300.jpg" alt="меню в стиле metro ui" class="aligncenter size-medium wp-image-7031" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vk_menu_metro_style-236x300.jpg 236w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vk_menu_metro_style.jpg 370w" sizes="(max-width: 236px) 100vw, 236px" /></a>
+  <a href="{{site.img_cdn}}/vk_menu_metro_style.jpg"><img src="{{site.img_cdn}}/vk_menu_metro_style-236x300.jpg" alt="меню в стиле metro ui" class="aligncenter size-medium wp-image-7031" srcset="{{site.img_cdn}}/vk_menu_metro_style-236x300.jpg 236w, {{site.img_cdn}}/vk_menu_metro_style.jpg 370w" sizes="(max-width: 236px) 100vw, 236px" /></a>
 </center>
 
 

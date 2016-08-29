@@ -9,7 +9,7 @@ permalink: /obzoryi-saytov/vstrechajte-novyj-proekt-pro-google-gplusblog-ru/
 ljID:
   - 443
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gplusblog_small_logo.jpg
+  - {{site.img_cdn}}/gplusblog_small_logo.jpg
 prosmotr:
   - 69
 wpb_post_views_count:
@@ -23,7 +23,7 @@ tags:
   - обзор
   - социальная сеть
 ---
-<img class="size-full wp-image-3687 aligncenter" title="gplusblog_small_logo" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/gplusblog_small_logo.jpg" alt="Логотип сайта GplusBlog" width="200" height="242" />
+<img class="size-full wp-image-3687 aligncenter" title="gplusblog_small_logo" src="{{site.img_cdn}}/gplusblog_small_logo.jpg" alt="Логотип сайта GplusBlog" width="200" height="242" />
 
 Ну вот, как и обещал, хочу объявить о запуске отдельного проекта на тему социальной сети [Google+](http://artslab.info/tag/google-plus/), встречайте сайт [GplusBlog](http://gplusblog.ru). Теперь все новости на тему G+, будет впредь публиковаться там. Поэтому приглашаю всех любителей &#8220;Кругоплюса&#8221; на новый блог. Буду стараться регулярно держать всех вас в курсе последних событий, публиковать свежие события из мира G+, полезные дополнения для браузеров, сайтов и прочие интересные вещи.
 

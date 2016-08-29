@@ -20,7 +20,7 @@ tags:
 Небольшая подсказка для тех, кто владеет девайсом на основе iOS и не против увеличить размер дискового пространства в своем Dropbox-аккаунте.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox-300x152.png" alt="дополительный гигабайт dropbox" class="aligncenter size-medium wp-image-7527" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox-300x152.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox-1024x519.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/mailbox_1gb_dropbox.png 1056w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/mailbox_1gb_dropbox.png"><img src="{{site.img_cdn}}/mailbox_1gb_dropbox-300x152.png" alt="дополительный гигабайт dropbox" class="aligncenter size-medium wp-image-7527" srcset="{{site.img_cdn}}/mailbox_1gb_dropbox-300x152.png 300w, {{site.img_cdn}}/mailbox_1gb_dropbox-1024x519.png 1024w, {{site.img_cdn}}/mailbox_1gb_dropbox.png 1056w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

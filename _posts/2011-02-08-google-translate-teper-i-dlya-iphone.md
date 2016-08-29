@@ -22,13 +22,13 @@ tags:
   - переводчик
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_translate.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_translate-100x100.jpg" alt="" title="google_translate" width="100" height="100" class="alignnone size-thumbnail wp-image-1587" /></a>
+  <a href="{{site.img_cdn}}/google_translate.jpg"><img src="{{site.img_cdn}}/google_translate-100x100.jpg" alt="" title="google_translate" width="100" height="100" class="alignnone size-thumbnail wp-image-1587" /></a>
 </center>
 
 Официальное приложение Google Translate наконец таки появилось и для владельцев iPhone. Скачать, приложение для перевода и при этом с голосовой поддержкой, можно [бесплатно с AppStore](http://itunes.apple.com/us/app/google-translate/id414706506?mt=8&ls=1).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen2.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen2-200x300.png" alt="" title="listen2" width="200" height="300" class="alignnone size-medium wp-image-1583" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen2-200x300.png 200w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen2.png 267w" sizes="(max-width: 200px) 100vw, 200px" /></a> <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen1.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen1-200x300.png" alt="" title="listen1" width="200" height="300" class="alignnone size-medium wp-image-1584" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen1-200x300.png 200w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/listen1.png 267w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+  <a href="{{site.img_cdn}}/listen2.png"><img src="{{site.img_cdn}}/listen2-200x300.png" alt="" title="listen2" width="200" height="300" class="alignnone size-medium wp-image-1583" srcset="{{site.img_cdn}}/listen2-200x300.png 200w, {{site.img_cdn}}/listen2.png 267w" sizes="(max-width: 200px) 100vw, 200px" /></a> <a href="{{site.img_cdn}}/listen1.png"><img src="{{site.img_cdn}}/listen1-200x300.png" alt="" title="listen1" width="200" height="300" class="alignnone size-medium wp-image-1584" srcset="{{site.img_cdn}}/listen1-200x300.png 200w, {{site.img_cdn}}/listen1.png 267w" sizes="(max-width: 200px) 100vw, 200px" /></a>
 </center>
 
 [Источник](http://googleblog.blogspot.com/2011/02/introducing-google-translate-app-for.html)

@@ -18,7 +18,7 @@ tags:
   - vkontakte
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otlozhennaya_publikaciya_vk.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otlozhennaya_publikaciya_vk.png" alt="отложенная запись вконтакте" title="otlozhennaya_publikaciya_vk" width="411" height="201" class="aligncenter size-full wp-image-5533" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otlozhennaya_publikaciya_vk.png 411w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/otlozhennaya_publikaciya_vk-300x146.png 300w" sizes="(max-width: 411px) 100vw, 411px" /></a>
+  <a href="{{site.img_cdn}}/otlozhennaya_publikaciya_vk.png"><img src="{{site.img_cdn}}/otlozhennaya_publikaciya_vk.png" alt="отложенная запись вконтакте" title="otlozhennaya_publikaciya_vk" width="411" height="201" class="aligncenter size-full wp-image-5533" srcset="{{site.img_cdn}}/otlozhennaya_publikaciya_vk.png 411w, {{site.img_cdn}}/otlozhennaya_publikaciya_vk-300x146.png 300w" sizes="(max-width: 411px) 100vw, 411px" /></a>
 </center>
 
 Несколько недель назад, я представлял вам несколько сервисов [для отложенного постинга](http://artslab.info/news/otlozhennaya-avtopublikaciya-v-gruppu-vkontakte/ "Отложенная автопубликация в группу ВКонтакте") на стену группы в социальной сети ВКонтакте. Сегодня эта функция была добавлена к основным возможностям, доступным при публикаций записей в группах и сообществах. Так что, теперь можно забыть про дополнительные сервисы и планировать записи на будущее не покидая страничку своей группы.

@@ -22,7 +22,7 @@ tags:
   - Для Wordpress
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blogroll_with_favicons1.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/blogroll_with_favicons1.jpg" alt="блогролл с фавиконкам" title="blogroll_with_favicons" width="295" height="262" class="alignnone size-full wp-image-1337" /></a>
+  <a href="{{site.img_cdn}}/blogroll_with_favicons1.jpg"><img src="{{site.img_cdn}}/blogroll_with_favicons1.jpg" alt="блогролл с фавиконкам" title="blogroll_with_favicons" width="295" height="262" class="alignnone size-full wp-image-1337" /></a>
 </center>
 
 Немного приукрасил свой блогролл, добавил к сайтам их фавиконки. Вроде мелочь, зато приятно.

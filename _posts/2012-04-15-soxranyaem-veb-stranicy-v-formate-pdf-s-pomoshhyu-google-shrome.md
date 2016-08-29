@@ -7,7 +7,7 @@ layout: post
 guid: http://artslab.info/?p=4522
 permalink: /vse-dlya-google-chrome/soxranyaem-veb-stranicy-v-formate-pdf-s-pomoshhyu-google-shrome/
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/webpage_to_pdf_googlechrome.jpg
+  - {{site.img_cdn}}/webpage_to_pdf_googlechrome.jpg
 prosmotr:
   - 170
 wpb_post_views_count:
@@ -21,13 +21,13 @@ tags:
   - pdf
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/webpage_to_pdf_googlechrome.jpg" alt="экспорт страницы в pdf" title="webpage_to_pdf_googlechrome" class="aligncenter size-medium wp-image-4524" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/webpage_to_pdf_googlechrome.jpg 356w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/webpage_to_pdf_googlechrome-300x168.jpg 300w" sizes="(max-width: 356px) 100vw, 356px" />
+  <img src="{{site.img_cdn}}/webpage_to_pdf_googlechrome.jpg" alt="экспорт страницы в pdf" title="webpage_to_pdf_googlechrome" class="aligncenter size-medium wp-image-4524" srcset="{{site.img_cdn}}/webpage_to_pdf_googlechrome.jpg 356w, {{site.img_cdn}}/webpage_to_pdf_googlechrome-300x168.jpg 300w" sizes="(max-width: 356px) 100vw, 356px" />
 </center>
 
 Иногда бывает нужно сохранить какую-либо статью с сайта для дальнейшего чтения в режиме офлайн. Любой браузер справиться с этим заданием, но не любой сможет сохранить страницу в &#8220;удобном&#8221; формате PDF. Google Chrome умеет это делать без каких-либо лишних дополнений.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/save_as_pdf.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/save_as_pdf-300x131.jpg" alt="сохранить веб-страницу в pdf" title="save_as_pdf" width="300" height="131" class="aligncenter size-medium wp-image-4523" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/save_as_pdf-300x131.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/save_as_pdf.jpg 1015w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/save_as_pdf.jpg"><img src="{{site.img_cdn}}/save_as_pdf-300x131.jpg" alt="сохранить веб-страницу в pdf" title="save_as_pdf" width="300" height="131" class="aligncenter size-medium wp-image-4523" srcset="{{site.img_cdn}}/save_as_pdf-300x131.jpg 300w, {{site.img_cdn}}/save_as_pdf.jpg 1015w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Для того чтобы экспортировать страницу в PDF, кликаем правой кнопкой мыши на страничке и выбираем пункт &#8220;Печать&#8221;. В открывшемся окне, слева в выпадающем меню, место принтера выбираем вариант &#8220;Сохранить как PDF&#8221; и сохраняем страничку.

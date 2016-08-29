@@ -22,7 +22,7 @@ tags:
 Недавно на всех страницах сервиса появилась обновленная навигационная полоска в самом верху страницы, а теперь в Google решили изменить стиль оформление результатов поиска. Выглядит совсем минималистично, много пустого, белого пространства:
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_search_result.jpg" alt="Обновления от Google" title="google_search_result" width="541" height="239" class="alignnone size-full wp-image-2601" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_search_result.jpg 541w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_search_result-300x132.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />
+  <img src="{{site.img_cdn}}/google_search_result.jpg" alt="Обновления от Google" title="google_search_result" width="541" height="239" class="alignnone size-full wp-image-2601" srcset="{{site.img_cdn}}/google_search_result.jpg 541w, {{site.img_cdn}}/google_search_result-300x132.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" />
 </center>
 
 
@@ -32,7 +32,7 @@ tags:
 Большой скриншот:
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_new_view.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_new_view-300x177.png" alt="google изменил стиль выдачи результатов" title="google_new_view" width="300" height="177" class="alignnone size-medium wp-image-2597" /></a></p>
+  <a href="{{site.img_cdn}}/google_new_view.png"><img src="{{site.img_cdn}}/google_new_view-300x177.png" alt="google изменил стиль выдачи результатов" title="google_new_view" width="300" height="177" class="alignnone size-medium wp-image-2597" /></a></p>
 
   <p>
     </center>

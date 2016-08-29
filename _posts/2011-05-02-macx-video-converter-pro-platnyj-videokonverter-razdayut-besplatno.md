@@ -31,5 +31,5 @@ tags:
 Я тоже скачал и установил, думаю пригодиться 😉
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/macx_hd_video_converter.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/macx_hd_video_converter-300x236.jpg" alt="скачать конвертер видео беспалтно" title="macx_hd_video_converter" width="300" height="236" class="alignnone size-medium wp-image-2505" /></a>
+  <a href="{{site.img_cdn}}/macx_hd_video_converter.jpg"><img src="{{site.img_cdn}}/macx_hd_video_converter-300x236.jpg" alt="скачать конвертер видео беспалтно" title="macx_hd_video_converter" width="300" height="236" class="alignnone size-medium wp-image-2505" /></a>
 </center>

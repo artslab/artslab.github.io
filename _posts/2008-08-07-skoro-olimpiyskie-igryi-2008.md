@@ -24,7 +24,7 @@ tags:
 В предверии открытия летних Олимпийских Игр в Пекине, встретил на просторах сети, один очень красивый набор иконок от <a href="http://www.kidcomic.net/pjblog/article.asp?id=51" target="_blank">kidaubis</a>.
 
 <p style="text-align: center;" align="center">
-  <img class="aligncenter" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/olympic_games_icons.jpg" alt="иконки к олимпиаде" width="300" height="519" />
+  <img class="aligncenter" src="{{site.img_cdn}}/olympic_games_icons.jpg" alt="иконки к олимпиаде" width="300" height="519" />
 </p>
 
 _PS: Кстати, сейчас модно рисовать RSS-иконки на разные темы, а как насчет Olympic RSS Icons? С кольцами или олимпийским огнем, не встречал пока еще 🙂_

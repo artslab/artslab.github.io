@@ -23,7 +23,7 @@ tags:
   - vkontakte
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab_design.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/artslab_design.jpg" alt="дизайн группы artslab" title="artslab_design" width="292" height="270" class="alignnone size-full wp-image-1491" /></a>
+  <a href="{{site.img_cdn}}/artslab_design.jpg"><img src="{{site.img_cdn}}/artslab_design.jpg" alt="дизайн группы artslab" title="artslab_design" width="292" height="270" class="alignnone size-full wp-image-1491" /></a>
 </center>
 
 Создал группу сайта в социальной сети Vkontake.ru. В связи с этим приглашаю всех читателей в группу. Можно использовать это место в качестве небольшого форума сайта и обсуждать там различные вопросы, которые хоть как-то связанны с тематикой сайта и просто помогать друг-другу.

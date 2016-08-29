@@ -23,7 +23,7 @@ tags:
 Несмотря на то, что существует ряд готовых jQuery- плагинов позволяющих создать кнопку/панельку для прокрутки сайта вверх (с разными визуальными эффектам), сегодня мы сами создадим такую кнопочку, для того чтобы понять как она работает, а заодно и познакомиться с некоторыми аттрибутами CSS и функциями jQuery. <a href="http://codepen.io/4gray/pen/Legov" target="_blank">Демо</a> доступно в песочнице.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prokrutit_sait_vverh.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prokrutit_sait_vverh-300x183.png" alt="панель для прокутки сайта вверх" class="aligncenter size-medium wp-image-7896" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prokrutit_sait_vverh-300x183.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/prokrutit_sait_vverh.png 571w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/prokrutit_sait_vverh.png"><img src="{{site.img_cdn}}/prokrutit_sait_vverh-300x183.png" alt="панель для прокутки сайта вверх" class="aligncenter size-medium wp-image-7896" srcset="{{site.img_cdn}}/prokrutit_sait_vverh-300x183.png 300w, {{site.img_cdn}}/prokrutit_sait_vverh.png 571w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

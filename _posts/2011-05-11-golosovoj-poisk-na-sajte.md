@@ -31,7 +31,7 @@ tags:
 Попробовать голосовой поиск можно у меня в блоге, для этого достаточно нажать по иконке микрофона в поисковой строке, сверху.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/golosovoi_poisk_google_chrome.jpg" alt="добавить голосовой поиск на сайт" title="golosovoi_poisk_google_chrome" width="322" height="137" class="alignnone size-full wp-image-2654" />
+  <img src="{{site.img_cdn}}/golosovoi_poisk_google_chrome.jpg" alt="добавить голосовой поиск на сайт" title="golosovoi_poisk_google_chrome" width="322" height="137" class="alignnone size-full wp-image-2654" />
 </center>
 
 Меня удивило насколько просто и легко встраивается данный функционал на сайт. Думал нужно будет загружать какие-то js-библиотеки, css-файлы с картинками, нет, ничего. Для работы голосового поиска используется &#8220;x-webkit-speech&#8221; и все необходимое уже встроено в движке браузера (Webkit).

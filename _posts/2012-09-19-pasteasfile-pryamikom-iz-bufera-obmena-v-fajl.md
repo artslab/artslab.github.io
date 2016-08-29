@@ -18,7 +18,7 @@ categories:
   - programmyi
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows-300x156.png" alt="сохранение из буфера обмена в файл" title="pasteasfile_dlya_windows" width="300" height="156" class="aligncenter size-medium wp-image-5225" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows-300x156.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pasteasfile_dlya_windows.png 348w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/pasteasfile_dlya_windows.png"><img src="{{site.img_cdn}}/pasteasfile_dlya_windows-300x156.png" alt="сохранение из буфера обмена в файл" title="pasteasfile_dlya_windows" width="300" height="156" class="aligncenter size-medium wp-image-5225" srcset="{{site.img_cdn}}/pasteasfile_dlya_windows-300x156.png 300w, {{site.img_cdn}}/pasteasfile_dlya_windows.png 348w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Речь идет о небольшой программке [PasteAsFile](http://starpunch.net/) для Windows, которая упростит ежедневные задачи при работе с программами компьютере. Представим себе такую ситуацию: если Вам необходимо скопировать какой-то текст из интернета и сохранить его для себя то, необходимо открыть текстовый редактор, создать новый документ, вставить в него текст и затем сохранить. Тоже самое и в случае снятия скриншота &#8211; графический редактор, создать, вставить и сохранить.

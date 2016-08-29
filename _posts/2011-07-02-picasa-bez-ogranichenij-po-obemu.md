@@ -13,7 +13,7 @@ sbg_selected_sidebar:
 sbg_selected_sidebar_replacement:
   - 'a:5:{i:0;s:1:"0";i:1;s:1:"0";i:2;s:1:"0";i:3;s:1:"0";i:4;s:1:"0";}'
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/picasa-logo.gif
+  - {{site.img_cdn}}/picasa-logo.gif
 prosmotr:
   - 155
 wpb_post_views_count:
@@ -28,7 +28,7 @@ tags:
   - фотографий
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/picasa-logo.gif"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/picasa-logo-300x118.gif" alt="Изменения на Picasa" title="picasa-logo" width="300" height="118" class="alignnone size-medium wp-image-3558" /></a>
+  <a href="{{site.img_cdn}}/picasa-logo.gif"><img src="{{site.img_cdn}}/picasa-logo-300x118.gif" alt="Изменения на Picasa" title="picasa-logo" width="300" height="118" class="alignnone size-medium wp-image-3558" /></a>
 </center>
 
 Странно, что никто еще не написал про изменения на фотохостинге Picasa. Не про какие-либо перемены в веб-интерфейсе нет, это все хорошо, но я конкретно, вот про этот пункт:

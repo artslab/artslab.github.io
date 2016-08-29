@@ -32,7 +32,7 @@ tags:
 Наверное все уже как то приловчились скачивать музыку с соц.сети Вконтакте. Во первых, так как это очень удобно, да и собственно потому что там есть почти любая музыка. Кто-то пользуется плагином [DownloadHelper](https://addons.mozilla.org/ru/firefox/addon/3006) для Firefox, те кто не зарегистрирован там пользуются отдельными сайтами вроде vpleer.ru и др. Я же использую связку скрипта [Vkontakte Music Download](http://userscripts.org/scripts/show/16985) для Greasemonkey для скачивания музыки с Вконтакте и DownloadHelper для скачивания медиа-файлов с других сайтов.
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vko_pic.jpg"><img class="size-medium wp-image-447  aligncenter" title="vko_pic" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vko_pic-300x96.jpg" alt="" width="300" height="96" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vko_pic-300x96.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/vko_pic.jpg 425w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/vko_pic.jpg"><img class="size-medium wp-image-447  aligncenter" title="vko_pic" src="{{site.img_cdn}}/vko_pic-300x96.jpg" alt="" width="300" height="96" srcset="{{site.img_cdn}}/vko_pic-300x96.jpg 300w, {{site.img_cdn}}/vko_pic.jpg 425w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 2. [Greased Lightbox](http://userscripts.org/scripts/show/35377)
@@ -42,7 +42,7 @@ tags:
 Выглядит примерно так:
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/greased_lightbox.jpg"><img class="size-medium wp-image-446  aligncenter" title="greased_lightbox" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/greased_lightbox-300x212.jpg" alt="" width="300" height="212" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/greased_lightbox-300x212.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/greased_lightbox.jpg 808w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/greased_lightbox.jpg"><img class="size-medium wp-image-446  aligncenter" title="greased_lightbox" src="{{site.img_cdn}}/greased_lightbox-300x212.jpg" alt="" width="300" height="212" srcset="{{site.img_cdn}}/greased_lightbox-300x212.jpg 300w, {{site.img_cdn}}/greased_lightbox.jpg 808w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <!--more-->3.

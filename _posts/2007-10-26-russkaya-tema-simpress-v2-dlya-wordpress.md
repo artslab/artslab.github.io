@@ -32,7 +32,7 @@ tags:
   - шаблон
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_theme_simpress.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_theme_simpress.png" alt="" title="wordpress_theme_simpress" width="300" height="225" class="alignnone size-full wp-image-843" /></a>
+  <a href="{{site.img_cdn}}/wordpress_theme_simpress.png"><img src="{{site.img_cdn}}/wordpress_theme_simpress.png" alt="" title="wordpress_theme_simpress" width="300" height="225" class="alignnone size-full wp-image-843" /></a>
 </center>
 
 

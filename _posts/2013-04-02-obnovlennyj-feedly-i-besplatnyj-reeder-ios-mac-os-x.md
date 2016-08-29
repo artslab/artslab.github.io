@@ -28,7 +28,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-300x175.jpg" alt="стиль для feedly" class="aligncenter size-medium wp-image-6500" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-300x175.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript-1024x600.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/feedly_userscript.jpg 1477w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/feedly_userscript.jpg"><img src="{{site.img_cdn}}/feedly_userscript-300x175.jpg" alt="стиль для feedly" class="aligncenter size-medium wp-image-6500" srcset="{{site.img_cdn}}/feedly_userscript-300x175.jpg 300w, {{site.img_cdn}}/feedly_userscript-1024x600.jpg 1024w, {{site.img_cdn}}/feedly_userscript.jpg 1477w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Я уже не раз [писал](http://artslab.info/onlayn-servisyi/zakrytie-google-reader-eksport-dannyx-i-perexod-na-feedly/ "Закрытие Google Reader — экспорт данных и переход на Feedly"), что сделал свой выбор в сторону Feedly. Быстрее всех, на мой взгляд, реагируют именно разработчики этого сервиса. То в какую сторону идет развитие сервиса и какие функций были добавлены в последнее время, подтверждает то, что для себя я сделал правильный выбор.
@@ -44,7 +44,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno-300x172.jpg" alt="reeder читалка rss mac os x" class="aligncenter size-medium wp-image-6836" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno-300x172.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/reeder_skachat_besplatno.jpg 741w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/reeder_skachat_besplatno.jpg"><img src="{{site.img_cdn}}/reeder_skachat_besplatno-300x172.jpg" alt="reeder читалка rss mac os x" class="aligncenter size-medium wp-image-6836" srcset="{{site.img_cdn}}/reeder_skachat_besplatno-300x172.jpg 300w, {{site.img_cdn}}/reeder_skachat_besplatno.jpg 741w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Одним из самых популярных iOS-приложений для чтения RSS-лент на сегодняшний день является клиент Reeder (iOS, Mac OS X). С 1 апреля приложение стало распространяться бесплатно, точка.

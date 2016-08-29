@@ -21,7 +21,7 @@ tags:
 Данный сниппет позволит выделить поисковую фразу в результатах поиска по сайта без использования каких-либо дополнительных WordPress-плагинов. Пример на скриншоте:
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/podsvetka_poiskovoi_frazi.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/podsvetka_poiskovoi_frazi-300x136.png" alt="подсветка результата" class="aligncenter size-medium wp-image-7840" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/podsvetka_poiskovoi_frazi-300x136.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/podsvetka_poiskovoi_frazi.png 723w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/podsvetka_poiskovoi_frazi.png"><img src="{{site.img_cdn}}/podsvetka_poiskovoi_frazi-300x136.png" alt="подсветка результата" class="aligncenter size-medium wp-image-7840" srcset="{{site.img_cdn}}/podsvetka_poiskovoi_frazi-300x136.png 300w, {{site.img_cdn}}/podsvetka_poiskovoi_frazi.png 723w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

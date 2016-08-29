@@ -23,7 +23,7 @@ tags:
   - Web 2.0
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/create_you_own_pixel_font.jpg" alt="пиксельный шрифт" title="create_you_own_pixel_font" width="400" height="373" class="alignnone size-full wp-image-999" />
+  <img src="{{site.img_cdn}}/create_you_own_pixel_font.jpg" alt="пиксельный шрифт" title="create_you_own_pixel_font" width="400" height="373" class="alignnone size-full wp-image-999" />
 </center>
 
 <a href="http://www.pentacom.jp/soft/ex/font/edit_canvas.html" title="font creater" target="_blank">BitFontMaker</a> &#8211; это простой онлайн инструмент для создания своего **пиксельного шрифта**. После того как Вы нарисовали все буквы и знаки, шрифт можно сохранить к себе на компьютер или отправить авторам проекта (с соблюдением копирайта), после чего он должен появиться в каталоге на сайте.

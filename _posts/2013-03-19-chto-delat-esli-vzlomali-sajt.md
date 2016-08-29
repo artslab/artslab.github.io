@@ -18,7 +18,7 @@ tags:
   - google
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/esli_vzlomali_sait.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/esli_vzlomali_sait-300x158.jpg" alt="взломали сайт, что делать" class="aligncenter size-medium wp-image-6588" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/esli_vzlomali_sait-300x158.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/esli_vzlomali_sait-1024x540.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/esli_vzlomali_sait.jpg 1028w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/esli_vzlomali_sait.jpg"><img src="{{site.img_cdn}}/esli_vzlomali_sait-300x158.jpg" alt="взломали сайт, что делать" class="aligncenter size-medium wp-image-6588" srcset="{{site.img_cdn}}/esli_vzlomali_sait-300x158.jpg 300w, {{site.img_cdn}}/esli_vzlomali_sait-1024x540.jpg 1024w, {{site.img_cdn}}/esli_vzlomali_sait.jpg 1028w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Гугловская страничка с инструментами для веб-мастера обзавелась новым разделом с полезной информацией для владельцев сайтов. Раздел содержит в себе ответы на распространенные вопросы, в случае взлома вашего сайта.

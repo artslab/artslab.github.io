@@ -23,7 +23,7 @@ tags:
   - ikonki
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_touch_icon.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ipod_touch_icon-300x176.jpg" alt="скачать иконки ipod touch" title="ipod_touch_icon" width="300" height="176" class="alignnone size-medium wp-image-826" /></a>
+  <a href="{{site.img_cdn}}/ipod_touch_icon.jpg"><img src="{{site.img_cdn}}/ipod_touch_icon-300x176.jpg" alt="скачать иконки ipod touch" title="ipod_touch_icon" width="300" height="176" class="alignnone size-medium wp-image-826" /></a>
 </center>
 
 <p align="center">

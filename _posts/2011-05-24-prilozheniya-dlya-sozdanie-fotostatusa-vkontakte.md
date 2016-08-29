@@ -27,7 +27,7 @@ tags:
 Возможно слово &#8220;фотостатус&#8221; не совсем подходит под то что я имею, но не я это придумал. Чтобы сразу снять все вопросы, вот картинка того, что мы получим в итоге:
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/photostatus_vkonakte.jpg" alt="Фотостатус Вконтакте" title="photostatus_vkonakte" width="403" height="97" class="alignnone size-full wp-image-3108" />
+  <img src="{{site.img_cdn}}/photostatus_vkonakte.jpg" alt="Фотостатус Вконтакте" title="photostatus_vkonakte" width="403" height="97" class="alignnone size-full wp-image-3108" />
 </center>
 
 Фотостатус &#8211; это те пять миниатюр фотографий, которые отображаются на странице вашего профиля, под вашим именем и текстовым статусом.
@@ -35,7 +35,7 @@ tags:
 **Создать** такой **фотостатус** и разместить его в своем профиле очень просто. Для этого было сделано специальное [приложение Вконтакте](http://vkontakte.ru/app2175066). В нем уже имеются готовые статусы на разные темы: любовь, люди, авто, природа, музыка, кино и другие. Но главное то, что можно загрузить свое фото и сделать из него такой статус.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fotostatus_prilojenie.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fotostatus_prilojenie-300x225.jpg" alt="Приложение для создания фотостатуса" title="fotostatus_prilojenie" width="300" height="225" class="alignnone size-medium wp-image-3107" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fotostatus_prilojenie-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/fotostatus_prilojenie.jpg 626w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/fotostatus_prilojenie.jpg"><img src="{{site.img_cdn}}/fotostatus_prilojenie-300x225.jpg" alt="Приложение для создания фотостатуса" title="fotostatus_prilojenie" width="300" height="225" class="alignnone size-medium wp-image-3107" srcset="{{site.img_cdn}}/fotostatus_prilojenie-300x225.jpg 300w, {{site.img_cdn}}/fotostatus_prilojenie.jpg 626w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Думаю интерфейс приложения не станет преградой не для кого. Сверху находятся две кнопки, можно выбрать либо свои статус, либо готовый из галерей.

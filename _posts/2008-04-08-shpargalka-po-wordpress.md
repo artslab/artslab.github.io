@@ -20,7 +20,7 @@ tags:
   - Для Wordpress
 ---
 <p style="text-align: center;">
-  <a class="lightview" href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_cheat_sheet.jpg"><img class="aligncenter size-medium wp-image-289" title="wordpress_cheat_sheet" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_cheat_sheet-300x88.jpg" border="0" alt="Шпаргалка по WordPress" width="300" height="88" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_cheat_sheet-300x88.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress_cheat_sheet.jpg 586w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a class="lightview" href="{{site.img_cdn}}/wordpress_cheat_sheet.jpg"><img class="aligncenter size-medium wp-image-289" title="wordpress_cheat_sheet" src="{{site.img_cdn}}/wordpress_cheat_sheet-300x88.jpg" border="0" alt="Шпаргалка по WordPress" width="300" height="88" srcset="{{site.img_cdn}}/wordpress_cheat_sheet-300x88.jpg 300w, {{site.img_cdn}}/wordpress_cheat_sheet.jpg 586w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 Небольшая, но полезная шпаргалка по **WordPress**. Пригодиться тем кто часто(или в первый раз) работает с шаблонами движка или создает свой темы.

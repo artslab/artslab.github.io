@@ -29,7 +29,7 @@ tags:
 В добавку к [прошлой записи](http://artslab.info/snippety/sozdaem-fiksirovannoe-navigacionnoe-menyu-otobrazhaemoe-pri-prokrutke-stranicy/ "Создаем фиксированное навигационное меню, отображаемое при прокрутке страницы"), еще один небольшой пример с простой адаптивной менюшкой. Будем использовать CSS Media Query + jQuery. Демо с кодом, как всегда на <a href="http://codepen.io/4gray/pen/FEujv" target="_blank">Codepen</a>, в продолжений поста более подробное, пошаговое описание.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/adaptivnoe_menu_css.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/adaptivnoe_menu_css-300x195.jpg" alt="адаптивное меню" class="aligncenter size-medium wp-image-7400" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/adaptivnoe_menu_css-300x195.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/adaptivnoe_menu_css-1024x668.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/adaptivnoe_menu_css.jpg 1199w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/adaptivnoe_menu_css.jpg"><img src="{{site.img_cdn}}/adaptivnoe_menu_css-300x195.jpg" alt="адаптивное меню" class="aligncenter size-medium wp-image-7400" srcset="{{site.img_cdn}}/adaptivnoe_menu_css-300x195.jpg 300w, {{site.img_cdn}}/adaptivnoe_menu_css-1024x668.jpg 1024w, {{site.img_cdn}}/adaptivnoe_menu_css.jpg 1199w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
@@ -125,7 +125,7 @@ tags:
 {% endhighlight %}
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu-300x231.jpg" alt="создаем меню на css и jquery" class="aligncenter size-medium wp-image-7410" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu-300x231.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/css_jquery_menu.jpg 660w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/css_jquery_menu.jpg"><img src="{{site.img_cdn}}/css_jquery_menu-300x231.jpg" alt="создаем меню на css и jquery" class="aligncenter size-medium wp-image-7410" srcset="{{site.img_cdn}}/css_jquery_menu-300x231.jpg 300w, {{site.img_cdn}}/css_jquery_menu.jpg 660w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 3. JS-часть будет отвечать за раскрытие списка меню при клике на иконку в уменьшенной/мобильной версий сайта. Для отображения/скрытия списка меню, мы будем использовать две функций addClass() и removeClass(), которые будут добавлять/удалять класс showitems в зависимости от значения селектора-псевдокласса is(&#8216;:visible&#8217;).
@@ -152,7 +152,7 @@ $(function() {
 {% endhighlight %}
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3-300x300.png" alt="раскрытое меню" class="aligncenter size-medium wp-image-7403" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3-300x300.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3-100x100.png 100w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/CodePen_-_A_Pen_by_4gray-3.png 507w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/CodePen_-_A_Pen_by_4gray-3.png"><img src="{{site.img_cdn}}/CodePen_-_A_Pen_by_4gray-3-300x300.png" alt="раскрытое меню" class="aligncenter size-medium wp-image-7403" srcset="{{site.img_cdn}}/CodePen_-_A_Pen_by_4gray-3-300x300.png 300w, {{site.img_cdn}}/CodePen_-_A_Pen_by_4gray-3-100x100.png 100w, {{site.img_cdn}}/CodePen_-_A_Pen_by_4gray-3.png 507w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 

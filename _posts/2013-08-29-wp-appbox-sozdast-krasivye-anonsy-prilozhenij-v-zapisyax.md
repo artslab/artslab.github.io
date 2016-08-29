@@ -25,7 +25,7 @@ tags:
   - плагин
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_plugin.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_plugin-300x202.png" alt="обзор приложения" class="aligncenter size-medium wp-image-7671" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_plugin-300x202.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_plugin.png 632w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/preview_plugin.png"><img src="{{site.img_cdn}}/preview_plugin-300x202.png" alt="обзор приложения" class="aligncenter size-medium wp-image-7671" srcset="{{site.img_cdn}}/preview_plugin-300x202.png 300w, {{site.img_cdn}}/preview_plugin.png 632w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Хочу поделиться отличным WordPress-плагином для блоггеров, которые регулярно пишут о различных мобильных приложениях, плагинах и дополнениях для браузеров. <a href="http://wordpress.org/plugins/wp-appbox/" target="_blank">WP-Appbox</a> позволит легко добавить красивый контейнер с ссылкой, скриншотами и короткой информацией о приложений/дополнений.
@@ -62,7 +62,7 @@ tags:
 Запоминать код не потребуется, так как после установки и активаций плагина кнопочки для его вставки появятся в визуальном редакторе WordPress.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appbox_knopki.png" alt="кнопки плагина в WYSIWYG редакторе" class="aligncenter wp-image-7703" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appbox_knopki.png 554w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/appbox_knopki-300x44.png 300w" sizes="(max-width: 554px) 100vw, 554px" />
+  <img src="{{site.img_cdn}}/appbox_knopki.png" alt="кнопки плагина в WYSIWYG редакторе" class="aligncenter wp-image-7703" srcset="{{site.img_cdn}}/appbox_knopki.png 554w, {{site.img_cdn}}/appbox_knopki-300x44.png 300w" sizes="(max-width: 554px) 100vw, 554px" />
 </center>
 
 Напоследок, демо Appbox в расширенном формате (screenshots) с ссылкой на игрушку Sky Gamblers для iOS, которую в данный момент раздают бесплатно 😉

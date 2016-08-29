@@ -9,7 +9,7 @@ permalink: /socialnye-seti/facebook-prilozhenie-dlya-telefonov-s-podderzhkoj-jav
 ljID:
   - 441
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_every_phone_java_app.jpg
+  - {{site.img_cdn}}/facebook_every_phone_java_app.jpg
 prosmotr:
   - 361
 wpb_post_views_count:
@@ -27,7 +27,7 @@ format: aside
 Сегодня разработчики сайта Facebook, выпустили Java-приложения [Facebook for Every Phone](https://www.facebook.com/notes/facebook-mobile/facebook-for-every-phone/200217473360613) для удобного передвижения по сайту, пользователям более старых телефонов с **поддержкой Java**. Как утверждают на Facebook&#8217;e, Java-приложение будет работать более чем на **2500 разных моделях мобильных телефонах**. **Facebook for Every Phone** содержит в себе (как и аналог на iOS/Andoid) все самые популярные функций социальной сети, например &#8211; лента новостей, личные сообщения, просмотр чужих профилей, календарь, а также, загрузка и просмотр фотографий.
 
 <center>
-  <img class="alignnone size-full wp-image-3670" title="facebook_every_phone_java_app" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/facebook_every_phone_java_app.jpg" alt="facebook java-приложения для мобильных телефонов" />
+  <img class="alignnone size-full wp-image-3670" title="facebook_every_phone_java_app" src="{{site.img_cdn}}/facebook_every_phone_java_app.jpg" alt="facebook java-приложения для мобильных телефонов" />
 </center>
 
 Для того скачать приложения прямо с телефона, достаточно перейти под адресу: <http://d.facebook.com/install>.

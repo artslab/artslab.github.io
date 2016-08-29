@@ -21,13 +21,13 @@ tags:
   - скриншот
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_screenshot.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_screenshot-300x170.png" alt="быстрое создание скриншота" title="sozdat_screenshot" width="300" height="170" class="alignnone size-medium wp-image-1378" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_screenshot-300x170.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/sozdat_screenshot.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/sozdat_screenshot.png"><img src="{{site.img_cdn}}/sozdat_screenshot-300x170.png" alt="быстрое создание скриншота" title="sozdat_screenshot" width="300" height="170" class="alignnone size-medium wp-image-1378" srcset="{{site.img_cdn}}/sozdat_screenshot-300x170.png 300w, {{site.img_cdn}}/sozdat_screenshot.png 330w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 На сегодняшний день существует большое количество инструментов для создания скриншотов. Доступны они как в виде дополнений(например, для браузеров), либо в виде отдельных программ. Речь пойдет о второй категорий. Хотел бы вам представить программку [Shotty](http://shotty.devs-on.net/en/Overview.aspx).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shotty.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/shotty-300x228.jpg" alt="программа для создания скриншотов" title="shotty" width="300" height="228" class="alignnone size-medium wp-image-1376" /></a>
+  <a href="{{site.img_cdn}}/shotty.jpg"><img src="{{site.img_cdn}}/shotty-300x228.jpg" alt="программа для создания скриншотов" title="shotty" width="300" height="228" class="alignnone size-medium wp-image-1376" /></a>
 </center>
 
 После установки, она тихо и спокойно расположится в трее. Кликнув по иконке можно выбрать, какой тип скриншота вам нужен. Либо всего рабочего стола, либо только одного окна или какой-то определенной области. После того как скриншот готов, он откроется в окне [Shotty](http://shotty.devs-on.net/en/Overview.aspx) со встроенным графическим мини-редактором. Можно обвести что либо, выделить, дописать, вставить какие то элементы и т.д. Но пожалуй главное в том, что теперь скриншот можно загрузить прямо в сеть. Доступны несколько хранилищ изображений, таких как: imageshack.us, imgur.com, images.devs-on.net, directupload.net и uploadscreenshot.com. Выбрав один из сайтов-хранилищ, изображение загрузится и появиться ссылка на отправленное изображение.

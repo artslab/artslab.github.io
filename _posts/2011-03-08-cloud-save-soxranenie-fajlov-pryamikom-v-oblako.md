@@ -21,7 +21,7 @@ tags:
   - дополнение
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save-300x206.png" alt="" title="cloud_save" width="300" height="206" class="alignnone size-medium wp-image-1696" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save-300x206.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>&nbsp;<a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save2.png"></center></p>
+  <a href="{{site.img_cdn}}/cloud_save.png"><img src="{{site.img_cdn}}/cloud_save-300x206.png" alt="" title="cloud_save" width="300" height="206" class="alignnone size-medium wp-image-1696" srcset="{{site.img_cdn}}/cloud_save-300x206.png 300w, {{site.img_cdn}}/cloud_save.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>&nbsp;<a href="{{site.img_cdn}}/cloud_save2.png"></center></p>
 
   <p>
     <a href="https://chrome.google.com/extensions/detail/omiekjeapoonbhiemenfoccbdpeagdah?hl=en">Cloud Save</a> является дополненем для браузера Google Chrome, которое позволит сохранить любой файл из сети, прямиком в облачные сервисы. В данный момент приложение поддерживает: Picasa, Flickr, <a href="http://db.tt/RYea5eSO">Dropbox</a>, CloudApp, Box.net, Min.us, Droplr, Posterous и Twitpic.
@@ -29,7 +29,7 @@ tags:
 
   <p>
     <center>
-      <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save2-300x206.png" alt="" title="cloud_save2" width="300" height="206" class="alignnone size-medium wp-image-1697" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save2-300x206.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/cloud_save2.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <img src="{{site.img_cdn}}/cloud_save2-300x206.png" alt="" title="cloud_save2" width="300" height="206" class="alignnone size-medium wp-image-1697" srcset="{{site.img_cdn}}/cloud_save2-300x206.png 300w, {{site.img_cdn}}/cloud_save2.png 400w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     </center>
   </p>
 

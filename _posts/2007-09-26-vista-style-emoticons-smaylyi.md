@@ -25,7 +25,7 @@ tags:
   - смайлы
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smiles_vista_style.jpg" border="0" alt="скачать смайлики в стиле windows 7 - vista" />
+  <img src="{{site.img_cdn}}/smiles_vista_style.jpg" border="0" alt="скачать смайлики в стиле windows 7 - vista" />
 </center>
 
 <p align="center">

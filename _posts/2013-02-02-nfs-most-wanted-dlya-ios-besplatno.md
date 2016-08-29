@@ -21,7 +21,7 @@ tags:
   - игра
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/most_wanted_dlya_ios_besplatno.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/most_wanted_dlya_ios_besplatno-300x165.jpg" alt="гонки most wanted для ios" title="most_wanted_dlya_ios_besplatno" width="300" height="165" class="aligncenter size-medium wp-image-5929" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/most_wanted_dlya_ios_besplatno-300x165.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/most_wanted_dlya_ios_besplatno-1024x565.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/most_wanted_dlya_ios_besplatno.jpg 1512w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/most_wanted_dlya_ios_besplatno.jpg"><img src="{{site.img_cdn}}/most_wanted_dlya_ios_besplatno-300x165.jpg" alt="гонки most wanted для ios" title="most_wanted_dlya_ios_besplatno" width="300" height="165" class="aligncenter size-medium wp-image-5929" srcset="{{site.img_cdn}}/most_wanted_dlya_ios_besplatno-300x165.jpg 300w, {{site.img_cdn}}/most_wanted_dlya_ios_besplatno-1024x565.jpg 1024w, {{site.img_cdn}}/most_wanted_dlya_ios_besplatno.jpg 1512w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Небольшая рекомендация на выходные для владельцев iOS-девайсов. Популярную игрушку Need For Speed Most Wanted в данный момент можно заполучить абсолютно бесплатно.

@@ -22,7 +22,7 @@ tags:
   - Web 2.0
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/illcs3swatch_03.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/illcs3swatch_03-300x122.jpg" alt="набор градиентов для иллюстратора" title="illcs3swatch_03" width="300" height="122" class="alignnone size-medium wp-image-881" /></a>
+  <a href="{{site.img_cdn}}/illcs3swatch_03.jpg"><img src="{{site.img_cdn}}/illcs3swatch_03-300x122.jpg" alt="набор градиентов для иллюстратора" title="illcs3swatch_03" width="300" height="122" class="alignnone size-medium wp-image-881" /></a>
 </center>
 
 

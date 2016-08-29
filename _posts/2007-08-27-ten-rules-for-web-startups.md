@@ -23,7 +23,7 @@ tags:
   - web development
 ---
 <p align="center">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pravila_dlya_uspeshnogo_startupa.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/pravila_dlya_uspeshnogo_startupa-300x300.jpg" alt="10 правил стартапа" title="pravila_dlya_uspeshnogo_startupa" width="300" height="300" class="alignnone size-medium wp-image-808" /></a>
+  <a href="{{site.img_cdn}}/pravila_dlya_uspeshnogo_startupa.jpg"><img src="{{site.img_cdn}}/pravila_dlya_uspeshnogo_startupa-300x300.jpg" alt="10 правил стартапа" title="pravila_dlya_uspeshnogo_startupa" width="300" height="300" class="alignnone size-medium wp-image-808" /></a>
 </p>
 
 <p align="left">

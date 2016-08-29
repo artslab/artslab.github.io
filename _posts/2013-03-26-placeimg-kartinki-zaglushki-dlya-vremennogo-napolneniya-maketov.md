@@ -18,7 +18,7 @@ tags:
   - онлайн сервис
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/riba_dlya_maketa.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/riba_dlya_maketa-300x188.jpg" alt="фото заглушки" class="aligncenter size-medium wp-image-6747" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/riba_dlya_maketa-300x188.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/riba_dlya_maketa.jpg 925w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/riba_dlya_maketa.jpg"><img src="{{site.img_cdn}}/riba_dlya_maketa-300x188.jpg" alt="фото заглушки" class="aligncenter size-medium wp-image-6747" srcset="{{site.img_cdn}}/riba_dlya_maketa-300x188.jpg 300w, {{site.img_cdn}}/riba_dlya_maketa.jpg 925w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 При созданий макетов и прототипов часто приходиться использовать временые картинки-заготовки для его полноценности (<a href="ru.wikipedia.org/wiki/Рыба_(заготовка)" target="">рыба</a>).

@@ -31,7 +31,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aurora_Grass_Chrome_Theme.jpg"><img class="aligncenter size-medium wp-image-606" title="Aurora_Grass_Chrome_Theme" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aurora_Grass_Chrome_Theme-300x195.jpg" alt="aurora grass тема для google chrome" width="300" height="195" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aurora_Grass_Chrome_Theme-300x195.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aurora_Grass_Chrome_Theme.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/Aurora_Grass_Chrome_Theme.jpg"><img class="aligncenter size-medium wp-image-606" title="Aurora_Grass_Chrome_Theme" src="{{site.img_cdn}}/Aurora_Grass_Chrome_Theme-300x195.jpg" alt="aurora grass тема для google chrome" width="300" height="195" srcset="{{site.img_cdn}}/Aurora_Grass_Chrome_Theme-300x195.jpg 300w, {{site.img_cdn}}/Aurora_Grass_Chrome_Theme.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/auqa.png"><img class="aligncenter size-medium wp-image-607" title="aqua стеклянная тема для google chrome" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/auqa-300x259.png" alt="" width="300" height="259" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/auqa-300x259.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/auqa.png 893w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/auqa.png"><img class="aligncenter size-medium wp-image-607" title="aqua стеклянная тема для google chrome" src="{{site.img_cdn}}/auqa-300x259.png" alt="" width="300" height="259" srcset="{{site.img_cdn}}/auqa-300x259.png 300w, {{site.img_cdn}}/auqa.png 893w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -47,7 +47,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Chrome_Leopard_by_hsn.jpg"><img class="aligncenter size-medium wp-image-608" title="Chrome_Leopard_by_hsn" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Chrome_Leopard_by_hsn-300x200.jpg" alt="" width="300" height="200" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Chrome_Leopard_by_hsn-300x200.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Chrome_Leopard_by_hsn.jpg 905w" sizes="(max-width: 300px) 100vw, 300px" /></a><!--more-->
+  <a href="{{site.img_cdn}}/Chrome_Leopard_by_hsn.jpg"><img class="aligncenter size-medium wp-image-608" title="Chrome_Leopard_by_hsn" src="{{site.img_cdn}}/Chrome_Leopard_by_hsn-300x200.jpg" alt="" width="300" height="200" srcset="{{site.img_cdn}}/Chrome_Leopard_by_hsn-300x200.jpg 300w, {{site.img_cdn}}/Chrome_Leopard_by_hsn.jpg 905w" sizes="(max-width: 300px) 100vw, 300px" /></a><!--more-->
 </p>
 
 <p style="text-align: center;">
@@ -55,7 +55,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/robot_theme.png"><img class="aligncenter size-medium wp-image-609" title="robot theme for google chrome" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/robot_theme-300x224.png" alt="" width="300" height="224" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/robot_theme-300x224.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/robot_theme-1024x768.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/robot_theme.png 1036w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/robot_theme.png"><img class="aligncenter size-medium wp-image-609" title="robot theme for google chrome" src="{{site.img_cdn}}/robot_theme-300x224.png" alt="" width="300" height="224" srcset="{{site.img_cdn}}/robot_theme-300x224.png 300w, {{site.img_cdn}}/robot_theme-1024x768.png 1024w, {{site.img_cdn}}/robot_theme.png 1036w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -63,7 +63,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ambiance_theme.png"><img class="aligncenter size-medium wp-image-610" title="ambiance_theme" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ambiance_theme-300x209.png" alt="" width="300" height="209" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ambiance_theme-300x209.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ambiance_theme-1024x716.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ambiance_theme.png 1029w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/ambiance_theme.png"><img class="aligncenter size-medium wp-image-610" title="ambiance_theme" src="{{site.img_cdn}}/ambiance_theme-300x209.png" alt="" width="300" height="209" srcset="{{site.img_cdn}}/ambiance_theme-300x209.png 300w, {{site.img_cdn}}/ambiance_theme-1024x716.png 1024w, {{site.img_cdn}}/ambiance_theme.png 1029w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -71,7 +71,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/graphc.png"><img class="aligncenter size-medium wp-image-611" title="graphc" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/graphc-300x169.png" alt="" width="300" height="169" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/graphc-300x169.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/graphc.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/graphc.png"><img class="aligncenter size-medium wp-image-611" title="graphc" src="{{site.img_cdn}}/graphc-300x169.png" alt="" width="300" height="169" srcset="{{site.img_cdn}}/graphc-300x169.png 300w, {{site.img_cdn}}/graphc.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -79,7 +79,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aero_Theme___CRX_Version_1_5_by_Stamga.jpg"><img class="aligncenter size-medium wp-image-612" title="Aero_Theme прозрачная тема для google chrome" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aero_Theme___CRX_Version_1_5_by_Stamga-300x268.jpg" alt="" width="300" height="268" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aero_Theme___CRX_Version_1_5_by_Stamga-300x268.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Aero_Theme___CRX_Version_1_5_by_Stamga.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga.jpg"><img class="aligncenter size-medium wp-image-612" title="Aero_Theme прозрачная тема для google chrome" src="{{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga-300x268.jpg" alt="" width="300" height="268" srcset="{{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga-300x268.jpg 300w, {{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -87,7 +87,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ShinyWhite_for_Google_Chrome_by_Pigletiger.jpg"><img class="aligncenter size-medium wp-image-613" title="ShinyWhite_for_Google_Chrome_by_Pigletiger" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ShinyWhite_for_Google_Chrome_by_Pigletiger-300x177.jpg" alt="" width="300" height="177" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ShinyWhite_for_Google_Chrome_by_Pigletiger-300x177.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ShinyWhite_for_Google_Chrome_by_Pigletiger-1024x606.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/ShinyWhite_for_Google_Chrome_by_Pigletiger.jpg 1086w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger.jpg"><img class="aligncenter size-medium wp-image-613" title="ShinyWhite_for_Google_Chrome_by_Pigletiger" src="{{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger-300x177.jpg" alt="" width="300" height="177" srcset="{{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger-300x177.jpg 300w, {{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger-1024x606.jpg 1024w, {{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger.jpg 1086w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -95,7 +95,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dark_atmosphere_by_Clyronom.jpg"><img class="aligncenter size-medium wp-image-614" title="dark_atmosphere_by_Clyronom" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/dark_atmosphere_by_Clyronom-300x173.jpg" alt="" width="300" height="173" /></a>
+  <a href="{{site.img_cdn}}/dark_atmosphere_by_Clyronom.jpg"><img class="aligncenter size-medium wp-image-614" title="dark_atmosphere_by_Clyronom" src="{{site.img_cdn}}/dark_atmosphere_by_Clyronom-300x173.jpg" alt="" width="300" height="173" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -103,7 +103,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/avatar.png"><img class="aligncenter size-medium wp-image-615" title="avatar тема для google chrome" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/avatar-300x216.png" alt="" width="300" height="216" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/avatar-300x216.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/avatar.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/avatar.png"><img class="aligncenter size-medium wp-image-615" title="avatar тема для google chrome" src="{{site.img_cdn}}/avatar-300x216.png" alt="" width="300" height="216" srcset="{{site.img_cdn}}/avatar-300x216.png 300w, {{site.img_cdn}}/avatar.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 UPD:
@@ -115,11 +115,11 @@ UPD:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/foxy_theme.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/foxy_theme-300x206.png" alt="" title="foxy_theme" width="300" height="206" class="alignnone size-medium wp-image-681" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/foxy_theme-300x206.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/foxy_theme.png 950w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/foxy_theme.png"><img src="{{site.img_cdn}}/foxy_theme-300x206.png" alt="" title="foxy_theme" width="300" height="206" class="alignnone size-medium wp-image-681" srcset="{{site.img_cdn}}/foxy_theme-300x206.png 300w, {{site.img_cdn}}/foxy_theme.png 950w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 12. Тема в стиле игры <a href="https://chrome.google.com/webstore/detail/minecraft-origins/ooemofofigijedhcifaimglnncjmckaa" target="_blank">Minecraft</a>
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minecraft_tema.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minecraft_tema-300x192.png" alt="minecraft_tema" class="aligncenter size-medium wp-image-7359" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minecraft_tema-300x192.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/minecraft_tema.png 672w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/minecraft_tema.png"><img src="{{site.img_cdn}}/minecraft_tema-300x192.png" alt="minecraft_tema" class="aligncenter size-medium wp-image-7359" srcset="{{site.img_cdn}}/minecraft_tema-300x192.png 300w, {{site.img_cdn}}/minecraft_tema.png 672w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

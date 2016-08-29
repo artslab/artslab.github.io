@@ -21,7 +21,7 @@ tags:
   - photoshop
 ---
 <p style="text-align: center">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Abstract_Shapes__by_redcarbon.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Abstract_Shapes__by_redcarbon.jpg" alt="" title="Abstract_Shapes__by_redcarbon" width="380" height="500" class="alignnone size-full wp-image-806" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Abstract_Shapes__by_redcarbon.jpg 380w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/Abstract_Shapes__by_redcarbon-228x300.jpg 228w" sizes="(max-width: 380px) 100vw, 380px" /></a>
+  <a href="{{site.img_cdn}}/Abstract_Shapes__by_redcarbon.jpg"><img src="{{site.img_cdn}}/Abstract_Shapes__by_redcarbon.jpg" alt="" title="Abstract_Shapes__by_redcarbon" width="380" height="500" class="alignnone size-full wp-image-806" srcset="{{site.img_cdn}}/Abstract_Shapes__by_redcarbon.jpg 380w, {{site.img_cdn}}/Abstract_Shapes__by_redcarbon-228x300.jpg 228w" sizes="(max-width: 380px) 100vw, 380px" /></a>
 </p>
 
 <p style="text-align: center" align="center">

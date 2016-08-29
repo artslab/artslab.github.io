@@ -21,7 +21,7 @@ tags:
   - iphone
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firebug_ipad_css_html.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firebug_ipad_css_html-300x225.jpg" alt="исходный код ipad" class="aligncenter size-medium wp-image-6881" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firebug_ipad_css_html-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/firebug_ipad_css_html.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/firebug_ipad_css_html.jpg"><img src="{{site.img_cdn}}/firebug_ipad_css_html-300x225.jpg" alt="исходный код ipad" class="aligncenter size-medium wp-image-6881" srcset="{{site.img_cdn}}/firebug_ipad_css_html-300x225.jpg 300w, {{site.img_cdn}}/firebug_ipad_css_html.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Небольшой букмарклет для владельцев iOS-устройств, который открывает внизу экрана окно с инспектором кода Firebug. Конечно, использовать такой инструмент на планшете, мягко говоря, не совсем удобно. Для теста и отладки мобильной версий сайта, лучше найти подходящий симулятор мобильных устройств для обычного компьютера. Тем не менее букмарклет полностью работоспособен. Можно легко посмотреть исходный код страницы и редактировать HTML и CSS-код, не устанавливая дополнительного приложения.

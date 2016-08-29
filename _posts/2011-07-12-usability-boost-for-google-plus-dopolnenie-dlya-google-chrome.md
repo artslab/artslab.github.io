@@ -9,7 +9,7 @@ permalink: /vse-dlya-google-chrome/usability-boost-for-google-plus-dopolnenie-dl
 ljID:
   - 440
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_boost_plugin.jpg
+  - {{site.img_cdn}}/google_plus_boost_plugin.jpg
 prosmotr:
   - 349
 wpb_post_views_count:
@@ -25,7 +25,7 @@ tags:
   - социальная сеть
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_boost_plugin.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_plus_boost_plugin-300x201.jpg" alt="Новое визуальное оформление Google Plus" title="google_plus_boost_plugin" width="300" height="201" class="alignnone size-medium wp-image-3663" /></a>
+  <a href="{{site.img_cdn}}/google_plus_boost_plugin.jpg"><img src="{{site.img_cdn}}/google_plus_boost_plugin-300x201.jpg" alt="Новое визуальное оформление Google Plus" title="google_plus_boost_plugin" width="300" height="201" class="alignnone size-medium wp-image-3663" /></a>
 </center>
 
 [Usability Boost](https://chrome.google.com/webstore/detail/dkcppcocablbakkaboahjmljpodddkcp) придает [Google+](http://artslab.info/+) новый, улучшенный и при этом не сильно отдаленный от общего стиля, вид. На мой взгляд, с этим оформлением улучшается общая читаемость ленты новостей. Более четкие границы, цветовое отделение разных блоков и панелей, выделение комментариев. Кроме визуальных изменений, дополнение еще фиксирует верхнюю панельку так, что она остается видна и при прокрутке страницы вниз.

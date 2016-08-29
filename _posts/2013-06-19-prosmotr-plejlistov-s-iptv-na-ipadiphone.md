@@ -21,7 +21,7 @@ tags:
 Долгое время нахожусь в поисках достойного бесплатного плеера для просмотра IPTV-каналов на планшете, но до этих пор так и не нашел не единого варианта. Платные решения есть, но и они на данный момент работают не совсем стабильно.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios-300x225.jpg" alt="просмотр iptv через goodplayer" class="aligncenter size-medium wp-image-7208" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios-1024x768.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios.jpg 1300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/goodplayer_dlya_ios.jpg"><img src="{{site.img_cdn}}/goodplayer_dlya_ios-300x225.jpg" alt="просмотр iptv через goodplayer" class="aligncenter size-medium wp-image-7208" srcset="{{site.img_cdn}}/goodplayer_dlya_ios-300x225.jpg 300w, {{site.img_cdn}}/goodplayer_dlya_ios-1024x768.jpg 1024w, {{site.img_cdn}}/goodplayer_dlya_ios.jpg 1300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
@@ -43,7 +43,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios-300x225.jpg" alt="просмотр iptv через goodplayer" class="aligncenter size-medium wp-image-7208" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios-1024x768.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/goodplayer_dlya_ios.jpg 1300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/goodplayer_dlya_ios.jpg"><img src="{{site.img_cdn}}/goodplayer_dlya_ios-300x225.jpg" alt="просмотр iptv через goodplayer" class="aligncenter size-medium wp-image-7208" srcset="{{site.img_cdn}}/goodplayer_dlya_ios-300x225.jpg 300w, {{site.img_cdn}}/goodplayer_dlya_ios-1024x768.jpg 1024w, {{site.img_cdn}}/goodplayer_dlya_ios.jpg 1300w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Бесплатного решения мне найти на данный момент не удалось, а вот платное есть. Проигрыватель GoodPlayer отлично справляется с большими плейлистами и красиво отображает их в прозрачном окне поверх изображения. Каналы довольно-таки быстро переключаются, но и здесь есть небольшой недочет. При каждом 5-6 переключение программа вылетает. Будем надеяться что разработчики в самом скором времени исправит эту ошибку и тогда у меня не будет никаких претензий к приложению.
@@ -53,7 +53,7 @@ tags:
 
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/aceplayer_dlya_ipad.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/aceplayer_dlya_ipad-300x225.jpg" alt="проигрыватель aceplayer" class="aligncenter size-medium wp-image-7210" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/aceplayer_dlya_ipad-300x225.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/aceplayer_dlya_ipad-1024x768.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/aceplayer_dlya_ipad.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/aceplayer_dlya_ipad.jpg"><img src="{{site.img_cdn}}/aceplayer_dlya_ipad-300x225.jpg" alt="проигрыватель aceplayer" class="aligncenter size-medium wp-image-7210" srcset="{{site.img_cdn}}/aceplayer_dlya_ipad-300x225.jpg 300w, {{site.img_cdn}}/aceplayer_dlya_ipad-1024x768.jpg 1024w, {{site.img_cdn}}/aceplayer_dlya_ipad.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Как я уже написал выше, AcePlayer не способен воспроизводить целые плейлисты, а принимает только по одной ссылке на стрим.

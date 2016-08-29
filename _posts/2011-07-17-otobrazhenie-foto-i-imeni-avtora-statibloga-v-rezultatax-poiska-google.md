@@ -9,7 +9,7 @@ permalink: /stati/otobrazhenie-foto-i-imeni-avtora-statibloga-v-rezultatax-poisk
 ljID:
   - 445
 onswipe_thumb:
-  - http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_author_name_photo_in_serp.jpg
+  - {{site.img_cdn}}/google_author_name_photo_in_serp.jpg
 prosmotr:
   - 138
 wpb_post_views_count:
@@ -23,7 +23,7 @@ tags:
   - поиск
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_author_name_photo_in_serp.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_author_name_photo_in_serp.jpg" alt="Google начал отображать фотографию и имя автора статьи в результатах поиска" title="google_author_name_photo_in_serp" width="574" height="86" class="alignnone size-full wp-image-3735" /></a>
+  <a href="{{site.img_cdn}}/google_author_name_photo_in_serp.jpg"><img src="{{site.img_cdn}}/google_author_name_photo_in_serp.jpg" alt="Google начал отображать фотографию и имя автора статьи в результатах поиска" title="google_author_name_photo_in_serp" width="574" height="86" class="alignnone size-full wp-image-3735" /></a>
 </center>
 
 Еще одна новинка от гугла. Теперь стало возможным выводить **фотографию и имя автора статьи блога, прямо в выдаче результатов(SERP) на Google** ([пример](http://www.google.com/search?q=site:daggle.com)). Одного взгляда на картинку выше, должно хватить для более понятного представления. Единственное требование для этого, это наличие своего профиля на Google ([profiles.google.com](http://profiles.google.com/)), так как картинка и имя, берутся именно оттуда. Такой хитрый шаг со стороны гугла.
@@ -47,13 +47,13 @@ _Важен параметр rel=&#8221;author&#8221;_
 3. Так же, необходимо добавить ссылку на страницу &#8220;О себе&#8221;, в блок ссылки на странице [профиля Google](https://profiles.google.com).
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora-235x300.jpg" alt="Отображение информации о авторе блога в результах поиска" title="google_profile_pokaz_info_pro_avtora" width="235" height="300" class="alignnone size-medium wp-image-3730" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora-235x300.jpg 235w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora.jpg 358w" sizes="(max-width: 235px) 100vw, 235px" /></a>
+  <a href="{{site.img_cdn}}/google_profile_pokaz_info_pro_avtora.jpg"><img src="{{site.img_cdn}}/google_profile_pokaz_info_pro_avtora-235x300.jpg" alt="Отображение информации о авторе блога в результах поиска" title="google_profile_pokaz_info_pro_avtora" width="235" height="300" class="alignnone size-medium wp-image-3730" srcset="{{site.img_cdn}}/google_profile_pokaz_info_pro_avtora-235x300.jpg 235w, {{site.img_cdn}}/google_profile_pokaz_info_pro_avtora.jpg 358w" sizes="(max-width: 235px) 100vw, 235px" /></a>
 </center>
 
 4. Теперь идем и проверяем, правильно ли расставлены ссылки. Переходим на инструмент проверки сниппетов [Rich Snippets Testing Tool](http://www.google.com/webmasters/tools/richsnippets). Вставляем туда ссылку на любую статью и смотрим на результат. Если статья прошла верификацию значит вы все сделали правильно.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora_proverka.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora_proverka-300x207.jpg" alt="отображение фото автора статьи в SERP google" title="google_profile_pokaz_info_pro_avtora_proverka" width="300" height="207" class="alignnone size-medium wp-image-3731" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora_proverka-300x207.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/google_profile_pokaz_info_pro_avtora_proverka.jpg 612w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/google_profile_pokaz_info_pro_avtora_proverka.jpg"><img src="{{site.img_cdn}}/google_profile_pokaz_info_pro_avtora_proverka-300x207.jpg" alt="отображение фото автора статьи в SERP google" title="google_profile_pokaz_info_pro_avtora_proverka" width="300" height="207" class="alignnone size-medium wp-image-3731" srcset="{{site.img_cdn}}/google_profile_pokaz_info_pro_avtora_proverka-300x207.jpg 300w, {{site.img_cdn}}/google_profile_pokaz_info_pro_avtora_proverka.jpg 612w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Теперь осталось дождаться пока робот заново проиндексирует ваш сайт и они обновятся в индексе. Сам сегодня только добавил, ждем-с 🙂

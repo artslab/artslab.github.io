@@ -21,7 +21,7 @@ tags:
 Если Вам часто приходиться делиться различными скриншотами на сайте или регулярно создавать какие-либо превью с макетами, тогда Вы должны оценить полезность сервиса <a href="http://placeit.breezi.com/" target="_blank">PlaceIt</a>.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/placeit_foto.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/placeit_foto-300x170.jpg" alt="быстрое создание миниатюры" class="aligncenter size-medium wp-image-7038" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/placeit_foto-300x170.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/placeit_foto-1024x580.jpg 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/placeit_foto.jpg 1405w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/placeit_foto.jpg"><img src="{{site.img_cdn}}/placeit_foto-300x170.jpg" alt="быстрое создание миниатюры" class="aligncenter size-medium wp-image-7038" srcset="{{site.img_cdn}}/placeit_foto-300x170.jpg 300w, {{site.img_cdn}}/placeit_foto-1024x580.jpg 1024w, {{site.img_cdn}}/placeit_foto.jpg 1405w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 
@@ -33,5 +33,5 @@ PlaceIt &#8211; позволит легко и быстро разместить
 Пример:
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_placeit.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_placeit-300x225.png" alt="пример с скриншотом" class="aligncenter size-medium wp-image-7042" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_placeit-300x225.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_placeit-1024x768.png 1024w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/preview_placeit.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/preview_placeit.png"><img src="{{site.img_cdn}}/preview_placeit-300x225.png" alt="пример с скриншотом" class="aligncenter size-medium wp-image-7042" srcset="{{site.img_cdn}}/preview_placeit-300x225.png 300w, {{site.img_cdn}}/preview_placeit-1024x768.png 1024w, {{site.img_cdn}}/preview_placeit.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>

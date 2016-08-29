@@ -21,7 +21,7 @@ tags:
   - psd
 ---
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/full_icon_preview_linkdeck.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/linkdeck_icons.jpg" alt="иконки веб-сервисов, ос, брендов" title="linkdeck_icons" width="312" height="357" class="alignnone size-full wp-image-1713" /></a>
+  <a href="{{site.img_cdn}}/full_icon_preview_linkdeck.jpg"><img src="{{site.img_cdn}}/linkdeck_icons.jpg" alt="иконки веб-сервисов, ос, брендов" title="linkdeck_icons" width="312" height="357" class="alignnone size-full wp-image-1713" /></a>
 </center>
 
 [Набор Linkdeck](http://www.danieleckermann.com/linkdeck/) включает себя 45 иконок различных веб-сервисов(Google Maps, [Dropbox](http://db.tt/RYea5eSO), Blogger, LastFm, Delicious, YouTube&#8230;), IT-компаний(Apple, Google&#8230;) и программ(Skype, Twitter Bird&#8230;). Иконки доступны в 5 размерах и формате psd.

@@ -19,7 +19,7 @@ categories:
 tags:
   - wordrpess
 ---
-<img class="alignright size-thumbnail wp-image-339" style="float: right;" title="wordpress" src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/wordpress-100x100.png" alt="wordpress" width="100" height="100" />Навеяно постом из блога <a href="http://nettuts.com/news/unraveling-the-secrets-of-wordpress-commentsphp-file/" target="_blank">Nettuts</a>, где подробно описана каждая строчка файла comments.php. Собственно Вы наверное не раз видели что во многих блогах комментарий владельца оформлены подругому и отличаются от комментариев всех других участников.
+<img class="alignright size-thumbnail wp-image-339" style="float: right;" title="wordpress" src="{{site.img_cdn}}/wordpress-100x100.png" alt="wordpress" width="100" height="100" />Навеяно постом из блога <a href="http://nettuts.com/news/unraveling-the-secrets-of-wordpress-commentsphp-file/" target="_blank">Nettuts</a>, где подробно описана каждая строчка файла comments.php. Собственно Вы наверное не раз видели что во многих блогах комментарий владельца оформлены подругому и отличаются от комментариев всех других участников.
 
 <!--more-->
 

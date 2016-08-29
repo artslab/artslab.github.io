@@ -21,7 +21,7 @@ tags:
   - shriftyi
 ---
 <p style="text-align: center">
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/logo.gif" alt="архив шрифтов " title="logo" width="242" height="40" class="alignnone size-full wp-image-2109" />
+  <img src="{{site.img_cdn}}/logo.gif" alt="архив шрифтов " title="logo" width="242" height="40" class="alignnone size-full wp-image-2109" />
 </p>
 
 Хороший бесплатный ресурс с огромной подборкой отличных и качественных шрифтов на любой случай! Удобный поиск как по названиям, так и по категориям. Возможность посмотреть шрифт целиком. Вообщем однозначный кандидат на &#8211; &#8220;Добавить в избранное&#8221; =)

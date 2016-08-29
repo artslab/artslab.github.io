@@ -20,7 +20,7 @@ tags:
 Отличный набор минималистичных иконок. Доступен для свободного скачивания в трех разных размерах: 16x16px, 32x32px и 64x64px и форматах: PNG, PSD и CSH.
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnii_ikonki_prilozhenii.jpg" alt="120 бесплатных иконок приложений" title="besplatnii_ikonki_prilozhenii" width="391" height="614" class="aligncenter size-full wp-image-5282" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnii_ikonki_prilozhenii.jpg 391w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/besplatnii_ikonki_prilozhenii-191x300.jpg 191w" sizes="(max-width: 391px) 100vw, 391px" />
+  <img src="{{site.img_cdn}}/besplatnii_ikonki_prilozhenii.jpg" alt="120 бесплатных иконок приложений" title="besplatnii_ikonki_prilozhenii" width="391" height="614" class="aligncenter size-full wp-image-5282" srcset="{{site.img_cdn}}/besplatnii_ikonki_prilozhenii.jpg 391w, {{site.img_cdn}}/besplatnii_ikonki_prilozhenii-191x300.jpg 191w" sizes="(max-width: 391px) 100vw, 391px" />
 </center>
 
 [Скачать набор](http://tympanus.net/codrops/2012/10/02/freebie-application-icon-set-png-psd-csh/)

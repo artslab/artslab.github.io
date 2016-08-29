@@ -36,7 +36,7 @@ tags:
 Для того чтобы браузер [параллельно](http://yuiblog.com/blog/2007/04/11/performance-research-part-4/) смог грузить и скрипты и контент и картинки, нужно вынести все это на отдельные поддомены. Например, картинки на img.site.ru, css и js на static.site.ru.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/two_parallel.png"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/two_parallel-300x84.png" alt="Загрузка картинок на поддомен" title="two_parallel" width="300" height="84" class="alignnone size-medium wp-image-2954" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/two_parallel-300x84.png 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/two_parallel.png 711w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/two_parallel.png"><img src="{{site.img_cdn}}/two_parallel-300x84.png" alt="Загрузка картинок на поддомен" title="two_parallel" width="300" height="84" class="alignnone size-medium wp-image-2954" srcset="{{site.img_cdn}}/two_parallel-300x84.png 300w, {{site.img_cdn}}/two_parallel.png 711w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 О том как релизовать это для WordPress без использования каких-либо дополнительных плагинов, можно прочитать на [TechTipsGeek](http://www.techtipsgeek.com/host-images-wordpress-blog-subdomain-better-speed/6897/). Или можно воспользоваться одним из этих плагинов: [CDN Tools](http://wordpress.org/extend/plugins/cdn-tools/), [WP ImageHost](http://wordpress.org/extend/plugins/wp-imagehost/) или [W3 Total Cache](http://wordpress.org/extend/plugins/w3-total-cache/)
@@ -48,7 +48,7 @@ _Я решил обойтись без плагинов и вынес карти
 Можно в ручную сжимать каждую картинку с помощью Adobe Photoshop и функций Save for Web. А можно упростить процесс сжатия и воспользоваться плагином [WP Smush.it](http://wordpress.org/extend/plugins/wp-smushit/). При загрузке картинок плагин сразу же сжимает их и показывает насколько хорошо ему это удалось. На глаз, изменения в качестве заметны не будут, зато это позитивно повлияет на скорость загрузки. Не забудьте так же сжать изображения самой темы оформления сайта.
 
 <center>
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smushit_pic.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smushit_pic-300x150.jpg" alt="Сжатие картинок при загрузке" title="smushit_pic" width="300" height="150" class="alignnone size-medium wp-image-2955" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smushit_pic-300x150.jpg 300w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/smushit_pic.jpg 707w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.img_cdn}}/smushit_pic.jpg"><img src="{{site.img_cdn}}/smushit_pic-300x150.jpg" alt="Сжатие картинок при загрузке" title="smushit_pic" width="300" height="150" class="alignnone size-medium wp-image-2955" srcset="{{site.img_cdn}}/smushit_pic-300x150.jpg 300w, {{site.img_cdn}}/smushit_pic.jpg 707w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Кстати, Smush It доступен и в виде отдельного [онлайн сервиса](http://www.smushit.com/ysmush.it/).
@@ -60,7 +60,7 @@ _Я решил обойтись без плагинов и вынес карти
 **1. Не нужно ставить 10 кнопок с разных социальных сетей**
 
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_buttons.jpg" alt="Кнопки соц.сервисов" title="social_buttons" width="580" height="179" class="alignnone size-full wp-image-2963" srcset="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_buttons.jpg 580w, http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/social_buttons-300x92.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />
+  <img src="{{site.img_cdn}}/social_buttons.jpg" alt="Кнопки соц.сервисов" title="social_buttons" width="580" height="179" class="alignnone size-full wp-image-2963" srcset="{{site.img_cdn}}/social_buttons.jpg 580w, {{site.img_cdn}}/social_buttons-300x92.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />
 </center>
 
 Я понимаю, что без кнопок социальных сетей сегодня никуда, но все таки с ними стоит быть поосторожней. Поверьте мне кнопки влияют на скорость загрузки, особенно если стоит штук 5-6, то их общий вес может оказаться вполне приличным (6 кнопок &#8211; ~100 кб). Например, кнопки Twitter, Vkonakte, Facebook подключаются в виде iframe и несут в себе много кода. Один из выходов из этого положения, вариант размещения статических кнопок, т.е. просто графики с ссылкой, без счетчика. Или поставить один виджет, например [Share](http://api.yandex.ru/share/) от Яндекса.

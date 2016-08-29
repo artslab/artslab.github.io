@@ -23,7 +23,7 @@ tags:
   - поиск
 ---
 <center>
-  <img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/autocomplete_search_box.jpg" alt="подсказки в поисковой строке" title="autocomplete_search_box" width="306" height="200" class="alignnone size-full wp-image-3061" />
+  <img src="{{site.img_cdn}}/autocomplete_search_box.jpg" alt="подсказки в поисковой строке" title="autocomplete_search_box" width="306" height="200" class="alignnone size-full wp-image-3061" />
 </center>
 
 В очередной раз, я решил усовершенствовать внутренний поиск по сайту. Кроме [голосового поиска](http://artslab.info/wordpress/golosovoj-poisk-na-sajte/), мне захотелось добавить всплывающие подсказки в поисковое поле. Думал придется вручную искать код и редактировать тему, но нашел более простой вариант, для особо ленивых =) Оказывается всё уже давно придумали и реализовали в виде плагина &#8211; [Autocompleter](http://wordpress.org/extend/plugins/autocompleter/) (работает на jQuery Autocomplete Plugin). Плагин можно протестировать в моей поисковой форме, в шапке сайта. Стоит отметить, что в подсказках, сразу же отображается количество совпадений. Кроме этого можно указать, откуда должны браться эти самые подсказки: из категорий, тегов или заголовков постов/страниц.

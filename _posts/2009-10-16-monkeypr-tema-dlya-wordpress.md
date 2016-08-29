@@ -21,7 +21,7 @@ tags:
   - тема
 ---
 <p style="text-align: center;">
-  <a href="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/monkeypr_wordpress_theme.jpg"><img src="http://googledrive.com/host/0B9lHVSSSdxdxd0hjdUdmRzY3Tjg/monkeypr_wordpress_theme.jpg" alt="" title="monkeypr_wordpress_theme" width="371" height="198" class="alignnone size-full wp-image-818" /></a>
+  <a href="{{site.img_cdn}}/monkeypr_wordpress_theme.jpg"><img src="{{site.img_cdn}}/monkeypr_wordpress_theme.jpg" alt="" title="monkeypr_wordpress_theme" width="371" height="198" class="alignnone size-full wp-image-818" /></a>
 </p>
 
 Стильная темка для нашего любимого WordPress&#8217;a. <a href="http://monkeypr.ajansretro.com/demo" target="_blank">Демо</a> | <a href="http://monkeypr.ajansretro.com/" target="_blank">Скачать</a>
