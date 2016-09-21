@@ -19,6 +19,7 @@ tags:
   - google maps
   - ios
   - советы
+amp: false
 ---
 Многих интересует вопрос о том, как быстро скачать карту города/области на устройстве под управлением Android или iOS для просмотра в режиме оффлайн. Существуют отдельные качалки карт, а так же приложения основанные на других сервисах (например: <a href="https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&#038;hl=de" target="_blank">Maps.me</a> с источником OpenStreetMap). Но все на самом деле гораздо проще, так как функция для скачивания/кэширования доступна по умолчанию в приложений <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps&#038;hl=de" target="_blank">Google Maps</a>. Для того чтобы сохранить нужную вам часть карты, необходимо проделать следующее:
 
