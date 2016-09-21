@@ -79,7 +79,7 @@ layout: default
         sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
         resizable
         frameborder="0"
-        src="{{ page.url | prepend: '/disqus' | prepend: site.baseurl | prepend: site.alt_url }}">
+        src="https://s3.amazonaws.com/dangoldin.com/amp-disqus.html?url={{site.url}}{{page.url}}&disqus_name=https://artslab.disqus.com/embed.js">
         <div overflow tabindex="0" role="button" aria-label="Read more">Read more!</div>
       </amp-iframe>
     </section>
