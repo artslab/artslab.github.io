@@ -2,7 +2,9 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
   <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
-
+  {% if page.layout == 'post' %}
+  <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+  {% endif %}
 
   <meta charset="utf-8">
   <meta name="google-site-verification" content="QTliYGn3xtJ4OX_9fn4xv3S-f_1HDdgaQRFnRzDh8PY" />
@@ -17,7 +19,6 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <link type="text/css" rel="stylesheet" href="/assets/css/lightbox.min.css" />
 
   <script type="application/ld+json">
   {% include metadata.json %}
