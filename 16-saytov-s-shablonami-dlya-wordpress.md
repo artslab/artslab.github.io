@@ -10,7 +10,7 @@ prosmotr:
   - 145
 ---
 <p align="center">
-  <img src="http://artslab.info/wp-content/uploads/download_wordpress_templates.gif" alt="Сайты с шаблонами для WordPress" />
+  <img src="{{site.img_cdn}}/download_wordpress_templates.gif" alt="Сайты с шаблонами для WordPress" />
 </p>
 
 Пост будет полезен тем, кто только создал или собирается создать свой блог на WordPress и ищет шаблон для него. В этом посте я буду собирать все сайты на которых можно найти темы для этого движка.

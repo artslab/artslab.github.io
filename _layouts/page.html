@@ -12,5 +12,8 @@ layout: default
     </section>
   </article>
 </main>
+{% if page.amp != true %}
+  <script src="/assets/js/lightbox-plus-jquery.min.js"></script>
+{% endif %}
 
 {% include footer.html %}
