@@ -2,20 +2,25 @@
 <html ⚡ lang="en">
   {% include head.html %}
   <body>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <amp-analytics id="analytics_liveinternet">
+      <script type="application/json">
+        {
+          "requests": {
+            "pageview": "https://counter.yadro.ru/hit?u${ampdocUrl};r${documentReferrer};s${screenWidth}*${screenHeight}*32;${random}"
+          },
+          "triggers": {
+            "track pageview": {
+              "on": "visible",
+              "request": "pageview"
+            }
+          }
+        }
+      </script>
+    </amp-analytics>
+
     {% include header.html %}
 
     {{ content }}
-   <div class="is-hidden">
-    <!--LiveInternet counter--><script type="text/javascript"><!--
-      document.write("<a href='//www.liveinternet.ru/click' "+
-      "target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
-      escape(document.referrer)+((typeof(screen)=="undefined")?"":
-      ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-      screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-      ";"+Math.random()+
-      "' alt='' title='LiveInternet' "+
-      "border='0' width='31' height='31'><\/a>")
-      //--></script><!--/LiveInternet-->
-  </div>
   </body>
 </html>
