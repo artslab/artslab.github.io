@@ -804,3 +804,54 @@ body.lb-disable-scrolling {
     filter: alpha(Opacity=100);
     opacity: 1
 }
+
+
+.btn-send-email {
+  background: #fb5942;
+  border: 2px solid #b73a27;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 6px 20px;
+  font-size: 12px;
+}
+
+.contact-form-text {
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 150px;
+  font-size: 14px;
+  padding: 5px;
+  margin-top: 8px;
+}
+
+.contact-form-title {
+  border: 1px solid #ccc;
+  width: 100%;
+  font-size: 14px;
+  padding: 5px;
+}
+
+#contact-form {
+  margin-top: 5px;
+}
+
+#contact-form p {
+  padding-top: 5px;
+  margin-top: 2px;
+}
+
+#searchString {
+  width: 70%;
+  padding: 5px;
+  border-radius: 1px;
+  border: 1px solid #ccc;
+}
+
+#searchButton {
+  width: 20%;
+  border: 1px solid #fb5942;
+  border-radius: 1px;
+  background: #fb5942;
+  padding: 5px;
+  color: #fff;
+}
