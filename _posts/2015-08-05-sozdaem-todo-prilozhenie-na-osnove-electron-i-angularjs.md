@@ -2,6 +2,7 @@
 id: 8338
 title: Создаем ToDo-приложение на основе Electron и AngularJs
 date: 2015-08-05T18:03:09+00:00
+update_date: 2016-09-26 12:42:00
 author: serEga
 layout: post
 guid: http://artslab.info/?p=8338
@@ -20,11 +21,12 @@ tags:
   - javascript
   - material design
 ---
+
+Давно хотел познакомиться с <a href="https://github.com/atom/electron/" target="_blank">Electron</a>, платформой для создания десктопных приложений на основе веб-технологий, но до этого момента никак не доходили руки. Сегодня мы создадим небольшое ToDo-приложение и используем для этого JavaScript-фреймворк <a href="https://angularjs.org/" target="_blank">AngularJs</a> в связке с гугловским <a href="https://material.angularjs.org" target="_blank">Material Design’ом</a>. Код готового приложения доступен на <a href="https://github.com/4gray/electronTodoApp" target="_blank">Github</a>.
+
 <center>
   <a href="{{site.img_cdn}}/electron-todo-app.jpg" data-lightbox="img-1"><img src="{{site.img_cdn}}/electron-todo-app-300x234.jpg" alt="todo-приложения на основе electron и angularjs" class="aligncenter size-medium wp-image-8341" srcset="{{site.img_cdn}}/electron-todo-app-300x234.jpg 300w, {{site.img_cdn}}/electron-todo-app-900x702.jpg 900w, {{site.img_cdn}}/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
-
-Давно хотел познакомиться с <a href="https://github.com/atom/electron/" target="_blank">Electron</a>, платформой для создания десктопных приложений на основе веб-технологий, но до этого момента никак не доходили руки. Сегодня мы создадим небольшое ToDo-приложение и используем для этого JavaScript-фреймворк <a href="https://angularjs.org/" target="_blank">AngularJs</a> в связке с гугловским <a href="https://material.angularjs.org" target="_blank">Material Design’ом</a>. Код готового приложения доступен на <a href="https://github.com/4gray/electronTodoApp" target="_blank">Github</a>.
 
 <!--more-->
 

@@ -15,11 +15,12 @@ dsq_thread_id:
 categories:
   - prilozheniya-dlya-android
 ---
+
+Давно не обновлял MIUI на своем телефоне, а после последнего апдейта почему-то перестали работать модули Xtension. Именно, один из этих модулей отвечал за переключение песен с помощью качелек громкости. Из-за удобства постоянно пользуюсь этой функцией, так как не требуется лишний раз доставать телефон из кармана, разблокировать и переключать трек.
+
 <center>
   <a href="{{site.img_cdn}}/perekluchenie-pesen-knopkami-gromkosti.jpg"><img src="{{site.img_cdn}}/perekluchenie-pesen-knopkami-gromkosti-300x221.jpg" alt="переключение песен громкостью" class="aligncenter size-medium wp-image-8152" srcset="{{site.img_cdn}}/perekluchenie-pesen-knopkami-gromkosti-300x221.jpg 300w, {{site.img_cdn}}/perekluchenie-pesen-knopkami-gromkosti.jpg 793w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
-
-Давно не обновлял MIUI на своем телефоне, а после последнего апдейта почему-то перестали работать модули Xtension. Именно, один из этих модулей отвечал за переключение песен с помощью качелек громкости. Из-за удобства постоянно пользуюсь этой функцией, так как не требуется лишний раз доставать телефон из кармана, разблокировать и переключать трек.
 
 <!--more-->
 

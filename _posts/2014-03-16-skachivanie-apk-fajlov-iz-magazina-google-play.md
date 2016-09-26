@@ -18,9 +18,10 @@ tags:
   - android
   - онлайн сервис
 ---
-[<img class="aligncenter size-medium wp-image-8009" alt="загрузка apk файла из google play" src="{{site.img_cdn}}/skachat_apk_android-300x141.jpg" srcset="{{site.img_cdn}}/skachat_apk_android-300x141.jpg 300w, {{site.img_cdn}}/skachat_apk_android.jpg 787w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/skachat_apk_android.jpg)
 
 Часто бывает, что в связи с региональными ограничениями в Google Play становиться не возможным скачать нужное приложение из магазина. Первое, что приходит на ум в таком случае &#8211; это регистрация нового аккаунта с указанием требуемого региона. Безусловно, такой способ сработает, но существует и более простой вариант для того чтобы заполучить желаемое приложение.
+
+[<img class="aligncenter size-medium wp-image-8009" alt="загрузка apk файла из google play" src="{{site.img_cdn}}/skachat_apk_android-300x141.jpg" srcset="{{site.img_cdn}}/skachat_apk_android-300x141.jpg 300w, {{site.img_cdn}}/skachat_apk_android.jpg 787w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/skachat_apk_android.jpg)
 
 <!--more-->
 
