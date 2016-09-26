@@ -53,7 +53,7 @@ layout: default
 	{% if hasSimilar.size > 0 %}
 	    </ul>
 	{% endif %}
-    
+
     {% if site.comments %}
 
     <section class="post-comments" id="comments">
@@ -63,6 +63,7 @@ layout: default
         resizable
         frameborder="0"
         src="https://s3.amazonaws.com/dangoldin.com/amp-disqus.html?url={{site.url}}{{page.url}}&disqus_name=https://artslab.disqus.com/embed.js">
+        <div overflow tabindex="0" role="button" aria-label="Read more">Подробнее</div>
       </amp-iframe>
     </section>
 
