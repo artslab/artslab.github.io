@@ -99,12 +99,12 @@ body {
   @include box-sizing(border-box);
 
   .blog-title {
-    margin-bottom: 8px;
-    font-size: 50px;
+    margin-bottom: 0px;
+    font-size: 42px;
     font-weight: 700;
     letter-spacing: -2px;
     outline: 0;
-    line-height: 50px;
+    line-height: 42px;
     word-break: break-word;
     color: #333333;
   }
@@ -138,7 +138,7 @@ body {
       font-weight: 700;
       font-style: normal;
       display: block;
-      font-size: 36px;
+      font-size: 32px;
       line-height: 1.15;
       margin: 0 0;
       a {
@@ -203,7 +203,7 @@ body {
 
 .site-footer {
   margin: 0 auto;
-  padding: $rs * 3 0;
+  padding: 10px;
   width: 100%;
   max-width: 700px;
   font-size: $rs / 4 * 3;
@@ -289,7 +289,7 @@ body {
     p {
       font-weight: 400;
       font-style: normal;
-      font-size: 22px;
+      font-size: 18px;
       line-height: 1.59;
       letter-spacing: -.002em;
       margin-top: 30px;
@@ -344,14 +344,14 @@ body {
       }
     }
     ul, ol {
-      padding: 0 0 30px;
+      padding: 0 0 2px;
       margin: 0;
     }
     li {
       padding: 0;
       font-weight: 400;
       font-style: normal;
-      font-size: 23px;
+      font-size: 18px;
       line-height: 30px;
       margin-left: 30px;
       margin-bottom: 12px;
@@ -363,6 +363,10 @@ body {
     ol li {
       list-style-type: decimal;
     }
+  }
+  .published {
+    color: #bbb;
+    text-align: right;
   }
   .bottom-teaser {
     padding: 50px 0 0 0;
@@ -377,8 +381,7 @@ body {
       border-top: 1px solid #dddddd;
     }
     .isLeft {
-      float: left;
-      width: 55%;
+      width: 100%;
       @include box-sizing(border-box);
       @include respond-to(800) {
         width: 100%;
@@ -428,9 +431,6 @@ body {
         padding: 0;
         margin: 0;
         padding-left: 100px;
-        &.published {
-          color: #999999;
-        }
       }
     }
     .isRight {
@@ -500,8 +500,9 @@ code {
 }
 
 pre {
-  padding: 8px 12px;
+  padding: 0px 12px;
   overflow-x: scroll;
+  margin: 0;
   > code {
     border: 0;
     padding-right: 0;
@@ -854,4 +855,8 @@ body.lb-disable-scrolling {
   background: #fb5942;
   padding: 5px;
   color: #fff;
+}
+
+amp-img {
+  background-color: white;
 }

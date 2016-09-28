@@ -18,15 +18,23 @@ layout: default
       {{content}}
     </section>
 
+    <div class="published">
+      {% if page.update_date %}
+        Обновлено {% include date.html date=page.update_date %} -
+      {% endif %}
+        Опубликовано <time datetime="{{ page.date | date: "%F %R" }}">{% include date.html date=page.date %}</time>
+    </div>
+
     <footer class="post-footer">
       <section class="share">
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
-          Поделиться ссылкой 
+          Поделиться ссылкой
           {% include icon-twitter.html %}
-        </a> <a href="http://vk.com/share.php?url={{ site.url }}{{ page.id }}" target="_blank">Поделиться ВКонтакте</a>
+        </a> <a class="icon" href="http://vk.com/share.php?url={{ site.url }}{{ page.id }}" target="_blank">Поделиться ВКонтакте
+        {% include icon-vk.html %}</a>
       </section>
     </footer>
-    
+
     {% assign hasSimilar = '' %}
 	{% for post in site.related_posts %}
 	    {% assign postHasSimilar = false %}
@@ -34,7 +42,7 @@ layout: default
 	        {% for thisTag in page.tags %}
 	            {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
 	                {% if hasSimilar.size == 0 %}
-	                <h4>Similar Posts</h4>
+	                <h4>Похожие записи</h4>
 	                <ul>
 	                {% endif %}
 	                <li class="relatedPost">
@@ -54,7 +62,7 @@ layout: default
 	    </ul>
 	{% endif %}
 
-    {% if site.comments %}
+  {% if site.comments %}
 
     <section class="post-comments" id="comments">
       <amp-iframe
@@ -70,7 +78,7 @@ layout: default
   {% endif %}
     <div class="bottom-teaser cf">
       <div class="isLeft">
-        <h5 class="index-headline featured"><span>Written by</span></h5>
+        <h5 class="index-headline featured"><span>О сайте</span></h5>
         <section class="author">
           <div class="author-image"></div>
           <h4>{{ site.name }}</h4>
@@ -88,27 +96,34 @@ layout: default
                 {% include icon-twitter.html username=site.twitter_username %}
               {% endif %}
             </span>
+            <span>
+
+              <a href="http://vk.com/artslabinfo">{% include icon-vk.html %} artslabinfo</a>
+
+            </span>
           </p>
           <hr>
-          <p class="published">
-			{% if page.update_date %}
-				Обновлено {{ page.update_date | date_to_string }}<br />
-			{% endif %}
-          		Опубликовано <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-			</p>
+          <footer class="site-footer">
+            <section class="poweredby">Работает на <a href="http://jekyllrb.com"> Jekyll</a></section>
+            <!-- and <a href="https://github.com/ageitgey/amplify">Amplify</a></section> -->
+            <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Подписаться на ленту RSS</span></a>
+            <div class="inner">
+              <section class="copyright"><a href="/contact">{{site.name}}</a> &copy; 2006-{{ site.time | date: '%Y' }}</section>
+            </div>
+          </footer>
         </section>
       </div>
       {{/post}}
-      <div class="isRight">
-        <h5 class="index-headline featured"><span>Supported by</span></h5>
+      <!-- <div class="isRight">
+        <h5 class="index-headline featured"><span>Copyright</span></h5>
         <footer class="site-footer">
-          <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify">Amplify</a></section>
-          <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+          <section class="poweredby">Работает на <a href="http://jekyllrb.com"> Jekyll</a></section>
+          <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Подписаться на ленту RSS</span></a>
           <div class="inner">
-            <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+            <section class="copyright"><a href="/contact">{{site.name}}</a> &copy; 2006-{{ site.time | date: '%Y' }}</section>
           </div>
         </footer>
-      </div>
+      </div> -->
     </div>
   </article>
 </main>
