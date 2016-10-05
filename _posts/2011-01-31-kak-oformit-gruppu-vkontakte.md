@@ -6,14 +6,11 @@ author: serEga
 layout: post
 guid: http://artslab.info/?p=1464
 permalink: /stati/kak-oformit-gruppu-vkontakte/
-ljID:
-  - 307
+update_date: 2016-10-05 18:40:00
 prosmotr:
   - 6055
 cover:
   - 5907
-wpb_post_views_count:
-  - 14891
 dsq_thread_id:
   - 1563350185
 ratings_users:
@@ -27,7 +24,6 @@ categories:
 tags:
   - vkontakte
   - дизайн
-  - оформление
 ---
 <center>
   <a href="{{site.img_cdn}}/kak_oformit_gruppu_vkontakte.jpg"><img src="{{site.img_cdn}}/kak_oformit_gruppu_vkontakte-300x136.jpg" alt="оформляем группу вконтакте" title="kak_oformit_gruppu_vkontakte" width="300" height="136" class="alignnone size-medium wp-image-1465" srcset="{{site.img_cdn}}/kak_oformit_gruppu_vkontakte-300x136.jpg 300w, {{site.img_cdn}}/kak_oformit_gruppu_vkontakte.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -40,19 +36,19 @@ tags:
 **UPDATE: Так как тема оказалась, довольно-таки популярнои и нужной, решил сделать видео-версию инструкций по оформлению группы:**
 
 <center>
+<amp-youtube
+    data-videoid="rJ7bDX9HPAY"
+    layout="responsive"
+    width="480" height="270"></amp-youtube>
 </center>
-
 Итак, допустим у нас есть группа на сайте ВКонтакте и мы только что нарисовали дизайн, который необходимо разместить на странице группы.
-
-
-
 
 
 Так как для посетителей своего блога, я уже когда-то создавал группу, то для примера и займемся ее оформлением. При разработке дизайна стоить знать одну главную вещь, ширина всего оформления **не должна превышать 370 пикселей**. Иначе картинки просто напросто не влезут в блок &#8220;Свежих новостей&#8221; вконтакте.
 
-Ну чтож приступим =)
+Ну что-же приступим =)
 
-У нас есть дизайн:
+Допустим, у нас уже есть готовый дизайн меню, который мы хотим использовать ВК:
 
 <center>
   <a href="{{site.img_cdn}}/design_gruppi_vkontakte1.jpg"><img src="{{site.img_cdn}}/design_gruppi_vkontakte1-300x283.jpg" alt="оформляем дизайн группы вконтакте" title="design_gruppi_vkontakte1" width="300" height="283" class="alignnone size-medium wp-image-1466" srcset="{{site.img_cdn}}/design_gruppi_vkontakte1-300x283.jpg 300w, {{site.img_cdn}}/design_gruppi_vkontakte1.jpg 433w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -110,21 +106,17 @@ tags:
 
 Вот что получилось у меня:
 
-> [[photo-880171_215099743|370x61px;nolink;noborder;nopadding|Группа ArtsLab.info]]
+{% highlight html linenos %}
+  [[photo-880171_215099743|370x61px;nolink;noborder;nopadding|Группа ArtsLab.info]]
+  [[photo-880171_215099744|370x37px;noborder;nopadding;|http://artslab.info]]
+  [[photo-880171_215099745|370x34px;noborder;nopadding|http://vk.com/page-880171_44194106]]
+  [[photo-880171_215099797|370x38px;noborder;nopadding|http://vk.com/album-880171_8008249]]
+  [[photo-880171_215099798|370x38px;noborder;nopadding|http://artslab.info/feedback/]]
+  [[photo-880171_215099799|370x32px;noborder;nopadding|http://vk.com/write749075]]
+  [[photo-880171_215099914|370x84px;noborder;nopadding|Группа ArtsLab.info]]
+{% endhighlight %}
 
-> [[photo-880171_215099744|370x37px;noborder;nopadding;|http://artslab.info]]
-
-> [[photo-880171\_215099745|370x34px;noborder;nopadding|http://vk.com/page-880171\_44194106]]
-
-> [[photo-880171\_215099797|370x38px;noborder;nopadding|http://vk.com/album-880171\_8008249]]
-
-> [[photo-880171_215099798|370x38px;noborder;nopadding|http://artslab.info/feedback/]]
-
-> [[photo-880171_215099799|370x32px;noborder;nopadding|http://vk.com/write749075]]
-
-> [[photo-880171_215099914|370x84px;noborder;nopadding|Группа ArtsLab.info]]
-
-_PS: Желаю удачи и красивых групп. В случае возникновения вопросов или проблем, пишите в комментарий. Так же не стесняйтесь оставлять здесь Ваши варианты оформлении._
+_PS: Желаю удачи и красивых групп. В случае возникновения вопросов или проблем, пишите в комментарий. Так же не стесняйтесь оставлять здесь Ваши варианты оформлений._
 
 * * *
 
@@ -154,23 +146,19 @@ _PS: Желаю удачи и красивых групп. В случае во�
 
 Для него мы используем следующий код:
 
-> [[photo-880171_288584927|370x179px;noborder;nolink;nopadding|Группа ArtsLab.info]]
-
-> [[photo-880171_288584928|370x50px;noborder;nopadding|http://artslab.info]]
-
-> [[photo-35539675\_292485703|370x50px;noborder;nopadding|http://vk.com/page-880171\_44194106]]
-
-> [[photo-880171\_288584931|370x50px;noborder;nopadding|http://vk.com/album-880171\_154583751]]
-
-> [[photo-880171_288584933|370x50px;noborder;nopadding|http://artslab.info/feedback/]]
-
-> [[photo-880171_288584935|370x50px;noborder;nopadding|http://artslab.info/contact/]]
-
-> [[photo-880171_288584936|370x54px;noborder;nolink;nopadding|Группа сайта Artslab.info]]
+{% highlight html linenos %}
+  [[photo-880171_288584927|370x179px;noborder;nolink;nopadding|Группа ArtsLab.info]]
+  [[photo-880171_288584928|370x50px;noborder;nopadding|http://artslab.info]]
+  [[photo-35539675_292485703|370x50px;noborder;nopadding|http://vk.com/page-880171_44194106]]
+  [[photo-880171_288584931|370x50px;noborder;nopadding|http://vk.com/album-880171_154583751]]
+  [[photo-880171_288584933|370x50px;noborder;nopadding|http://artslab.info/feedback/]]
+  [[photo-880171_288584935|370x50px;noborder;nopadding|http://artslab.info/contact/]]
+  [[photo-880171_288584936|370x54px;noborder;nolink;nopadding|Группа сайта Artslab.info]]
+{% endhighlight %}
 
 Заметьте, в одном месте мы ссылаемся на новую страницу, где теперь и создадим подменю. На этой странице будет размещена отдельная информация, а так же здесь мы будем ссылаться на остальные страницы с отдельными тремя категориями.
 
-> Чтобы создать новую страницу в группе, необходимо использовать данный код: **[[Новая страница|Название страницы]]**. Чтобы узнать ID новой страницы, нужно перейти на нее, кликнув по ссылке в предпросмотре и нажать на кнопку редактирования. Теперь ID-страницы можно скопировать из адресной строки браузера (например, page-880171_44194001)
+Чтобы создать новую страницу в группе, необходимо использовать данный код: **[[Новая страница|Название страницы]]**. Чтобы узнать ID новой страницы, нужно перейти на нее, кликнув по ссылке в предпросмотре и нажать на кнопку редактирования. Теперь ID-страницы можно скопировать из адресной строки браузера (например, page-880171_44194001)
 
 Итак, страница с категориями имеет следующий вид:
 
@@ -180,15 +168,13 @@ _PS: Желаю удачи и красивых групп. В случае во�
 
 Код страницы: (ссылки на новые страницы, я не стал прописывать)
 
-> [[photo-35539675_292485563|370x179px;noborder;nolink;nopadding|Группа ArtsLab.info]]
-
-> [[photo-35539675_292485558|370x50px;noborder;nopadding|http://vk.com/#]]
-
-> [[photo-35539675_292485559|370x50px;noborder;nopadding|http://vk.com/#]]
-
-> [[photo-35539675_292485560|370x50px;noborder;nopadding|http://vk.com/#]]
-
-> [[photo-35539675_292485562|370x50px;noborder;nolink;nopadding|группа сайта artslab.info]]
+{% highlight html linenos %}
+  [[photo-35539675_292485563|370x179px;noborder;nolink;nopadding|Группа ArtsLab.info]]
+  [[photo-35539675_292485558|370x50px;noborder;nopadding|http://vk.com/#]]
+  [[photo-35539675_292485559|370x50px;noborder;nopadding|http://vk.com/#]]
+  [[photo-35539675_292485560|370x50px;noborder;nopadding|http://vk.com/#]]
+  [[photo-35539675_292485562|370x50px;noborder;nolink;nopadding|группа сайта artslab.info]]
+{% endhighlight %}
 
 Я думаю на этом можно останавливаться, принцип должен быть ясен. Таким образом мы создали вложенную страницу со своим собственным меню.
 
@@ -202,7 +188,9 @@ _PS: Желаю удачи и красивых групп. В случае во�
 
 Для того чтобы создать такую страницу необоходимо воспользоваться подобной ссылкой:
 
-> http://vk.com/artslabinfo?w=page-880171_44194001
+{% highlight html %}
+  http://vk.com/artslabinfo?w=page-880171_44194001
+{% endhighlight %}
 
 Не забудьте изменить id-страницы и группы из примера на собственные.
 
@@ -218,42 +206,48 @@ _PS: Желаю удачи и красивых групп. В случае во�
 
 Спойлер представляет из себя закрытый блок, содержание которого появляется только после клика по его заголовку. Создать такой спойлер довольно-таки просто, для этого необходимо воспользоваться следующим кодом:
 
-> {{Hider|Заголовок спойлера
-
-> Содержание спойлера
-
-> }}
+{% highlight html %}
+  {{Hider|Заголовок спойлера
+    Содержание спойлера
+  }}
+{% endhighlight %}
 
 ### Как создать раскрытое меню и закрепить его в верней части группы/сообщества
 
-Видеоверсия описания:
+__Видеоверсия описания__:
 
 <center>
+  <amp-youtube
+      data-videoid="3HK0eQyg8Tc"
+      layout="responsive"
+      width="480" height="270"></amp-youtube>
 </center>
 
 Пожалуй один из самых часто задаваемых вопросов за последнее время. Дело в том, что многие популярные группы Вконтакте в последнее время закрепляют новость с картинкой меню в шапке группы, и прикрепляют ссылку на страницу с меню. И у многих пользователей появляется вопрос, как добиться такого же результата. На самом деле все просто.
 
 1. Допустим, у нас есть готовое меню вынесенное на отдельную страницу, например: http://vk.com/artslabinfo?w=page-880171_44194106
 
-То есть, меню находиться **не** в шапке c новостями группы, а на отдельной странице. Для того чтобы создать новую страницу воспользуйтесь кодом **[[Новая страница|Название страницы]]**. Теперь вставим код меню на созданную страницу и скопируем ее id, для того чтобы у нас получилась такая ссылка:
+  То есть, меню находиться **не** в шапке c новостями группы, а на отдельной странице. Для того чтобы создать новую страницу воспользуйтесь кодом **[[Новая страница|Название страницы]]**. Теперь вставим код меню на созданную страницу и скопируем ее id, для того чтобы у нас получилась такая ссылка:
 
-> http://vk.com/**моягруппа**?w=page-**айди-страницы**
+  {% highlight html %}
+    http://vk.com/**моягруппа**?w=page-**айди-страницы**
+  {% endhighlight %}
 
-<center>
-  <a href="{{site.img_cdn}}/menu.png"><img src="{{site.img_cdn}}/menu-300x124.png" alt="создаем новую страницу вк" class="aligncenter size-medium wp-image-7341" srcset="{{site.img_cdn}}/menu-300x124.png 300w, {{site.img_cdn}}/menu.png 937w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
+  <center>
+    <a href="{{site.img_cdn}}/menu.png"><img src="{{site.img_cdn}}/menu-300x124.png" alt="создаем новую страницу вк" class="aligncenter size-medium wp-image-7341" srcset="{{site.img_cdn}}/menu-300x124.png 300w, {{site.img_cdn}}/menu.png 937w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  </center>
 
 2. Создадим новую запись в группе и вставим в нее нашу ссылку из предыдущего шага. В качестве картинки прикрепим небольшой скриншот, кликнув по которому и будет открываться наше меню. Публикуем!
 
-<center>
-  <a href="{{site.img_cdn}}/dobavit_menu_v_shapku_grupi.png"><img src="{{site.img_cdn}}/dobavit_menu_v_shapku_grupi-153x300.png" alt="закрепить меню сверху в группе" class="aligncenter size-medium wp-image-7319" srcset="{{site.img_cdn}}/dobavit_menu_v_shapku_grupi-153x300.png 153w, {{site.img_cdn}}/dobavit_menu_v_shapku_grupi.png 408w" sizes="(max-width: 153px) 100vw, 153px" /></a>
-</center>
+  <center>
+    <a href="{{site.img_cdn}}/dobavit_menu_v_shapku_grupi.png"><img src="{{site.img_cdn}}/dobavit_menu_v_shapku_grupi-153x300.png" alt="закрепить меню сверху в группе" class="aligncenter size-medium wp-image-7319" srcset="{{site.img_cdn}}/dobavit_menu_v_shapku_grupi-153x300.png 153w, {{site.img_cdn}}/dobavit_menu_v_shapku_grupi.png 408w" sizes="(max-width: 153px) 100vw, 153px" /></a>
+  </center>
 
 3. Кликаем по дате публикаций нашей записи и затем нажимаем по ссылке &#8220;Закрепить&#8221;. Обновляем страницу группы. Наслаждаемся результатом.
 
-<center>
-  <a href="{{site.img_cdn}}/redaktirovat_post.png"><img src="{{site.img_cdn}}/redaktirovat_post-295x300.png" alt="закрепить запись VK" class="aligncenter size-medium wp-image-7320" srcset="{{site.img_cdn}}/redaktirovat_post-295x300.png 295w, {{site.img_cdn}}/redaktirovat_post.png 413w" sizes="(max-width: 295px) 100vw, 295px" /></a><br /> <a href="{{site.img_cdn}}/grupa_vk_design.png"><img src="{{site.img_cdn}}/grupa_vk_design-300x169.png" alt="menu vkontakte" class="aligncenter size-medium wp-image-7321" srcset="{{site.img_cdn}}/grupa_vk_design-300x169.png 300w, {{site.img_cdn}}/grupa_vk_design.png 796w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
+  <center>
+    <a href="{{site.img_cdn}}/redaktirovat_post.png"><img src="{{site.img_cdn}}/redaktirovat_post-295x300.png" alt="закрепить запись VK" class="aligncenter size-medium wp-image-7320" srcset="{{site.img_cdn}}/redaktirovat_post-295x300.png 295w, {{site.img_cdn}}/redaktirovat_post.png 413w" sizes="(max-width: 295px) 100vw, 295px" /></a><br /> <a href="{{site.img_cdn}}/grupa_vk_design.png"><img src="{{site.img_cdn}}/grupa_vk_design-300x169.png" alt="menu vkontakte" class="aligncenter size-medium wp-image-7321" srcset="{{site.img_cdn}}/grupa_vk_design-300x169.png 300w, {{site.img_cdn}}/grupa_vk_design.png 796w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  </center>
 
 ### Готовые меню с кодом
 
@@ -261,26 +255,30 @@ _PS: Желаю удачи и красивых групп. В случае во�
 
 1. [Деревянная полочка &#8211; меню в стиле iBooks](http://artslab.info/menu-design-vkonakte/oformlenie-menyu-dlya-gruppy-vkontakte-1/ "Оформление меню для группы ВКонтакте #1")
 
-<center>
-  <img src="{{site.img_cdn}}/menu_iz_dereva_vk.jpg" alt="бесплатное меню для VK" class="aligncenter size-medium wp-image-6627" srcset="{{site.img_cdn}}/menu_iz_dereva_vk.jpg 370w, {{site.img_cdn}}/menu_iz_dereva_vk-300x243.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />
-</center>
+  <center>
+    <img src="{{site.img_cdn}}/menu_iz_dereva_vk.jpg" alt="бесплатное меню для VK" class="aligncenter size-medium wp-image-6627" srcset="{{site.img_cdn}}/menu_iz_dereva_vk.jpg 370w, {{site.img_cdn}}/menu_iz_dereva_vk-300x243.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />
+  </center>
 
 2. [Выпадающее меню](http://artslab.info/menu-design-vkontakte/dizajn-menyu-dlya-gruppy-vkontakte-2/)
 
-<center>
-  <a href="{{site.img_cdn}}/menu_dlya_vk.jpg"><img src="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" srcset="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg 300w, {{site.img_cdn}}/menu_dlya_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
+  <center>
+    <a href="{{site.img_cdn}}/menu_dlya_vk.jpg"><img src="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" srcset="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg 300w, {{site.img_cdn}}/menu_dlya_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  </center>
 
 3. Плоское [меню в стиле Metro](http://artslab.info/menu-design-vkontakte/menyu-dlya-gruppy-vkontakte-v-stile-metro-3/)
 
-[<img src="{{site.img_cdn}}/vk_menu_metro_style.jpg" alt="меню в стиле metro ui" class="aligncenter size-full wp-image-7031" srcset="{{site.img_cdn}}/vk_menu_metro_style.jpg 370w, {{site.img_cdn}}/vk_menu_metro_style-236x300.jpg 236w" sizes="(max-width: 370px) 100vw, 370px" />]({{site.img_cdn}}/vk_menu_metro_style.jpg)
+  <center>
+    [<img src="{{site.img_cdn}}/vk_menu_metro_style.jpg" alt="меню в стиле metro ui" class="aligncenter size-full wp-image-7031" srcset="{{site.img_cdn}}/vk_menu_metro_style.jpg 370w, {{site.img_cdn}}/vk_menu_metro_style-236x300.jpg 236w" sizes="(max-width: 370px) 100vw, 370px" />]({{site.img_cdn}}/vk_menu_metro_style.jpg)
+  </center>
 
 4. [Dark Style Menu](http://artslab.info/menu-design-vkontakte/menyu-dlya-gruppy-vkontakte-dark-style-menu-4/)
 
-[<img src="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg" alt="темное меню для вконтакте" class="aligncenter size-medium wp-image-8017" srcset="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg 300w, {{site.img_cdn}}/dark_style_menu_vk.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/dark_style_menu_vk.jpg)
+  <center>
+    [<img src="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg" alt="темное меню для вконтакте" class="aligncenter size-medium wp-image-8017" srcset="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg 300w, {{site.img_cdn}}/dark_style_menu_vk.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/dark_style_menu_vk.jpg)
+  </center>
 
 5. [Меню для групп о спорте](http://artslab.info/menu-design-vkontakte/menyu-dlya-sportivnyx-grup-vkontakte/ "Меню для спортивных групп ВКонтакте")
 
-<center>
-  <a href="{{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg"><img src="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg" alt="меню для группы вконтакте" class="size-medium wp-image-8090" srcset="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg 208w, {{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<a href="{{site.img_cdn}}/chelsea-sport-menu.jpg"><img src="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg" alt="меню vk" class="size-medium wp-image-8091" srcset="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg 208w, {{site.img_cdn}}/chelsea-sport-menu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>
-</center>
+  <center>
+    <a href="{{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg"><img src="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg" alt="меню для группы вконтакте" class="size-medium wp-image-8090" srcset="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg 208w, {{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<a href="{{site.img_cdn}}/chelsea-sport-menu.jpg"><img src="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg" alt="меню vk" class="size-medium wp-image-8091" srcset="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg 208w, {{site.img_cdn}}/chelsea-sport-menu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>
+  </center>
