@@ -4,9 +4,9 @@
   <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
   <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-  <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
   <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
   {% if page.layout == 'post' %}
+  <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
   <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
   {% endif %}
 
@@ -14,13 +14,21 @@
   <meta name="google-site-verification" content="QTliYGn3xtJ4OX_9fn4xv3S-f_1HDdgaQRFnRzDh8PY" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
-  <meta name="description" content="ArtsLab - это блог для тех, кто интересуется разработкой сайтов, веб-дизайном и следит за развитием интернета. В моем блоге Вы найдете публикаций на различные">
-  <meta name="keywords" content="веб-дизайн, web-design, photoshop, android, google chrome, wordpress, веб-разработка, cms, web-dev, javascript, ios, angularjs">
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+  {% else %}
+    <meta name="description" content="ArtsLab - новости и советы из мира веб-разработки, дизайна и программирования. Посты на околокомпьютерные темы, а так же обзоры интересных находок интернета.">
+  {% endif %}
+  {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}" />
+  {% else %}
+    <meta name="keywords" content="веб-дизайн, web design, photoshop, android, google chrome, wordpress, веб-разработка, cms, web-dev, javascript, ios, angularjs, front-end, css, html, программирование, php" />
+  {% endif %}
   <meta name="theme-color" content="#db5945">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
+  <link rel="author" href="https://plus.google.com/+СергейЧиграй"/>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
