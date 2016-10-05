@@ -10,7 +10,7 @@ layout: default
   </header>
 
   <div id="search">
-    <form role="search" method="get" action="{{site.baseurl}}/search/">
+    <form role="search" method="get" action="http://artslab.info/search/">
       <input id="searchString" name="searchString" placeholder="Поиск по сайту" type="text" />
       <input id="searchButton" name="googleSearchName" type="submit" value="Search" />
     </form>
@@ -48,7 +48,7 @@ layout: default
         <a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Вперед &rarr;</a>
       {% endif %}
     {% else %}
-      <a class="older-posts disabled"Вперед &rarr;</a>
+      <a class="older-posts disabled">Вперед &rarr;</a>
     {% endif %}
   </nav>
 
