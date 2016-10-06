@@ -19,9 +19,9 @@ ratings_score:
 ratings_average:
   - 5
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - плагин
 ---
 <center>

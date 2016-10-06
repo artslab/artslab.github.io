@@ -17,11 +17,11 @@ cover:
 dsq_thread_id:
   - 1565020074
 categories:
-  - Для Wordpress
+  - wordpress
   - shablonyi
 tags:
   - template
-  - Для Wordpress
+  - wordpress
   - shablonyi
 ---
 <p style="text-align: center;">

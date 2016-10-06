@@ -17,11 +17,11 @@ cover:
 dsq_thread_id:
   - 1565024655
 categories:
-  - Для Wordpress
+  - wordpress
   - shablonyi
 tags:
   - themes
-  - Для Wordpress
+  - wordpress
   - shablonyi
 ---
 <center>

@@ -19,9 +19,9 @@ ratings_score:
 ratings_average:
   - 5
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - тема
 ---
 Последний раз я делился <a href="http://artslab.info/wordpress/10-besplatnyx-adaptivnyx-tem-dlya-wordpress/" target="_blank">10 адаптивными темами</a> еще в начале этого года. За это время появилось немало новых и достойных тем, поэтому думаю что пришло время для свежей подборки тем для WordPress.

@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564126900
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
 ---
 <p style="text-align: center;">
   <a href="{{site.img_cdn}}/archiv.png"><img src="{{site.img_cdn}}/archiv-300x300.png" alt="архив новостей блога" title="archiv" width="300" height="300" class="aligncenter size-medium wp-image-4990" srcset="{{site.img_cdn}}/archiv-300x300.png 300w, {{site.img_cdn}}/archiv-100x100.png 100w, {{site.img_cdn}}/archiv-150x150.png 150w, {{site.img_cdn}}/archiv.png 713w" sizes="(max-width: 300px) 100vw, 300px" /></a>

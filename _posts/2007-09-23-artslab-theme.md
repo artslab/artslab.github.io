@@ -21,7 +21,7 @@ categories:
 tags:
   - artslab
   - theme
-  - Для Wordpress
+  - wordpress
   - шаблон
 ---
 <center>

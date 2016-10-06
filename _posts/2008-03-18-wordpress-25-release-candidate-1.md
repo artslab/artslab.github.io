@@ -16,12 +16,11 @@ dsq_thread_id:
   - 1565018188
 categories:
   - skriptyi
+  - wordpress
 tags:
   - CMS
-  - script
-  - движок
-  - Для Wordpress
-  - скрипт
+  - scripts
+  - wordpress
 ---
 <p style="text-align: center">
   <img src="http://wpcom.wordpress.com/files/2008/03/nav-wide.png" title="новая версия wordpress rc1 2.5 скачать" alt="новая версия wordpress rc1 2.5 скачать" border="0" height="106" width="555" />

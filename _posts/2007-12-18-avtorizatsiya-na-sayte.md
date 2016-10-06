@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023474
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - Хаки
 ---
 <p STYLE="text-align: center">
@@ -27,11 +27,11 @@ tags:
 Небольшой хак, позволяющий сделать авторизационную форму на самом сайте, а не на отдельной странице как у Вордпресса по умолчанию.
 
 **Установка:**
-  
+
 1. Скачиваем архив
-  
+
 2. Размещаем login.php в wp-content\themes\ваша тема&#8230;
-  
+
 3. В место, где должна располагаться авторизация, добавляем код в текстовом файле code.txt
 
 <p ALIGN="center">

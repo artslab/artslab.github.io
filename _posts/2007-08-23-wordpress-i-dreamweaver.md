@@ -15,13 +15,13 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565014963
 categories:
-  - Для Wordpress
+  - wordpress
   - Программы
 tags:
   - dreamweaver
   - templates
   - themes
-  - Для Wordpress
+  - wordpress
 ---
 <p style="text-align: center">
   <img src="{{site.img_cdn}}/wordpress-dw-extension.png" title="dreamweaver extension" alt="dreamweaver extension" border="1" height="52" width="415" />

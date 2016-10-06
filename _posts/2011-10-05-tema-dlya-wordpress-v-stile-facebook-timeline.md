@@ -13,10 +13,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021028
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - facebook
-  - Для Wordpress
+  - wordpress
   - тема
   - шаблон
 ---

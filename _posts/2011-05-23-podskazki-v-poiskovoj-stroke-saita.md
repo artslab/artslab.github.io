@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016068
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - jquery
-  - Для Wordpress
+  - wordpress
   - плагин
   - поиск
 ---

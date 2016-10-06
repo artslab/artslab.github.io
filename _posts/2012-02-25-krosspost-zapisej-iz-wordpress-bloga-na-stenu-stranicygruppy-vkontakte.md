@@ -13,10 +13,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564443952
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - vkontakte
-  - Для Wordpress
+  - wordpress
   - плагин
 ---
 <center>

@@ -23,7 +23,7 @@ categories:
 tags:
   - photoshop
   - vector
-  - Для Wordpress
+  - wordpress
   - кисти
   - фотошоп
 ---

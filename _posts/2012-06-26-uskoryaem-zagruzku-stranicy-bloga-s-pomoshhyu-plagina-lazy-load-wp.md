@@ -13,9 +13,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565018915
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - оптимизация
   - плагин
 ---

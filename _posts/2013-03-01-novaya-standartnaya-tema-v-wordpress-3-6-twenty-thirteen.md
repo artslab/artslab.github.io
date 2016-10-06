@@ -13,10 +13,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563713965
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - дизайн
-  - Для Wordpress
+  - wordpress
 ---
 Новая версия WordPress 3.6 еще не вышла, но уже стало известно что в ней пользователей ожидает новая стандартная тема. Более того, на тему можно посмотреть уже сейчас.
 Встречайте &#8211; [Twenty Thirteen](http://twentythirteendemo.wordpress.com/)

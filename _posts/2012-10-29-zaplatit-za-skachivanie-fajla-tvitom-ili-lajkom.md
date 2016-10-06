@@ -13,9 +13,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1589205749
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - социальные сети
 ---
 <center>

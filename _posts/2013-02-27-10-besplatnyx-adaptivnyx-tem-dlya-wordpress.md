@@ -13,10 +13,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1571754933
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - дизайн
-  - Для Wordpress
+  - wordpress
   - темы
 ---
 <center>

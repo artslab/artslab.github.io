@@ -18,10 +18,10 @@ dsq_thread_id:
   - 1565024080
 categories:
   - Все для Google Chrome
-  - Для Wordpress
+  - wordpress
 tags:
   - google chrome
-  - Для Wordpress
+  - wordpress
   - поиск
   - скрипт
   - сниппет

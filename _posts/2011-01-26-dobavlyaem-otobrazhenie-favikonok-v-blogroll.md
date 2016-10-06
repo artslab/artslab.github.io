@@ -15,11 +15,11 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1632158566
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - favicon
   - plugin
-  - Для Wordpress
+  - wordpress
 ---
 <center>
   <a href="{{site.img_cdn}}/blogroll_with_favicons1.jpg"><img src="{{site.img_cdn}}/blogroll_with_favicons1.jpg" alt="блогролл с фавиконкам" title="blogroll_with_favicons" width="295" height="262" class="alignnone size-full wp-image-1337" /></a>

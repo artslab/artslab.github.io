@@ -15,12 +15,12 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564271650
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - openapi
   - plugin
   - vkontakte
-  - Для Wordpress
+  - wordpress
 ---
 <p style="text-align: center;">
   <a href="{{site.img_cdn}}/loginza.png"><img src="{{site.img_cdn}}/loginza-283x300.png" alt="vkontakte openApi wordpress" title="loginza" width="283" height="300" class="size-medium wp-image-574" /></a>

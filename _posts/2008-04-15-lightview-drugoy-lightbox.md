@@ -19,7 +19,7 @@ categories:
 tags:
   - js
   - lightbox
-  - Для Wordpress
+  - wordpress
   - скрипт
 ---
 <p style="text-align: center;">

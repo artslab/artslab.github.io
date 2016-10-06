@@ -16,7 +16,7 @@ categories:
   - snippety
 tags:
   - php
-  - Для Wordpress
+  - wordpress
 ---
 <center>
   <a href="{{site.img_cdn}}/sluchainie_zapisi_wordpress.png"><img src="{{site.img_cdn}}/sluchainie_zapisi_wordpress.png" alt="сниппеты для wordpress" class="aligncenter wp-image-7479" srcset="{{site.img_cdn}}/sluchainie_zapisi_wordpress.png 355w, {{site.img_cdn}}/sluchainie_zapisi_wordpress-300x186.png 300w" sizes="(max-width: 355px) 100vw, 355px" /></a>

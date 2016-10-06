@@ -13,9 +13,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 2082941503
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
 ---
 Иногда бывает необходимо выделить какую-то определенную новость на сайте и закрепить ее на самом верху, перед другими записями.
 

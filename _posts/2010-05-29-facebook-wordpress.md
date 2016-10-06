@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565019533
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - facebook
-  - Для Wordpress
+  - wordpress
   - плагины
 ---
 [Facebook](http://facebook.com) последнее время становится все популярнее и популярнее в рунете, в связи с этим хотел бы представить парочку самых нужных плагинов для связки известнейшей социальной сети с WordPress&#8217;ом.

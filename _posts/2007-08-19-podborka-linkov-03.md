@@ -24,7 +24,7 @@ tags:
   - psd
   - vista
   - Web 2.0
-  - Для Wordpress
+  - wordpress
 ---
 <center>
   <a href="{{site.img_cdn}}/photoshop_text_effects.jpg"><img src="{{site.img_cdn}}/photoshop_text_effects-300x196.jpg" alt="" title="photoshop_text_effects" width="300" height="196" class="alignnone size-medium wp-image-961" /></a>

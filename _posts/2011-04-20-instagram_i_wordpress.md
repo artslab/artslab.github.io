@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565478581
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - instagram
-  - Для Wordpress
+  - wordpress
   - плагины
 ---
 О [&#8220;фото-твиттере&#8221; Instagram](http://artslab.info/2010/10/instagram-fotoset-dlya-vladeltsev-iphone-pereklichka/) для iPhone/iPad/iPod я уже писал в [отдельном посте](http://artslab.info/2010/10/instagram-fotoset-dlya-vladeltsev-iphone-pereklichka/). За время своего существования приложение многократно обновилось, были добавлены новые фильтры, а также введены новые функций в интерфейс программы. В общем, пользоваться приложением стало еще приятней.

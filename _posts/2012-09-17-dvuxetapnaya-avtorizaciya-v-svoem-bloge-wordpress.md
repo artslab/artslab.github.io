@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016275
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - google
-  - Для Wordpress
+  - wordpress
   - плагин
 ---
 <center>

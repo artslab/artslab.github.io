@@ -19,7 +19,7 @@ dsq_thread_id:
 categories:
   - shablonyi
 tags:
-  - Для Wordpress
+  - wordpress
   - оформление
   - шаблон
 ---

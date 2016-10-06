@@ -21,7 +21,7 @@ tags:
   - блог
   - движки
   - движок
-  - Для Wordpress
+  - wordpress
 ---
 <p STYLE="text-align: center">
   <img SRC="{{site.img_cdn}}/wordpress.jpg" ALT="Wordpress 2.5 stable скачать" />

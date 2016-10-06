@@ -17,11 +17,11 @@ cover:
 dsq_thread_id:
   - 1565021034
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - android
   - iphone
-  - Для Wordpress
+  - wordpress
   - плагин
 ---
 [<img src="{{site.img_cdn}}/mobilnaya_versiya_saita-300x195.jpg" alt="mobilnaya_versiya_saita" class="aligncenter size-medium wp-image-6809" srcset="{{site.img_cdn}}/mobilnaya_versiya_saita-300x195.jpg 300w, {{site.img_cdn}}/mobilnaya_versiya_saita.jpg 822w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/mobilnaya_versiya_saita.jpg)

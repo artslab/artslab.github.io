@@ -24,7 +24,7 @@ tags:
   - psd
   - signature
   - winamp
-  - Для Wordpress
+  - wordpress
 ---
 <p style="text-align: center">
   <img src="{{site.img_cdn}}/iphone_home.jpg" alt="обои, иконки, скины в стиле iphone" />

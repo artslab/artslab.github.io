@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565020749
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - тема
 ---
 <p style="text-align: center;">

@@ -13,9 +13,9 @@ cover:
 dsq_thread_id:
   - 1572935978
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - плагин
 ---
 <center>

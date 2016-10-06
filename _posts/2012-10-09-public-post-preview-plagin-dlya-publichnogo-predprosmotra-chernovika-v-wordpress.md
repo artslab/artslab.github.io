@@ -18,7 +18,7 @@ categories:
   - news
 tags:
   - plugin
-  - Для Wordpress
+  - wordpress
 ---
 <center>
   <a href="{{site.img_cdn}}/public_post_preview_wordpress.png"><img src="{{site.img_cdn}}/public_post_preview_wordpress-300x161.png" alt="плагин генерирует ссылку для публичного просмотра не опубликованной записи" title="public_post_preview_wordpress" width="300" height="161" class="aligncenter size-medium wp-image-5446" srcset="{{site.img_cdn}}/public_post_preview_wordpress-300x161.png 300w, {{site.img_cdn}}/public_post_preview_wordpress.png 476w" sizes="(max-width: 300px) 100vw, 300px" /></a>

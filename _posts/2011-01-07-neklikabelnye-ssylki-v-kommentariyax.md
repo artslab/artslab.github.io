@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1590226210
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - спам
   - хак
 ---

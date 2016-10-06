@@ -23,11 +23,11 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Для Wordpress
+  - wordpress
   - shablonyi
 tags:
   - блог
-  - Для Wordpress
+  - wordpress
   - тема
   - шаблон
 ---

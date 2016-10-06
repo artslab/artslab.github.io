@@ -15,12 +15,12 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1641139431
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - google
   - sitemap
   - yandex
-  - Для Wordpress
+  - wordpress
   - карта сайта
   - плагин
 ---

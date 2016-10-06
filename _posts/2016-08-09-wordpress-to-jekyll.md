@@ -6,8 +6,10 @@ layout: post
 permalink: /jekyll/wordpress-to-jekyll/
 categories:
   - jekyll
+  - wordpress
 tags:
   - jekyll
+  - wordpress
 amp: true
 update_date: 2016-09-26 12:42:00
 ---

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565021935
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - wordrpess
 ---

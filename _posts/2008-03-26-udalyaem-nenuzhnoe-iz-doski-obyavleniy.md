@@ -17,9 +17,9 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - Хаки
 ---
 Маленький хак, который позволяет убрать все ненужное (rss ленту и прочее&#8230;) из доски объявлений(Dashboard) в WordPress.

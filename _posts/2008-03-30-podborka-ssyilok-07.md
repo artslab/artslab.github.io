@@ -21,7 +21,7 @@ tags:
   - photoshop
   - блогосфера
   - Все для GIMP
-  - Для Wordpress
+  - wordpress
   - подборка
 ---
 <p style="text-align: center;">

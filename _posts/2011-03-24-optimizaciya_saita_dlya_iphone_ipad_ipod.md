@@ -20,7 +20,7 @@ tags:
   - ipad
   - iphone
   - ipod
-  - Для Wordpress
+  - wordpress
   - иконка
 ---
 <center>

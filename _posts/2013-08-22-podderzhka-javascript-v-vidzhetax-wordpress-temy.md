@@ -19,11 +19,11 @@ ratings_score:
 ratings_average:
   - 5
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - javascipt
   - plugin
-  - Для Wordpress
+  - wordpress
 ---
 <center>
   <a href="{{site.img_cdn}}/js_w_widgets_wordpress.png"><img src="{{site.img_cdn}}/js_w_widgets_wordpress-300x96.png" alt="используем javascript в виджетах wp" class="aligncenter size-medium wp-image-7505" srcset="{{site.img_cdn}}/js_w_widgets_wordpress-300x96.png 300w, {{site.img_cdn}}/js_w_widgets_wordpress.png 760w" sizes="(max-width: 300px) 100vw, 300px" /></a>

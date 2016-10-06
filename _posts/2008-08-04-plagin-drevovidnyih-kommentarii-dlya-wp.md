@@ -17,10 +17,10 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - plugins
-  - Для Wordpress
+  - wordpress
   - плагины
 ---
 <center>

@@ -15,10 +15,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1564953166
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - plugins
-  - Для Wordpress
+  - wordpress
   - плагины
 ---
 <p style="text-align: center;">

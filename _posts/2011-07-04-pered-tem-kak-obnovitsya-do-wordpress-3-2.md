@@ -19,9 +19,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565025124
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
 ---
 <center>
   <img src="{{site.img_cdn}}/wordpress32.png" alt="Новая версия WordPress 3.2" title="wordpress32" width="130" height="130" class="alignnone size-full wp-image-3599" />

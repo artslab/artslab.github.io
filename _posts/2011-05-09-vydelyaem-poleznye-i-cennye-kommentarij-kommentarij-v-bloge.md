@@ -15,9 +15,9 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1742854864
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - комментарии
   - плагин
 ---

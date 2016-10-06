@@ -13,10 +13,10 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1580389030
 categories:
-  - Для Wordpress
+  - wordpress
 tags:
   - rss
-  - Для Wordpress
+  - wordpress
   - плагин
 ---
 Я недавно публиковал [список плагинов](http://artslab.info/news/30-plaginov-dlya-wordpress-kotorye-ispolzuyutsya-v-etom-bloge/), которые я использую в этом блоге. Таких набралось аж более 30 штук, что дает неплохую нагрузку на хостинг. Поэтому в целях оптимизации блога, я решил сократить этот длинный список, а функционал попытаться реализовать вручную, там где это возможно.

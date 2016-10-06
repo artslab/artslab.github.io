@@ -16,9 +16,9 @@ dsq_thread_id:
   - 1565016915
 categories:
   - news
-  - Для Wordpress
+  - wordpress
 tags:
-  - Для Wordpress
+  - wordpress
   - плагины
 ---
 [<img class="size-full wp-image-3619 aligncenter" title="wordpress_plugins" src="{{site.img_cdn}}/wordpress_plugins.png" alt="Плагины для WordPress" width="128" height="128" />]({{site.img_cdn}}/wordpress_plugins.png)

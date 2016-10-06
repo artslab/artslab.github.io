@@ -19,7 +19,7 @@ categories:
 tags:
   - templates
   - Web 2.0
-  - Для Wordpress
+  - wordpress
 ---
 <p style="text-align: center">
   <a href="{{site.img_cdn}}/templlr9.jpg"><img src="{{site.img_cdn}}/templlr9.jpg" alt="" title="templlr9" width="391" height="223" class="alignnone size-full wp-image-810" /></a>
