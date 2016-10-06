@@ -86,7 +86,7 @@ date: 2016-10-06 01:22:00
 via [gist](https://gist.github.com/Ovilia/ea95e762544d84f00281)
 
 ## SEO-плагин
-Github Pages имеет поддержку плагина Jekyll-SEO-Tag. Для того чтобы использовать его на сайте, в первую очередь необходимо прописать его в Gemfile, а так же вставить  [liquid](https://github.com/Shopify/liquid)-тег плагина в head:
+Github Pages имеет поддержку плагина [Jekyll-SEO-Tag](https://github.com/jekyll/jekyll-seo-tag). Для того чтобы использовать его на сайте, в первую очередь необходимо прописать его в Gemfile, а так же вставить  [Liquid](https://github.com/Shopify/liquid)-тег плагина в head:
 
 {% highlight html linenos %}
 {% raw %}
@@ -108,4 +108,4 @@ Github Pages имеет поддержку плагина Jekyll-SEO-Tag. Для
 bundle exec jekyll serve --incremental --limit_posts 2
 ```
 
-PS: Запись будет пополняться и другими полезными сниппетами. Буду рад комментариям с полезными советами или вопросами :-)
+<i>PS: Запись будет пополняться и другими полезными сниппетами. Буду рад комментариям с полезными советами или вопросами :-)</i>
