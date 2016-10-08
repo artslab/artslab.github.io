@@ -50,6 +50,6 @@ tags:
 
 {% endhighlight %}
 
-<h3>Демо:</h3>
+## Демо:
 <p data-height="300" data-theme-id="414" data-slug-hash="EidBl" data-default-tab="result" data-user="4gray" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/4gray/pen/EidBl/">Grayscale Image with CSS</a> by 4gray (<a href="http://codepen.io/4gray">@4gray</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
