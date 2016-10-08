@@ -2,6 +2,8 @@
 id: 2482
 title: 9 скриптов mp3-плееров для вставки музыки на сайт
 date: 2011-05-02T02:44:32+00:00
+update_date: 2016-09-05 18:40:00
+dateModified: 2016-09-05 18:40:00
 author: serEga
 layout: post
 guid: http://artslab.info/?p=2482
@@ -25,7 +27,8 @@ tags:
   - музыка
   - скрипт
 ---
-Два скрипта для проигрывания музыки на сайте, я уже публиковал ранее([DewPlayer](http://artslab.info/skriptyi/dewplayer-mp3-pleer-dlya-vashego-sayta/) и [mp3 Flash Player](http://artslab.info/skriptyi/skript-mp3-pleera/)) и как оказалось, они пригодились многим. С тех пор прошло немало времени, появились новые разработки, поэтому решил сразу сделать небольшую подборку скриптов mp3-проигрывателей, который можно вставить на Ваш сайт.
+
+Два скрипта для проигрывания музыки на сайте, я уже публиковал ранее([DewPlayer](http://artslab.info/skriptyi/dewplayer-mp3-pleer-dlya-vashego-sayta/) и [mp3 Flash Player](http://artslab.info/skriptyi/skript-mp3-pleera/)) и как оказалось, они пригодились многим. С тех пор прошло немало времени, появились новые плееры с разлиными возможностями. Чтобы не публиковать несколько записей записей, решил сразу сделать подборку с скриптов mp3-плееров, которые можно вставить на ваш сайт, либо использовать в каком-либо веб-приложений или дополнений к чему либо.
 
 ## 1. [niftyPlayer](http://www.varal.org/media/niftyplayer/)
 
@@ -35,28 +38,18 @@ tags:
   <img src="{{site.img_cdn}}/nifty_player.jpg" alt="легкий скрипт mp3 плеера" title="nifty_player" width="182" height="59" class="alignnone size-full wp-image-2483" />
 </center>
 
-
-
 **Использование плеера**
 
 Для того чтобы встроить плеер на нужную страницу, необходимо воспользоваться этим кодом:
 
-{% highlight html %}
-
+{% highlight html linenos %}
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="165" height="38" id="niftyPlayer1" align="">
-
-<param name=movie value="niftyplayer.swf?file=betty.mp3&as=1">
-
-<param name=quality value=high>
-
-<param name=bgcolor value=#FFFFFF>
-
-<embed src="niftyplayer.swf?file=betty.mp3&as=1" quality=high bgcolor=#FFFFFF width="165" height="38" name="niftyPlayer1" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-
-</embed>
-
+  <param name=movie value="niftyplayer.swf?file=betty.mp3&as=1">
+  <param name=quality value=high>
+  <param name=bgcolor value=#FFFFFF>
+  <embed src="niftyplayer.swf?file=betty.mp3&as=1" quality=high bgcolor=#FFFFFF width="165" height="38" name="niftyPlayer1" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+  </embed>
 </object>
-
 {% endhighlight %}
 
 _file=betty.mp3 &#8211; это, соответственно, путь и название проигрываемого файла._
@@ -65,12 +58,10 @@ _as=1 &#8211; этот параметр отвечает за autostart_
 
 _Кроме того, можно легко настроить внешний вид плеера, изменив соответствующий цвета в коде._
 
-И конечно нужно не забыть подключить js-файл с плеером.
+И конечно нужно не забыть подключить сам скрипт, т.е. js-файл с плеером.
 
 {% highlight html %}
-
 <script type="text/javascript" language="javascript" src="niftyplayer.js"></script>
-
 {% endhighlight %}
 
 Более подробную инструкцию и документаций можно найти на официальном сайте NiftyPlayer.
@@ -95,17 +86,17 @@ _Кроме того, можно легко настроить внешний в
 
 Главный плюс это легкость интеграция плеера на страницу. В Header страницы прикрепляется js, а сам плеер вставляется с помощью кода, такого вида:
 
-[sourcecode language=&#8221;html&#8221;]<audio src="/mp3/juicy.mp3" preload="auto" />[/sourcecode]
-
-
+{% highlight html linenos %}
+<audio src="/mp3/juicy.mp3" preload="auto" />
+{% endhighlight %}
 
 <center>
   <a href="{{site.img_cdn}}/audiojs.jpg"><img src="{{site.img_cdn}}/audiojs-300x73.jpg" alt="jquery html5 mp3 player" title="audiojs" width="300" height="73" class="alignnone size-medium wp-image-2488" srcset="{{site.img_cdn}}/audiojs-300x73.jpg 300w, {{site.img_cdn}}/audiojs.jpg 548w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-## 5. [Yahoo mp3 Playe](http://developer.yahoo.com/mediaplayer/)r
+## 5. [Yahoo mp3 Player](http://developer.yahoo.com/mediaplayer/)
 
-Симпатичный плеер от Yahoo
+Симпатичный плеер от Yahoo.
 
 <center>
   <a href="{{site.img_cdn}}/yahoo_player.gif"><img src="{{site.img_cdn}}/yahoo_player-300x47.gif" alt="скрипт Mp3 плеера от yahoo" title="yahoo_player" width="300" height="47" class="alignnone size-medium wp-image-2491" srcset="{{site.img_cdn}}/yahoo_player-300x47.gif 300w, {{site.img_cdn}}/yahoo_player.gif 540w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -145,7 +136,7 @@ _Кроме того, можно легко настроить внешний в
 
 **UPDATE: +2 скрипта**
 
-### 10. <a href="http://scmplayer.net/" target="_blank">SCM Music Player</a>
+## 10. <a href="http://scmplayer.net/" target="_blank">SCM Music Player</a>
 
 <center>
   <a href="{{site.img_cdn}}/js_player.png"><img src="{{site.img_cdn}}/js_player-300x124.png" alt="js_player" class="aligncenter size-medium wp-image-7368" srcset="{{site.img_cdn}}/js_player-300x124.png 300w, {{site.img_cdn}}/js_player.png 668w" sizes="(max-width: 300px) 100vw, 300px" /></a>
@@ -158,13 +149,11 @@ SCM Player &#8211; выделяется от других плееров дву�
   <a href="{{site.img_cdn}}/pleer_kak_vk.png"><img src="{{site.img_cdn}}/pleer_kak_vk-300x107.png" alt="scm player js" class="aligncenter size-medium wp-image-7370" srcset="{{site.img_cdn}}/pleer_kak_vk-300x107.png 300w, {{site.img_cdn}}/pleer_kak_vk-1024x368.png 1024w, {{site.img_cdn}}/pleer_kak_vk.png 1059w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
-
-
 **Использование**
 
 На главной странице сайта пллера находиться генератор позволяющий в несколько шагов собрать плеер и выдать код, который нужно будет разместить на сайте. так же, на страничке есть полноценная инструкция для более конкретного знакомства с плеером.
 
-### 11. <a href="http://www.codebasehero.com/2011/06/html-music-player/" target="_blank">ttwMusicPlayer</a>
+## 11. <a href="http://www.codebasehero.com/2011/06/html-music-player/" target="_blank">ttwMusicPlayer</a>
 
 <center>
   <a href="{{site.img_cdn}}/player_dlya_saita.png"><img src="{{site.img_cdn}}/player_dlya_saita-235x300.png" alt="музыкальный плеер js" class="aligncenter size-medium wp-image-7366" srcset="{{site.img_cdn}}/player_dlya_saita-235x300.png 235w, {{site.img_cdn}}/player_dlya_saita.png 423w" sizes="(max-width: 235px) 100vw, 235px" /></a>
