@@ -33,7 +33,7 @@ img_cdn: https://dl.dropboxusercontent.com/u/74772/artslab.info
 markdown: kramdown
 
 kramdown:
-  parse_block_html: true
+  parse_block_html: false
 
 gems:
   - jekyll-paginate
