@@ -19,35 +19,31 @@ date: 2016-10-06 01:22:00
 
 1. В папке **_includes/** создадим отдельный шаблон для форматирования даты в нужном нам формате, я назову файл **date.html**:
 
-	{% highlight html linenos %}
-	{% raw %}
-	{% assign m = include.date | date: "%-m" %}
-	{{ include.date | date: "%-d" }}
-	{% case m %}
-	  {% when '1' %}января
-	  {% when '2' %}февраля
-	  {% when '3' %}марта
-	  {% when '4' %}апреля
-	  {% when '5' %}мая
-	  {% when '6' %}июня
-	  {% when '7' %}июля
-	  {% when '8' %}августа
-	  {% when '9' %}сентября
-	  {% when '10' %}октября
-	  {% when '11' %}ноября
-	  {% when '12' %}декабря
-	{% endcase %}
-	{{ include.date | date: "%Y" }}
-	{% endraw %}
-	{% endhighlight %}
+{% highlight html linenos %}
+{% raw %}{% assign m = include.date | date: "%-m" %}
+{{ include.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}января
+  {% when '2' %}февраля
+  {% when '3' %}марта
+  {% when '4' %}апреля
+  {% when '5' %}мая
+  {% when '6' %}июня
+  {% when '7' %}июля
+  {% when '8' %}августа
+  {% when '9' %}сентября
+  {% when '10' %}октября
+  {% when '11' %}ноября
+  {% when '12' %}декабря
+{% endcase %}
+{{ include.date | date: "%Y" }}{% endraw %}
+{% endhighlight %}
 
 2. Вставляем наш шаблон с помощью тега **include** в нужное место и передаем ему переменную с датой, которая будет отформатирована, так как указано в нашем шаблоне:
 
-    {% highlight html %}
-    {% raw %}
-	{% include date.html date=page.date %}
-    {% endraw %}
-	{% endhighlight %}
+{% highlight html %}{% raw %}
+{% include date.html date=page.date %}
+{% endraw %}{% endhighlight %}
 
 ## Вывод похожих записей
 Вывести список похожих/интересных записей (Similar Posts) монжо с помощью данного сниппета:

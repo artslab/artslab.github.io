@@ -313,7 +313,7 @@ body {
     }
     figure {
       margin: 0;
-      padding: 10px 0 0 0;
+      padding: 3px 0 0 0;
     }
     figcaption {
       font-weight: 400;
@@ -495,9 +495,9 @@ body {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eeeeff;
+  /*border: 1px solid #e8e8e8;
+  background-color: #eeeeff;*/
 }
 
 code {
@@ -505,7 +505,7 @@ code {
 }
 
 pre {
-  padding: 0px 12px;
+  padding: 5px 10px;
   overflow-x: scroll;
   margin: 0;
   > code {
