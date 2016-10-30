@@ -25,6 +25,11 @@ amp-img {
   @include clearfix;
 }
 
+.cf.frame {
+  width: 700px;
+  float: left;
+}
+
 $rs: 16px;
 
 $font-serif: Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
@@ -61,7 +66,7 @@ body {
 .site-header {
   position: relative;
   width: 100%;
-  max-width: 700px;
+  max-width: 1000px;
   margin: 16px auto 0 auto;
   @include box-sizing(border-box);
   @include respond-to(800) {
@@ -92,7 +97,7 @@ body {
 
 .blog-header {
   width: 100%;
-  max-width: 700px;
+  max-width: 1000px;
   margin: 0 auto;
   position: relative;
   padding: 0;
@@ -120,7 +125,7 @@ body {
 
 .content {
   width: 100%;
-  max-width: 700px;
+  max-width: 1000px;
   margin: 25px auto 0 auto;
   @include box-sizing(border-box);
   @include respond-to(800) {
@@ -188,7 +193,14 @@ body {
   }
 }
 
+#sidebar {
+  float: left;
+  width: 300px;
+  margin-top: 30px;
+}
+
 .pagination {
+  clear: both;
   text-align: center;
   padding: $rs * 1 0 0;
   font-size: $rs / 4 * 3;
