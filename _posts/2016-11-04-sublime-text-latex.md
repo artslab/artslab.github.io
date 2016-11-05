@@ -15,7 +15,7 @@ date: 2016-11-04 17:22:00
 Перед тем как приступить к написанию и генераций документов с помощью [LaTeX](https://ru.wikipedia.org/wiki/LaTeX) важно выбрать удобный текстовый редактор. Так как в качестве основного редактора я использую [Sublime Text (ST)](https://www.sublimetext.com/3), решил взять его и разобраться с настройками для этой цели.
 
 <p align="center">
-<a href="{{site.img_cdn}}/sublime-latex.jpg" data-lightbox="sublime-text-latex"><amp-img src="{{site.img_cdn}}/sublime-latex-mini.jpg" alt="Пример с LaTeX файлом в Sublime Text" width="600" height="363"></amp-img></a>
+<a href="{{site.img_cdn}}/sublime-latex.jpg" data-lightbox="sublime-text-latex"><amp-img src="{{site.img_cdn}}/sublime-latex-mini.jpg" alt="Пример с LaTeX файлом в Sublime Text" width="600" height="363" layout="responsive"></amp-img></a>
 </p>
 
 Если вы еще не знакомы с Sublime Text, то рекомендую скачать и попробовать его. Редактор доступен для бесплатного скачивания на официальном сайте.
@@ -42,10 +42,11 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 Если все было сделано правильно, то в командной строке появиться информация о успешном компилирований файла, а так же автоматический откроется Skim в котором можно увидеть скомпилированный файл. PDF-документ появиться в той же директорий, где был сохранен исходный *.tex-файл.
 
 <p align="center">
-<a href="{{site.img_cdn}}/latex-compiled-skim.jpg" data-lightbox="sublime-text-latex"><amp-img src="{{site.img_cdn}}/latex-compiled-skim-mini.jpg" alt="Просмотр сгенерированного PDF" width="600" height="278"></amp-img></a>
+<a href="{{site.img_cdn}}/latex-compiled-skim.jpg" data-lightbox="sublime-text-latex"><amp-img src="{{site.img_cdn}}/latex-compiled-skim-mini.jpg" alt="Просмотр сгенерированного PDF" width="600" height="278" layout="responsive"></amp-img></a>
 </p>
 
 Для установки дополнительных LaTeX-пакетов можно воспользоваться командой строкой и менеджером пакетов tlmgr. Пример команды для установки пакета *todonotes*:
+
 ```
 sudo tlmgr install todonotes
 ```
