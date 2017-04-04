@@ -16,14 +16,14 @@ categories:
   - podborki
 tags:
   - sublime-text
+update_date: 2016-10-07 14:10:05
 ---
+
+В данном посте предлагаю вашему вниманию отдельную большую подборку отобранных визуальных тем для оформления популярного редактора кода Sublime Text. В прошлом посте про ST, я делился [полезными плагинами](http://artslab.info/podborki/moj-top-10-plaginov-dlya-sublime-text-2/ "Мой топ-10 плагинов для Sublime Text 2") для редактора и упомянул только об одной теме. Запись будет регулярно обновляться и пополнятся новыми красивыми темами.
+
 <center>
   <a href="{{site.img_cdn}}/flatland_st2.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/flatland_st2-300x218.png" alt="минималистичное оформление" class="aligncenter size-medium wp-image-7469" srcset="{{site.img_cdn}}/flatland_st2-300x218.png 300w, {{site.img_cdn}}/flatland_st2.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
-
-Небольшая подборка визуальных тем для популярного редактора Sublime Text 2. В прошлом посте про ST2, я делился [полезными плагинами](http://artslab.info/podborki/moj-top-10-plaginov-dlya-sublime-text-2/ "Мой топ-10 плагинов для Sublime Text 2") для редактора и упомянул только об одной теме. Сегодня предлагаю рассмотреть и другие приятные варианты для оформления программы.
-
-<!--more-->
 
 Устанавливать темы проще всего с помощью плагина <a href="https://sublime.wbond.net/installation" target="_blank">Package Control</a>, о котором я так же упоминал в вышеупомянутой записи.
 
