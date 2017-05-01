@@ -6,7 +6,7 @@ layout: default
   <article class="post">
     <div class="post-meta">
       <h1 class="post-title">{{ page.title }}</h1>
-      <div>Категория: {% for cat in page.categories %}<a href="http://artslab.info/category/{{ cat }}" class="category-meta">{{ cat }}</a>{% endfor %}</div>
+      <div>Категория: {% for cat in page.categories %}<a href="http://artslab.info/category/{{ cat.id }}" class="category-meta">{{ cat.name }}</a>{% endfor %}</div>
     </div>
     <amp-ad width=728 height=90
       type="adsense"
