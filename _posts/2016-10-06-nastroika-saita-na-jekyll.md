@@ -4,7 +4,8 @@ title: Настройка блога на основе Jekyll
 author: serEga
 layout: post
 permalink: /jekyll/nastroika-saita-na-jekyll/
-categories: [ {id: 'jekyll', name: 'Все о Jekyll'} ]
+categories:
+  - jekyll
 tags:
   - jekyll
 amp: true
