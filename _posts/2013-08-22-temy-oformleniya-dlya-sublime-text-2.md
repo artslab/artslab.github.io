@@ -22,7 +22,7 @@ update_date: 2016-10-07 14:10:05
 В данном посте предлагаю вашему вниманию отдельную большую подборку отобранных визуальных тем для оформления популярного редактора кода Sublime Text. В прошлом посте про ST, я делился [полезными плагинами](http://artslab.info/podborki/moj-top-10-plaginov-dlya-sublime-text-2/ "Мой топ-10 плагинов для Sublime Text 2") для редактора и упомянул только об одной теме. Запись будет регулярно обновляться и пополнятся новыми красивыми темами.
 
 <center>
-  <a href="{{site.img_cdn}}/flatland_st2.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/flatland_st2-300x218.png" alt="минималистичное оформление" class="aligncenter size-medium wp-image-7469" srcset="{{site.img_cdn}}/flatland_st2-300x218.png 300w, {{site.img_cdn}}/flatland_st2.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{site.github_img}}/flatland_st2.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/flatland_st2-300x218.png" alt="минималистичное оформление" class="aligncenter size-medium wp-image-7469" srcset="{{site.github_img}}/flatland_st2-300x218.png 300w, {{site.github_img}}/flatland_st2.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 Устанавливать темы проще всего с помощью плагина <a href="https://sublime.wbond.net/installation" target="_blank">Package Control</a>, о котором я так же упоминал в вышеупомянутой записи.
@@ -30,27 +30,27 @@ update_date: 2016-10-07 14:10:05
 1. <a href="https://github.com/buymeasoda/soda-theme" target="_blank">Soda Theme</a> &#8211; начнем с одной из самых популярных тем, которая доступна в двух вариантах: темное и светлое оформление.
 
     <center>
-      <a href="{{site.img_cdn}}/soda_dark_theme.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/soda_dark_theme-300x224.png" alt="soda темный вариант" class="aligncenter size-medium wp-image-7470" srcset="{{site.img_cdn}}/soda_dark_theme-300x224.png 300w, {{site.img_cdn}}/soda_dark_theme.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <a href="{{site.github_img}}/soda_dark_theme.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/soda_dark_theme-300x224.png" alt="soda темный вариант" class="aligncenter size-medium wp-image-7470" srcset="{{site.github_img}}/soda_dark_theme-300x224.png 300w, {{site.github_img}}/soda_dark_theme.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
-      <a href="{{site.img_cdn}}/soda_light_sublime_text.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/soda_light_sublime_text-300x224.png" alt="светлая тема для редактора" class="aligncenter size-medium wp-image-7471" srcset="{{site.img_cdn}}/soda_light_sublime_text-300x224.png 300w, {{site.img_cdn}}/soda_light_sublime_text.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <a href="{{site.github_img}}/soda_light_sublime_text.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/soda_light_sublime_text-300x224.png" alt="светлая тема для редактора" class="aligncenter size-medium wp-image-7471" srcset="{{site.github_img}}/soda_light_sublime_text-300x224.png 300w, {{site.github_img}}/soda_light_sublime_text.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     </center>
 
 2. <a href="https://github.com/thinkpixellab/flatland" target="_blank">Flatland</a> &#8211; красивая, минималистичная и плоская тема для ST2.
 
     <center>
-      <a href="{{site.img_cdn}}/flatland_st2.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/flatland_st2-300x218.png" alt="минималистичное оформление" class="aligncenter size-medium wp-image-7469" srcset="{{site.img_cdn}}/flatland_st2-300x218.png 300w, {{site.img_cdn}}/flatland_st2.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <a href="{{site.github_img}}/flatland_st2.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/flatland_st2-300x218.png" alt="минималистичное оформление" class="aligncenter size-medium wp-image-7469" srcset="{{site.github_img}}/flatland_st2-300x218.png 300w, {{site.github_img}}/flatland_st2.png 850w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     </center>
 
 3. <a href="https://github.com/raik/st2-pseudo-osx-theme" target="_blank">Pseudo OSX theme</a> &#8211; тема в стиле Mac OS X, придает элементам редактора стандартное оформление этой ОСи.
 
     <center>
-      <a href="{{site.img_cdn}}/pseudo_osx_theme.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/pseudo_osx_theme-300x227.png" alt="тема в стиле mac os x" class="aligncenter size-medium wp-image-7455" srcset="{{site.img_cdn}}/pseudo_osx_theme-300x227.png 300w, {{site.img_cdn}}/pseudo_osx_theme.png 859w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <a href="{{site.github_img}}/pseudo_osx_theme.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/pseudo_osx_theme-300x227.png" alt="тема в стиле mac os x" class="aligncenter size-medium wp-image-7455" srcset="{{site.github_img}}/pseudo_osx_theme-300x227.png 300w, {{site.github_img}}/pseudo_osx_theme.png 859w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     </center>
 
 4. <a href="https://github.com/nilium/st2-nil-theme" target="_blank">Nil Theme</a> &#8211; симпатичная темка в темных тонах.
 
     <center>
-      <a href="{{site.img_cdn}}/nil_sublime.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/nil_sublime-300x240.png" alt="тема nil" class="aligncenter size-medium wp-image-7456" srcset="{{site.img_cdn}}/nil_sublime-300x240.png 300w, {{site.img_cdn}}/nil_sublime-1024x819.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <a href="{{site.github_img}}/nil_sublime.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/nil_sublime-300x240.png" alt="тема nil" class="aligncenter size-medium wp-image-7456" srcset="{{site.github_img}}/nil_sublime-300x240.png 300w, {{site.github_img}}/nil_sublime-1024x819.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     </center>
 
 5. <a href="https://github.com/cafarm/aqua-theme" target="_blank">Aqua Theme</a> &#8211; доступна в светлых и темных тонах.
@@ -114,13 +114,13 @@ update_date: 2016-10-07 14:10:05
 14. <a href="https://github.com/soyrex/sublime-theme-edgy">Edgy Theme</a>
 
     <center>
-      <a href="{{site.img_cdn}}/edgy-sublime-text.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/edgy-sublime-text-300x195.png" alt="edgy-sublime-text" class="aligncenter size-medium wp-image-8166" srcset="{{site.img_cdn}}/edgy-sublime-text-300x195.png 300w, {{site.img_cdn}}/edgy-sublime-text-1024x667.png 1024w, {{site.img_cdn}}/edgy-sublime-text-900x586.png 900w, {{site.img_cdn}}/edgy-sublime-text.png 1438w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <a href="{{site.github_img}}/edgy-sublime-text.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/edgy-sublime-text-300x195.png" alt="edgy-sublime-text" class="aligncenter size-medium wp-image-8166" srcset="{{site.github_img}}/edgy-sublime-text-300x195.png 300w, {{site.github_img}}/edgy-sublime-text-1024x667.png 1024w, {{site.github_img}}/edgy-sublime-text-900x586.png 900w, {{site.github_img}}/edgy-sublime-text.png 1438w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     </center>
 
 15. <a href="https://github.com/allanhortle/Centurion">Centurion</a>
 
     <center>
-      <a href="{{site.img_cdn}}/cunturion-thema.png" data-lightbox="sublime-themes"><img src="{{site.img_cdn}}/cunturion-thema-300x229.png" alt="cunturion-thema" class="aligncenter size-medium wp-image-8164" srcset="{{site.img_cdn}}/cunturion-thema-300x229.png 300w, {{site.img_cdn}}/cunturion-thema-1024x784.png 1024w, {{site.img_cdn}}/cunturion-thema-900x689.png 900w, {{site.img_cdn}}/cunturion-thema.png 1182w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+      <a href="{{site.github_img}}/cunturion-thema.png" data-lightbox="sublime-themes"><img src="{{site.github_img}}/cunturion-thema-300x229.png" alt="cunturion-thema" class="aligncenter size-medium wp-image-8164" srcset="{{site.github_img}}/cunturion-thema-300x229.png 300w, {{site.github_img}}/cunturion-thema-1024x784.png 1024w, {{site.github_img}}/cunturion-thema-900x689.png 900w, {{site.github_img}}/cunturion-thema.png 1182w" sizes="(max-width: 300px) 100vw, 300px" /></a>
     </center>
 
 Напоследок, хочу поделиться еще одним полезным ресурсом <a href="http://colorsublime.com/" title="Цветовые схемы для редактора" target="_blank">ColorSublime</a>, где можно найти самые разные цветовые схемы для красивой подсветки синтаксиса в Sublime Text.
