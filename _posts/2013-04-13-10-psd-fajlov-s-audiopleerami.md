@@ -102,7 +102,11 @@ tags:
 
 13. [Flat Music Player](http://www.fauchet-ludovic.fr/freebies/flat-music-player/) &#8211; плеер в плоском стиле
 
-<center[<img src="{{site.github_img}}/flat-player-music-300x225.png" alt="mp3 проигрыватель для сайта" class="aligncenter size-medium wp-image-7235" srcset="{{site.github_img}}/flat-player-music-300x225.png 300w, {{site.github_img}}/flat-player-music.png 800w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.github_img}}/flat-player-music.png)</center>
+<center>
+  <a href="{{site.github_img}}/flat-player-music.png">
+    <img src="{{site.github_img}}/flat-player-music-300x225.png" alt="mp3 проигрыватель для сайта" class="aligncenter size-medium wp-image-7235" srcset="{{site.github_img}}/flat-player-music-300x225.png 300w, {{site.github_img}}/flat-player-music.png 800w" sizes="(max-width: 300px) 100vw, 300px" />
+  </a>
+</center>
 
 14. [Online Music Player](http://dribbble.com/shots/1044187-Freebie-Online-Music-Player)
 
