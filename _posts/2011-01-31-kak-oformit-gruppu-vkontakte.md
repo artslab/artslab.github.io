@@ -262,29 +262,29 @@ __Видеоверсия описания__:
 1. [Деревянная полочка &#8211; меню в стиле iBooks](http://artslab.info/menu-design-vkonakte/oformlenie-menyu-dlya-gruppy-vkontakte-1/ "Оформление меню для группы ВКонтакте #1")
 
   <center>
-    <img src="{{site.img_cdn}}/menu_iz_dereva_vk.jpg" alt="бесплатное меню для VK" class="aligncenter size-medium wp-image-6627" srcset="{{site.img_cdn}}/menu_iz_dereva_vk.jpg 370w, {{site.img_cdn}}/menu_iz_dereva_vk-300x243.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />
+    <img src="https://cldup.com/e5ywD3wXEp.jpg" alt="бесплатное меню для VK" class="aligncenter size-medium wp-image-6627" srcset="https://cldup.com/e5ywD3wXEp.jpg 370w, https://cldup.com/LfSHiDkxb7.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />
   </center>
 
 2. [Выпадающее меню](http://artslab.info/menu-design-vkontakte/dizajn-menyu-dlya-gruppy-vkontakte-2/)
 
   <center>
-    <a href="{{site.img_cdn}}/menu_dlya_vk.jpg"><img src="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" srcset="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg 300w, {{site.img_cdn}}/menu_dlya_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    <a href="https://cldup.com/4r7nElQPEn.jpg"><img src="https://cldup.com/ePfZ8SsfOj.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" srcset="https://cldup.com/ePfZ8SsfOj.jpg 300w, https://cldup.com/4r7nElQPEn.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   </center>
 
 3. Плоское [меню в стиле Metro](http://artslab.info/menu-design-vkontakte/menyu-dlya-gruppy-vkontakte-v-stile-metro-3/)
 
   <center>
-    <img src="{{site.img_cdn}}/vk_menu_metro_style.jpg" alt="меню в стиле metro ui" class="aligncenter size-full wp-image-7031" srcset="{{site.img_cdn}}/vk_menu_metro_style.jpg 370w, {{site.img_cdn}}/vk_menu_metro_style-236x300.jpg 236w" sizes="(max-width: 370px) 100vw, 370px" />
+    <img src="https://cldup.com/dTdozv_VNK.jpg" alt="меню в стиле metro ui" class="aligncenter size-full wp-image-7031" srcset="https://cldup.com/dTdozv_VNK.jpg 370w, https://cldup.com/Vhr3mIrXXA.jpg 236w" sizes="(max-width: 370px) 100vw, 370px" />
   </center>
 
 4. [Dark Style Menu](http://artslab.info/menu-design-vkontakte/menyu-dlya-gruppy-vkontakte-dark-style-menu-4/)
 
   <center>
-    <img src="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg" alt="темное меню для вконтакте" class="aligncenter size-medium wp-image-8017" srcset="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg 300w, {{site.img_cdn}}/dark_style_menu_vk.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />
+    <img src="https://cldup.com/lxNS564pQZ.jpg" alt="темное меню для вконтакте" class="aligncenter" />
   </center>
 
 5. [Меню для групп о спорте](http://artslab.info/menu-design-vkontakte/menyu-dlya-sportivnyx-grup-vkontakte/ "Меню для спортивных групп ВКонтакте")
 
   <center>
-    <a href="{{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg"><img src="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg" alt="меню для группы вконтакте" class="size-medium wp-image-8090" srcset="{{site.img_cdn}}/gotovie-kartinki-menu-vk-208x300.jpg 208w, {{site.img_cdn}}/gotovie-kartinki-menu-vk.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<a href="{{site.img_cdn}}/chelsea-sport-menu.jpg"><img src="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg" alt="меню vk" class="size-medium wp-image-8091" srcset="{{site.img_cdn}}/chelsea-sport-menu-208x300.jpg 208w, {{site.img_cdn}}/chelsea-sport-menu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>
+    <a href="https://cldup.com/_TTd1vEdQu.jpg"><img src="https://cldup.com/Se4qtu_0Gt.jpg" alt="меню для группы вконтакте" class="size-medium wp-image-8090" srcset="https://cldup.com/Se4qtu_0Gt.jpg 208w, https://cldup.com/_TTd1vEdQu.jpg 370w" sizes="(max-width: 208px) 100vw, 208px" /></a>&nbsp;<img src="https://cldup.com/_O7mvQDyEl.jpg" alt="меню vk" class="size-medium" />
   </center>
