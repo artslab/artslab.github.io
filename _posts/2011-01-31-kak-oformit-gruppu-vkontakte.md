@@ -259,7 +259,7 @@ __Видеоверсия описания__:
 
 Здесь будут появляться готовые бесплатные меню для Ваших групп с кодом и PSD-исходниками.
 
-1. [Деревянная полочка &#8211; меню в стиле iBooks](http://artslab.info/menu-design-vkonakte/oformlenie-menyu-dlya-gruppy-vkontakte-1/ "Оформление меню для группы ВКонтакте #1")
+1. [Деревянная полочка &#8211; меню в стиле iBooks](http://artslab.info/menu-design-vkontakte/oformlenie-menyu-dlya-gruppy-vkontakte-1/ "Оформление меню для группы ВКонтакте #1")
 
   <center>
     <img src="https://cldup.com/e5ywD3wXEp.jpg" alt="бесплатное меню для VK" class="aligncenter size-medium wp-image-6627" srcset="https://cldup.com/e5ywD3wXEp.jpg 370w, https://cldup.com/LfSHiDkxb7.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />
