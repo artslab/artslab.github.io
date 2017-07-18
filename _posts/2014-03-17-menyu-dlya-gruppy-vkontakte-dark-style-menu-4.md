@@ -18,6 +18,7 @@ tags:
   - vkontakte
   - меню
 update_date: 2017-07-18 12:00:00
+amp: true
 ---
 
 <center>

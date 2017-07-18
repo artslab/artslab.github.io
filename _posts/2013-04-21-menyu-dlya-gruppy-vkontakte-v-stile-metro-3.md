@@ -19,6 +19,7 @@ tags:
   - дизайн
   - меню
 update_date: 2017-07-18 12:00:00
+amp: true
 ---
 Представляю [еще одну](http://artslab.info/category/menu-design-vkontakte/) готовую менюшку с кодом в стиле Metro UI для ВК-групп. За основу был взят бесплатный PSD файл [Weather Widget](http://dribbble.com/shots/894214-Weather-Widget-freebie?list=users).
 
