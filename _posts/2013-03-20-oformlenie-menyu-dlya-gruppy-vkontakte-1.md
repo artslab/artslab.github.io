@@ -34,7 +34,7 @@ amp: true
 
 Теперь самое главное, код меню:
 
-{% highlight html linenos %}
+```
   [[photo-35539675_299595752|370x40px;noborder;nopadding;nolink|Описание группы]]
   [[photo-35539675_299595753|35x37px;noborder;nopadding;nolink|Описание группы]]
   [[photo-35539675_299595754|57x37px;noborder;nopadding|http://artslab.info]]
@@ -45,7 +45,7 @@ amp: true
   [[photo-35539675_299595760|96x47px;noborder;nopadding|http://artslab.info]]
   [[photo-35539675_299595762|138x47px;;nopadding|http://artslab.info]]
   [[photo-35539675_299595763|370x31px;noborder;nopadding;nolink|Описание группы]]
-{% endhighlight %}
+```
 
 [Посмотреть демо](http://vk.com/pages?oid=-880171&p=woodsy)
 
