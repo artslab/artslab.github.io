@@ -17,8 +17,12 @@ categories:
 tags:
   - vkontakte
   - меню
+update_date: 2017-07-18 12:00:00
 ---
-[<img src="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg" alt="темное меню для вконтакте" class="aligncenter size-medium wp-image-8017" srcset="{{site.img_cdn}}/dark_style_menu_vk-300x225.jpg 300w, {{site.img_cdn}}/dark_style_menu_vk.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/dark_style_menu_vk.jpg)
+
+<center>
+  <amp-img src="https://cldup.com/lxNS564pQZ.jpg" alt="темное меню для вконтакте" class="aligncenter size-medium wp-image-8017" width="400" height="300"></amp-img>
+</center>
 
 Сегодня предоставляю Вашему вниманию очередное готовое меню в темное стиле. В качестве основы был взят бесплатный psd-исходника &#8211; [Notifications](http://dribbble.com/shots/631076-Notifications-PSD-freebie).
 
@@ -28,12 +32,13 @@ PSD-файл с разметкой меню и отдельными слоями
 
 ### Код:
 
-<pre>[­[photo-35539675_323780003|400x55px;noborder;nolink;nopadding|Группа ArtsLab.info]]
+{% highlight html linenos %}
+[­[photo-35539675_323780003|400x55px;noborder;nolink;nopadding|Группа ArtsLab.info]]
 [­[photo-35539675_323780005|400x50px;noborder;nopadding|http://artslab.info]]
 [­[photo-35539675_323780006|400x47px;noborder;nopadding|page-880171_44194106]]
 [­[photo-35539675_323780009|400x47px;noborder;nopadding|album-880171_154583751]]
 [­[photo-35539675_323780010|400x47px;noborder;nopadding|http://artslab.info/contact/]]
 [­[photo-35539675_323780011|400x54px;noborder;nopadding|http://artslab.info/feedback/]]
-</pre>
+{% endhighlight %}
 
 [Демо](http://vk.com/page-880171_46897491)

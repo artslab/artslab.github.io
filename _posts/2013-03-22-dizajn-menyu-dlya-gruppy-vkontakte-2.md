@@ -19,34 +19,28 @@ tags:
   - vkontakte
   - дизайн
   - меню
+update_date: 2017-07-18 12:00:00
 ---
 Еще одно готовое меню с кодом для группы Vkontakte. За основу меню был взят бесплатный PSD-исходник с выпадающим списком оповещений с сайта [PixelsDaily](http://pixelsdaily.com/resources/photoshop/psds/popout-navigation/). Меню сделано в минималистичном стиле и поэтому подойдет для любых групп, независимо от тематики. Монохромные иконки и заголовки, конечно же, можно легко заменить на любые другие.
 
 <center>
-  <a href="{{site.img_cdn}}/menu_dlya_vk.jpg"><img src="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" srcset="{{site.img_cdn}}/menu_dlya_vk-300x257.jpg 300w, {{site.img_cdn}}/menu_dlya_vk.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <amp-img src="https://cldup.com/4r7nElQPEn.jpg" alt="дизайн меню для VK" class="aligncenter size-medium wp-image-6687" width="300" height="257" ></amp-img>
 </center>
-
-
-
-<!--more-->
 
 Готовый исходник со всеми слоями и уже поделенный на отдельные кусочки доступен для скачивания [по этой ссылке](https://www.box.com/s/d0rqqomiji7gwqr9soi0). [Демо меню](http://vk.com/pages?oid=-880171&p=popout_menu) в нашей группе.
 
 ### Код меню
 
-> [­[photo-880171_301810009|370x36px;noborder;nolink;nopadding|Описание группы]]
-
-> [­[photo-880171_301810011|370x47px;noborder;nopadding|http://artslab.info]]
-
-> \[­[photo-880171\_301810012|74x48px;noborder;nopadding;nolink|Иконка сайта]\]\[­[photo-880171\_301810013|296x48px;noborder;nopadding|http://artslab.info\]]
-
-> [­[photo-880171_301810015|370x49px;noborder;nopadding|http://artslab.info/]]
-
-> [­[photo-880171_301810017|370x47px;noborder;nopadding|http://artslab.info/]]
-
-> [­[photo-880171_301810018|370x48px;noborder;nopadding|http://artslab.info/]]
-
-> [­[photo-880171_301810019|370x42px;noborder;nopadding;nolink|Описание группы]]
+{% highlight html linenos %}
+  [­[photo-880171_301810009|370x36px;noborder;nolink;nopadding|Описание группы]]
+  [­[photo-880171_301810011|370x47px;noborder;nopadding|http://artslab.info]]
+  [­[photo-880171_301810012|74x48px;noborder;nopadding;nolink|Иконка сайта]]
+  [­[photo-880171_301810013|296x48px;noborder;nopadding|http://artslab.info]]
+  [­[photo-880171_301810015|370x49px;noborder;nopadding|http://artslab.info/]]
+  [­[photo-880171_301810017|370x47px;noborder;nopadding|http://artslab.info/]]
+  [­[photo-880171_301810018|370x48px;noborder;nopadding|http://artslab.info/]]
+  [­[photo-880171_301810019|370x42px;noborder;nopadding;nolink|Описание группы]]
+{% endhighlight %}
 
 Посмотреть на другие меню, можно в новой рубрике с [готовыми меню](http://artslab.info/category/menu-design-vkontakte/ "готовые дизайны для групп").
 
