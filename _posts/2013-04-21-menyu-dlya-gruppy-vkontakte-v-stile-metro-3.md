@@ -32,7 +32,7 @@ PSD-файл с отдельными слоями и &#8220;порезанным
 
 Код меню:
 
-{% highlight html linenos %}
+```
   [­[photo-880171_302978986|370x51px;noborder;nolink;nopadding|Описание группы]]
   [­[photo-880171_302978987|123x124px;noborder;nopadding|http://artslab.info]]
   [­[photo-880171_302978989|124x124px;noborder;nopadding;nolink|Иконка сайта]]
@@ -44,4 +44,4 @@ PSD-файл с отдельными слоями и &#8220;порезанным
   [­[photo-880171_302979000|124x124px;noborder;nopadding;|http://artslab.info]]
   [­[photo-880171_302979002|123x124px;noborder;nopadding;|http://artslab.info]]
   [­[photo-880171_302979003|370x48px;noborder;nopadding;nolink|Описание группы]]
-{% endhighlight %}
+```

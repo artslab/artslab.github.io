@@ -33,12 +33,13 @@ amp: true
 
 Код меню:
 
-<pre>[­[photo-35539675_325085690|370x278px;noborder;nolink;nopadding|Группа ArtsLab.info]]
+```
+[­[photo-35539675_325085690|370x278px;noborder;nolink;nopadding|Группа ArtsLab.info]]
 [­[photo-35539675_325085651|370x50px;noborder;nopadding|http://artslab.info]]
 [­[photo-35539675_325085654|370x48px;noborder;nopadding|album-880171_154583751]]
 [­[photo-35539675_325085652|370x49px;noborder;nopadding|page-880171_44194106]]
 [­[photo-35539675_325085658|370x60px;noborder;nopadding|http://artslab.info/feedback/]]
 [­[photo-35539675_325085655|370x47px;noborder;nolink;nopadding|меню]]
-</pre>
+```
 
 Остальные варианты кода меню с другими командами доступны на [демо-странице](http://vk.com/page-880171_46987054).

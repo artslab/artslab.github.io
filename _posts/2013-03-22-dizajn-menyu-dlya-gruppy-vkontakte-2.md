@@ -32,7 +32,7 @@ amp: true
 
 ### Код меню
 
-{% highlight html linenos %}
+```
   [­[photo-880171_301810009|370x36px;noborder;nolink;nopadding|Описание группы]]
   [­[photo-880171_301810011|370x47px;noborder;nopadding|http://artslab.info]]
   [­[photo-880171_301810012|74x48px;noborder;nopadding;nolink|Иконка сайта]]
@@ -41,7 +41,7 @@ amp: true
   [­[photo-880171_301810017|370x47px;noborder;nopadding|http://artslab.info/]]
   [­[photo-880171_301810018|370x48px;noborder;nopadding|http://artslab.info/]]
   [­[photo-880171_301810019|370x42px;noborder;nopadding;nolink|Описание группы]]
-{% endhighlight %}
+```
 
 Посмотреть на другие меню, можно в новой рубрике с [готовыми меню](http://artslab.info/category/menu-design-vkontakte/ "готовые дизайны для групп").
 
