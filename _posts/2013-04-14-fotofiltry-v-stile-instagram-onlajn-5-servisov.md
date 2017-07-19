@@ -34,28 +34,29 @@ tags:
 1. [PicMonkey](http://www.picmonkey.com/) &#8211; представляет из себя полноценный графический редактор содержащий в себе не только фотофильтры, но и множество других полезных инструментов. Подробнее о сервисе, можно почитать на нашем сайте.
 
 <center>
-  <a href="{{site.img_cdn}}/redaktor_picmonkey.png"><img src="{{site.img_cdn}}/redaktor_picmonkey-300x203.png" alt="веб-редактор picmonkey" class="aligncenter size-medium wp-image-6974" srcset="{{site.img_cdn}}/redaktor_picmonkey-300x203.png 300w, {{site.img_cdn}}/redaktor_picmonkey-1024x694.png 1024w, {{site.img_cdn}}/redaktor_picmonkey.png 1058w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/UO-B2nCEIP.png"><img src="https://cldup.com/AqmpaqM8dB.png" alt="веб-редактор picmonkey" class="aligncenter size-medium wp-image-6974" srcset="https://cldup.com/AqmpaqM8dB.png 300w, {{site.img_cdn}}/redaktor_picmonkey-1024x694.png 1024w, https://cldup.com/UO-B2nCEIP.png 1058w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 2. <a href="http://pixlr.com/o-matic/" target="_blank">Pixlr-o-matic</a> &#8211; пожалуй, данный сервис даже превосходит Instagram по количеству фильтров и возможностей. Помимо фотоэффектов, веб-инструмент позволяет добавить текстуру, рамку и текст к вашему фото. Удобный и красивый интерфейс делает работу с сервисом приятной.
 
 <center>
-  <a href="{{site.img_cdn}}/pixlromatic_filtr.jpg"><img src="{{site.img_cdn}}/pixlromatic_filtr-300x277.jpg" alt="веб-редактор pixlromatic" class="aligncenter size-medium wp-image-7016" srcset="{{site.img_cdn}}/pixlromatic_filtr-300x277.jpg 300w, {{site.img_cdn}}/pixlromatic_filtr.jpg 755w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/8IAvdKNFtI.jpg"><img src="https://cldup.com/xa_wZJqFoS.jpg" alt="веб-редактор pixlromatic" class="aligncenter size-medium wp-image-7016" srcset="https://cldup.com/xa_wZJqFoS.jpg 300w, https://cldup.com/8IAvdKNFtI.jpg 755w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 3. <a href="http://www.rollip.com/" target="_blank">Rollip</a> &#8211; еще один хороший инструмент с большим количеством различных фильтров, эффектов, рамок и удобным пользовательским интерфейсом.
 
 <center>
-  <a href="{{site.img_cdn}}/effekti_instagram_rollip.jpg"><img src="{{site.img_cdn}}/effekti_instagram_rollip-300x208.jpg" alt="онлайн редактор rollip" class="aligncenter size-medium wp-image-7013" srcset="{{site.img_cdn}}/effekti_instagram_rollip-300x208.jpg 300w, {{site.img_cdn}}/effekti_instagram_rollip-1024x710.jpg 1024w, {{site.img_cdn}}/effekti_instagram_rollip.jpg 1099w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/KkfDi71VUy.jpg"><img src="https://cldup.com/-Uv5x1Fud6.jpg" alt="онлайн редактор rollip" class="aligncenter size-medium wp-image-7013" srcset="https://cldup.com/-Uv5x1Fud6.jpg 300w, {{site.img_cdn}}/effekti_instagram_rollip-1024x710.jpg 1024w, https://cldup.com/KkfDi71VUy.jpg 1099w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 4. <a href="http://www.instantretro.com/" target="_blank">Instant Retro</a> &#8211; еще один неплохой онлайн-инструмент с стильным многофункциональным интерфейсом.
 
 <center>
+  <a href="https://cldup.com/CC5d89xmn1.jpg"><img src="https://cldup.com/duP5LcvssC.jpg" alt="фотофильтры онлайн" class="aligncenter size-medium wp-image-7014" srcset="https://cldup.com/duP5LcvssC.jpg 300w, {{site.img_cdn}}/instant_retrofilters-1024x665.jpg 1024w, https://cldup.com/CC5d89xmn1.jpg 1136w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
 
 5. <a href="http://www.picfull.com/" target="_blank">PicFull</a> &#8211; еще более простой редактор. Слева список фильтров с настройкам, справа превью.
 
 <center>
-  <a href="{{site.img_cdn}}/instant_retrofilters.jpg"><img src="{{site.img_cdn}}/instant_retrofilters-300x194.jpg" alt="фотофильтры онлайн" class="aligncenter size-medium wp-image-7014" srcset="{{site.img_cdn}}/instant_retrofilters-300x194.jpg 300w, {{site.img_cdn}}/instant_retrofilters-1024x665.jpg 1024w, {{site.img_cdn}}/instant_retrofilters.jpg 1136w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="{{site.img_cdn}}/picfull_filtri.jpg"><img src="{{site.img_cdn}}/picfull_filtri-300x220.jpg" alt="минималистичный онлайн-редактор" class="aligncenter size-medium wp-image-7015" srcset="{{site.img_cdn}}/picfull_filtri-300x220.jpg 300w, {{site.img_cdn}}/picfull_filtri-1024x753.jpg 1024w, {{site.img_cdn}}/picfull_filtri.jpg 1194w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="https://cldup.com/eUQaZrwD_K.jpg"><img src="https://cldup.com/lpgXjVRt08.jpg" alt="минималистичный онлайн-редактор" class="aligncenter size-medium wp-image-7015" srcset="https://cldup.com/lpgXjVRt08.jpg 300w, {{site.img_cdn}}/picfull_filtri-1024x753.jpg 1024w, https://cldup.com/eUQaZrwD_K.jpg 1194w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </center>
