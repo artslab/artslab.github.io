@@ -20,9 +20,11 @@ tags:
   - firefox
   - google chrome
   - дополнение
+update_date: 2017-07-20 10:00:00
+amp: true
 ---
 <center>
-  <a href="{{site.img_cdn}}/proxtube_youtube.jpeg"><img src="{{site.img_cdn}}/proxtube_youtube-300x149.jpg" alt="просмотр заблокированных видео на youtube" title="proxtube_youtube" width="300" height="149" class="aligncenter size-medium wp-image-5589" /></a>
+  <amp-img src="https://cldup.com/059GdVUGYW.jpg" alt="просмотр заблокированных видео на youtube" title="proxtube_youtube" width="300" height="149"></amp-img>
 </center>
 
 Ранее я уже [представлял](http://artslab.info/obzoryi-saytov/prosmotr-zablokirovannyx-video-na-youtube-s-pomoshhyu-servisa-videodropper/ "Просмотр заблокированных видео на Youtube с помощью сервиса Videodropper") [несколько](http://artslab.info/sovetyi/eto-video-ne-dostupno-dlya-prosmotra-kak-smotret-zablokirovannoe-video-s-youtube/ "Это видео не доступно для просмотра — как смотреть заблокированное видео с youtube") решений для просмотра недоступных видео на YouTube, но сегодняшний вариант является самым простым и элегантным.

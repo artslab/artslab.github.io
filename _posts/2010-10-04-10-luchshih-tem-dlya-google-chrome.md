@@ -21,6 +21,7 @@ categories:
 tags:
   - google chrome
   - темы
+update_date: 2017-07-20 10:00:00
 ---
 Собрал десятку лучших, на мой взгляд, тем для браузера Google Chrome.
 
@@ -31,7 +32,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/Aurora_Grass_Chrome_Theme.jpg"><img class="aligncenter size-medium wp-image-606" title="Aurora_Grass_Chrome_Theme" src="{{site.img_cdn}}/Aurora_Grass_Chrome_Theme-300x195.jpg" alt="aurora grass тема для google chrome" width="300" height="195" srcset="{{site.img_cdn}}/Aurora_Grass_Chrome_Theme-300x195.jpg 300w, {{site.img_cdn}}/Aurora_Grass_Chrome_Theme.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/rFdQVN81tT.jpg"><img class="aligncenter size-medium wp-image-606" title="Aurora_Grass_Chrome_Theme" src="https://cldup.com/_hn-qJbN_4.jpg" alt="aurora grass тема для google chrome" width="300" height="195" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -39,7 +40,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/auqa.png"><img class="aligncenter size-medium wp-image-607" title="aqua стеклянная тема для google chrome" src="{{site.img_cdn}}/auqa-300x259.png" alt="" width="300" height="259" srcset="{{site.img_cdn}}/auqa-300x259.png 300w, {{site.img_cdn}}/auqa.png 893w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/WfKniiEDZg.png"><img class="aligncenter size-medium wp-image-607" title="aqua стеклянная тема для google chrome" src="https://cldup.com/jIwsAoiNQI.png" alt="" width="300" height="259" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -47,7 +48,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/Chrome_Leopard_by_hsn.jpg"><img class="aligncenter size-medium wp-image-608" title="Chrome_Leopard_by_hsn" src="{{site.img_cdn}}/Chrome_Leopard_by_hsn-300x200.jpg" alt="" width="300" height="200" srcset="{{site.img_cdn}}/Chrome_Leopard_by_hsn-300x200.jpg 300w, {{site.img_cdn}}/Chrome_Leopard_by_hsn.jpg 905w" sizes="(max-width: 300px) 100vw, 300px" /></a><!--more-->
+  <a href="https://cldup.com/4MkQimhWbs.jpg"><img class="aligncenter size-medium wp-image-608" title="Chrome_Leopard_by_hsn" src="https://cldup.com/RCiMrCNpPq.jpg" alt="" width="300" height="200"  /></a>
 </p>
 
 <p style="text-align: center;">
@@ -55,7 +56,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/robot_theme.png"><img class="aligncenter size-medium wp-image-609" title="robot theme for google chrome" src="{{site.img_cdn}}/robot_theme-300x224.png" alt="" width="300" height="224" srcset="{{site.img_cdn}}/robot_theme-300x224.png 300w, {{site.img_cdn}}/robot_theme-1024x768.png 1024w, {{site.img_cdn}}/robot_theme.png 1036w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/tqtACKuZTl.png"><img class="aligncenter size-medium wp-image-609" title="robot theme for google chrome" src="https://cldup.com/QXeuGpzKfh.png" alt="" width="300" height="224" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -63,7 +64,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/ambiance_theme.png"><img class="aligncenter size-medium wp-image-610" title="ambiance_theme" src="{{site.img_cdn}}/ambiance_theme-300x209.png" alt="" width="300" height="209" srcset="{{site.img_cdn}}/ambiance_theme-300x209.png 300w, {{site.img_cdn}}/ambiance_theme-1024x716.png 1024w, {{site.img_cdn}}/ambiance_theme.png 1029w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/FNkzQcs9wQ.png"><img class="aligncenter size-medium wp-image-610" title="ambiance_theme" src="https://cldup.com/AyCEusVM0e.png" alt="" width="300" height="209" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -71,7 +72,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/graphc.png"><img class="aligncenter size-medium wp-image-611" title="graphc" src="{{site.img_cdn}}/graphc-300x169.png" alt="" width="300" height="169" srcset="{{site.img_cdn}}/graphc-300x169.png 300w, {{site.img_cdn}}/graphc.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/gJIKBj0iTT.png"><img class="aligncenter size-medium wp-image-611" title="graphc" src="https://cldup.com/qQfZF7YPpA.png" alt="" width="300" height="169" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -79,7 +80,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga.jpg"><img class="aligncenter size-medium wp-image-612" title="Aero_Theme прозрачная тема для google chrome" src="{{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga-300x268.jpg" alt="" width="300" height="268" srcset="{{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga-300x268.jpg 300w, {{site.img_cdn}}/Aero_Theme___CRX_Version_1_5_by_Stamga.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/UiadiZGpXl.jpg"><img class="aligncenter size-medium wp-image-612" title="Aero_Theme прозрачная тема для google chrome" src="https://cldup.com/-G52SgqOzs.jpg" alt="" width="300" height="268" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -87,7 +88,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger.jpg"><img class="aligncenter size-medium wp-image-613" title="ShinyWhite_for_Google_Chrome_by_Pigletiger" src="{{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger-300x177.jpg" alt="" width="300" height="177" srcset="{{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger-300x177.jpg 300w, {{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger-1024x606.jpg 1024w, {{site.img_cdn}}/ShinyWhite_for_Google_Chrome_by_Pigletiger.jpg 1086w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/hhEvzAeX-H.jpg"><img class="aligncenter size-medium wp-image-613" title="ShinyWhite_for_Google_Chrome_by_Pigletiger" src="https://cldup.com/hOpuSLMJ7Y.jpg" alt="" width="300" height="177" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -95,7 +96,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/dark_atmosphere_by_Clyronom.jpg"><img class="aligncenter size-medium wp-image-614" title="dark_atmosphere_by_Clyronom" src="{{site.img_cdn}}/dark_atmosphere_by_Clyronom-300x173.jpg" alt="" width="300" height="173" /></a>
+  <a href="https://cldup.com/cDuSIGFzD7.jpg"><img class="aligncenter size-medium wp-image-614" title="dark_atmosphere_by_Clyronom" src="https://cldup.com/7sWUG1J0Ja.jpg" alt="" width="300" height="173" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -103,7 +104,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/avatar.png"><img class="aligncenter size-medium wp-image-615" title="avatar тема для google chrome" src="{{site.img_cdn}}/avatar-300x216.png" alt="" width="300" height="216" srcset="{{site.img_cdn}}/avatar-300x216.png 300w, {{site.img_cdn}}/avatar.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/kdP2j_qBLK.png"><img class="aligncenter size-medium wp-image-615" alt="avatar тема для google chrome" src="https://cldup.com/IpMUvxtchA.png" width="300" height="216" /></a>
 </p>
 
 UPD:
@@ -115,11 +116,11 @@ UPD:
 </p>
 
 <p style="text-align: center;">
-  <a href="{{site.img_cdn}}/foxy_theme.png"><img src="{{site.img_cdn}}/foxy_theme-300x206.png" alt="" title="foxy_theme" width="300" height="206" class="alignnone size-medium wp-image-681" srcset="{{site.img_cdn}}/foxy_theme-300x206.png 300w, {{site.img_cdn}}/foxy_theme.png 950w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/QOn3h2wAQt.png"><img src="https://cldup.com/lajqte4uRq.png" alt="" title="foxy_theme" width="300" height="206" class="alignnone size-medium wp-image-681" /></a>
 </p>
 
 12. Тема в стиле игры <a href="https://chrome.google.com/webstore/detail/minecraft-origins/ooemofofigijedhcifaimglnncjmckaa" target="_blank">Minecraft</a>
 
 <center>
-  <a href="{{site.img_cdn}}/minecraft_tema.png"><img src="{{site.img_cdn}}/minecraft_tema-300x192.png" alt="minecraft_tema" class="aligncenter size-medium wp-image-7359" srcset="{{site.img_cdn}}/minecraft_tema-300x192.png 300w, {{site.img_cdn}}/minecraft_tema.png 672w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/omw9hunn8a.png"><img src="https://cldup.com/Mb3DoB3WvW.png" alt="minecraft_tema" class="aligncenter size-medium wp-image-7359" /></a>
 </center>

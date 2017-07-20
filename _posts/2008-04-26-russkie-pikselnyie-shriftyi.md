@@ -21,10 +21,12 @@ categories:
 tags:
   - fonts
   - shriftyi
+update_date: 2017-07-20 10:00:00
+amp: true
 ---
-<p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-306" title="pix_fonts" src="{{site.img_cdn}}/pix_fonts.gif" alt="скачать пиксельные шрифты" width="370" height="442" srcset="{{site.img_cdn}}/pix_fonts.gif 370w, {{site.img_cdn}}/pix_fonts-251x300.gif 251w" sizes="(max-width: 370px) 100vw, 370px" />
-</p>
+<center>
+  <amp-img class="aligncenter size-full wp-image-306" title="pix_fonts" src="https://cldup.com/p5zE1yPPyB.gif" alt="скачать пиксельные шрифты" width="370" height="442"></amp-img>
+</center>
 
 Собрал несколько пиксельных шрифтов, которые поддерживают кириллицу. Запаковал их в один <a href="http://www.box.net/shared/i26kfrls00" target="_blank">небольшой архив</a>(~90 kb).
 
