@@ -20,10 +20,11 @@ tags:
   - grabber
   - video
   - youtube
+amp: true
 ---
-<p style="text-align: center">
-  <img src="{{site.img_cdn}}/clipnabber.jpg" title="clipnabber - как скачать видео с youtube" alt="clipnabber" border="0" />
-</p>
+<center>
+  <amp-img src="https://cldup.com/4BQUGXT65M.jpg" title="clipnabber - как скачать видео с youtube" alt="clipnabber" border="0"></amp-img>
+</center>
 
 [ClipNabber](http://clipnabber.com/) &#8211; это еще один **сервис**, который позволяет без особого труда сохранить любое **видео** с YouTube, Metacafe, MySpace, Google Video. Чтобы скачать ролик достачно ввести его адрес и нажать &#8220;NabVideo&#8221;, после чего появится ссылка, по которой можно **сохранить видео** к себе на жесткий диск (формат *.flv).<a href="http://clipnabber.com/" title="перейти на сайт" target="_blank"></a>
 

@@ -18,9 +18,10 @@ tags:
   - icons
   - mac os
   - yosemite
+amp: true
 ---
 <center>
-  <a href="{{site.img_cdn}}/ikonki_v_stile_macosx.jpg"><img src="{{site.img_cdn}}/ikonki_v_stile_macosx-300x224.jpg" alt="иконки в стиле yosemite" class="aligncenter size-medium wp-image-8335" srcset="{{site.img_cdn}}/ikonki_v_stile_macosx-300x224.jpg 300w, {{site.img_cdn}}/ikonki_v_stile_macosx-1024x767.jpg 1024w, {{site.img_cdn}}/ikonki_v_stile_macosx-900x674.jpg 900w, {{site.img_cdn}}/ikonki_v_stile_macosx.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/vlWEbupCrB.jpg"><amp-img src="https://cldup.com/Bfw8_4e1oX.jpg" alt="иконки в стиле yosemite" class="aligncenter size-medium wp-image-8335" width="300" height="224"></amp-img></a>
 </center>
 
 Хочу порекомендовать красивейший набор иконок в стиле операционной системы Mac OS X Yosemite. Набор включает в себя 35 иконок популярных программ (ряд инструментов от Adobe, Skype, Telegram, Steam, Transmit, Twitter и другие) в формате ICNS, в том числе и в @2x-размере для владельцев Retina-дисплеев. Скачать набор Muir можно бесплатно [с сайта автора](http://dewith.com/2015/muir-the-master-collection/).
