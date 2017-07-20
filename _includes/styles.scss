@@ -232,14 +232,14 @@ body {
   width: 300px;
   margin-top: 30px;
 
-  @include respond-to(1000) {
+  @include respond-to(1200) {
     width: auto;
   }
 }
 
 #sidebar > a {
   float: left;
-  @include respond-to(1000) {
+  @include respond-to(1200) {
     margin-right: 10px;
   }
   @include respond-to(650) {
