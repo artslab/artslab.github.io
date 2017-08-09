@@ -595,6 +595,15 @@ pre {
      margin-right: 0;
    }
 
+   #searchButton {
+     paddign: 0.3em 0.6em;
+     background-color: #0B5485;
+     border: 1px solid #f6f5ea;
+     margin-left: 0;
+     color: #fff;
+     -webkit-appearance: none;
+     border-radius: 0;
+   }
 
    #archives {
      line-height: 2;
@@ -912,7 +921,6 @@ body.lb-disable-scrolling {
   padding: 5px;
   color: #fff;
   -webkit-appearance: none;
-  cursor: pointer;
 }
 
 amp-img {
