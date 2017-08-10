@@ -7,4 +7,3 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jekyll-gist'
 gem 'jekyll-compose', group: [:jekyll_plugins]
-gem 'github-pages'
