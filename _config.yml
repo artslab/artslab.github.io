@@ -30,6 +30,8 @@ github_username: 4gray
 img_cdn: http://artslab.kissr.com/img
 github_img: http://artslab.info/images
 
+exclude: [vendor]
+
 # Build settings
 markdown: kramdown
 
