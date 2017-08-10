@@ -1,3 +1,0 @@
-# ArtsLab 
-
-Blog artslab.info
