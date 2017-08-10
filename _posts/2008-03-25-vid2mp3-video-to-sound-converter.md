@@ -23,11 +23,9 @@ tags:
   - video
 ---
 <center>
-   <img STYLE="width: 189px; height: 118px" HEIGHT="118" WIDTH="189" BORDER="0" TITLE="снятие звуковой дорожки с видео" ALT="снятие звуковой дорожки с видео" SRC="{{site.img_cdn}}/vid2mp3.gif" />
+   <amp-img height="118" width="189" title="снятие звуковой дорожки с видео" alt="снятие звуковой дорожки с видео" src="https://cldup.com/Hu61gv_s0K.png"></amp-img>
 </center>
 
+<a target="_blank" href="http://www.vidtomp3.com/index.php">Vid2Mp3</a> &#8211; это сервис, который извлечь и сохранить звуковую дорожку с любого видеоролика, размещенного на одном из видео хостингов (вроде youtube) в формате в mp3.
 
-
-<a TARGET="_blank" HREF="http://www.vidtomp3.com/index.php">Vid2Mp3</a> &#8211; это сервис, который позволит Вам сохранить звуковую дорожку с любого видеоролика, размещенного на одном из видео хостингов (вроде youtube), в формате в mp3.
-
-<a TARGET="_blank" HREF="http://www.vidtomp3.com/index.php">Перейти на сайт</a>
+<a target="_blank" href="http://www.vidtomp3.com/index.php">Перейти на сайт</a>
