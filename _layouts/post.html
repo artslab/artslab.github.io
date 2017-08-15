@@ -11,8 +11,6 @@ layout: default
         {% for cat in page.categories %}
           {% if cat == category.slug %}
             <a href="/category/{{category.slug}}" class="category-meta">{{category.name}}</a>
-          {% else %}
-            <a href="/category/{{cat}}" class="category-meta">{{cat}}</a>
           {% endif %}
         {% endfor %}
       {% endfor %}

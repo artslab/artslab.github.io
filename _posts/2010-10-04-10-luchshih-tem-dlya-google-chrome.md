@@ -17,7 +17,7 @@ dsq_thread_id:
 cover:
   - 7352
 categories:
-  - Все для Google Chrome
+  - google-chrome
 tags:
   - google chrome
   - темы

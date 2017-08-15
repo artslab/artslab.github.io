@@ -20,7 +20,7 @@ categories:
 tags:
   - logo
   - vector
-  - логотипы
+  - logos
 ---
 <center>
   <a href="{{site.img_cdn}}/besplatnie_logotipi.jpg"><img src="{{site.img_cdn}}/besplatnie_logotipi.jpg" alt="скачать бесплатные логотипы вектор" title="besplatnie_logotipi" width="300" height="124" class="alignnone size-full wp-image-952" /></a>

@@ -17,7 +17,7 @@ cover:
 dsq_thread_id:
   - 1565024080
 categories:
-  - Все для Google Chrome
+  - google-chrome
   - wordpress
 tags:
   - google chrome

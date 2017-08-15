@@ -14,6 +14,7 @@ dsq_thread_id:
   - 1563329459
 categories:
   - podborki
+  - sublime-text
 tags:
   - sublime-text
 ---

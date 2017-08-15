@@ -1,14 +1,70 @@
+- name: Шрифты
+  slug: shriftyi
+- name: Кисти для Photoshop
+  slug: kisti-dlya-photoshop
+- name: Иконки
+  slug: ikonki
+- name: Шаблоны для сайтов
+  slug: shablonyi
+- name: Стили для Photoshop
+  slug: stili-dlya-photoshop
+- name: Скины для программ
+  slug: software-skins
+- name: Программы
+  slug: programmyi
+- name: Онлайн-сервисы
+  slug: onlayn-servisyi
+- name: Советы и лайфхаки
+  slug: sovetyi
+- name: Статьи
+  slug: stati
+- name: Расширения для Firefox
+  slug: rasshireniya-dlya-firefox
+- name: Уроки Photoshop
+  slug: uroki-photoshop
+- name: Полезные подборки
+  slug: podborki
+- name: Векторная графика
+  slug: vector
+- name: Обзоры сайтов
+  slug: obzoryi-saytov
+- name: PSD исходники
+  slug: ishodniki-psd
+- name: Web 2.0
+  slug: web20
+- name: Обои для рабочего стола
+  slug: oboi
+- name: Креативные работы
+  slug: kreativnyie-rabotyi
+- name: Все для Wordpress
+  slug: wordpress
+- name: Patterns
+  slug: patterns
+- name: Новости
+  slug: news
+- name: Приложения для iOS
+  slug: prilozheniya-dlya-ipod-touchiphone
+- name: Все для Google Chrome
+  slug: google-chrome
+- name: Темы для Windows
+  slug: themes-windows
+- name: Сниппеты с кодом
+  slug: snippety
+- name: Социальные сети
+  slug: socialnye-seti
+- name: Логотипы
+  slug: logos
+- name: Приложения для Android
+  slug: Prilozheniya-dlya-android
+- name: Все для Windows 8
+  slug: Windows 8
+- name: Оформления групп ВКонтакте
+  slug: menu-design-vkontakte
 - name: Все для macOs
   slug: macosx
 - name: Jekyll
   slug: jekyll
 - name: Sublime Text
   slug: sublime-text
-- name: Шрифты
-  slug: shriftyi
-- name: Кисти для Photoshop
-  slug: kisti-dlya-photoshop
-- name: Сниппеты с кодом
-  slug: snippety
-- name: Статьи
-  slug: stati
+- name: Electron
+  slug: electron

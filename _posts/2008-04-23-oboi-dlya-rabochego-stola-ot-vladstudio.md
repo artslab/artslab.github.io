@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565015774
 categories:
-  - Oboi
+  - oboi
 tags:
   - wallpapers
   - Обои для рабочего стола

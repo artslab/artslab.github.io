@@ -15,7 +15,7 @@ dsq_thread_id:
 cover:
   -
 categories:
-  - Все для Google Chrome
+  - google-chrome
 tags:
   - google chrome
   - дизайн

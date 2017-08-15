@@ -11,7 +11,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1576251585
 categories:
-  - Все для Google Chrome
+  - google-chrome
 tags:
   - google
   - google chrome

@@ -4,7 +4,7 @@ author: serEga
 layout: post
 permalink: /electron/oversetter-translator-app/
 categories:
-  - Electron
+  - electron
   - macosx
 tags:
   - electron

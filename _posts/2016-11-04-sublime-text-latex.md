@@ -4,7 +4,7 @@ author: serEga
 layout: post
 permalink: /sublime/sublime-text-latex/
 categories:
-  - Sublime Text
+  - sublime-text
 tags:
   - sublime text
   - latex

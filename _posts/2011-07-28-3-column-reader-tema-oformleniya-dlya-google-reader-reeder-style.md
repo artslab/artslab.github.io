@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1571580135
 categories:
-  - Все для Google Chrome
+  - google-chrome
 tags:
   - google reader
   - тема

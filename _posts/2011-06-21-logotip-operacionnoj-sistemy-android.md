@@ -19,7 +19,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565016774
 categories:
-  - Логотипы
+  - logos
 tags:
   - android
   - psd

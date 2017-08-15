@@ -19,7 +19,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1570156650
 categories:
-  - Логотипы
+  - logos
 tags:
   - apple
   - psd

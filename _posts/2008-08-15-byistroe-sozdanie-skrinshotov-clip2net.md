@@ -20,7 +20,7 @@ dsq_thread_id:
   - 1565015840
 categories:
   - onlayn-servisyi
-  - Программы
+  - programmyi
 tags:
   - onlayn-servisyi
   - программа
