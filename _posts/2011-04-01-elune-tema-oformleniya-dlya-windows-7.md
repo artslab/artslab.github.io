@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565025043
 categories:
-  - Темы для Windows XP
+  - Темы для Windows
 tags:
   - customize
   - visual style

@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1580832910
 categories:
-  - Темы для Windows XP
+  - Темы для Windows
 tags:
   - customize
   - windows 7

@@ -22,7 +22,7 @@ tags:
 Возможности CSS3 открывают огромный ряд новых возможностей перед веб-дизайнерами. Сегодня я хотел бы поделиться с вами один из примеров, где используются несколько интересных свойств для создания прозрачной (стеклянной) кнопки с различными тенями. Результат выглядит примерно так:
 
 <center>
-  <img src="{{site.img_cdn}}/css3_prozrachnaya_knopka.jpg" alt="стеклянная кнопка на css3" title="css3_prozrachnaya_knopka" width="497" height="232" class="aligncenter size-full wp-image-6349" srcset="{{site.img_cdn}}/css3_prozrachnaya_knopka.jpg 497w, {{site.img_cdn}}/css3_prozrachnaya_knopka-300x140.jpg 300w" sizes="(max-width: 497px) 100vw, 497px" />
+  <img src="https://cldup.com/v1qLwv_kHh.jpg" alt="стеклянная кнопка на css3" title="css3_prozrachnaya_knopka" width="497" height="232" class="aligncenter size-full"  />
 </center>
 
 Создадим div-контейнер с ссылкой в html-файле, которая и станет нашей кнопкой. Для этого присвоим ей какой-нибудь CSS-класс, например, button:
@@ -82,7 +82,7 @@ tags:
 {% endhighlight %}
 
 <center>
-  <a href="{{site.img_cdn}}/transparent_btn_css3.jpg"><img src="{{site.img_cdn}}/transparent_btn_css3-300x216.jpg" alt="стеклянная кнопка с помощью css3" title="transparent_btn_css3" width="300" height="216" class="aligncenter size-medium wp-image-6355" srcset="{{site.img_cdn}}/transparent_btn_css3-300x216.jpg 300w, {{site.img_cdn}}/transparent_btn_css3.jpg 761w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/9RkcP0wvB1.jpg"><img src="https://cldup.com/tW-mRxxUAm.jpg" alt="стеклянная кнопка с помощью css3" title="transparent_btn_css3" width="300" height="216" class="aligncenter size-medium" /></a>
 </center>
 
 # Демо:

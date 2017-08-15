@@ -15,7 +15,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565023968
 categories:
-  - news
+  - Wordpress
 tags:
   - plugin
   - wordpress

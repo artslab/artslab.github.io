@@ -417,9 +417,9 @@ body {
       font-weight: 400;
       font-style: normal;
       font-size: 18px;
-      line-height: 30px;
+      line-height: 25px;
       margin-left: 30px;
-      margin-bottom: 12px;
+      margin-bottom: 5px;
       padding-top: 2px;
       p {
         padding: 0 0 golden-ratio(1rem, 1);
@@ -939,4 +939,9 @@ li.category-title {
 
 li.category-title a {
     color: #d2341e;
+}
+
+.post-excerpt a {
+    color: #333333;
+    text-decoration: underline;
 }

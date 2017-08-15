@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563647665
 categories:
-  - Темы для Windows XP
+  - Темы для Windows
 tags:
   - google chrome
   - windows 7

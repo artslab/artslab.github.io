@@ -1,0 +1,14 @@
+- name: Все для macOs
+  slug: macosx
+- name: Jekyll
+  slug: jekyll
+- name: Sublime Text
+  slug: sublime-text
+- name: Шрифты
+  slug: shriftyi
+- name: Кисти для Photoshop
+  slug: kisti-dlya-photoshop
+- name: Сниппеты с кодом
+  slug: snippety
+- name: Статьи
+  slug: stati

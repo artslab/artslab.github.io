@@ -21,7 +21,7 @@ tags:
   - приложение
 ---
 <center>
-  <a href="{{site.img_cdn}}/gauth_app.png"><img src="{{site.img_cdn}}/gauth_app-300x118.png" alt="приложение gauth" title="gauth_app" width="300" height="118" class="aligncenter size-medium wp-image-5307" srcset="{{site.img_cdn}}/gauth_app-300x118.png 300w, {{site.img_cdn}}/gauth_app-1024x404.png 1024w, {{site.img_cdn}}/gauth_app.png 1107w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/T5TKMWVotc.png"><img src="https://cldup.com/iNNsT6hSjZ.png" alt="приложение gauth" title="gauth_app" width="300" height="118" class="aligncenter size-medium" /></a>
 </center>
 
 Если Вы пользуетесь двухэтапной авторизацей на различных веб-сервисах (а возможно даже и [на своем сайте](http://artslab.info/wordpress/dvuxetapnaya-avtorizaciya-v-svoem-bloge-wordpress/ "Двухэтапная авторизация в своем блоге (WordPress)")), то возможно бывали в таких ситуациях, когда было необходимо зайти в свой аккаунт, но под рукой не было смартфона с гугловским приложением, либо подвел слабый аккумулятор.

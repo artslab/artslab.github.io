@@ -15,8 +15,6 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1565022454
 categories:
-  - news
-  - Вектор
   - skriptyi
 tags:
   - javascript

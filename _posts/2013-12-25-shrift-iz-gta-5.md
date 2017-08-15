@@ -22,6 +22,8 @@ tags:
 ---
 По просьбе одного из посетителей, делюсь шрифтом из одной из самых долгожданных и популярных игр 2013 года &#8211; Grand Theft Auto 5. К сожалению, шрифт не поддерживает кириллицу.
 
-<img src="{{site.img_cdn}}/gta-5-shrift.jpg" alt="шрифт из gta 5" class="aligncenter size-medium wp-image-7989" width="450" />
+<center>
+  <img src="https://cldup.com/M6bQXGJHXm.jpg" alt="шрифт из gta 5" class="aligncenter size-medium wp-image-7989" width="550" />
+</center>
 
 [Скачать Pricedown Font](https://app.box.com/s/9h76ag4nt1oap3eg50wq)
