@@ -19,7 +19,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1583789206
 categories:
-  - Логотипы
+  - logos
 tags:
   - google chrome
   - логотип

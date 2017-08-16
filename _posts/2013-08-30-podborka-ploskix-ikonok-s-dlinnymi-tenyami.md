@@ -20,7 +20,7 @@ tags:
   - ikonki
 ---
 <center>
-  <a href="{{site.img_cdn}}/minimalizm_flat.jpg"><img src="{{site.img_cdn}}/minimalizm_flat-300x147.jpg" alt="минимализм" class="aligncenter size-medium wp-image-7796" srcset="{{site.img_cdn}}/minimalizm_flat-300x147.jpg 300w, {{site.img_cdn}}/minimalizm_flat.jpg 782w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/nRjAwf2J0F.jpg"><img src="https://cldup.com/K5fIjjDOpf.jpg" alt="минимализм" class="aligncenter size-medium" /></a>
 </center>
 
 Flat-дизайн продолжает оставаться популярным, многие сайты и приложения устраивают редизайн для того чтобы их проекты соответствовали последним трендам. Особенно это касается мобильных приложений, например, вчера полностью обновился дизайн iOS-версий приложения [Мой Мир@Mail.ru](https://itunes.apple.com/ru/app/moj-mir-mail.ru/id598556821) и угадайте в каком стиле теперь оформлено это приложение.
@@ -34,7 +34,7 @@ Flat-дизайн продолжает оставаться популярным
 Long Shadow Flat Icon Set <a href="http://www.hongkiat.com/blog/long-shadow-flat-icons/" target="_blank">By Simon Rahm</a> в формате AI
 
 <center>
-  <a href="{{site.img_cdn}}/long-shadow-flat-icons.jpg"><img src="{{site.img_cdn}}/long-shadow-flat-icons-300x200.jpg" alt="app icons flat" class="aligncenter size-medium wp-image-7790" srcset="{{site.img_cdn}}/long-shadow-flat-icons-300x200.jpg 300w, {{site.img_cdn}}/long-shadow-flat-icons.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/H6XeliVvjb.jpg"><img src="https://cldup.com/cmr1IZjJGd.jpg" alt="app icons flat" class="aligncenter size-medium wp-image-7790" /></a>
 </center>
 
 <a href="http://www.webdesignerdepot.com/2013/08/free-download-modern-long-shadow-icons/" target="_blank">Modern long shadow icons</a>
