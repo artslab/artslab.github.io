@@ -11,7 +11,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1574778087
 categories:
-  - Windows 8
+  - vse-dlya-windows
 tags:
   - windows
   - софт

@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1587907914
 categories:
-  - stili-dlya-photoshop
+  - kisti-dlya-photoshop
 tags:
   - css3
   - photoshop
@@ -26,8 +26,5 @@ tags:
 Материал уже был упомянут в [нашей группе](http://vk.com/wall-880171_637), а вот на сайте я о нем еще не писал.
 
 Бесплатный плагин [CSS3Ps](http://css3ps.com/) для Adobe Photoshop поможет вам без особых усилий и знаний в области CSS, переконвертировать стили слоев из фотошопа и выдать их в виде CSS3-кода. Посмотреть как работает плагин можно в небольшом видеоролике от самих разработчиков.
-
-<center>
-</center>
 
 Плагин CSS3Ps доступен для платформ Windows и Mac OS X и совместим с версиями Photoshop CS3-CS6.

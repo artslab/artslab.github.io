@@ -15,7 +15,7 @@ dsq_thread_id:
 cover:
   - 7357
 categories:
-  - Windows 8
+  - vse-dlya-windows
 tags:
   - windows 8
   - софт

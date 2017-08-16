@@ -55,9 +55,9 @@
 - name: Логотипы
   slug: logos
 - name: Приложения для Android
-  slug: Prilozheniya-dlya-android
+  slug: prilozheniya-dlya-android
 - name: Все для Windows 8
-  slug: Windows 8
+  slug: vse-dlya-windows
 - name: Оформления групп ВКонтакте
   slug: menu-design-vkontakte
 - name: Все для macOs

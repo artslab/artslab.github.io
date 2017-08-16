@@ -13,7 +13,7 @@ wpb_post_views_count:
 dsq_thread_id:
   - 1563715779
 categories:
-  - Windows 8
+  - vse-dlya-windows
 tags:
   - visual style
   - windows 8
