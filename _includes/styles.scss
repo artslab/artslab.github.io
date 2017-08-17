@@ -927,21 +927,25 @@ amp-img {
   margin-left:5px;
 }
 
-ul.category-list {
+ul.category-list, ul.related-list {
     padding: 0;
     color: #fb5942;
     margin-left: 20px;
 }
 
-li.category-title {
+li.category-title, li.related-item {
     padding: 5px;
 }
 
-li.category-title a {
+li.category-title a, li.related-item a {
     color: #d2341e;
 }
 
 .post-excerpt a {
     color: #333333;
     text-decoration: underline;
+}
+
+.related-title {
+  margin-bottom: 0;
 }

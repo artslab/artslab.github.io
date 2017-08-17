@@ -21,7 +21,7 @@ tags:
   - темы
 ---
 <center>
-  <a href="{{site.img_cdn}}/designi_dlya_twitter.jpg"><img src="{{site.img_cdn}}/designi_dlya_twitter-300x58.jpg" alt="темы оформления для твиттера" title="designi_dlya_twitter" width="300" height="58" class="aligncenter size-medium wp-image-4639" srcset="{{site.img_cdn}}/designi_dlya_twitter-300x58.jpg 300w, {{site.img_cdn}}/designi_dlya_twitter.jpg 476w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img src="https://cldup.com/j2FRea9bss.jpg" alt="темы оформления для твиттера" title="designi_dlya_twitter" class="aligncenter size-medium" />
 </center>
 
 Хотел бы представить еще один сервис для пользователей твиттера &#8211; <a href="http://www.tweetxilla.com/" target="_blank">TweetXilla</a>, который поможет вам найти подходящее оформление для твиттер-аккаунта и тем самым сделать его еще красивее. На сайте собрано огромное количество готовых тем в разных стилях. Всем, кто ще неуспел украсить свои аккаунт или хочет обновить его вид, рекомендую заглянуть, возможно найдете для себя что-нибудь красивое =)
@@ -33,21 +33,13 @@ tags:
 Простой и легкий дизайн сайта с большой коллекцией каверов и отличной функцией предпросмотра.
 
 <center>
-  <a href="{{site.img_cdn}}/design_oblozhki.png"><img src="{{site.img_cdn}}/design_oblozhki-300x213.png" alt="бесплатные каверы" class="aligncenter size-medium wp-image-7396" srcset="{{site.img_cdn}}/design_oblozhki-300x213.png 300w, {{site.img_cdn}}/design_oblozhki-1024x729.png 1024w, {{site.img_cdn}}/design_oblozhki.png 1161w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
-
-### <a href="http://www.twitbacks.com/" target="_blank">TwitBacks</a>
-
-Сайт содержит большую коллекцию готовых фонов для Ваших страничек, рассортированных по соответствующим категориям.
-
-<center>
-  <a href="{{site.img_cdn}}/temi_dlya_twittera.png"><img src="{{site.img_cdn}}/temi_dlya_twittera-300x202.png" alt="оформление твиттера" class="aligncenter size-medium wp-image-7391" srcset="{{site.img_cdn}}/temi_dlya_twittera-300x202.png 300w, {{site.img_cdn}}/temi_dlya_twittera.png 956w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/rPW6SCI65q.jpeg"><img src="https://cldup.com/c7toQI7yN7.jpg" alt="бесплатные каверы" class="aligncenter size-medium wp-image-7396" /></a>
 </center>
 
 ### <a href="http://twitpaper.com/" target="_blank">TwitPaper</a>
 
-Премиум темы для оформления профиля, много качественных и красивых стилей.
+Премиум темы для оформления профиля, много качественных и красивых стилей. Сайт содержит большую коллекцию готовых фонов для Ваших страничек, рассортированных по соответствующим категориям.
 
 <center>
-  <a href="{{site.img_cdn}}/oformit_twitter.png"><img src="{{site.img_cdn}}/oformit_twitter-300x193.png" alt="дизайн для твитера" class="aligncenter size-medium wp-image-7392" srcset="{{site.img_cdn}}/oformit_twitter-300x193.png 300w, {{site.img_cdn}}/oformit_twitter.png 1015w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cldup.com/f9hSykBGLL.png"><img src="https://cldup.com/APQ_CiWeio.png" alt="дизайн для твитера" class="aligncenter size-medium wp-image-7392" /></a>
 </center>

@@ -21,10 +21,8 @@ tags:
 Очередной CSS сниппет позволяющий создать размытый текст (blurry text). Добавим немного анимаций при наведении на текст для того чтобы размытый текст плавно переходил в четкую типографию.
 
 <center>
-  <a href="{{site.img_cdn}}/razmitii_tekst.png"><img src="{{site.img_cdn}}/razmitii_tekst-300x64.png" alt="размытие текста на css" class="aligncenter size-medium wp-image-7860" srcset="{{site.img_cdn}}/razmitii_tekst-300x64.png 300w, {{site.img_cdn}}/razmitii_tekst.png 580w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <img src="https://cldup.com/s_N7qSNHKO.png" alt="размытие текста на css" class="aligncenter size-medium" />
 </center>
-
-
 
 <!--more-->
 
@@ -32,31 +30,30 @@ tags:
 
 {% highlight css %}
 
-h2 {
-	color: transparent;
-	text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-	font-size: 62px;
-	-webkit-transition: text-shadow 2.0 ease-out;
-	-moz-transition: text-shadow 2.0 ease-out;
-	-ms-transition: text-shadow 2.0 ease-out;
-	-o-transition: text-shadow 2.0 ease-out;
-	transition: text-shadow 2.0 ease-out;
-}
+	h2 {
+		color: transparent;
+		text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+		font-size: 62px;
+		-webkit-transition: text-shadow 2.0 ease-out;
+		-moz-transition: text-shadow 2.0 ease-out;
+		-ms-transition: text-shadow 2.0 ease-out;
+		-o-transition: text-shadow 2.0 ease-out;
+		transition: text-shadow 2.0 ease-out;
+	}
 
-h2:hover {
-	text-shadow: 0 0 0 rgba(0, 0, 0, 1);
-	-webkit-transition: text-shadow 0.5s;
-	-moz-transition: text-shadow 0.5s;
-	-ms-transition: text-shadow 0.5s;
-	-o-transition: text-shadow 0.5s;
-	transition: text-shadow 0.5s;
-	cursor: default;
-}
+	h2:hover {
+		text-shadow: 0 0 0 rgba(0, 0, 0, 1);
+		-webkit-transition: text-shadow 0.5s;
+		-moz-transition: text-shadow 0.5s;
+		-ms-transition: text-shadow 0.5s;
+		-o-transition: text-shadow 0.5s;
+		transition: text-shadow 0.5s;
+		cursor: default;
+	}
 
 {% endhighlight %}
 
 Демо:
 
-<p data-height="268" data-theme-id="414" data-slug-hash="gBAsk" data-user="4gray" data-default-tab="result" class='codepen'>
-  See the Pen <a href='http://codepen.io/4gray/pen/gBAsk'>Blurry Text</a> by 4gray (<a href='http://codepen.io/4gray'>@4gray</a>) on <a href='http://codepen.io'>CodePen</a>
-</p>
+<p data-height="300" data-theme-id="414" data-slug-hash="gBAsk" data-default-tab="css,result" data-user="4gray" data-embed-version="2" data-pen-title="Blurry Text" class="codepen">See the Pen <a href="https://codepen.io/4gray/pen/gBAsk/">Blurry Text</a> by 4gray (<a href="https://codepen.io/4gray">@4gray</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
