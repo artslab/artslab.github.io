@@ -58,7 +58,7 @@ amp-img {
     width: auto;
   }
   @include respond-to('large') {
-    width: 700px;
+    width: 680px;
   }
 }
 
@@ -228,7 +228,7 @@ body {
 }
 
 #sidebar {
-  float: left;
+  float: right;
   width: 300px;
   margin-top: 30px;
 
