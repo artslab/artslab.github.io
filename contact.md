@@ -14,5 +14,5 @@ dsq_thread_id:
 
 <form method="POST" action="http://formspree.io/fourgray@gmail.com" id="contact-form">
   <input type="email" name="email" placeholder="Ваша почта для ответа" class="contact-form-title">
-  <textarea name="message" placeholder="Сообщение" class="contact-form-text"></textarea><button type="submit" class="btn-send-email">Отправить</button>
+  <textarea name="message" placeholder="Сообщение" class="contact-form-text"></textarea><input type="submit" class="btn-send-email" value="Отправить">
 </form>
