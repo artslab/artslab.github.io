@@ -43,3 +43,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- _posts/build-jekyll-with-travis-ci.md
