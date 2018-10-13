@@ -23,7 +23,7 @@ amp: false
 Теперь рассмотрим конкретный пример. Для этого возьмём симпатичную темку (клон сервиса Ghost) под названием jasper2.
 
 1. Fork'аем репозиторий с темой: [https://github.com/jekyller/jasper2](https://github.com/jekyller/jasper2 "https://github.com/jekyller/jasper2")
-2. Сгенерируем токен на гитхабе, который будем использовать на Travis CI для доступа к нашему репозиторию с темой. Переходим на страницу -[https://github.com/settings/tokens](https://github.com/settings/tokens "https://github.com/settings/tokens") и нажимаем на "Generate new token". На открывшейся страничке ставим галочку напротив Repo, подтверждаем и копируем сгенерированный ключ.
+2. Сгенерируем токен на гитхабе, который будем использовать на Travis CI для доступа к нашему репозиторию с темой. Переходим на страницу - [Generate Tokens](https://github.com/settings/tokens "https://github.com/settings/tokens") и нажимаем на "Generate new token". На открывшейся страничке ставим галочку напротив Repo, подтверждаем и копируем сгенерированный ключ.
 
    ![]({{ site.baseurl }}/forestryio/images/github-generate-token.png)
 3. Переходим на travis-ci и если у вас нет аккаунта, то регистрируемся с помощью своего Github-аккаунта. Теперь переходим в настройки и активируем build для нашего репозитория. Там же в настройках создаём новую Environment Variable, присваиваем ей имя GITHUB_TOKEN и вставляем скопированный токен в значение переменной.
@@ -31,34 +31,29 @@ amp: false
    ![]({{ site.baseurl }}/forestryio/images/add-env-variable-travis-ci.png)
 4. Переходим обратно в наш репозиторий с темой jasper2, открываем/создаём файл .travis.yml и вставляем в него следующее содержание:
 
-   {% highlight html linenos %} 
-
-   {% raw %}
-
+   {% highlight html linenos %}{% raw %}
    language: ruby
    cache: bundler
    branches:
    only:
-   * master
+    - master
 
    script:
-   * JEKYLL_ENV=production bundle exec jekyll build --destination site
+    - JEKYLL_ENV=production bundle exec jekyll build --destination site
 
    deploy:
-   provider: pages
-   local-dir: ./site
-   target-branch: gh-pages
-   email: deploy@travis-ci.org
-   name: Deployment Bot
-   skip-cleanup: true
-   github-token: $GITHUB_TOKEN
-   keep-history: true
+      provider: pages
+      local-dir: ./site
+      target-branch: gh-pages
+      email: deploy@travis-ci.org
+      name: Deployment Bot
+      skip-cleanup: true
+      github-token: $GITHUB_TOKEN
+      keep-history: true
    on:
    branch: master
-
-   {% endraw %}
-
-    {% endhighlight %}
+   {% endraw %}{% endhighlight %}
+   
 5. В последнем шаге осталось зайти в настройки репозитория и активировать Github Pages, указав branch gh-pages в качестве источника.
 
    ![]({{ site.baseurl }}/forestryio/images/github-enable-jekyll.png)
