@@ -31,6 +31,10 @@ amp: false
    ![]({{ site.baseurl }}/forestryio/images/add-env-variable-travis-ci.png)
 4. Переходим обратно в наш репозиторий с темой jasper2, открываем/создаём файл .travis.yml и вставляем в него следующее содержание:
 
+   {% highlight html linenos %} 
+
+   {% raw %}
+
    language: ruby
    cache: bundler
    branches:
@@ -51,6 +55,10 @@ amp: false
    keep-history: true
    on:
    branch: master
+
+   {% endraw %}
+
+    {% endhighlight %}
 5. В последнем шаге осталось зайти в настройки репозитория и активировать Github Pages, указав branch gh-pages в качестве источника.
 
    ![]({{ site.baseurl }}/forestryio/images/github-enable-jekyll.png)
