@@ -9,7 +9,7 @@ categories:
 tags:
 - jekyll
 - deployment
-amp: false
+amp: true
 
 ---
 В одном из прошлых постов речь шла о локальной сборке блога на основе Jekyll, а так же о 'встроенной' сборке в самом репозиторий на Github Pages. В этот раз я хотел бы рассмотреть возможность автоматический сборки и деплоймента блога используя сервис Continious Integration - [Travis CI](https://travis-ci.org/).
@@ -25,10 +25,14 @@ amp: false
 1. Fork'аем репозиторий с темой: [https://github.com/jekyller/jasper2](https://github.com/jekyller/jasper2 "https://github.com/jekyller/jasper2")
 2. Сгенерируем токен на гитхабе, который будем использовать на Travis CI для доступа к нашему репозиторию с темой. Переходим на страницу - [Generate Tokens](https://github.com/settings/tokens "https://github.com/settings/tokens") и нажимаем на "Generate new token". На открывшейся страничке ставим галочку напротив Repo, подтверждаем и копируем сгенерированный ключ.
 
-   ![]({{ site.baseurl }}/forestryio/images/github-generate-token.png)
+   <center>
+      <amp-img src="{{ site.baseurl }}/forestryio/images/github-generate-token.png" width="600" height="161" alt="генерация токена на github" layout="responsive"></amp-img>
+   </center>
 3. Переходим на travis-ci и если у вас нет аккаунта, то регистрируемся с помощью своего Github-аккаунта. Теперь переходим в настройки и активируем build для нашего репозитория. Там же в настройках создаём новую Environment Variable, присваиваем ей имя GITHUB_TOKEN и вставляем скопированный токен в значение переменной.
 
-   ![]({{ site.baseurl }}/forestryio/images/add-env-variable-travis-ci.png)
+   <center>
+      <amp-img src="{{ site.baseurl }}/forestryio/images/add-env-variable-travis-ci.png" width="700" height="174" alt="настройки на travis CI" layout="responsive"></amp-img>
+   </center>
 4. Переходим обратно в наш репозиторий с темой jasper2, открываем/создаём файл .travis.yml и вставляем в него следующее содержание:
 
    {% highlight html linenos %}{% raw %}
@@ -53,9 +57,10 @@ amp: false
    on:
    branch: master
    {% endraw %}{% endhighlight %}
-   
 5. В последнем шаге осталось зайти в настройки репозитория и активировать Github Pages, указав branch gh-pages в качестве источника.
 
-   ![]({{ site.baseurl }}/forestryio/images/github-enable-jekyll.png)
+   <center>
+      <amp-img src="{{ site.baseurl }}/forestryio/images/github-enable-jekyll.png" width="500" height="336" alt="настройки на github" layout="responsive"></amp-img>
+   </center>
 
 На этом всё. Теперь после каждого коммита Travis CI будет запускать процесс сборки и делать push собранной версий блога в ветку gh-pages. Если перейти на страницу с коммитами на гитхабе, можно увидеть иконку статуса сборки.
