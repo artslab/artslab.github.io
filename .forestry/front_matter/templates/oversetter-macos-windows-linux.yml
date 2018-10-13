@@ -44,4 +44,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/build-jekyll-with-travis-ci.md
+- _posts/2018-10-12-build-jekyll-with-travis-ci.md
