@@ -44,4 +44,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/sync-vs-code-settings-between-devices.md
 - _posts/2018-10-12-build-jekyll-with-travis-ci.md
