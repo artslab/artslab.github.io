@@ -1,32 +1,34 @@
 ---
 id: 8338
 title: Создаем ToDo-приложение на основе Electron и AngularJs
-date: 2015-08-05T18:03:09+00:00
-update_date: 2016-09-26 12:42:00
+date: 2015-08-05 18:03:09 +0000
+update_date: 2016-09-26 12:42:00 +0000
 author: serEga
 layout: post
 guid: http://artslab.info/?p=8338
-permalink: /stati/sozdaem-todo-prilozhenie-na-osnove-electron-i-angularjs/
+permalink: "/stati/sozdaem-todo-prilozhenie-na-osnove-electron-i-angularjs/"
 cover:
-  - 8345
+- 8345
 wpb_post_views_count:
-  - 2464
+- 2464
 dsq_thread_id:
-  - 4005674254
+- 4005674254
 categories:
-  - stati
+- stati
 tags:
-  - angularjs
-  - electron
-  - javascript
-  - material design
----
+- angularjs
+- electron
+- javascript
+- material design
 
+---
 Давно хотел познакомиться с <a href="https://github.com/atom/electron/" target="_blank">Electron</a>, платформой для создания десктопных приложений на основе веб-технологий, но до этого момента никак не доходили руки. Сегодня мы создадим небольшое ToDo-приложение и используем для этого JavaScript-фреймворк <a href="https://angularjs.org/" target="_blank">AngularJs</a> в связке с гугловским <a href="https://material.angularjs.org" target="_blank">Material Design’ом</a>. Код готового приложения доступен на <a href="https://github.com/4gray/electronTodoApp" target="_blank">Github</a>.
 
 <center>
-  <a href="{{site.img_cdn}}/electron-todo-app.jpg" data-lightbox="img-1"><img src="{{site.img_cdn}}/electron-todo-app-300x234.jpg" alt="todo-приложения на основе electron и angularjs" class="aligncenter size-medium wp-image-8341" srcset="{{site.img_cdn}}/electron-todo-app-300x234.jpg 300w, {{site.img_cdn}}/electron-todo-app-900x702.jpg 900w, {{site.img_cdn}}/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
+
+![todo-приложения на основе electron и angularjs]({{ site.baseurl }}/forestryio/images/electron-todo-app-300x234.jpg)
+
+ </center>
 
 <!--more-->
 
@@ -42,24 +44,24 @@ tags:
 
     var app = require('app'); // Module to control application life.
     var BrowserWindow = require('browser-window'); // Module to create native browser window.
-
+    
     // Keep a global reference of the window object, if you don't, the window will
     // be closed automatically when the JavaScript object is GCed.
     var mainWindow = null;
-
+    
     // This method will be called when Electron has finished
     // initialization and is ready to create browser windows.
-
+    
     app.on('ready', function() {
       // Create the browser window.
       mainWindow = new BrowserWindow({width: 800, height: 600, resizable: false});
-
+    
       // and load the index.html of the app.
       mainWindow.loadUrl('file://' + __dirname + '/index.html');
-
+    
       // Open the devtools.
       mainWindow.openDevTools();
-
+    
       // Emitted when the window is closed.
       mainWindow.on('closed', function() {
         // Dereference the window object, usually you would store windows
@@ -71,15 +73,15 @@ tags:
 
 {% endhighlight %}
 
-Теперь создадим index.html в котором будет находиться внешний вид нашего приложения. Для начала просто поместим в него строку текста &#8220;Hello world&#8221; и для проверки запустим наше приложение с помощью команды:
+Теперь создадим index.html в котором будет находиться внешний вид нашего приложения. Для начала просто поместим в него строку текста “Hello world” и для проверки запустим наше приложение с помощью команды:
 
 <pre>electron app.js</pre>
 
 <center>
-  <a href="{{site.img_cdn}}/electron-todo-prilozhenie-start.jpg" data-lightbox="img-2"><img src="{{site.img_cdn}}/electron-todo-prilozhenie-start-300x234.jpg" alt="первый старт приложения" width="300" height="234" class="aligncenter size-medium wp-image-8339" srcset="{{site.img_cdn}}/electron-todo-prilozhenie-start-300x234.jpg 300w, {{site.img_cdn}}/electron-todo-prilozhenie-start-900x702.jpg 900w, {{site.img_cdn}}/electron-todo-prilozhenie-start.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
 
-Теперь скачаем необходимые нам библиотеки &#8211; AngularJs, Angular Material, а так же веб-шрифт с иконками <a href="https://www.google.com/design/icons/" target="_blank">Material Icons</a>. Для этого можем воспользоваться менеджером пакетов npm:
+![первый старт приложения]({{ site.baseurl }}/forestryio/images/electron-todo-prilozhenie-start-300x234.jpg) </center>
+
+Теперь скачаем необходимые нам библиотеки – AngularJs, Angular Material, а так же веб-шрифт с иконками <a href="https://www.google.com/design/icons/" target="_blank">Material Icons</a>. Для этого можем воспользоваться менеджером пакетов npm:
 
 <pre>npm install angular
 npm install angular-material</pre>
@@ -90,35 +92,35 @@ npm install angular-material</pre>
 
 {% highlight html %}
 
-  <!DOCTYPE html>
-  <html ng-app="todoApp">
-  <head>
-  <title>My Todo App</title>
-  <link rel="stylesheet" type="text/css" href="node_modules/angular-material/angular-material.min.css">
+<!DOCTYPE html>
+<html ng-app="todoApp">
+<head>
+<title>My Todo App</title>
+<link rel="stylesheet" type="text/css" href="node_modules/angular-material/angular-material.min.css">
 
-  <!-- Web Font with Material Icons -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Web Font with Material Icons -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-  <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
-  <script type="text/javascript" src="node_modules/angular-animate/angular-animate.min.js"></script>
-  <script type="text/javascript" src="node_modules/angular-aria/angular-aria.min.js"></script>
-  <script type="text/javascript" src="node_modules/angular-material/angular-material.min.js"></script>
-  <script type="text/javascript" src="main.js"></script>
+<script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+<script type="text/javascript" src="node_modules/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="node_modules/angular-aria/angular-aria.min.js"></script>
+<script type="text/javascript" src="node_modules/angular-material/angular-material.min.js"></script>
+<script type="text/javascript" src="main.js"></script>
 
-  </head>
+</head>
 
-  <body layout="column" ng-controller="AppCtrl" style="background: #eee">
+<body layout="column" ng-controller="AppCtrl" style="background: #eee">
 
     <!-- Toolbar with title -->
     <md-toolbar layout="row">
       <h1 class="md-toolbar-tools">{{options.name}} &#8211; {{options.show}}</h1>
     </md-toolbar>
-
+    
     <div layout="row" flex>
-
+    
     <!-- Sidebar with navigation -->
     <md-sidenav layout="column" class="md-sidenav-left md-whiteframe-z2" md-component-id="left" md-is-locked-open="$mdMedia(&#8216;gt-sm&#8217;)">
-
+    
       <md-content>
         <md-list>
           <md-list-item ng-repeat="navItem in navigationBarItems" ng-click="setContent(navItem.title)">
@@ -128,13 +130,13 @@ npm install angular-material</pre>
           </md-list-item>
         </md-list>
       </md-content>
-
+    
     </md-sidenav>
-
+    
       <div layout="column" flex id="content">
-
+    
         <!-- all tasks -->
-
+    
         <md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | orderBy: &#8216;done&#8217;" ng-if="options.show === &#8216;All tasks&#8217;">
           <md-card-content>
             <md-checkbox aria-label="{{task.title}}" ng-model="task.done">
@@ -143,9 +145,9 @@ npm install angular-material</pre>
             </md-checkbox>
           </md-card-content>
         </md-card>
-
+    
         <!-- todo -->
-
+    
         <md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | filter: { done: false }" ng-if="options.show === &#8216;Todo&#8217;">
           <md-card-content>
             <md-checkbox aria-label="{{task.title}}" ng-model="task.done">
@@ -153,7 +155,7 @@ npm install angular-material</pre>
             </md-checkbox>
           </md-card-content>
         </md-card>
-
+    
         <!-- done tasks -->
         <md-card flex-gt-sm="90" flex-gt-md="80" ng-repeat="task in myTasks | filter: { done: true }" ng-if="options.show === &#8216;Done&#8217;">
           <md-card-content>
@@ -162,13 +164,13 @@ npm install angular-material</pre>
             </md-checkbox>
           </md-card-content>
         </md-card>
-
+    
       </div>
-
+    
     </div>
 
-  </body>
-  </html>
+</body>
+</html>
 
 {% endhighlight %}
 
@@ -182,18 +184,18 @@ npm install angular-material</pre>
         name: 'My Todo List',
         show: 'All tasks'
       };
-
+    
       $scope.navigationBarItems = [
         {'title': 'All tasks', 'icon': 'list'},
         {'title': 'Todo', 'icon': 'assignment'},
         {'title': 'Done', 'icon': 'done'}
       ];
-
+    
       $scope.myTasks = [
         {'title': 'Learn AngularJs', 'done': false},
         {'title': 'Create first app with Electron', 'done': true}
       ];
-
+    
       $scope.setContent = function (content) {
         $scope.options.show = content;
       };
@@ -206,8 +208,8 @@ npm install angular-material</pre>
 <pre>electron app.js</pre>
 
 <center>
-  <a href="{{site.img_cdn}}/electro-pervoe-prilozhenie.jpg" data-lightbox="img-3"><img src="{{site.img_cdn}}/electro-pervoe-prilozhenie-300x234.jpg" alt="создание приложение на основе electron" class="aligncenter size-medium wp-image-8343" srcset="{{site.img_cdn}}/electro-pervoe-prilozhenie-300x234.jpg 300w, {{site.img_cdn}}/electro-pervoe-prilozhenie-900x702.jpg 900w, {{site.img_cdn}}/electro-pervoe-prilozhenie.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
+
+![создание приложение на основе electron]({{ site.baseurl }}/forestryio/images/electro-pervoe-prilozhenie-300x234.jpg) </center>
 
 На данный момент у нас отображаются все три пункта меню с иконками и две задачи, которые мы поместили в наш массив. Кроме того, мы можем переключаться между тремя созданными списками (все задачи, предстоящий и сделанные).
 
@@ -217,9 +219,9 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-  <md-button class="md-fab md-fab-bottom-right" aria-label="Add" ng-click="showAdd($event)">
-    <md-icon md-font-set="material-icons">add</md-icon>
-  </md-button>
+<md-button class="md-fab md-fab-bottom-right" aria-label="Add" ng-click="showAdd($event)">
+<md-icon md-font-set="material-icons">add</md-icon>
+</md-button>
 
 {% endhighlight %}
 
@@ -227,7 +229,7 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-  app.controller('AppCtrl', ['$scope', '$mdDialog', '$mdToast', function($scope, $mdDialog, $mdToast) {…}
+app.controller('AppCtrl', \['$scope', '$mdDialog', '$mdToast', function($scope, $mdDialog, $mdToast) {…}
 
 {% endhighlight %}
 
@@ -235,17 +237,17 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-  $scope.showAdd = function(ev) {
-    $mdDialog.show({
-      controller: AddDialogCtrl,
-      template: '<md-dialog aria-label="User Form"> <md-content class="md-padding"> <form name="userForm"> <md-input-container> <label>New Task</label> <input ng-model="newTask" placeholder="Placeholder text"> </md-input-container> </form> </md-content> <div class="md-actions" layout="row"> <span flex></span> <md-button ng-click="cancel()"> Cancel </md-button> <md-button ng-click="add(newTask)" class="md-primary"> Add task </md-button> </div></md-dialog>',
-      targetEvent: ev,
-    })
-    .then(function(task) {
-      $scope.addTask(task);
-      $mdToast.showSimple('Task “' + task + '” was added!');
-    });
-  };
+$scope.showAdd = function(ev) {
+$mdDialog.show({
+controller: AddDialogCtrl,
+template: '<md-dialog aria-label="User Form"> <md-content class="md-padding"> <form name="userForm"> <md-input-container> <label>New Task</label> <input ng-model="newTask" placeholder="Placeholder text"> </md-input-container> </form> </md-content> <div class="md-actions" layout="row"> <span flex></span> <md-button ng-click="cancel()"> Cancel </md-button> <md-button ng-click="add(newTask)" class="md-primary"> Add task </md-button> </div></md-dialog>',
+targetEvent: ev,
+})
+.then(function(task) {
+$scope.addTask(task);
+$mdToast.showSimple('Task “' + task + '” was added!');
+});
+};
 
 {% endhighlight %}
 
@@ -253,21 +255,21 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-  function AddDialogCtrl($scope, $mdDialog) {
+function AddDialogCtrl($scope, $mdDialog) {
 
     $scope.hide = function() {
       $mdDialog.hide();
     };
-
+    
     $scope.cancel = function() {
       $mdDialog.cancel();
     };
-
+    
     $scope.add = function(task) {
       $mdDialog.hide(task);
     };
 
-  }
+}
 
 {% endhighlight %}
 
@@ -275,53 +277,53 @@ npm install angular-material</pre>
 
 {% highlight javascript %}
 
-  $scope.addTask = function (task) {
-    $scope.myTasks.unshift({
-      'title': task,
-      'done': false
-    });
-  };
+$scope.addTask = function (task) {
+$scope.myTasks.unshift({
+'title': task,
+'done': false
+});
+};
 
 {% endhighlight %}
 
 <center>
-  <a href="{{site.img_cdn}}/electron-dobavit-novuju-zadachu.jpg" data-lightbox="img-4"><img src="{{site.img_cdn}}/electron-dobavit-novuju-zadachu-300x234.jpg" alt="todo-app - добавить новую задачу" class="aligncenter size-medium wp-image-8340" srcset="{{site.img_cdn}}/electron-dobavit-novuju-zadachu-300x234.jpg 300w, {{site.img_cdn}}/electron-dobavit-novuju-zadachu-900x702.jpg 900w, {{site.img_cdn}}/electron-dobavit-novuju-zadachu.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-</center>
+
+![todo-app - добавить новую задачу]({{ site.baseurl }}/forestryio/images/electron-dobavit-novuju-zadachu-300x234.jpg) </center>
 
 В итоге, у меня main.js выглядит следующим образом:
 
 {% highlight javascript %}
 
-  var app = angular.module('todoApp', ['ngMaterial']);
-  app.controller('AppCtrl', ['$scope', '$mdDialog', '$mdToast', function($scope, $mdDialog, $mdToast){
+var app = angular.module('todoApp', \['ngMaterial'\]);
+app.controller('AppCtrl', \['$scope', '$mdDialog', '$mdToast', function($scope, $mdDialog, $mdToast){
 
     $scope.options = {
       name: 'My Todo List',
       show: 'All tasks'
     };
-
+    
     $scope.navigationBarItems = [
       {'title’: 'All tasks', 'icon': 'list'},
       {'title’: 'Todo', 'icon': 'assignment'},
       {'title': 'Done', 'icon': 'done'}
     ];
-
+    
     $scope.myTasks = [
       {'title': 'Learn AngularJs', 'done': false},
       {'title': 'Create first app with Electron', 'done': true}
     ];
-
+    
     $scope.setContent = function (content) {
       $scope.options.show = content;
     };
-
+    
     $scope.addTask = function (task) {
       $scope.myTasks.unshift({
         'title': task,
         'done': false
       });
     };
-
+    
     $scope.showAdd = function(ev) {
       $mdDialog.show({
         controller: AddDialogCtrl,
@@ -333,24 +335,26 @@ npm install angular-material</pre>
         $mdToast.showSimple('Task “' + task + '” was added!');
       });
     };
-  }]);
-  function AddDialogCtrl($scope, $mdDialog) {
-      $scope.hide = function() {
-       $mdDialog.hide();
-      };
+
+}\]);
+function AddDialogCtrl($scope, $mdDialog) {
+$scope.hide = function() {
+$mdDialog.hide();
+};
 
       $scope.cancel = function() {
         $mdDialog.cancel();
       };
-
+    
       $scope.add = function(task) {
         $mdDialog.hide(task);
       }
-  }
+
+}
 
 {% endhighlight %}
 
-[<img src="{{site.img_cdn}}/electron-todo-app-300x234.jpg" alt="создание приложения на основе electron" class="aligncenter size-medium wp-image-8341" srcset="{{site.img_cdn}}/electron-todo-app-300x234.jpg 300w, {{site.img_cdn}}/electron-todo-app-900x702.jpg 900w, {{site.img_cdn}}/electron-todo-app.jpg 912w" sizes="(max-width: 300px) 100vw, 300px" />]({{site.img_cdn}}/electron-todo-app.jpg)
+![создание приложения на основе electron]({{ site.baseurl }}/forestryio/images/electron-todo-app-300x234.jpg)
 
 На этом пока что все, экспериментируй, расширяйте возможности 🙂 Для сохранения списка дел, например, можно воспользоваться local storage (модуль ngStorage). Весь код данного приложения доступен на [github](https://github.com/4gray/electronTodoApp).
 
