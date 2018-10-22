@@ -24,11 +24,7 @@ tags:
 ---
 Давно хотел познакомиться с <a href="https://github.com/atom/electron/" target="_blank">Electron</a>, платформой для создания десктопных приложений на основе веб-технологий, но до этого момента никак не доходили руки. Сегодня мы создадим небольшое ToDo-приложение и используем для этого JavaScript-фреймворк <a href="https://angularjs.org/" target="_blank">AngularJs</a> в связке с гугловским <a href="https://material.angularjs.org" target="_blank">Material Design’ом</a>. Код готового приложения доступен на <a href="https://github.com/4gray/electronTodoApp" target="_blank">Github</a>.
 
-<center>
-
 ![todo-приложения на основе electron и angularjs]({{ site.baseurl }}/forestryio/images/electron-todo-app-300x234.jpg)
-
- </center>
 
 <!--more-->
 
@@ -77,9 +73,7 @@ tags:
 
 <pre>electron app.js</pre>
 
-<center>
-
-![первый старт приложения]({{ site.baseurl }}/forestryio/images/electron-todo-prilozhenie-start-300x234.jpg) </center>
+![первый старт приложения]({{ site.baseurl }}/forestryio/images/electron-todo-prilozhenie-start-300x234.jpg) 
 
 Теперь скачаем необходимые нам библиотеки – AngularJs, Angular Material, а так же веб-шрифт с иконками <a href="https://www.google.com/design/icons/" target="_blank">Material Icons</a>. Для этого можем воспользоваться менеджером пакетов npm:
 
@@ -207,9 +201,7 @@ npm install angular-material</pre>
 
 <pre>electron app.js</pre>
 
-<center>
-
-![создание приложение на основе electron]({{ site.baseurl }}/forestryio/images/electro-pervoe-prilozhenie-300x234.jpg) </center>
+![создание приложение на основе electron]({{ site.baseurl }}/forestryio/images/electro-pervoe-prilozhenie-300x234.jpg) 
 
 На данный момент у нас отображаются все три пункта меню с иконками и две задачи, которые мы поместили в наш массив. Кроме того, мы можем переключаться между тремя созданными списками (все задачи, предстоящий и сделанные).
 
@@ -286,9 +278,7 @@ $scope.myTasks.unshift({
 
 {% endhighlight %}
 
-<center>
-
-![todo-app - добавить новую задачу]({{ site.baseurl }}/forestryio/images/electron-dobavit-novuju-zadachu-300x234.jpg) </center>
+![todo-app - добавить новую задачу]({{ site.baseurl }}/forestryio/images/electron-dobavit-novuju-zadachu-300x234.jpg) 
 
 В итоге, у меня main.js выглядит следующим образом:
 
