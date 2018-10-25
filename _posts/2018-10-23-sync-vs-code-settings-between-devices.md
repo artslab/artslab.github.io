@@ -19,7 +19,7 @@ amp: true
   src="{{ site.baseurl }}/forestryio/images/settings-sync-vscode.jpg" 
   width="128"
   height="128"
-  layout="responsive">
+  layout="fixed">
   <div fallback>offline</div>
   </amp-img>
 
