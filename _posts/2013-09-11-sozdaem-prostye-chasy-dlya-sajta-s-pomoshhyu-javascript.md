@@ -23,10 +23,8 @@ tags:
 Сегодня предлагаю небольшой сниппет, который позволит вам добавить простые часы на сайт, используя для этого немного JavaScript-кода. Пример можно увидеть на <a href="http://codepen.io/4gray/pen/prytd" target="_blank">Codepen</a>.
 
 <center>
-![]({{ site.baseurl }}/forestryio/images/chasi_dlya_saita.png)
+<img src="{{site.baseurl}}/forestryio/images/chasi_dlya_saita.png" />
 </center>
-
-<!--more-->
 
 ### HTML:
 
@@ -36,25 +34,22 @@ tags:
 
 {% endhighlight %}
 
-Подготовим контейнер в котором будут отображаться чаи и присвоим ему id.
+Подготовим контейнер в котором будут отображаться часы и присвоим ему id.
 
 ### JS:
 
 {% highlight javascript %}
-
-setInterval(function(){
-  const date = new Date();
-  const format = [
-      (date.getHours()),
-      (date.getMinutes()<10?'0':'') + date.getMinutes()),
-      (date.getSeconds())
-  ].join(":");
-  document.getElementById("clock").innerHTML = format;
-}, 900);
-
+    setInterval(function(){  
+    	const date = new Date();  
+        const format = [      
+        	(date.getHours()),      
+        	(date.getMinutes()<10?'0':'') + date.getMinutes(),      
+        	(date.getSeconds())  ].join(":");  
+        document.getElementById("clock").innerHTML = format;
+    }, 900);
 {% endhighlight %}
 
-Код довольно-таки прост. Главное это создание класса Date и получение текущего времени с помощью трех функций getHours(), getMinutes и getSeconds(). И в конце вывод времени в зависимости от установленного интервала (900) в элемент с соответствующим id (#clock).
+Код довольно-таки прост. Главное это создание класса Date и получение текущего времени с помощью трех функций getHours(), getMinutes() и getSeconds(). И в конце вывод времени в зависимости от установленного интервала (900) в элемент с соответствующим id (#clock).
 
 ### Демо в песочнице:
 
