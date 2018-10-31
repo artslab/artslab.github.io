@@ -1,31 +1,30 @@
 ---
 id: 7910
 title: Создаем простые часы для сайта с помощью JavaScript
-date: 2013-09-11T13:33:42+00:00
+date: 2013-09-11 13:33:42 +0000
 author: serEga
 layout: post
 guid: http://artslab.info/?p=7910
-permalink: /snippety/sozdaem-prostye-chasy-dlya-sajta-s-pomoshhyu-javascript/
+permalink: "/snippety/sozdaem-prostye-chasy-dlya-sajta-s-pomoshhyu-javascript/"
 cover:
-  -
+- 
 wpb_post_views_count:
-  - 2222
+- 2222
 dsq_thread_id:
-  - 1748088489
+- 1748088489
 categories:
-  - snippety
+- snippety
 tags:
-  - js
-  - сниппет
-  - часы
+- js
+- сниппет
+- часы
+
 ---
 Сегодня предлагаю небольшой сниппет, который позволит вам добавить простые часы на сайт, используя для этого немного JavaScript-кода. Пример можно увидеть на <a href="http://codepen.io/4gray/pen/prytd" target="_blank">Codepen</a>.
 
 <center>
-  <a href="{{site.img_cdn}}/chasi_dlya_saita.png"><img src="{{site.img_cdn}}/chasi_dlya_saita-300x81.png" alt="часы для сайта на яваскрипт" class="aligncenter size-medium wp-image-7911" srcset="{{site.img_cdn}}/chasi_dlya_saita-300x81.png 300w, {{site.img_cdn}}/chasi_dlya_saita.png 680w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+![]({{ site.baseurl }}/forestryio/images/chasi_dlya_saita.png)
 </center>
-
-
 
 <!--more-->
 
@@ -44,15 +43,13 @@ tags:
 {% highlight javascript %}
 
 setInterval(function(){
-	var date = new Date();
-
-	var format = [
-		(date.getHours()),
-		(date.getMinutes()),
-		(date.getSeconds())
-	].join(":");
-
-	document.getElementById("clock").innerHTML = format;
+  const date = new Date();
+  const format = [
+      (date.getHours()),
+      (date.getMinutes()<10?'0':'') + date.getMinutes()),
+      (date.getSeconds())
+  ].join(":");
+  document.getElementById("clock").innerHTML = format;
 }, 900);
 
 {% endhighlight %}
@@ -61,6 +58,5 @@ setInterval(function(){
 
 ### Демо в песочнице:
 
-<p data-height="268" data-theme-id="414" data-slug-hash="prytd" data-user="4gray" data-default-tab="result" class='codepen'>
-  See the Pen <a href='http://codepen.io/4gray/pen/prytd'>Clock</a> by 4gray (<a href='http://codepen.io/4gray'>@4gray</a>) on <a href='http://codepen.io'>CodePen</a>
-</p>
+<p data-height="300" data-theme-id="414" data-slug-hash="prytd" data-default-tab="js,result" data-user="4gray" data-pen-title="Clock" class="codepen">See the Pen <a href="https://codepen.io/4gray/pen/prytd/">Clock</a> by 4gray (<a href="https://codepen.io/4gray">@4gray</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
