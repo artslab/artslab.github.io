@@ -32,7 +32,7 @@ amp: false
 
 После выполнения этих команд должна появиться примерно такая структура файлов и папок:
 
-![]({{ site.baseurl }}/forestryio/images/angular-library-structure.png)
+![скриншот visual studio code демонстрирубщий структуру приложения]({{ site.baseurl }}/forestryio/images/angular-library-structure.jpg "структура библиотеки")
 
 PS: Можно сразу удалить стандартный компонент с сервисом и тестами (файлы arts-lib.***.ts в папке ./projects/arts-lib/src/lib, и их импорты из ./projects/arts-lib/src/lib/public_api.ts и ./projects/arts-lib/src/lib/arts-lib.module.ts).
 
