@@ -1,13 +1,12 @@
 ---
-title: Create angular components library
+title: Создаем свою Angular библиотеку с UI компонентами
 date: 2018-12-25 00:00:00 +0100
 author: 4gray
 layout: post
-categories:
-- angular
-- " javascript"
+categories: []
 tags:
 - angular
+- javascript
 amp: false
 
 ---
