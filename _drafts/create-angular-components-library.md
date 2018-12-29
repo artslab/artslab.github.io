@@ -1,5 +1,5 @@
 ---
-title: Создаем свою Angular библиотеку с UI компонентами
+title: Create angular components library
 date: 2018-12-25 00:00:00 +0100
 author: 4gray
 layout: post
@@ -16,7 +16,7 @@ amp: false
 
 1. Создание нового проекта и генерация библиотеки
 2. Создание первого компонента и сборка библиотеки
-3. Публикация библиотеки на npmjs
+3. Публикация библиотеки на npmjs ([результат](https://www.npmjs.com/package/arts-lib))
 
 ## 1. Создание нового проекта и генерация библиотеки
 
@@ -119,7 +119,6 @@ PS: Можно сразу удалить стандартный компонен
            ]
        })
        export class ArtsLibModule { }
-       
 2. В файл public_api.ts:
 
        /*
@@ -127,38 +126,18 @@ PS: Можно сразу удалить стандартный компонен
         */
        
        export * from './lib/button/button.module';
-       
 
-Готово, собираем библиотеку в англуляр формате, который будет подходить для ее импорта в других приложения:
+Готово, собираем библиотеку в Angular-формате, который будет подходить для ее импорта в других приложения.
 
     $ ng build arts-lib
 
-Что же, теперь предлагаю проверить кнопку в нашем демо-проекте. Для этого находим файл app.component.html и добавляем туда наш компонент в нескольких цветах. Плюс привяжем функцию log() для клика:
+Что же, теперь предлагаю проверить кнопку в нашем демо-проекте. Для этого находим файл app.component.html и добавляем туда наш компонент в нескольких цветах и привяжем функцию для клика:
 
-    <al-button color="success" (buttonClick)="log($event)"></al-button>
-    <al-button color="warn" (buttonClick)="log($event)"></al-button>
-    <al-button color="info" (buttonClick)="log($event)"></al-button>
+    <al-button color="success" (buttonClick)="alert($event)"></al-button>
+    <al-button color="warn" (buttonClick)="alert($event)"></al-button>
+    <al-button color="info" (buttonClick)="alert($event)"></al-button>
 
-В модуле демо-приложения, соответственно, необходимо импортировать нашу библиотеку с модулем кнопки. Для этого открываем файл app.module.ts и добавляем в него следующее:
-
-    import { BrowserModule } from '@angular/platform-browser';
-    import { NgModule } from '@angular/core';
-    
-    import { AppComponent } from './app.component';
-    import { ButtonModule } from 'arts-lib';
-    
-    @NgModule({
-      declarations: [
-        AppComponent
-      ],
-      imports: [
-        ButtonModule,
-        BrowserModule
-      ],
-      providers: [],
-      bootstrap: [AppComponent]
-    })
-    export class AppModule { }
+В модуле демо-приложения соответственно нужно импортировать нашу библиотеку с модулем кнопки. Для этого открываем файл app.module.ts и добавляем следующее:
 
 Импортируем нашу кнопку в демо-приложение и запускаем его из командной строки с помощью команды "ng serve". Открываем [localhost:4200](http://localhost:4200) в бразуере для того чтобы проверить результат, должно получиться примерно так:
 
@@ -180,14 +159,18 @@ PS: Можно сразу удалить стандартный компонен
 
     $ npm publish
 
-Дожидаемся сообщения о успешной публикаций и переходим по ссылке в браузер чтобы посмотреть на наш модуль. У меня получилось так: [https://www.npmjs.com/package/arts-lib](https://www.npmjs.com/package/arts-lib "https://www.npmjs.com/package/arts-lib")
+Дожидаемся сообщения о успешной публикаций и переходим по ссылке в браузер чтобы посмотреть на наш модуль. У меня получилось так:
 
-Теперь для того чтобы использовать нашу библиотеку в стороннем проекте достаточно установить ее командой: 
+[https://www.npmjs.com/package/arts-lib](https://www.npmjs.com/package/arts-lib "https://www.npmjs.com/package/arts-lib")
+
+Теперь для того чтобы использовать компоненты из нашей библиотеки в стороннем проект достаточно установить ее с помощью:
 
     npm i arts-lib
 
-И импортировать модуль с компонентом:
+И затем импортировать модуль с нужным компонентом:
 
     import { ButtonModule } from 'arts-lib';
 
 На этом всё, если упустил что-то важное, то жду отзывов в комментариях.
+
+[Код проекта на Github](https://github.com/artslab/arts-lib)
