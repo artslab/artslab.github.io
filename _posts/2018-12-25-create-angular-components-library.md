@@ -3,6 +3,7 @@ title: Создаем свою Angular библиотеку с UI компоне
 date: 2018-12-25 00:00:00 +0100
 author: 4gray
 layout: post
+permalink: "/angular/create-angular-components-library"
 categories: []
 tags:
 - angular
