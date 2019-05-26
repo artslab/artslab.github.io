@@ -139,6 +139,25 @@ PS: Можно сразу удалить стандартный компонен
 
 В модуле демо-приложения соответственно нужно импортировать нашу библиотеку с модулем кнопки. Для этого открываем файл app.module.ts и добавляем следующее:
 
+    import { BrowserModule } from '@angular/platform-browser';
+    import { NgModule } from '@angular/core';
+
+    import { AppComponent } from './app.component';
+    import { ButtonModule } from 'arts-lib'; // <-- импорт модуля с кнопокой из библиотеки
+
+    @NgModule({
+    declarations: [
+        AppComponent
+    ],
+    imports: [
+        ButtonModule,
+        BrowserModule // <- импорт модуля с компонентом в приложение
+    ],
+    providers: [],
+    bootstrap: [AppComponent]
+    })
+    export class AppModule { }
+
 Импортируем нашу кнопку в демо-приложение и запускаем его из командной строки с помощью команды "ng serve". Открываем [localhost:4200](http://localhost:4200) в бразуере для того чтобы проверить результат, должно получиться примерно так:
 
 ![]({{ site.baseurl }}/forestryio/images/angular-library-component.png)
