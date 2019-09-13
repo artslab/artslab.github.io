@@ -1,7 +1,7 @@
 ---
 id: 120
 title: iMac и iPod исходные PSD файлы
-date: {}
+date: 2007-08-30T22:13:35+00:00
 author: serEga
 layout: post
 guid: 'http://artslab.info/?p=120'
