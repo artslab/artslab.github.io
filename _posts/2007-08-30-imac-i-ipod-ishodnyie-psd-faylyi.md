@@ -1,10 +1,10 @@
 ---
 id: 120
 title: iMac и iPod исходные PSD файлы
-date: 2007-08-30T22:13:35+00:00
+date: {}
 author: serEga
 layout: post
-guid: http://artslab.info/?p=120
+guid: 'http://artslab.info/?p=120'
 permalink: /ishodniki-psd/imac-i-ipod-ishodnyie-psd-faylyi/
 ljID:
   - 96
@@ -23,9 +23,10 @@ tags:
   - photoshop
   - psd
   - фотошоп
+published: true
 ---
 <p style="text-align: center">
-  <img src="http://img74.imageshack.us/img74/3406/13940482ea1.jpg" title="iMac psd" alt="iMac psd" border="0" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/61b4326a-da92-4346-afd8-393c2251b750/d10s22j-abf1e2d1-dd75-4e34-819c-d242119efe62.jpg" title="iMac psd" alt="iMac psd" border="0" />
 </p>
 
 <p style="text-align: center">
@@ -39,7 +40,7 @@ tags:
 * * *
 
 <p style="text-align: center">
-  <img src="http://img408.imageshack.us/img408/530/69121565jo8.jpg" alt="ImageShack" border="0" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3a16b55c-8e10-47fe-b975-540e1f082d06/d11wht4-9b836d72-34ae-4dfd-87c1-8d305ef74881.jpg" alt="ImageShack" border="0" />
 </p>
 
 <p style="text-align: center">
