@@ -29,6 +29,7 @@ twitter_username: artslab
 github_username: 4gray
 img_cdn: http://artslab.kissr.com/img
 github_img: http://artslab.info/images
+google_analytics: UA-511557-1
 
 exclude: [vendor]
 
