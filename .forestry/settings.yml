@@ -11,7 +11,7 @@ sections:
   label: '2019'
   create: all
   match: "**/2019-*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: _posts
   label: My articles 2018
