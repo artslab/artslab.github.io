@@ -34,6 +34,10 @@
   <script type="application/ld+json">
   {% include metadata.json %}
   </script>
+  
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 
   <style amp-custom>
   {% capture include_to_scssify %}
