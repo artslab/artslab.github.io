@@ -1,7 +1,6 @@
 ---
 label: Oversetter - бесплатное приложение переводчик (macOs, Windows, Linux)
-hide_body: 
-is_partial: 
+hide_body: false
 fields:
 - name: title
   label: Title
@@ -44,6 +43,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2018-10-12-build-jekyll-with-travis-ci.md
-- _posts/2018-10-23-sync-vs-code-settings-between-devices.md
 - _posts/2018-12-25-create-angular-components-library.md
+- _posts/2018-10-23-sync-vs-code-settings-between-devices.md
+- _posts/2018-10-12-build-jekyll-with-travis-ci.md
