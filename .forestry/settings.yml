@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Years
+- type: directory
+  path: _posts
+  label: '2019'
+  create: all
+  match: "**/2019-*"
+  new_doc_ext: ".md"
 - type: directory
   path: _posts
   label: My articles 2018
