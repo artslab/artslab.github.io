@@ -953,3 +953,61 @@ li.category-title a, li.related-item a {
 img {
     max-width: 100%;
 }
+
+
+@media (prefers-color-scheme: dark) {
+  html, body {
+    color: #bfbfbf;
+    background: #1a1a1a;
+  }
+
+  .blog-header  {
+    .blog-title, .blog-description {
+      color: #bfbfbf;
+    }
+  }
+
+  .content article {
+    border-bottom: 1px solid #292924;
+  }
+
+  .content article .post-title a {
+    color: #c0c0bf;
+  }
+
+  .post-excerpt a {
+    color: #bfbfbf;
+  }
+
+  #searchString {
+    border-color: #4d4d4d;
+  }
+
+  input, select, textarea, button {
+    color: #bfbfbf;
+    background-color: #1a1a1a;
+  }
+
+  .post {
+    .post-title,
+    .post-content,
+    .post-content p,
+    .post-content a.
+    .bottom-teaser .isLeft a {
+      color: #bfbfbf;
+    }
+  }
+
+  .highlight {
+    background-color: #664b00;
+    color: #b6c4c8;
+  }
+
+  li.category-title a, li.related-item a {
+    color: #e6a299;
+  }
+
+  .site-footer {
+    color: #bfbfbf;
+  }
+}
