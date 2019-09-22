@@ -68,3 +68,7 @@
   slug: sublime-text
 - name: Electron
   slug: electron
+- name: Angular
+  slug: angular
+- name: VS Code
+  slug: vscode

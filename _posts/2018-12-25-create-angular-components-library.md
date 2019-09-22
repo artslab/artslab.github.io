@@ -4,13 +4,14 @@ date: 2018-12-25 00:00:00 +0100
 author: 4gray
 layout: post
 permalink: "/angular/create-angular-components-library"
-categories: []
+categories:
+  - angular
 tags:
-- angular
-- javascript
+  - angularjs
+  - javascript
 amp: false
-
 ---
+
 Поработав какое-то время с фреймворком (в нашем случае речь пойдет о Angular) и разработав несколько приложений, рано или поздно приходишь к пониманию того, что многие компоненты можно сделать универсальными и вынести в свою отдельную библиотеку. В этой небольшой статье я хотел бы рассмотреть возможность создания такой библиотеки с помощью Angular CLI.
 Если вкратце, то отдельные шаги выглядят так:
 
@@ -34,7 +35,7 @@ amp: false
 
 ![скриншот visual studio code демонстрирубщий структуру приложения]({{ site.baseurl }}/forestryio/images/angular-library-structure.jpg "структура библиотеки")
 
-PS: Можно сразу удалить стандартный компонент с сервисом и тестами (файлы arts-lib.***.ts в папке ./projects/arts-lib/src/lib, и их импорты из ./projects/arts-lib/src/lib/public_api.ts и ./projects/arts-lib/src/lib/arts-lib.module.ts).
+PS: Можно сразу удалить стандартный компонент с сервисом и тестами (файлы arts-lib.\*\*\*.ts в папке ./projects/arts-lib/src/lib, и их импорты из ./projects/arts-lib/src/lib/public_api.ts и ./projects/arts-lib/src/lib/arts-lib.module.ts).
 
 ## 2. Создание компонента и сборка библиотеки
 
@@ -53,7 +54,7 @@ PS: Можно сразу удалить стандартный компонен
 В итоге у меня получился следующий компонент:
 
     import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
-    
+
     @Component({
         selector: 'al-button',
         template: `
@@ -64,17 +65,17 @@ PS: Можно сразу удалить стандартный компонен
         styleUrls: ['./button.component.css']
     })
     export class ButtonComponent {
-    
+
         /**
          * Type of the button
          */
         @Input() type: 'success' | 'info' | 'warn';
-    
+
         /**
          * Button click event
          */
         @Output() buttonClick = new EventEmitter<MouseEvent>();
-    
+
     }
 
 Плюс небольшой css файл с стилем и цветами кнопки:
@@ -107,25 +108,26 @@ PS: Можно сразу удалить стандартный компонен
 
 1. В файл arts-lib.module.ts:
 
-       import { NgModule } from '@angular/core';
-       import { ButtonModule } from 'arts-lib/arts-lib';
-       
-       @NgModule({
-           imports: [
-               ButtonModule
-           ],
-           exports: [
-               ButtonModule
-           ]
-       })
-       export class ArtsLibModule { }
+   import { NgModule } from '@angular/core';
+   import { ButtonModule } from 'arts-lib/arts-lib';
+
+   @NgModule({
+   imports: [
+   ButtonModule
+   ],
+   exports: [
+   ButtonModule
+   ]
+   })
+   export class ArtsLibModule { }
+
 2. В файл public_api.ts:
 
-       /*
-        * Public API Surface of arts-lib
-        */
-       
-       export * from './lib/button/button.module';
+   /\*
+   _ Public API Surface of arts-lib
+   _/
+
+   export \* from './lib/button/button.module';
 
 Готово, собираем библиотеку в Angular-формате, который будет подходить для ее импорта в других приложения.
 
@@ -164,7 +166,7 @@ PS: Можно сразу удалить стандартный компонен
 
 ## Публикация библиотеки на npmjs
 
-Для того чтобы опубликовать нашу библиотеку в качестве npm-модуля на npmjs, первым делом нам понадобиться [зарегистрироваться](https://www.npmjs.com/signup) на этом сайте. После этого переходим в командую строку и авторизируемся с помощью команды "npm login". Теперь перед тем как опубликовать нашу библиотеку, нужно убедиться в правильной версий, укажем вручную 1.0.0 или воспользуемся командой "$ npm version major" и увеличим major версию приложения. Так же следует указать и другие метаданные в файле package.json, например описание проекта, имя автора, адрес репозитория, лицензию и прочее.
+Для того чтобы опубликовать нашу библиотеку в качестве npm-модуля на npmjs, первым делом нам понадобиться [зарегистрироваться](https://www.npmjs.com/signup) на этом сайте. После этого переходим в командую строку и авторизируемся с помощью команды "npm login". Теперь перед тем как опубликовать нашу библиотеку, нужно убедиться в правильной версий, укажем вручную 1.0.0 или воспользуемся командой "\$ npm version major" и увеличим major версию приложения. Так же следует указать и другие метаданные в файле package.json, например описание проекта, имя автора, адрес репозитория, лицензию и прочее.
 
 Небольшое отступление, в качестве системы для автоматизированного управления версиями и генераций changelog'ов для ваших приложениях рекомендую использовать связку [semantic-release](https://github.com/semantic-release/semantic-release) + [commitlint](https://github.com/marionebl/commitlint) + [husky](https://github.com/typicode/husky) и при этом придерживаться одного стиля для сообщения в git коммитах (мне нравится Angular Commit Message Format), но это уже тема для отдельной статьи :-)
 
