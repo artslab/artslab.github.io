@@ -946,11 +946,20 @@ li.related-item {
 li.category-title a,
 li.related-item a {
   color: #d2341e;
+  text-decoration: none;
 }
 
 .post-excerpt a {
-  color: #333333;
-  text-decoration: underline;
+  color: #000;
+  text-decoration: none;
+}
+
+.post-title a:hover {
+    color: #666 !important;
+}
+
+.post-excerpt a:hover {
+    color: #999;
 }
 
 .related-title {
@@ -988,6 +997,7 @@ img {
     color: #c0c0bf;
   }
 
+  .content article .post-excerpt,
   .post-excerpt a {
     color: #bfbfbf;
   }
