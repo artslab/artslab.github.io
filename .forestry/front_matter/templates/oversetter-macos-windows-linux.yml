@@ -43,7 +43,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/nvm-dlya-pereklyucheniya-versii-nodejs.md
+- _posts/2019-09-27-nvm-dlya-pereklyucheniya-versii-nodejs.md
 - _posts/2018-12-25-create-angular-components-library.md
 - _posts/2018-12-25-create-angular-components-library.md
 - _posts/test.md
