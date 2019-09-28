@@ -1,6 +1,6 @@
 ---
 title: Быстрый переход на другую версию NodeJs с помощью NVM
-date: 2019-09-27 22:00:00 +0000
+date: 2019-09-27T22:00:00.000+00:00
 author: 4gra
 layout: post
 permalink: smena-versii-nodejs-s-pomoshyu-nvm
@@ -31,3 +31,5 @@ amp: true
 И проверяем используемую версию:
 
     $ node --version
+
+PS: Оставлю здесь ссылку на еще одну утилиту с аналогичным функционалом и скромным названием в видео одной буквы - [n](https://github.com/tj/n "https://github.com/tj/n")

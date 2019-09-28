@@ -9,13 +9,13 @@ sections:
   label: Tags
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: category
   label: Category
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: heading
   label: Years
 - type: directory
