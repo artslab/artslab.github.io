@@ -2,12 +2,12 @@
 title: Peacock для VS Code - "подсветка" проектов разными цветами
 author: 4gray
 layout: post
-permalink: '/vscode/raznie-zveta-dlya-vscode-projektov-peacock'
+permalink: "/vscode/raznie-zveta-dlya-vscode-projektov-peacock"
 categories:
-  - vscode
+- vscode
 tags:
-  - vscode
-  - editor
+- vscode
+- editor
 amp: true
 ---
 
