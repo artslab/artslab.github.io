@@ -16,6 +16,7 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
+    <meta property="og:description" content="{{ page.description }}" />
   {% else %}
     <meta name="description" content="ArtsLab - новости и советы из мира веб-разработки, дизайна и программирования. Посты на околокомпьютерные темы, а так же обзоры интересных находок интернета.">
   {% endif %}
@@ -25,6 +26,15 @@
     <meta name="keywords" content="веб-дизайн, web design, photoshop, android, google chrome, wordpress, веб-разработка, cms, web-dev, javascript, ios, angularjs, front-end, css, html, программирование, php" />
   {% endif %}
   <meta name="theme-color" content="#db5945">
+  
+  {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+  {% endif %}
+
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}" />
+    <meta property="og:type" content="article" />
+  {% endif %}
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <link rel="author" href="https://plus.google.com/+СергейЧиграй"/>
