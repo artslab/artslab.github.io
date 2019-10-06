@@ -1,5 +1,5 @@
 ---
-title: Peacock для VS Code - "подсветка" проектов разными цветами
+title: Peacock для VS Code - 'подсветка' проектов разными цветами
 author: 4gray
 layout: post
 permalink: "/vscode/raznie-zveta-dlya-vscode-projektov-peacock"
