@@ -27,5 +27,5 @@ image: "https://artslab.info/images/2019/peacock-vscode/peacock-dlya-vscode.png"
 
 <div class="center-image">
     <amp-img src="/images/2019/peacock-vscode/peacock-command-palette.png" alt="Peacock: Список поддерживаемых команд" title="Peacock для VSCode" width="649" height="371" layout="responsive"></amp-img>
-    <figcaption>Peacock: Список поддерживаемых комманд</figcaption>
+    <figcaption>Peacock: Список поддерживаемых команд</figcaption>
 </div>
