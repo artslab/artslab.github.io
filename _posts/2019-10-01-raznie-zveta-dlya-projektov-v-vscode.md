@@ -1,5 +1,5 @@
 ---
-title: Peacock для VS Code - "подсветка" проектов разными цветами
+title: Peacock для VS Code - 'подсветка' проектов разными цветами
 author: 4gray
 layout: post
 permalink: "/vscode/raznie-zveta-dlya-vscode-projektov-peacock"
@@ -9,6 +9,7 @@ tags:
 - vscode
 - editor
 amp: true
+image: "https://artslab.info/images/2019/peacock-vscode/peacock-dlya-vscode.png"
 ---
 
 Если вам приходилось одновременно работать сразу с несколькими проектами в VS Code, то возможно сталкивались с трудностями с различием открытых проектов и возможно даже начинали редактировать файлы не того проекта. Периодически со мной такое происходит, когда у меня открыты несколько окон с веб-приложениями со схожей структурой и написанные на одном фреймворке.
