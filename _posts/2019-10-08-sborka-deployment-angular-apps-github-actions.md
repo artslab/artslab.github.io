@@ -22,16 +22,15 @@ image: "../images/2019/angular-github-actions/github-action-execution-success.jp
 
 В качестве самого workflow для Github Actions воспользуемся заготовкой [Github Pages Deploy](https://github.com/JamesIves/github-pages-deploy-action). Для её работы нам понадобиться сделать два следующих шага:
 
-### 1. Генерируем Access Token
+**1. Генерируем Access Token**
 Создать новый ключ доступа (`access token`) в настройках Вашего Github-аккаунта (`Settings -> Developer settings -> Personal access tokens`). Затем необходимо скопировать его и сохранить как секретную переменную под именем `ACCESS_TOKEN` в настройках репозитория проекта (`Settings -> Secret -> Add a new secret`).
-
 
 <div class="center-image">
     <amp-img src="https://artslab.info/images/2019/angular-github-actions/github-action-execution-success.jpg" alt="Github: Страница настроек и создание Access Token" title="Github Settings - Accesss Token" width="802" height="432" layout="responsive"></amp-img>
     <figcaption>Github: Страница настроек и создание Access Token'а</figcaption>
 </div>
 
-### 2. Создаем workflow-файл
+**1. Создаем workflow-файл**
 После этого создаем yml-файл с нашим `workflow` и используем в нем уже упомянутую заготовку. Название файла не играет роли (например, `build-and-deploy.yml`), но важно сохранить его в папке `/.github/workflows/build-and-deploy.yml`. 
 
 Содержание файла:  
