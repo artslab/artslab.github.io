@@ -30,7 +30,7 @@ image: "../images/2019/angular-github-actions/github-action-execution-success.jp
     <figcaption>Github: Страница настроек и создание Access Token'а</figcaption>
 </div>
 
-**1. Создаем workflow-файл**
+**2. Создаем workflow-файл**
 После этого создаем yml-файл с нашим `workflow` и используем в нем уже упомянутую заготовку. Название файла не играет роли (например, `build-and-deploy.yml`), но важно сохранить его в папке `/.github/workflows/build-and-deploy.yml`. 
 
 Содержание файла:  
