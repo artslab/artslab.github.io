@@ -21,7 +21,7 @@ image: "../images/2019/docker-angular/angular-prilozhenie-docker.png"
 
 В конфигурационном файле мы укажем порт, путь к index.html нашего приложению, а так же активируем сжатие gzip. 
 
-nginx.conf: 
+[nginx.conf](https://github.com/artslab/artslab-angular-demo/blob/master/nginx.conf): 
 ```
 worker_processes  1;
  
@@ -50,7 +50,7 @@ http {
 }
 ```
 
-Добавим файл .dockerignore включающий в себя те папки и файлы которые нам не понадобятся для сборки (для копирования в наш образ).
+Добавим файл [.dockerignore](https://github.com/artslab/artslab-angular-demo/blob/master/.dockerignore) включающий в себя те папки и файлы которые нам не понадобятся для сборки (для копирования в наш образ).
 
 ```
 .git
@@ -67,7 +67,7 @@ e2e
 node_modules
 ```
 
-И сам Dockerfile с описанием сборки:
+И сам [Dockerfile](https://github.com/artslab/artslab-angular-demo/blob/master/Dockerfile) с описанием сборки:
 
 ```
 # Step 1: Build angular application
