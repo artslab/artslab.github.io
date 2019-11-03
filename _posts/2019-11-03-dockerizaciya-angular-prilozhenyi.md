@@ -3,7 +3,7 @@ title: Докеризация angular-приложений
 author: 4gray
 layout: post
 date: 2019-11-03 11:03
-permalink: "/angular/dockerizaciya-angular-prilozhenyi"
+permalink: "/category/angular/dockerizaciya-angular-prilozhenyi"
 categories:
 - angular
 amp: true
