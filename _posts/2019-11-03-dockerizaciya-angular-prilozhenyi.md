@@ -23,24 +23,31 @@ image: "../images/2019/docker-angular/angular-prilozhenie-docker.png"
 
 nginx.conf: 
 ```
-TODO добавить сервер и евентс
-server {
-    listen 80;
-    server_name  localhost;
+worker_processes  1;
  
-    root   /usr/share/nginx/html;
-    index  index.html index.htm;
-    include /etc/nginx/mime.types;
- 
-    gzip on;
-    gzip_min_length 1000;
-    gzip_proxied expired no-cache no-store private auth;
-    gzip_types text/plain text/css application/json application/javascript application/x-javascript text/xml application/xml application/xml+rss text/javascript;
- 
-    location / {
-      try_files $uri $uri/ /index.html;
+events {
+    worker_connections  1024;
+}
+
+http {
+    server {
+        listen 80;
+        server_name  localhost;
+    
+        root   /usr/share/nginx/html;
+        index  index.html index.htm;
+        include /etc/nginx/mime.types;
+    
+        gzip on;
+        gzip_min_length 1000;
+        gzip_proxied expired no-cache no-store private auth;
+        gzip_types text/plain text/css application/json application/javascript application/x-javascript text/xml application/xml application/xml+rss text/javascript;
+    
+        location / {
+        try_files $uri $uri/ /index.html;
+        }
     }
-  }
+}
 ```
 
 Добавим файл .dockerignore включающий в себя те папки и файлы которые нам не понадобятся для сборки (для копирования в наш образ).
